@@ -11,7 +11,7 @@
 
 ## 현재 상태 (2026-06-09)
 
-### 완료 (10/15)
+### 완료 (11/15)
 | # | 파일 | 크기 | 항목 |
 |---|------|------|------|
 | 1 | 모듈 셋업 | - | `daggerheart-ko` 폴더명/ID/lang `ko`, 새 저장소 생성, `ko` 브랜치 push |
@@ -24,11 +24,11 @@
 | 8 | `daggerheart.classes.json` | 42KB | 직업 9 + 직업특성 + 시작아이템 |
 | 9 | `daggerheart.weapons.json` | 46KB | 무기 약 190종 |
 | 10 | `daggerheart.subclasses.json` | 74KB | 하위직업 93종 (특성 75 + 컨셉 18) |
+| 11 | `daggerheart.environments.json` | 140KB | 장소 19종 (각 환경 + 하위 특성 약 78개) |
 
-### 남은 작업 (5/15)
+### 남은 작업 (4/15)
 | 파일 | 크기 | 비고 |
 |------|------|------|
-| `daggerheart.environments.json` | 140KB | 환경 / 장소 |
 | `i18n/systems/daggerheart.json` | 163KB | 시스템 i18n (UI 라벨) |
 | `daggerheart.journals.json` | 206KB | 저널 (룰북) — **청크 분할 필요** |
 | `daggerheart.domains.json` | 352KB | 영역 카드 (주문/능력) — **청크 분할 필수** |
@@ -177,11 +177,30 @@ git log --oneline       # 진행 상황 확인
 git pull                # 원격 동기화
 ```
 
-## 다음 작업: `environments.json` (140KB)
+## 다음 작업: `i18n/systems/daggerheart.json` (163KB)
 
-환경/장소 데이터. 청크 분할 권장 (Read offset/limit + Edit). 인명/지명 음역 일관성 유지.
+시스템 i18n (Babele 아님, UI 라벨). Foundry VTT 시스템 인터페이스 라벨이라 기존 게임 용어집과 100% 일치 필요. 키-값 구조이며 키는 영문, 값을 번역. 대용량이므로 청크 분할 또는 카테고리별 처리.
 
-### subclasses 번역 핵심 용어 (도메인 카드/적대존재까지 이어짐)
+### environments 번역 추가 용어 (계속 사용)
+- Spotlight/Spotlighted (Подсвечивать) → 강조 / 강조됨
+- Progress Countdown (Обратный Отсчет Прогресса) → 진행 카운트다운
+- Consequence Countdown (Обратный отсчет последствий) → 결과 카운트다운
+- Long-term Countdown (Долгосрочный Обратный Отсчет) → 장기 카운트다운
+- Reaction Roll (Бросок Реакции) → 반응 굴림 (능력치+반응 굴림 형태)
+- PC (ПИ) → PC (그대로)
+- Fallen (Падшие) → 타락한 자들
+- Higher Sanctuaries (Высшие Святилища) → 높은 성소
+- Mortal Realm (Смертное Царство) → 유한자의 영역
+- 적대존재 이름 (provisional, adversaries.json 작업 시 동기화 필요):
+  - 어린 드라이어드, 숲 전사, 작은 나무지기, 작은 혼돈 정령
+  - 왕국의 기사, 거대 독수리, 유리 뱀
+  - 바깥 영역의 흉물/부패자/노예 (Outer Realms ...)
+  - 상위 세라핌, 도검 호위병
+  - 타락한 충격 부대
+  - 부패한 좀비, 완성된 좄비, 좀비 군단
+  - 삐죽한 칼날의 다리 꺾기/저격수, 꼭두각시, 부두목, 저주술사
+
+### subclasses 번역 핵심 용어 (계속 사용)
 - Channeling (Проводимость) → 발현
 - Charged (Заряженный) → 충전됨
 - Rally Die (Кость Сбора/Сплочения) → 격려 주사위
