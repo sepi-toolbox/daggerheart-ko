@@ -1,7 +1,7 @@
 {
-    "id": "daggerheart-ru-ru",
-    "title": "Daggerheart Russian translation",
-    "version": "2025-09-19",
+    "id": "daggerheart-ko",
+    "title": "Daggerheart Korean translation",
+    "version": "2026-06-09",
     "compatibility": {
         "minimum": "13",
         "verified": "13"
@@ -18,18 +18,18 @@
         "scripts/main.js"
     ],
     "languages": [{
-            "lang": "ru",
+            "lang": "ko",
             "path": "i18n/systems/daggerheart.json",
             "system": "daggerheart"
         }
     ],
     "authors": [{
-            "name": "Evgen",
-            "url": "https://github.com/LooseSlives",
+            "name": "sepi",
+            "url": "",
             "flags": {}
         }
     ],
-    "url": "https://github.com/LooseSlives/daggerheart-ru-ru",
-    "manifest": "https://github.com/LooseSlives/daggerheart-ru-ru/releases/download/latest/module.json",
-    "download": "https://github.com/LooseSlives/daggerheart-ru-ru/releases/download/latest/daggerheart-ru-ru.zip"
+    "url": "",
+    "manifest": "",
+    "download": ""
 }

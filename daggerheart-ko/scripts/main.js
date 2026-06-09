@@ -2,8 +2,8 @@
 Hooks.once('babele.init', (babele) => {
 
     babele.register({
-        module: 'daggerheart-ru-ru',
-        lang: 'ru',
+        module: 'daggerheart-ko',
+        lang: 'ko',
         dir: 'translations'
     });
 
