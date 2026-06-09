@@ -1,759 +1,759 @@
 {
-  "label": "Оружие",
+  "label": "무기",
   "mapping": {
     "description": "system.description"
   },
   "entries": {
     "Black Powder Revolver": {
-      "name": "Револьвер с черным порохом",
-      "description": "<p><strong>Перезарядка</strong>: После атаки бросьте кубик d6. При результате 1 вам необходимо отметить Стресс, чтобы перезарядить это оружие, прежде чем вы сможете стрелять снова.</p>"
+      "name": "흑색 화약 리볼버",
+      "description": "<p><strong>재장전</strong>: 공격 후 d6을 굴립니다. 1이 나오면 다시 발사하기 전에 스트레스를 표시하여 무기를 재장전해야 합니다.</p>"
     },
     "Aantari Bow": {
-      "name": "Лук Аантари",
-      "description": "<p><strong>Надежный</strong>: +1 к броскам атаки</p>"
+      "name": "아안타리 활",
+      "description": "<p><strong>정확함</strong>: 공격 굴림에 +1</p>"
     },
     "Advanced Arcane-Frame Wheelchair": {
-      "name": "Продвинутая инвалидная коляска с Волшебной Рамой",
-      "description": "<p><strong>Надежный</strong>: +1 к броскам атаки</p>"
+      "name": "고급 비전 프레임 휠체어",
+      "description": "<p><strong>정확함</strong>: 공격 굴림에 +1</p>"
     },
     "Advanced Arcane Gauntlets": {
-      "name": "Продвинутые магические перчатки"
+      "name": "고급 비전 건틀릿"
     },
     "Advanced Battleaxe": {
-      "name": "Продвинутый боевой топор"
+      "name": "고급 전투 도끼"
     },
     "Advanced Broadsword": {
-      "name": "Продвинутый палаш",
-      "description": "<p><strong>Надежный</strong>: +1 к броскам атаки</p>"
+      "name": "고급 브로드소드",
+      "description": "<p><strong>정확함</strong>: 공격 굴림에 +1</p>"
     },
     "Advanced Crossbow": {
-      "name": "Продвинутый арбалет"
+      "name": "고급 석궁"
     },
     "Advanced Cutlass": {
-      "name": "Продвинутая сабля"
+      "name": "고급 커틀러스"
     },
     "Advanced Dagger": {
-      "name": "Продвинутый кинжал"
+      "name": "고급 단검"
     },
     "Advanced Dualstaff": {
-      "name": "Продвинутый двойной посох"
+      "name": "고급 이중 지팡이"
     },
     "Advanced Glowing Rings": {
-      "name": "Продвинутые светящиеся кольца"
+      "name": "고급 빛나는 반지"
     },
     "Advanced Grappler": {
-      "name": "Продвинутый Хвататель",
-      "description": "<p><strong>Схватить</strong>: При успешной атаке вы можете притянуть цель на Рукопашную дистанцию.</p>"
+      "name": "고급 그래플러",
+      "description": "<p><strong>포획</strong>: 공격 성공 시 대상을 근접 거리로 끌어당길 수 있습니다.</p>"
     },
     "Advanced Greatstaff": {
-      "name": "Продвинутый большой посох",
-      "description": "<p><strong>Мощный</strong>: В случае успешной атаки бросьте дополнительную кость урона и отбросьте наименьший результат.</p>"
+      "name": "고급 큰 지팡이",
+      "description": "<p><strong>강력함</strong>: 공격 성공 시 추가 피해 주사위를 굴리고 가장 낮은 결과를 버립니다.</p>"
     },
     "Advanced Greatsword": {
-      "name": "Продвинутый большой меч",
-      "description": "<p><strong>Массивный</strong>: -1 к Уклонению; при успешной атаке бросьте дополнительную кость урона и отбросьте наименьший результат.</p>"
+      "name": "고급 그레이트소드",
+      "description": "<p><strong>거대함</strong>: 회피 -1; 공격 성공 시 추가 피해 주사위를 굴리고 가장 낮은 결과를 버립니다.</p>"
     },
     "Advanced Halberd": {
-      "name": "Продвинутая алебарда",
-      "description": "<p><strong>Громоздкий</strong>: -1 к Моторике</p>"
+      "name": "고급 미늘창",
+      "description": "<p><strong>거추장스러움</strong>: 손재주 -1</p>"
     },
     "Advanced Hallowed Axe": {
-      "name": "Продвинутый священный топор"
+      "name": "고급 신성 도끼"
     },
     "Advanced Hand Crossbow": {
-      "name": "Продвинутый ручной арбалет"
+      "name": "고급 손석궁"
     },
     "Advanced Hand Runes": {
-      "name": "Продвинутые руны для рук"
+      "name": "고급 손 룬"
     },
     "Advanced Heavy-Frame Wheelchair": {
-      "name": "Продвинутая тяжелая инвалидная коляска",
-      "description": "<p><strong>Тяжелый</strong>: -1 к уклонению</p>"
+      "name": "고급 중량 프레임 휠체어",
+      "description": "<p><strong>무거움</strong>: 회피 -1</p>"
     },
     "Advanced Light-Frame Wheelchair": {
-      "name": "Продвинутая инвалидная коляска с легкой рамой",
-      "description": "<p><strong>Быстрый</strong>: При совершении атаки вы можете отметить Стресс, чтобы нацелить его на другое существо в пределах досягаемости.</p>"
+      "name": "고급 경량 프레임 휠체어",
+      "description": "<p><strong>빠름</strong>: 공격할 때 스트레스를 표시하여 사정거리 내 다른 존재를 목표로 삼을 수 있습니다.</p>"
     },
     "Advanced Longbow": {
-      "name": "Продвинутый длинный лук",
-      "description": "<p><strong>Громоздкий</strong>: -1 к Моторике</p>"
+      "name": "고급 장궁",
+      "description": "<p><strong>거추장스러움</strong>: 손재주 -1</p>"
     },
     "Advanced Longsword": {
-      "name": "Продвинутый длинный меч"
+      "name": "고급 롱소드"
     },
     "Advanced Mace": {
-      "name": "Продвинутая булава"
+      "name": "고급 메이스"
     },
     "Advanced Quarterstaff": {
-      "name": "Продвинутый посох"
+      "name": "고급 봉"
     },
     "Advanced Rapier": {
-      "name": "Продвинутая рапира",
-      "description": "<p><strong>Быстрый</strong>: При совершении атаки вы можете отметить Стресс, чтобы нацелить его на другое существо в пределах досягаемости.</p>"
+      "name": "고급 레이피어",
+      "description": "<p><strong>빠름</strong>: 공격할 때 스트레스를 표시하여 사정거리 내 다른 존재를 목표로 삼을 수 있습니다.</p>"
     },
     "Advanced Returning Blade": {
-      "name": "Продвинутое возвращающееся лезвие",
-      "description": "<p><strong>Возвращаться</strong>: Если бросить это оружие в пределах досягаемости, оно сразу же после атаки появится у вас в руке.</p>"
+      "name": "고급 회귀 칼날",
+      "description": "<p><strong>회귀</strong>: 이 무기를 사정거리 내로 던지면 공격 직후 손에 다시 나타납니다.</p>"
     },
     "Advanced Round Shield": {
-      "name": "Продвинутый круглый щит",
-      "description": "<p><strong>Защитный</strong>: Добавьте Ранг вашего персонажа к вашему показателю брони.</p>"
+      "name": "고급 원형 방패",
+      "description": "<p><strong>방호</strong>: 캐릭터 등급을 방어 점수에 추가합니다.</p>"
     },
     "Advanced Scepter": {
-      "name": "Продвинутый скипетр",
-      "description": "<p><strong>Универсальное</strong>: Это оружие также может использоваться с этой статистикой: Присутствие,Рукопашное,к8+4</p>"
+      "name": "고급 홀",
+      "description": "<p><strong>만능</strong>: 이 무기는 다음 능력치로도 사용할 수 있습니다: 존재감, 근접, d8+4</p>"
     },
     "Advanced Shortbow": {
-      "name": "Продвинутый короткий лук"
+      "name": "고급 단궁"
     },
     "Advanced Shortstaff": {
-      "name": "Продвинутый малый посох"
+      "name": "고급 짧은 지팡이"
     },
     "Advanced Shortsword": {
-      "name": "Продвинутый короткий меч",
-      "description": "<p><strong>В паре</strong>: +4 к урону основного оружия против целей на Рукопашной дистанции.</p>"
+      "name": "고급 숏소드",
+      "description": "<p><strong>페어</strong>: 근접 거리 내 대상에 대해 주 무기 피해 +4</p>"
     },
     "Advanced Small Dagger": {
-      "name": "Продвинутый малый кинжал",
-      "description": "<p><strong>В паре</strong>: +4 к урону основного оружия против целей на Рукопашной дистанции.</p>"
+      "name": "고급 작은 단검",
+      "description": "<p><strong>페어</strong>: 근접 거리 내 대상에 대해 주 무기 피해 +4</p>"
     },
     "Advanced Spear": {
-      "name": "Продвинутое Копье",
-      "description": "<p><strong>Громоздкий</strong>: -1 к Моторике</p>"
+      "name": "고급 창",
+      "description": "<p><strong>거추장스러움</strong>: 손재주 -1</p>"
     },
     "Advanced Tower Shield": {
-      "name": "Продвинутый башенный щит",
-      "description": "<p><strong>Барьер</strong>: Ранг оружия + 1 к показателю брони; -1 к уклонению</p>"
+      "name": "고급 타워 실드",
+      "description": "<p><strong>장벽</strong>: 방어 점수에 무기 등급 +1; 회피 -1</p>"
     },
     "Advanced Wand": {
-      "name": "Продвинутая палочка"
+      "name": "고급 마법봉"
     },
     "Advanced Warhammer": {
-      "name": "Продвинутый боевой молот",
-      "description": "<p><strong>Тяжелый</strong>: -1 к уклонению</p>"
+      "name": "고급 워해머",
+      "description": "<p><strong>무거움</strong>: 회피 -1</p>"
     },
     "Advanced Whip": {
-      "name": "Продвинутый кнут",
-      "description": "<p><strong>Напугать</strong>: Отметьте стресс, чтобы щелкнуть кнутом и заставить всех противников на Рукопашной дистанции отойти на Ближнюю дистанцию.</p>"
+      "name": "고급 채찍",
+      "description": "<p><strong>위협</strong>: 스트레스를 표시하여 채찍을 휘둘러 근접 거리 내 모든 적을 가까운 거리로 물러나게 합니다.</p>"
     },
     "Arcane-Frame Wheelchair": {
-      "name": "Инвалидная коляска с волшебной рамой",
-      "description": "<p><strong>Надежный</strong>: +1 к броскам атаки</p>"
+      "name": "비전 프레임 휠체어",
+      "description": "<p><strong>정확함</strong>: 공격 굴림에 +1</p>"
     },
     "Arcane Gauntlets": {
-      "name": "Колдовсие перчатки"
+      "name": "비전 건틀릿"
     },
     "Axe of Fortunis": {
-      "name": "Топор Везунчика",
-      "description": "<p><strong>Удача</strong>: В случае неудачной атаки вы можете отметить Стресс, чтобы перебросить атаку.</p>"
+      "name": "포르투니스의 도끼",
+      "description": "<p><strong>행운</strong>: 공격 실패 시 스트레스를 표시하여 공격을 다시 굴릴 수 있습니다.</p>"
     },
     "Battleaxe": {
-      "name": "Боевой топор"
+      "name": "전투 도끼"
     },
     "Bladed Whip": {
-      "name": "Кнут с лезвием",
-      "description": "<p><strong>Быстрый</strong>: При совершении атаки вы можете отметить Стресс, чтобы нацелить его на другое существо в пределах досягаемости.</p>"
+      "name": "칼날 채찍",
+      "description": "<p><strong>빠름</strong>: 공격할 때 스트레스를 표시하여 사정거리 내 다른 존재를 목표로 삼을 수 있습니다.</p>"
     },
     "Blessed Anlace": {
-      "name": "Благословенный анлейс",
-      "description": "<p><strong>Лечить</strong>: Во время простоя автоматически очистите 1 ОП.</p>"
+      "name": "축복받은 안레이스",
+      "description": "<p><strong>치유</strong>: 휴식 시간에 자동으로 1 HP를 해제합니다.</p>"
     },
     "Bloodstaff": {
-      "name": "Кровавый посох",
-      "description": "<p><strong>Боль</strong>: Каждый раз, когда вы совершаете успешную атаку, вы должны отметить Стресс.</p>"
+      "name": "피의 지팡이",
+      "description": "<p><strong>고통</strong>: 공격에 성공할 때마다 스트레스를 표시해야 합니다.</p>"
     },
     "Blunderbuss": {
-      "name": "Мушкетон",
-      "description": "<p><strong>Перезагрузить</strong>: После атаки бросьте кубик d6. При результате 1 вам необходимо отметить Стресс, чтобы перезарядить это оружие, прежде чем вы сможете стрелять снова.</p>"
+      "name": "블런더버스",
+      "description": "<p><strong>재장전</strong>: 공격 후 d6을 굴립니다. 1이 나오면 다시 발사하기 전에 스트레스를 표시하여 무기를 재장전해야 합니다.</p>"
     },
     "Braveshield": {
-      "name": "Храбрый щит",
-      "description": "<p><strong>Приют</strong>: Когда вы отмечаете слот брони, она уменьшает урон для вас и всех союзников в радиусе Рукопашной дистанции от вас, которые получили этот же урон.</p>"
+      "name": "용기의 방패",
+      "description": "<p><strong>보호</strong>: 방어구 슬롯을 표시할 때, 그 슬롯은 같은 피해를 받은 자신과 근접 거리 내 모든 동료에게도 피해를 감소시킵니다.</p>"
     },
     "Bravesword": {
-      "name": "Храбрый меч",
-      "description": "<p><strong>Храбрый</strong>: -1 к уклонению; + Ранг оружия к порогу сильного урона</p>"
+      "name": "용기의 검",
+      "description": "<p><strong>용감함</strong>: 회피 -1; 큰 피해 한계치에 무기 등급 추가</p>"
     },
     "Broadsword": {
-      "name": "Палаш",
-      "description": "<p><strong>Надежный</strong>: +1 к броскам атаки</p>"
+      "name": "브로드소드",
+      "description": "<p><strong>정확함</strong>: 공격 굴림에 +1</p>"
     },
     "Buckler": {
-      "name": "Баклер",
-      "description": "<p><strong>Отклоняющий</strong>: Когда вас атакуют, вы можете отметить Слот Брони чтобы получить бонус к уклонению, равный вашему показателю брони против атаки.</p>"
+      "name": "버클러",
+      "description": "<p><strong>편향</strong>: 공격받을 때 방어구 슬롯을 표시하여 그 공격에 대한 방어 점수와 같은 회피 보너스를 받을 수 있습니다.</p>"
     },
     "Casting Sword": {
-      "name": "Литейный меч",
-      "description": "<p><strong>Универсальное</strong>: Это оружие также может использоваться с этой статистикой: Знания,Дальняя,к6+3/p>"
+      "name": "캐스팅 검",
+      "description": "<p><strong>만능</strong>: 이 무기는 다음 능력치로도 사용할 수 있습니다: 지식, 먼 거리, d6+3</p>"
     },
     "Crossbow": {
-      "name": "Арбалет"
+      "name": "석궁"
     },
     "Curved Dagger": {
-      "name": "Изогнутый кинжал",
-      "description": "<p><strong>Зубчатый</strong>: Если на кубике урона выпадает 1, вместо этого наносится 8 урона.</p>"
+      "name": "곡선 단검",
+      "description": "<p><strong>톱니</strong>: 피해 주사위에서 1이 나오면 대신 8의 피해를 입힙니다.</p>"
     },
     "Cutlass": {
-      "name": "Сабля"
+      "name": "커틀러스"
     },
     "Dagger": {
-      "name": "Кинжал"
+      "name": "단검"
     },
     "Devouring Dagger": {
-      "name": "Пожирающий кинжал",
-      "description": "<p><strong>Напугать</strong>: При успешной атаке цель должна отметить Стресс.</p>"
+      "name": "탐식의 단검",
+      "description": "<p><strong>위협</strong>: 공격 성공 시 대상은 스트레스를 표시해야 합니다.</p>"
     },
     "Double Flail": {
-      "name": "Двойной цеп",
-      "description": "<p><strong>Мощный</strong>: В случае успешной атаки бросьте дополнительную кость урона и отбросьте наименьший результат.</p>"
+      "name": "이중 도리깨",
+      "description": "<p><strong>강력함</strong>: 공격 성공 시 추가 피해 주사위를 굴리고 가장 낮은 결과를 버립니다.</p>"
     },
     "Dualstaff": {
-      "name": "Двойной посох"
+      "name": "이중 지팡이"
     },
     "Dual-Ended Sword": {
-      "name": "Двусторонний меч",
-      "description": "<p><strong>Быстрый</strong>: При совершении атаки вы можете отметить Стресс, чтобы нацелить его на другое существо в пределах досягаемости.</p>"
+      "name": "양날 검",
+      "description": "<p><strong>빠름</strong>: 공격할 때 스트레스를 표시하여 사정거리 내 다른 존재를 목표로 삼을 수 있습니다.</p>"
     },
     "Ego Blade": {
-      "name": "Эго Меч",
-      "description": "<p><strong>Напыщенный</strong>: Для использования этого оружия необходимо иметь Присутствие 0 или ниже.</p>"
+      "name": "에고 검",
+      "description": "<p><strong>거만함</strong>: 이 무기를 사용하려면 존재감이 0 이하여야 합니다.</p>"
     },
     "Elder Bow": {
-      "name": "Старейший Лук",
-      "description": "<p><strong>Мощный</strong>: В случае успешной атаки бросьте дополнительную кость урона и отбросьте наименьший результат.</p>"
+      "name": "장로의 활",
+      "description": "<p><strong>강력함</strong>: 공격 성공 시 추가 피해 주사위를 굴리고 가장 낮은 결과를 버립니다.</p>"
     },
     "Extended Polearm": {
-      "name": "Удлиненное древко",
-      "description": "<p><strong>Длинный</strong>: Атака этого оружия направлена на всех противников, находящихся на линии в пределах досягаемости.</p>"
+      "name": "연장된 폴암",
+      "description": "<p><strong>길이</strong>: 이 무기의 공격은 사정거리 내 직선상의 모든 적을 대상으로 합니다.</p>"
     },
     "Finehair Bow": {
-      "name": "Лук из тонких волос",
-      "description": "<p><strong>Надежный</strong>: +1 к броскам атаки</p>"
+      "name": "고운 머리카락 활",
+      "description": "<p><strong>정확함</strong>: 공격 굴림에 +1</p>"
     },
     "Firestaff": {
-      "name": "Пожарный",
-      "description": "<p><strong>Гореть</strong>: Если на кубике повреждений выпадает 6, цель должна отметить Стресс.</p>"
+      "name": "화염 지팡이",
+      "description": "<p><strong>점화</strong>: 피해 주사위에서 6이 나오면 대상은 스트레스를 표시해야 합니다.</p>"
     },
     "Flickerfly Blade": {
-      "name": "Лезвие Острокрыла",
-      "description": "<p><strong>Острокрыл</strong>: Получите бонус к броскам на урон, равный вашей ловкости.</p>"
+      "name": "깜빡이 나방 칼날",
+      "description": "<p><strong>깜빡임</strong>: 민첩과 같은 피해 굴림 보너스를 받습니다.</p>"
     },
     "Floating Bladeshards": {
-      "name": "Парящие осколки клинков",
-      "description": "<p><strong>Мощный</strong>: В случае успешной атаки бросьте дополнительную кость урона и отбросьте наименьший результат.</p>"
+      "name": "부유 칼날 파편",
+      "description": "<p><strong>강력함</strong>: 공격 성공 시 추가 피해 주사위를 굴리고 가장 낮은 결과를 버립니다.</p>"
     },
     "Fusion Gloves": {
-      "name": "Перчатки Слияния",
-      "description": "<p><strong>Оружейная связь</strong>: Получите бонус к броскам на урон, равный вашему уровню.</p>"
+      "name": "융합 장갑",
+      "description": "<p><strong>무기 결속</strong>: 레벨과 같은 피해 굴림 보너스를 받습니다.</p>"
     },
     "Ghostblade": {
-      "name": "Призрачный клинок"
+      "name": "유령 칼날"
     },
     "Gilded Bow": {
-      "name": "Корректируемый лук",
-      "description": "<p><strong>Самокорректирующийся</strong>: Если на кубике урона выпадает 1, вместо этого наносится 6 урона.</p>"
+      "name": "도금 활",
+      "description": "<p><strong>자동 보정</strong>: 피해 주사위에서 1이 나오면 대신 6의 피해를 입힙니다.</p>"
     },
     "Gilded Falchion": {
-      "name": "Корректируемый фальшион",
-      "description": "<p><strong>Мощный</strong>: В случае успешной атаки бросьте дополнительную кость урона и отбросьте наименьший результат.</p>"
+      "name": "도금 팔시온",
+      "description": "<p><strong>강력함</strong>: 공격 성공 시 추가 피해 주사위를 굴리고 가장 낮은 결과를 버립니다.</p>"
     },
     "Glowing Rings": {
-      "name": "Светящиеся кольца"
+      "name": "빛나는 반지"
     },
     "Grappler": {
-      "name": "Хвататель",
-      "description": "<p><strong>Схватить</strong>: При успешной атаке вы можете притянуть цель на Рукопашную дистанцию.</p>"
+      "name": "그래플러",
+      "description": "<p><strong>포획</strong>: 공격 성공 시 대상을 근접 거리로 끌어당길 수 있습니다.</p>"
     },
     "Greatbow": {
-      "name": "Большой лук",
-      "description": "<p><strong>Мощный</strong>: В случае успешной атаки бросьте дополнительную кость урона и отбросьте наименьший результат.</p>"
+      "name": "큰 활",
+      "description": "<p><strong>강력함</strong>: 공격 성공 시 추가 피해 주사위를 굴리고 가장 낮은 결과를 버립니다.</p>"
     },
     "Greatstaff": {
-      "name": "Большой посох",
-      "description": "<p><strong>Мощный</strong>: В случае успешной атаки бросьте дополнительную кость урона и отбросьте наименьший результат.</p>"
+      "name": "큰 지팡이",
+      "description": "<p><strong>강력함</strong>: 공격 성공 시 추가 피해 주사위를 굴리고 가장 낮은 결과를 버립니다.</p>"
     },
     "Greatsword": {
-      "name": "Большой меч",
-      "description": "<p><strong>Массивный</strong>: -1 к Уклонению; при успешной атаке бросьте дополнительную кость урона и отбросьте наименьший результат.</p>"
+      "name": "그레이트소드",
+      "description": "<p><strong>거대함</strong>: 회피 -1; 공격 성공 시 추가 피해 주사위를 굴리고 가장 낮은 결과를 버립니다.</p>"
     },
     "Halberd": {
-      "name": "Алебарда",
-      "description": "<p><strong>Громоздкий</strong>: -1 к Моторике</p>"
+      "name": "미늘창",
+      "description": "<p><strong>거추장스러움</strong>: 손재주 -1</p>"
     },
     "Hallowed Axe": {
-      "name": "Священный топор"
+      "name": "신성 도끼"
     },
     "Hammer of Exota": {
-      "name": "Молот Экзоты",
-      "description": "<p><strong>Извержение</strong>: При успешной атаке по цели в пределах Рукопашной дистанции все остальные противники в пределах Очень Ближней дистанции должны преуспеть в проверке Реакции (14) или получить половину урона.</p>"
+      "name": "엑소타의 망치",
+      "description": "<p><strong>분출</strong>: 근접 거리 내 대상에 대한 공격이 성공하면, 매우 가까운 거리 내의 다른 모든 적은 반응 굴림(14)에 성공해야 하며 실패 시 피해의 절반을 받습니다.</p>"
     },
     "Hammer of Wrath": {
-      "name": "Молот Гнева",
-      "description": "<p><strong>Опустошать</strong>: Прежде чем совершить бросок атаки, вы можете отметить Стресс, чтобы использовать кубик d20 в качестве своей кости урона.</p>"
+      "name": "분노의 망치",
+      "description": "<p><strong>황폐</strong>: 공격 굴림을 하기 전에 스트레스를 표시하여 d20을 피해 주사위로 사용할 수 있습니다.</p>"
     },
     "Hand Cannon": {
-      "name": "Ручная пушка",
-      "description": "<p><strong>Перезагрузить</strong>: После атаки бросьте кубик d6. При результате 1 вам необходимо отметить Стресс, чтобы перезарядить это оружие, прежде чем вы сможете стрелять снова.</p>"
+      "name": "핸드 캐논",
+      "description": "<p><strong>재장전</strong>: 공격 후 d6을 굴립니다. 1이 나오면 다시 발사하기 전에 스트레스를 표시하여 무기를 재장전해야 합니다.</p>"
     },
     "Hand Crossbow": {
-      "name": "Ручной арбалет"
+      "name": "손석궁"
     },
     "Hand Runes": {
-      "name": "Руны на руках"
+      "name": "손 룬"
     },
     "Hand Sling": {
-      "name": "Ручная праща",
-      "description": "<p><strong>Универсальное</strong>: Это оружие также может использоваться с этой статистикой: Моторика,Ближняя,к8+4</p>"
+      "name": "손 투석기",
+      "description": "<p><strong>만능</strong>: 이 무기는 다음 능력치로도 사용할 수 있습니다: 손재주, 가까운 거리, d8+4</p>"
     },
     "Heavy-Frame Wheelchair": {
-      "name": "Инвалидная коляска с тяжелой рамой",
-      "description": "<p><strong>Тяжелый</strong>: -1 к уклонению</p>"
+      "name": "중량 프레임 휠체어",
+      "description": "<p><strong>무거움</strong>: 회피 -1</p>"
     },
     "Ilmari's Rifle": {
-      "name": "Винтовка Илмари",
-      "description": "<p><strong>Перезагрузить</strong>: После атаки бросьте кубик d6. При результате 1 вам необходимо отметить Стресс, чтобы перезарядить это оружие, прежде чем вы сможете стрелять снова.</p>"
+      "name": "일마리의 소총",
+      "description": "<p><strong>재장전</strong>: 공격 후 d6을 굴립니다. 1이 나오면 다시 발사하기 전에 스트레스를 표시하여 무기를 재장전해야 합니다.</p>"
     },
     "Impact Gauntlet": {
-      "name": "Ударная перчатка",
-      "description": "<p><strong>Сотрясение</strong>: При успешной атаке вы можете потратить Надежду, чтобы отбросить цель на Дальнюю дистанцию.</p>"
+      "name": "충격 건틀릿",
+      "description": "<p><strong>충격</strong>: 공격 성공 시 희망을 소모하여 대상을 먼 거리로 밀어낼 수 있습니다.</p>"
     },
     "Improved Arcane-Frame Wheelchair": {
-      "name": "Улучшенная инвалидная коляска с волшебной рамой",
-      "description": "<p><strong>Надежный</strong>: +1 к броскам атаки</p>"
+      "name": "개량 비전 프레임 휠체어",
+      "description": "<p><strong>정확함</strong>: 공격 굴림에 +1</p>"
     },
     "Improved Arcane Gauntlets": {
-      "name": "Улучшенные магические перчатки"
+      "name": "개량 비전 건틀릿"
     },
     "Improved Battleaxe": {
-      "name": "Улучшенный боевой топор"
+      "name": "개량 전투 도끼"
     },
     "Improved Broadsword": {
-      "name": "Улучшенный палаш",
-      "description": "<p><strong>Надежный</strong>: +1 к броскам атаки</p>"
+      "name": "개량 브로드소드",
+      "description": "<p><strong>정확함</strong>: 공격 굴림에 +1</p>"
     },
     "Improved Crossbow": {
-      "name": "Улучшенный арбалет"
+      "name": "개량 석궁"
     },
     "Improved Cutlass": {
-      "name": "Улучшенная сабля"
+      "name": "개량 커틀러스"
     },
     "Improved Dagger": {
-      "name": "Улучшенный кинжал"
+      "name": "개량 단검"
     },
     "Improved Dualstaff": {
-      "name": "Улучшенный двойной посох"
+      "name": "개량 이중 지팡이"
     },
     "Improved Glowing Rings": {
-      "name": "Улучшенные светящиеся кольца"
+      "name": "개량 빛나는 반지"
     },
     "Improved Grappler": {
-      "name": "Улучшенный хвататель",
-      "description": "<p><strong>Схватить</strong>: При успешной атаке вы можете притянуть цель на Рукопашную дистанцию.</p>"
+      "name": "개량 그래플러",
+      "description": "<p><strong>포획</strong>: 공격 성공 시 대상을 근접 거리로 끌어당길 수 있습니다.</p>"
     },
     "Improved Greatstaff": {
-      "name": "Улучшенный большой посох",
-      "description": "<p><strong>Мощный</strong>: В случае успешной атаки бросьте дополнительную кость урона и отбросьте наименьший результат.</p>"
+      "name": "개량 큰 지팡이",
+      "description": "<p><strong>강력함</strong>: 공격 성공 시 추가 피해 주사위를 굴리고 가장 낮은 결과를 버립니다.</p>"
     },
     "Improved Greatsword": {
-      "name": "Улучшенный двуручный меч",
-      "description": "<p><strong>Массивный</strong>: -1 к Уклонению; при успешной атаке бросьте дополнительную кость урона и отбросьте наименьший результат.</p>"
+      "name": "개량 그레이트소드",
+      "description": "<p><strong>거대함</strong>: 회피 -1; 공격 성공 시 추가 피해 주사위를 굴리고 가장 낮은 결과를 버립니다.</p>"
     },
     "Improved Halberd": {
-      "name": "Улучшенная алебарда",
-      "description": "<p><strong>Громоздкий</strong>: -1 к Моторике</p>"
+      "name": "개량 미늘창",
+      "description": "<p><strong>거추장스러움</strong>: 손재주 -1</p>"
     },
     "Improved Hallowed Axe": {
-      "name": "Улучшенный священный топор"
+      "name": "개량 신성 도끼"
     },
     "Improved Hand Crossbow": {
-      "name": "Улучшенный ручной арбалет"
+      "name": "개량 손석궁"
     },
     "Improved Hand Runes": {
-      "name": "Улучшенные руны для рук"
+      "name": "개량 손 룬"
     },
     "Improved Heavy-Frame Wheelchair": {
-      "name": "Улучшенная тяжелая инвалидная коляска",
-      "description": "<p><strong>Тяжелый</strong>: -1 к уклонению</p>"
+      "name": "개량 중량 프레임 휠체어",
+      "description": "<p><strong>무거움</strong>: 회피 -1</p>"
     },
     "Improved Light-Frame Wheelchair": {
-      "name": "Улучшенная инвалидная коляска с легкой рамой",
-      "description": "<p><strong>Быстрый</strong>: При совершении атаки вы можете отметить Стресс, чтобы нацелить его на другое существо в пределах досягаемости.</p>"
+      "name": "개량 경량 프레임 휠체어",
+      "description": "<p><strong>빠름</strong>: 공격할 때 스트레스를 표시하여 사정거리 내 다른 존재를 목표로 삼을 수 있습니다.</p>"
     },
     "Improved Longbow": {
-      "name": "Улучшенный длинный лук",
-      "description": "<p><strong>Громоздкий</strong>: -1 к Моторике</p>"
+      "name": "개량 장궁",
+      "description": "<p><strong>거추장스러움</strong>: 손재주 -1</p>"
     },
     "Improved Longsword": {
-      "name": "Улучшенный длинный меч"
+      "name": "개량 롱소드"
     },
     "Improved Mace": {
-      "name": "Улучшенная булава"
+      "name": "개량 메이스"
     },
     "Improved Quarterstaff": {
-      "name": "Улучшенный посох"
+      "name": "개량 봉"
     },
     "Improved Rapier": {
-      "name": "Улучшенная рапира",
-      "description": "<p><strong>Быстрый</strong>: При совершении атаки вы можете отметить Стресс, чтобы нацелить его на другое существо в пределах досягаемости.</p>"
+      "name": "개량 레이피어",
+      "description": "<p><strong>빠름</strong>: 공격할 때 스트레스를 표시하여 사정거리 내 다른 존재를 목표로 삼을 수 있습니다.</p>"
     },
     "Improved Returning Blade": {
-      "name": "Улучшенное возвращающееся лезвие",
-      "description": "<p><strong>Возвращаться</strong>: Если бросить это оружие в пределах досягаемости, оно сразу же после атаки появится у вас в руке.</p>"
+      "name": "개량 회귀 칼날",
+      "description": "<p><strong>회귀</strong>: 이 무기를 사정거리 내로 던지면 공격 직후 손에 다시 나타납니다.</p>"
     },
     "Improved Round Shield": {
-      "name": "Улучшенный круглый щит",
-      "description": "<p><strong>Защитный</strong>: Добавьте Ранг вашего персонажа к вашему показателю брони.</p>"
+      "name": "개량 원형 방패",
+      "description": "<p><strong>방호</strong>: 캐릭터 등급을 방어 점수에 추가합니다.</p>"
     },
     "Improved Scepter": {
-      "name": "Улучшенный скипетр",
-      "description": "<p><strong>Универсальное</strong>: Это оружие также может использоваться с этой статистикой: Присуствие,Рукопашное,к8+3</p>"
+      "name": "개량 홀",
+      "description": "<p><strong>만능</strong>: 이 무기는 다음 능력치로도 사용할 수 있습니다: 존재감, 근접, d8+3</p>"
     },
     "Improved Shortbow": {
-      "name": "Улучшенный короткий лук"
+      "name": "개량 단궁"
     },
     "Improved Shortstaff": {
-      "name": "Улучшенный шортстафф"
+      "name": "개량 짧은 지팡이"
     },
     "Improved Shortsword": {
-      "name": "Улучшенный короткий меч",
-      "description": "<p><strong>В паре</strong>: +3 к урону основного оружия против целей на Рукопашной дистанции.</p>"
+      "name": "개량 숏소드",
+      "description": "<p><strong>페어</strong>: 근접 거리 내 대상에 대해 주 무기 피해 +3</p>"
     },
     "Improved Small Dagger": {
-      "name": "Улучшенный малый кинжал",
-      "description": "<p><strong>В паре</strong>: +3 к урону основного оружия против целей на Рукопашной дистанции.</p>"
+      "name": "개량 작은 단검",
+      "description": "<p><strong>페어</strong>: 근접 거리 내 대상에 대해 주 무기 피해 +3</p>"
     },
     "Improved Spear": {
-      "name": "Улучшенное копье",
-      "description": "<p><strong>Громоздкий</strong>: -1 к Моторике</p>"
+      "name": "개량 창",
+      "description": "<p><strong>거추장스러움</strong>: 손재주 -1</p>"
     },
     "Improved Tower Shield": {
-      "name": "Улучшенный башенный щит",
-      "description": "<p><strong>Барьер</strong>: Ранг оружия + 1 к показателю брони; -1 к уклонению</p>"
+      "name": "개량 타워 실드",
+      "description": "<p><strong>장벽</strong>: 방어 점수에 무기 등급 +1; 회피 -1</p>"
     },
     "Improved Wand": {
-      "name": "Улучшенная палочка"
+      "name": "개량 마법봉"
     },
     "Improved Warhammer": {
-      "name": "Улучшенный боевой молот",
-      "description": "<p><strong>Тяжелый</strong>: -1 к уклонению</p>"
+      "name": "개량 워해머",
+      "description": "<p><strong>무거움</strong>: 회피 -1</p>"
     },
     "Improved Whip": {
-      "name": "Улучшенный хлыст",
-      "description": "<p><strong>Напугать</strong>: Отметьте стресс, чтобы щелкнуть кнутом и заставить всех противников на Рукопашной дистанции отойти на Ближнюю дистанцию.</p>"
+      "name": "개량 채찍",
+      "description": "<p><strong>위협</strong>: 스트레스를 표시하여 채찍을 휘둘러 근접 거리 내 모든 적을 가까운 거리로 물러나게 합니다.</p>"
     },
     "Keeper's Staff": {
-      "name": "Посох Хранителя",
-      "description": "<p><strong>Надежный</strong>: +1 к броскам атаки</p>"
+      "name": "수호자의 지팡이",
+      "description": "<p><strong>정확함</strong>: 공격 굴림에 +1</p>"
     },
     "Knuckle Blades": {
-      "name": "Бритвенный кастет",
-      "description": "<p><strong>Брутальный</strong>: Когда вам выпало максимальное значение на кости урона бросьте дополнительную кость</p>"
+      "name": "너클 칼날",
+      "description": "<p><strong>잔혹</strong>: 피해 주사위에서 최댓값이 나오면 추가 주사위를 굴립니다.</p>"
     },
     "Knuckle Claws": {
-      "name": "Когтистый кастет",
-      "description": "<p><strong>Удвоение</strong>: При атаке основным оружием вы можете нанести урон другой цели в радиусе Рукопашной дистанции.</p>"
+      "name": "너클 발톱",
+      "description": "<p><strong>이중 타격</strong>: 주 무기로 공격할 때 근접 거리 내의 다른 대상에게도 피해를 입힐 수 있습니다.</p>"
     },
     "Labrys Axe": {
-      "name": "Топор Лабрис",
-      "description": "<p><strong>Защитный</strong>: Добавьте Ранг вашего персонажа к вашему показателю брони.</p>"
+      "name": "라브리스 도끼",
+      "description": "<p><strong>방호</strong>: 캐릭터 등급을 방어 점수에 추가합니다.</p>"
     },
     "Legendary Arcane-Frame Wheelchair": {
-      "name": "Легендарная инвалидная коляска с волшебной рамой",
-      "description": "<p><strong>Надежный</strong>: +1 к броскам атаки</p>"
+      "name": "전설의 비전 프레임 휠체어",
+      "description": "<p><strong>정확함</strong>: 공격 굴림에 +1</p>"
     },
     "Legendary Arcane Gauntlets": {
-      "name": "Легендарные магические перчатки"
+      "name": "전설의 비전 건틀릿"
     },
     "Legendary Battleaxe": {
-      "name": "Легендарный боевой топор"
+      "name": "전설의 전투 도끼"
     },
     "Legendary Broadsword": {
-      "name": "Легендарный палаш",
-      "description": "<p><strong>Надежный</strong>: +1 к броскам атаки</p>"
+      "name": "전설의 브로드소드",
+      "description": "<p><strong>정확함</strong>: 공격 굴림에 +1</p>"
     },
     "Legendary Crossbow": {
-      "name": "Легендарный арбалет"
+      "name": "전설의 석궁"
     },
     "Legendary Cutlass": {
-      "name": "Легендарная сабля"
+      "name": "전설의 커틀러스"
     },
     "Legendary Dagger": {
-      "name": "Легендарный кинжал"
+      "name": "전설의 단검"
     },
     "Legendary Dualstaff": {
-      "name": "Легендарный двойной посох"
+      "name": "전설의 이중 지팡이"
     },
     "Legendary Glowing Rings": {
-      "name": "Легендарные светящиеся кольца"
+      "name": "전설의 빛나는 반지"
     },
     "Legendary Grappler": {
-      "name": "Легендарный хвататель",
-      "description": "<p><strong>Схватить</strong>: При успешной атаке вы можете притянуть цель на Рукопашную дистанцию.</p>"
+      "name": "전설의 그래플러",
+      "description": "<p><strong>포획</strong>: 공격 성공 시 대상을 근접 거리로 끌어당길 수 있습니다.</p>"
     },
     "Legendary Greatstaff": {
-      "name": "Легендарный большой посох",
-      "description": "<p><strong>Мощный</strong>: В случае успешной атаки бросьте дополнительную кость урона и отбросьте наименьший результат.</p>"
+      "name": "전설의 큰 지팡이",
+      "description": "<p><strong>강력함</strong>: 공격 성공 시 추가 피해 주사위를 굴리고 가장 낮은 결과를 버립니다.</p>"
     },
     "Legendary Greatsword": {
-      "name": "Легендарный большой меч",
-      "description": "<p><strong>Массивный</strong>: -1 к Уклонению; при успешной атаке бросьте дополнительную кость урона и отбросьте наименьший результат.</p>"
+      "name": "전설의 그레이트소드",
+      "description": "<p><strong>거대함</strong>: 회피 -1; 공격 성공 시 추가 피해 주사위를 굴리고 가장 낮은 결과를 버립니다.</p>"
     },
     "Legendary Halberd": {
-      "name": "Легендарная алебарда",
-      "description": "<p><strong>Громоздкий</strong>: -1 к Моторике</p>"
+      "name": "전설의 미늘창",
+      "description": "<p><strong>거추장스러움</strong>: 손재주 -1</p>"
     },
     "Legendary Hallowed Axe": {
-      "name": "Легендарный священный топор"
+      "name": "전설의 신성 도끼"
     },
     "Legendary Hand Crossbow": {
-      "name": "Легендарный ручной арбалет"
+      "name": "전설의 손석궁"
     },
     "Legendary Hand Runes": {
-      "name": "Легендарные руны для рук"
+      "name": "전설의 손 룬"
     },
     "Legendary Heavy-Frame Wheelchair": {
-      "name": "Легендарная тяжелая инвалидная коляска",
-      "description": "<p><strong>Тяжелый</strong>: -1 к уклонению</p>"
+      "name": "전설의 중량 프레임 휠체어",
+      "description": "<p><strong>무거움</strong>: 회피 -1</p>"
     },
     "Legendary Light-Frame Wheelchair": {
-      "name": "Легендарная инвалидная коляска с легкой рамой",
-      "description": "<p><strong>Быстрый</strong>: При совершении атаки вы можете отметить Стресс, чтобы нацелить его на другое существо в пределах досягаемости.</p>"
+      "name": "전설의 경량 프레임 휠체어",
+      "description": "<p><strong>빠름</strong>: 공격할 때 스트레스를 표시하여 사정거리 내 다른 존재를 목표로 삼을 수 있습니다.</p>"
     },
     "Legendary Longbow": {
-      "name": "Легендарный длинный лук",
-      "description": "<p><strong>Громоздкий</strong>: -1 к Моторике</p>"
+      "name": "전설의 장궁",
+      "description": "<p><strong>거추장스러움</strong>: 손재주 -1</p>"
     },
     "Legendary Longsword": {
-      "name": "Легендарный длинный меч"
+      "name": "전설의 롱소드"
     },
     "Legendary Mace": {
-      "name": "Легендарная булава"
+      "name": "전설의 메이스"
     },
     "Legendary Quarterstaff": {
-      "name": "Легендарный посох"
+      "name": "전설의 봉"
     },
     "Legendary Rapier": {
-      "name": "Легендарная рапира",
-      "description": "<p><strong>Быстрый</strong>: При совершении атаки вы можете отметить Стресс, чтобы нацелить его на другое существо в пределах досягаемости.</p>"
+      "name": "전설의 레이피어",
+      "description": "<p><strong>빠름</strong>: 공격할 때 스트레스를 표시하여 사정거리 내 다른 존재를 목표로 삼을 수 있습니다.</p>"
     },
     "Legendary Returning Blade": {
-      "name": "Легендарный возвращающийся клинок",
-      "description": "<p><strong>Возвращаться</strong>: Если бросить это оружие в пределах досягаемости, оно сразу же после атаки появится у вас в руке.</p>"
+      "name": "전설의 회귀 칼날",
+      "description": "<p><strong>회귀</strong>: 이 무기를 사정거리 내로 던지면 공격 직후 손에 다시 나타납니다.</p>"
     },
     "Legendary Round Shield": {
-      "name": "Легендарный круглый щит",
-      "description": "<p><strong>Защитный</strong>: Добавьте Ранг вашего персонажа к вашему показателю брони.</p>"
+      "name": "전설의 원형 방패",
+      "description": "<p><strong>방호</strong>: 캐릭터 등급을 방어 점수에 추가합니다.</p>"
     },
     "Legendary Scepter": {
-      "name": "Легендарный скипетр",
-      "description": "<p><strong>Универсальное</strong>: Это оружие также может использоваться с этой статистикой: Присуствие,Рукопашное,к8+6</p>"
+      "name": "전설의 홀",
+      "description": "<p><strong>만능</strong>: 이 무기는 다음 능력치로도 사용할 수 있습니다: 존재감, 근접, d8+6</p>"
     },
     "Legendary Shortbow": {
-      "name": "Легендарный короткий лук"
+      "name": "전설의 단궁"
     },
     "Legendary Shortstaff": {
-      "name": "Легендарный короткий посох"
+      "name": "전설의 짧은 지팡이"
     },
     "Legendary Shortsword": {
-      "name": "Легендарный короткий меч",
-      "description": "<p><strong>В паре</strong>: +5 к урону основного оружия против целей на Рукопашной дистанции.</p>"
+      "name": "전설의 숏소드",
+      "description": "<p><strong>페어</strong>: 근접 거리 내 대상에 대해 주 무기 피해 +5</p>"
     },
     "Legendary Small Dagger": {
-      "name": "Легендарный малый кинжал",
-      "description": "<p><strong>В паре</strong>: +5 к урону основного оружия против целей на Рукопашной дистанции.</p>"
+      "name": "전설의 작은 단검",
+      "description": "<p><strong>페어</strong>: 근접 거리 내 대상에 대해 주 무기 피해 +5</p>"
     },
     "Legendary Spear": {
-      "name": "Легендарное Копье",
-      "description": "<p><strong>Громоздкий</strong>: -1 к Моторике</p>"
+      "name": "전설의 창",
+      "description": "<p><strong>거추장스러움</strong>: 손재주 -1</p>"
     },
     "Legendary Tower Shield": {
-      "name": "Легендарный Башенный Щит",
-      "description": "<p><strong>Барьер</strong>: Ранг оружия + 1 к показателю брони; -1 к уклонению</p>"
+      "name": "전설의 타워 실드",
+      "description": "<p><strong>장벽</strong>: 방어 점수에 무기 등급 +1; 회피 -1</p>"
     },
     "Legendary Wand": {
-      "name": "Легендарная палочка"
+      "name": "전설의 마법봉"
     },
     "Legendary Warhammer": {
-      "name": "Легендарный боевой молот",
-      "description": "<p><strong>Тяжелый</strong>: -1 к уклонению</p>"
+      "name": "전설의 워해머",
+      "description": "<p><strong>무거움</strong>: 회피 -1</p>"
     },
     "Legendary Whip": {
-      "name": "Легендарный кнут",
-      "description": "<p><strong>Напугать</strong>: Отметьте стресс, чтобы щелкнуть кнутом и заставить всех противников на Рукопашной дистанции отойти на Ближнюю дистанцию.</p>"
+      "name": "전설의 채찍",
+      "description": "<p><strong>위협</strong>: 스트레스를 표시하여 채찍을 휘둘러 근접 거리 내 모든 적을 가까운 거리로 물러나게 합니다.</p>"
     },
     "Light-Frame Wheelchair": {
-      "name": "Инвалидная коляска с легкой рамой",
-      "description": "<p><strong>Быстрый</strong>: При совершении атаки вы можете отметить Стресс, чтобы нацелить его на другое существо в пределах досягаемости.</p>"
+      "name": "경량 프레임 휠체어",
+      "description": "<p><strong>빠름</strong>: 공격할 때 스트레스를 표시하여 사정거리 내 다른 존재를 목표로 삼을 수 있습니다.</p>"
     },
     "Longbow": {
-      "name": "Длинный лук",
-      "description": "<p><strong>Громоздкий</strong>: -1 к Моторике</p>"
+      "name": "장궁",
+      "description": "<p><strong>거추장스러움</strong>: 손재주 -1</p>"
     },
     "Longsword": {
-      "name": "Длинный меч"
+      "name": "롱소드"
     },
     "Mace": {
-      "name": "Булава"
+      "name": "메이스"
     },
     "Mage Orb": {
-      "name": "Сфера Мага",
-      "description": "<p><strong>Мощный</strong>: В случае успешной атаки бросьте дополнительную кость урона и отбросьте наименьший результат.</p>"
+      "name": "마법사의 구체",
+      "description": "<p><strong>강력함</strong>: 공격 성공 시 추가 피해 주사위를 굴리고 가장 낮은 결과를 버립니다.</p>"
     },
     "Magus Revolver": {
-      "name": "Револьвер Магус",
-      "description": "<p><strong>Перезагрузить</strong>: После атаки бросьте кубик d6. При результате 1 вам необходимо отметить Стресс, чтобы перезарядить это оружие, прежде чем вы сможете стрелять снова.</p>"
+      "name": "마구스 리볼버",
+      "description": "<p><strong>재장전</strong>: 공격 후 d6을 굴립니다. 1이 나오면 다시 발사하기 전에 스트레스를 표시하여 무기를 재장전해야 합니다.</p>"
     },
     "Meridian Cutlass": {
-      "name": "Сабля Меридиан",
-      "description": "<p><strong>Дуэль</strong>: Если в радиусе Ближней дистанции от цели нет других существ, получите преимущество при атаке против нее.</p>"
+      "name": "메리디언 커틀러스",
+      "description": "<p><strong>결투</strong>: 대상의 가까운 거리 내에 다른 존재가 없으면, 그 대상에 대한 공격에 유리를 받습니다.</p>"
     },
     "Midas Scythe": {
-      "name": "Коса Мидаса",
-      "description": "<p><strong>Жадность</strong>: Потратьте немного золота, чтобы получить бонус +1 к вашему Мастерству при броске на урон.</p>"
+      "name": "미다스의 낫",
+      "description": "<p><strong>탐욕</strong>: 약간의 금을 소모하여 피해 굴림에 숙련도 +1 보너스를 받습니다.</p>"
     },
     "Parrying Dagger": {
-      "name": "Парирующий кинжал",
-      "description": "<p><strong>Парировать</strong>: Когда вас атакуют, бросьте кубик урона этого оружия. Если на каком-либо кубике урона атакующего выпало то же значение, что и на вашем кубике, совпадающие результаты сбрасываются с кубиков урона атакующего до подсчёта полученного вами урона.</p>"
+      "name": "패링 단검",
+      "description": "<p><strong>패링</strong>: 공격을 받을 때, 이 무기의 피해 주사위를 굴립니다. 공격자의 피해 주사위 중 하나라도 당신의 주사위와 같은 값이 나오면, 받는 피해를 계산하기 전에 공격자의 피해 주사위에서 일치한 결과들이 버려집니다.</p>"
     },
     "Powered Gauntlet": {
-      "name": "Силовая перчатка",
-      "description": "<p><strong>Заряжено</strong>: Отметьте Стресс, чтобы получить бонус +1 к Мастерству атаки основным оружием.</p>"
+      "name": "동력 건틀릿",
+      "description": "<p><strong>충전</strong>: 스트레스를 표시하여 주 무기 공격의 숙련도에 +1 보너스를 받습니다.</p>"
     },
     "Primer Shard": {
-      "name": "Осколок естества",
-      "description": "<p><strong>Фиксация</strong>: В случае успешной атаки ваша следующая атака по той же цели с использованием вашего основного оружия автоматически будет успешной.</p>"
+      "name": "프라이머 파편",
+      "description": "<p><strong>고정</strong>: 공격이 성공하면 같은 대상에 대한 주 무기의 다음 공격은 자동으로 성공합니다.</p>"
     },
     "Quarterstaff": {
-      "name": "Четвертной посох"
+      "name": "봉"
     },
     "Rapier": {
-      "name": "Рапира",
-      "description": "<p><strong>Быстрый</strong>: При совершении атаки вы можете отметить Стресс, чтобы нацелить его на другое существо в пределах досягаемости.</p>"
+      "name": "레이피어",
+      "description": "<p><strong>빠름</strong>: 공격할 때 스트레스를 표시하여 사정거리 내 다른 존재를 목표로 삼을 수 있습니다.</p>"
     },
     "Retractable Saber": {
-      "name": "Выдвижная сабля",
-      "description": "<p><strong>Отозвать</strong>: Клинок можно спрятать в рукояти, чтобы избежать обнаружения.</p>"
+      "name": "접이식 세이버",
+      "description": "<p><strong>수납</strong>: 칼날을 손잡이에 감춰 발각을 피할 수 있습니다.</p>"
     },
     "Returning Axe": {
-      "name": "Возвращающийся топор",
-      "description": "<p><strong>Возвращаться</strong>: Если бросить это оружие в пределах досягаемости, оно сразу же после атаки появится у вас в руке.</p>"
+      "name": "회귀 도끼",
+      "description": "<p><strong>회귀</strong>: 이 무기를 사정거리 내로 던지면 공격 직후 손에 다시 나타납니다.</p>"
     },
     "Returning Blade": {
-      "name": "Возвращающийся клинок",
-      "description": "<p><strong>Возвращаться</strong>: Если бросить это оружие в пределах досягаемости, оно сразу же после атаки появится у вас в руке.</p>"
+      "name": "회귀 칼날",
+      "description": "<p><strong>회귀</strong>: 이 무기를 사정거리 내로 던지면 공격 직후 손에 다시 나타납니다.</p>"
     },
     "Ricochet Axes": {
-      "name": "Рикошетные топоры",
-      "description": "<p><strong>Подпрыгивать</strong>: Отметьте 1 или более Стресс, чтобы поразить указанное количество целей в радиусе атаки.</p>"
+      "name": "도탄 도끼",
+      "description": "<p><strong>도탄</strong>: 스트레스를 1개 이상 표시하여 공격 사정거리 내에서 지정한 수의 대상을 가격합니다.</p>"
     },
     "Round Shield": {
-      "name": "Круглый щит",
-      "description": "<p><strong>Защитный</strong>: Добавьте Ранг вашего персонажа к вашему показателю брони.</p>"
+      "name": "원형 방패",
+      "description": "<p><strong>방호</strong>: 캐릭터 등급을 방어 점수에 추가합니다.</p>"
     },
     "Runes of Ruination": {
-      "name": "Руны разрушения",
-      "description": "<p><strong>Боль</strong>: Каждый раз, когда вы совершаете успешную атаку, вы должны отметить Стресс.</p>"
+      "name": "파멸의 룬",
+      "description": "<p><strong>고통</strong>: 공격에 성공할 때마다 스트레스를 표시해야 합니다.</p>"
     },
     "Scepter": {
-      "name": "Скипетр",
-      "description": "<p><strong>Универсальное</strong>: Это оружие также может использоваться с этой статистикой: Присуствие, Рукопашное к8+6</p>"
+      "name": "홀",
+      "description": "<p><strong>만능</strong>: 이 무기는 다음 능력치로도 사용할 수 있습니다: 존재감, 근접, d8+6</p>"
     },
     "Scepter of Elias": {
-      "name": "Скипетр Илии",
-      "description": "<p><strong>Бодриться</strong>: При успешной атаке бросьте d4. При результате 4 снимите стресс.</p>"
+      "name": "엘리아스의 홀",
+      "description": "<p><strong>활력</strong>: 공격 성공 시 d4를 굴립니다. 4가 나오면 스트레스를 해제합니다.</p>"
     },
     "Shortbow": {
-      "name": "Короткий лук"
+      "name": "단궁"
     },
     "Shortstaff": {
-      "name": "Шортстафф"
+      "name": "짧은 지팡이"
     },
     "Shortsword": {
-      "name": "Короткий меч",
-      "description": "<p><strong>В паре</strong>: +2 к урону основного оружия против целей на Рукопашной дистанции.</p>"
+      "name": "숏소드",
+      "description": "<p><strong>페어</strong>: 근접 거리 내 대상에 대해 주 무기 피해 +2</p>"
     },
     "Siphoning Gauntlets": {
-      "name": "Рукавицы для отвода жидкости",
-      "description": "<p><strong>Кража жизни</strong>: При успешной атаке бросьте d6. При результате 6 очистите Попадания или Стресс.</p>"
+      "name": "흡수 건틀릿",
+      "description": "<p><strong>흡혈</strong>: 공격 성공 시 d6을 굴립니다. 6이 나오면 HP나 스트레스를 해제합니다.</p>"
     },
     "Sledge Axe": {
-      "name": "Кувалда-топор",
-      "description": "<p><strong>Разрушительный</strong>: −1 к ловкости; при успешной атаке все противники на очень Близком расстоянии должны отметить стресс</p>"
+      "name": "큰망치 도끼",
+      "description": "<p><strong>파괴</strong>: 민첩 -1; 공격 성공 시 매우 가까운 거리의 모든 적은 스트레스를 표시해야 합니다.</p>"
     },
     "Small Dagger": {
-      "name": "Маленький кинжал",
-      "description": "<p><strong>В паре</strong>: +2 к урону основного оружия против целей на Рукопашной дистанции.</p>"
+      "name": "작은 단검",
+      "description": "<p><strong>페어</strong>: 근접 거리 내 대상에 대해 주 무기 피해 +2</p>"
     },
     "Spear": {
-      "name": "Копье",
-      "description": "<p><strong>Громоздкий</strong>: -1 к Моторике</p>"
+      "name": "창",
+      "description": "<p><strong>거추장스러움</strong>: 손재주 -1</p>"
     },
     "Spiked Bow": {
-      "name": "Лук с шипами",
-      "description": "<p><strong>Универсальное</strong>: Это оружие также может использоваться с этой статистикой: Ловкость,Рукопашное,к10+5</p>"
+      "name": "가시 활",
+      "description": "<p><strong>만능</strong>: 이 무기는 다음 능력치로도 사용할 수 있습니다: 민첩, 근접, d10+5</p>"
     },
     "Spiked Shield": {
-      "name": "Шипастый щит",
-      "description": "<p><strong>Двойная обязанность</strong>: +1 к показателю брони; +1 к урону от основного оружия по целям на Рукопашной дистанции</p>"
+      "name": "가시 방패",
+      "description": "<p><strong>이중 역할</strong>: 방어 점수 +1; 근접 거리 내 대상에 대한 주 무기 피해 +1</p>"
     },
     "Steelforged Halberd": {
-      "name": "Стальная алебарда",
-      "description": "<p><strong>Напугать</strong>: При успешной атаке цель должна отметить Стресс.</p>"
+      "name": "강철 단조 미늘창",
+      "description": "<p><strong>위협</strong>: 공격 성공 시 대상은 스트레스를 표시해야 합니다.</p>"
     },
     "Swinging Ropeblade": {
-      "name": "Клинок на веревке",
-      "description": "<p><strong>Хватать</strong>: При успешной атаке вы можете потратить Надежду, чтобы Сковать цель или притянуть ее на Рукопашную дистанцию к себе.</p>"
+      "name": "흔드는 밧줄 칼날",
+      "description": "<p><strong>포획</strong>: 공격 성공 시 희망을 소모하여 대상을 속박하거나 자신의 근접 거리로 끌어당길 수 있습니다.</p>"
     },
     "Sword of Light & Flame": {
-      "name": "Меч Света и Пламени",
-      "description": "<p><strong>Горячий</strong>: Это оружие разрезает твердый материал.</p>"
+      "name": "빛과 화염의 검",
+      "description": "<p><strong>뜨거움</strong>: 이 무기는 단단한 물질을 가릅니다.</p>"
     },
     "Talon Blades": {
-      "name": "Когти-лезвия",
-      "description": "<p><strong>Брутальный</strong>: Когда вам выпало максимальное значение на кости урона бросьте дополнительную кость</p>"
+      "name": "발톱 칼날",
+      "description": "<p><strong>잔혹</strong>: 피해 주사위에서 최댓값이 나오면 추가 주사위를 굴립니다.</p>"
     },
     "Thistlebow": {
-      "name": "Чертополох",
-      "description": "<p><strong>Надежный</strong>: +1 к броскам атаки</p>"
+      "name": "엉겅퀴 활",
+      "description": "<p><strong>정확함</strong>: 공격 굴림에 +1</p>"
     },
     "Tower Shield": {
-      "name": "Башенный щит",
-      "description": "<p><strong>Барьер</strong>: Ранг оружия + 1 к показателю брони; -1 к уклонению</p>"
+      "name": "타워 실드",
+      "description": "<p><strong>장벽</strong>: 방어 점수에 무기 등급 +1; 회피 -1</p>"
     },
     "Urok Broadsword": {
-      "name": "Урок Палаш",
-      "description": "<p><strong>Смертельный</strong>: При нанесении серьезного урона цель должна отметить 1 дополнительное ОП.</p>"
+      "name": "우록 브로드소드",
+      "description": "<p><strong>치명</strong>: 큰 피해를 입힐 때 대상은 추가로 1 HP를 표시해야 합니다.</p>"
     },
     "Wand": {
-      "name": "Палочка"
+      "name": "마법봉"
     },
     "Wand of Enthrallment": {
-      "name": "Жезл Очарования",
-      "description": "<p><strong>Убедительный</strong>: Получите бонус +2 к броску Присутствия</p>"
+      "name": "매혹의 마법봉",
+      "description": "<p><strong>설득</strong>: 존재감 굴림에 +2 보너스를 받습니다.</p>"
     },
     "Wand of Essek": {
-      "name": "Жезл Эссека",
-      "description": "<p><strong>Время изгиба</strong>: Вы выбираете цель для атаки после броска атаки</p>"
+      "name": "에세크의 마법봉",
+      "description": "<p><strong>시간 굴절</strong>: 공격 굴림 이후에 공격 대상을 선택합니다.</p>"
     },
     "Warhammer": {
-      "name": "Боевой молот",
-      "description": "<p><strong>Тяжелый</strong>: -1 к уклонению</p>"
+      "name": "워해머",
+      "description": "<p><strong>무거움</strong>: 회피 -1</p>"
     },
     "War Scythe": {
-      "name": "Боевая коса",
-      "description": "<p><strong>Надежный</strong>: +1 к броскам атаки</p>"
+      "name": "전쟁 낫",
+      "description": "<p><strong>정확함</strong>: 공격 굴림에 +1</p>"
     },
     "Whip": {
-      "name": "Хлыст",
-      "description": "<p><strong>Напугать</strong>: Отметьте стресс, чтобы щелкнуть кнутом и заставить всех противников на Рукопашной дистанции отойти на Ближнюю дистанцию.</p>"
+      "name": "채찍",
+      "description": "<p><strong>위협</strong>: 스트레스를 표시하여 채찍을 휘둘러 근접 거리 내 모든 적을 가까운 거리로 물러나게 합니다.</p>"
     },
     "Widogast Pendant": {
-      "name": "Подвеска Видогаста",
-      "description": "<p><strong>Время изгиба</strong>: Вы выбираете цель для атаки после броска атаки</p>"
+      "name": "위도가스트 펜던트",
+      "description": "<p><strong>시간 굴절</strong>: 공격 굴림 이후에 공격 대상을 선택합니다.</p>"
     },
     "Yutari Bloodbow": {
-      "name": "Кровавый Лук Ютари",
-      "description": "<p><strong>Брутальный</strong>: Когда вам выпало максимальное значение на кости урона бросьте дополнительную кость</p>"
+      "name": "유타리 핏빛 활",
+      "description": "<p><strong>잔혹</strong>: 피해 주사위에서 최댓값이 나오면 추가 주사위를 굴립니다.</p>"
     }
   }
 }
