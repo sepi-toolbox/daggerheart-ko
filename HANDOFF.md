@@ -11,7 +11,7 @@
 
 ## 현재 상태 (2026-06-09)
 
-### 완료 (9/15)
+### 완료 (10/15)
 | # | 파일 | 크기 | 항목 |
 |---|------|------|------|
 | 1 | 모듈 셋업 | - | `daggerheart-ko` 폴더명/ID/lang `ko`, 새 저장소 생성, `ko` 브랜치 push |
@@ -23,11 +23,11 @@
 | 7 | `daggerheart.ancestries.json` | 41KB | 혈통 18 + 특성 38 |
 | 8 | `daggerheart.classes.json` | 42KB | 직업 9 + 직업특성 + 시작아이템 |
 | 9 | `daggerheart.weapons.json` | 46KB | 무기 약 190종 |
+| 10 | `daggerheart.subclasses.json` | 74KB | 하위직업 93종 (특성 75 + 컨셉 18) |
 
-### 남은 작업 (6/15)
+### 남은 작업 (5/15)
 | 파일 | 크기 | 비고 |
 |------|------|------|
-| `daggerheart.subclasses.json` | 74KB | 하위 직업 (각 직업 2개씩 약 18종) |
 | `daggerheart.environments.json` | 140KB | 환경 / 장소 |
 | `i18n/systems/daggerheart.json` | 163KB | 시스템 i18n (UI 라벨) |
 | `daggerheart.journals.json` | 206KB | 저널 (룰북) — **청크 분할 필요** |
@@ -177,9 +177,24 @@ git log --oneline       # 진행 상황 확인
 git pull                # 원격 동기화
 ```
 
-## 다음 작업: `subclasses.json` (74KB)
+## 다음 작업: `environments.json` (140KB)
 
-각 직업 2개씩 약 18종 + 각 하위직업 특성. classes.json 번역 패턴 그대로 적용. 주문/영역 관련 용어는 domains.json까지 함께 봐야 일관성 유지 가능.
+환경/장소 데이터. 청크 분할 권장 (Read offset/limit + Edit). 인명/지명 음역 일관성 유지.
+
+### subclasses 번역 핵심 용어 (도메인 카드/적대존재까지 이어짐)
+- Channeling (Проводимость) → 발현
+- Charged (Заряженный) → 충전됨
+- Rally Die (Кость Сбора/Сплочения) → 격려 주사위
+- Slayer Die (Кость Убийцы) → 학살자 주사위
+- Prayer Die (Кубик Молитвы) → 기도 주사위
+- Advantage Die (кубик преимущества) → 유리 주사위
+- Mastery/Proficiency (Мастерство/Проницательность) → 숙련도 (둘 다 통일)
+- Severity (тяжесть/серьезность) → 심각도
+- Recall Cost (Стоимость Воспоминания) → 회상 비용
+- Warden (Хранитель) → 지킴이 (Guardian=수호자와 구별)
+- Wayfinder (Следопыт) → 길잡이 (Ranger=레인저와 구별)
+- Troubadour → 트루바두르 (Bard=음유시인과 구별)
+- 원소: 바람/대지/불/번개/물 (воздух/земля/огонь/молния/вода)
 
 ## 주의사항
 
