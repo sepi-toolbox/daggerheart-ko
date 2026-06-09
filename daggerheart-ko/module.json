@@ -29,7 +29,7 @@
             "flags": {}
         }
     ],
-    "url": "",
-    "manifest": "",
-    "download": ""
+    "url": "https://github.com/sepi-toolbox/daggerheart-ko",
+    "manifest": "https://raw.githubusercontent.com/sepi-toolbox/daggerheart-ko/ko/module.json",
+    "download": "https://github.com/sepi-toolbox/daggerheart-ko/archive/refs/heads/ko.zip"
 }
