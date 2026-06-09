@@ -134,7 +134,7 @@
     },
     "Advanced Whip": {
       "name": "고급 채찍",
-      "description": "<p><strong>위협</strong>: 스트레스를 표시하여 채찍을 휘둘러 근접 거리 내 모든 적을 가까운 거리로 물러나게 합니다.</p>"
+      "description": "<p><strong>위협</strong>: 스트레스를 표시하여 채찍을 휘둘러 근접 거리 내 모든 적대자를 가까운 거리로 물러나게 합니다.</p>"
     },
     "Arcane-Frame Wheelchair": {
       "name": "비전 프레임 휠체어",
@@ -224,7 +224,7 @@
     },
     "Extended Polearm": {
       "name": "연장된 폴암",
-      "description": "<p><strong>길이</strong>: 이 무기의 공격은 사정거리 내 직선상의 모든 적을 대상으로 합니다.</p>"
+      "description": "<p><strong>길이</strong>: 이 무기의 공격은 사정거리 내 직선상의 모든 적대자를 대상으로 합니다.</p>"
     },
     "Finehair Bow": {
       "name": "고운 머리카락 활",
@@ -285,7 +285,7 @@
     },
     "Hammer of Exota": {
       "name": "엑소타의 망치",
-      "description": "<p><strong>분출</strong>: 근접 거리 내 대상에 대한 공격이 성공하면, 매우 가까운 거리 내의 다른 모든 적은 반응 굴림(14)에 성공해야 하며 실패 시 피해의 절반을 받습니다.</p>"
+      "description": "<p><strong>분출</strong>: 근접 거리 내 대상에 대한 공격이 성공하면, 매우 가까운 거리 내의 다른 모든 적대자는 반응 굴림(14)에 성공해야 하며 실패 시 피해의 절반을 받습니다.</p>"
     },
     "Hammer of Wrath": {
       "name": "분노의 망치",
@@ -439,7 +439,7 @@
     },
     "Improved Whip": {
       "name": "개량 채찍",
-      "description": "<p><strong>위협</strong>: 스트레스를 표시하여 채찍을 휘둘러 근접 거리 내 모든 적을 가까운 거리로 물러나게 합니다.</p>"
+      "description": "<p><strong>위협</strong>: 스트레스를 표시하여 채찍을 휘둘러 근접 거리 내 모든 적대자를 가까운 거리로 물러나게 합니다.</p>"
     },
     "Keeper's Staff": {
       "name": "수호자의 지팡이",
@@ -579,7 +579,7 @@
     },
     "Legendary Whip": {
       "name": "전설의 채찍",
-      "description": "<p><strong>위협</strong>: 스트레스를 표시하여 채찍을 휘둘러 근접 거리 내 모든 적을 가까운 거리로 물러나게 합니다.</p>"
+      "description": "<p><strong>위협</strong>: 스트레스를 표시하여 채찍을 휘둘러 근접 거리 내 모든 적대자를 가까운 거리로 물러나게 합니다.</p>"
     },
     "Light-Frame Wheelchair": {
       "name": "경량 프레임 휠체어",
@@ -678,7 +678,7 @@
     },
     "Sledge Axe": {
       "name": "큰망치 도끼",
-      "description": "<p><strong>파괴</strong>: 민첩 -1; 공격 성공 시 매우 가까운 거리의 모든 적은 스트레스를 표시해야 합니다.</p>"
+      "description": "<p><strong>파괴</strong>: 민첩 -1; 공격 성공 시 매우 가까운 거리의 모든 적대자는 스트레스를 표시해야 합니다.</p>"
     },
     "Small Dagger": {
       "name": "작은 단검",
@@ -745,7 +745,7 @@
     },
     "Whip": {
       "name": "채찍",
-      "description": "<p><strong>위협</strong>: 스트레스를 표시하여 채찍을 휘둘러 근접 거리 내 모든 적을 가까운 거리로 물러나게 합니다.</p>"
+      "description": "<p><strong>위협</strong>: 스트레스를 표시하여 채찍을 휘둘러 근접 거리 내 모든 적대자를 가까운 거리로 물러나게 합니다.</p>"
     },
     "Widogast Pendant": {
       "name": "위도가스트 펜던트",

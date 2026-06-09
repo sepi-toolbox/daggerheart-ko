@@ -45,31 +45,31 @@
             "items": {
                 "NMErq9B4NS3NSiMy": {
                     "name": "상대적인 힘",
-                    "description": "<p>이 환경의 난이도는 적들 중 가장 높은 난이도를 가진 적의 난이도와 같습니다.</p><section class='secret' id='secret-FZokhR7CFr2tXkGn'><p><em>누가 매복 신호를 보내는가? 무엇이 그들이 우두머리임을 알려주는가?</em></p></section>"
+                    "description": "<p>이 환경의 난이도는 적대자들 중 가장 높은 난이도를 가진 적대자의 난이도와 같습니다.</p><section class='secret' id='secret-FZokhR7CFr2tXkGn'><p><em>누가 매복 신호를 보내는가? 무엇이 그들이 우두머리임을 알려주는가?</em></p></section>"
                 },
                 "HfuVxgVidIVsapvI": {
                     "name": "기습",
-                    "description": "<p>매복자들이 일행에게 모습을 드러내고, 당신은 공포 2점을 얻으며, 잠복 중인 적 한 명이 즉시 강조됩니다.</p><section id='secret-LcyhfZXPS4MD9dMC' class='secret'><p><em>매복자들은 일행에게 무엇을 원하는가? 그들의 매복 전술에 그것이 어떻게 반영되는가?</em> </p></section>",
+                    "description": "<p>매복자들이 일행에게 모습을 드러내고, 당신은 공포 2점을 얻으며, 잠복 중인 적대자 한 명이 즉시 강조됩니다.</p><section id='secret-LcyhfZXPS4MD9dMC' class='secret'><p><em>매복자들은 일행에게 무엇을 원하는가? 그들의 매복 전술에 그것이 어떻게 반영되는가?</em> </p></section>",
                     "actions": {
-                        "TRSiqdwc1mYTHv4d": "<p>매복자들이 일행에게 모습을 드러내고, 당신은 공포 2점을 얻으며, 잠복 중인 적 한 명이 즉시 강조됩니다.</p><section id='secret-LcyhfZXPS4MD9dMC' class='secret'><p><em>매복자들은 일행에게 무엇을 원하는가? 그들의 매복 전술에 그것이 어떻게 반영되는가?</em> </p></section>"
+                        "TRSiqdwc1mYTHv4d": "<p>매복자들이 일행에게 모습을 드러내고, 당신은 공포 2점을 얻으며, 잠복 중인 적대자 한 명이 즉시 강조됩니다.</p><section id='secret-LcyhfZXPS4MD9dMC' class='secret'><p><em>매복자들은 일행에게 무엇을 원하는가? 그들의 매복 전술에 그것이 어떻게 반영되는가?</em> </p></section>"
                     }
                 }
             }
         },
         "Ambushers": {
             "name": "매복자들",
-            "description": "<p>PC가 아무것도 모르는 적들을 기습하기 위해 매복을 설치합니다.</p>",
+            "description": "<p>PC가 아무것도 모르는 적대자들을 기습하기 위해 매복을 설치합니다.</p>",
             "impulses": "도주, 결집, 가장 약한 자 보호",
             "items": {
                 "hAGzlRjI3lpadVs7": {
                     "name": "매복자들",
-                    "description": "<p>이 환경의 난이도는 적들 중 가장 높은 난이도를 가진 적의 난이도와 같습니다.</p><section class='secret' id='secret-zPYO0951x4IKM5FN'><p><em>가장 준비가 덜 된 적은 누구인가? 가장 잘 준비된 적은 누구인가?</em></p></section>"
+                    "description": "<p>이 환경의 난이도는 적대자들 중 가장 높은 난이도를 가진 적대자의 난이도와 같습니다.</p><section class='secret' id='secret-zPYO0951x4IKM5FN'><p><em>가장 준비가 덜 된 적대자는 누구인가? 가장 잘 준비된 적대자는 누구인가?</em></p></section>"
                 },
                 "b6Qviz1ANG8OrAYq": {
                     "name": "어디서 나타났는가?",
-                    "description": "<p>PC가 아무것도 모르는 적들에 대한 매복을 개시할 때, 당신은 공포 2점을 잃고 PC가 행하는 첫 공격 굴림에 유리를 얻습니다.</p><section class='secret' id='secret-0BW2MHYrwlL7iHiR'><p><em>매복이 시작되었을 때 적들은 무엇을 하고 있었는가? 이것이 그들의 전투 접근법에 어떻게 영향을 주는가?</em></p></section>",
+                    "description": "<p>PC가 아무것도 모르는 적대자들에 대한 매복을 개시할 때, 당신은 공포 2점을 잃고 PC가 행하는 첫 공격 굴림에 유리를 얻습니다.</p><section class='secret' id='secret-0BW2MHYrwlL7iHiR'><p><em>매복이 시작되었을 때 적대자들은 무엇을 하고 있었는가? 이것이 그들의 전투 접근법에 어떻게 영향을 주는가?</em></p></section>",
                     "actions": {
-                        "6DKa1Pm605HpChPd": "<p>PC가 아무것도 모르는 적들에 대한 매복을 개시할 때, 당신은 공포 2점을 잃고 PC가 행하는 첫 공격 굴림에 유리를 얻습니다.</p><section class='secret' id='secret-0BW2MHYrwlL7iHiR'><p><em>매복이 시작되었을 때 적들은 무엇을 하고 있었는가? 이것이 그들의 전투 접근법에 어떻게 영향을 주는가?</em></p></section>"
+                        "6DKa1Pm605HpChPd": "<p>PC가 아무것도 모르는 적대자들에 대한 매복을 개시할 때, 당신은 공포 2점을 잃고 PC가 행하는 첫 공격 굴림에 유리를 얻습니다.</p><section class='secret' id='secret-0BW2MHYrwlL7iHiR'><p><em>매복이 시작되었을 때 적대자들은 무엇을 하고 있었는가? 이것이 그들의 전투 접근법에 어떻게 영향을 주는가?</em></p></section>"
                     }
                 }
             }
@@ -157,13 +157,13 @@
                 },
                 "U59K0WKVjwbgzMZU": {
                     "name": "지원군!",
-                    "description": "<p>지원군으로 @UUID[Compendium.daggerheart.adversaries.Actor.7ai2opemrclQe3VF]{왕국의 기사}, PC 수만큼의 3등급 미니언, 그리고 당신이 선택한 적 둘을 선택한 PC로부터 먼 거리 내에 소환합니다. 왕국의 기사는 즉시 강조됩니다. </p><section id='secret-qYx1WuL81hHF5XW8' class='secret'><p><em>그들은 누구를 먼저 공격하는가? 어떤 진형을 취하는가?</em></p></section>"
+                    "description": "<p>지원군으로 @UUID[Compendium.daggerheart.adversaries.Actor.7ai2opemrclQe3VF]{왕국의 기사}, PC 수만큼의 3등급 미니언, 그리고 당신이 선택한 적대자 둘을 선택한 PC로부터 먼 거리 내에 소환합니다. 왕국의 기사는 즉시 강조됩니다. </p><section id='secret-qYx1WuL81hHF5XW8' class='secret'><p><em>그들은 누구를 먼저 공격하는가? 어떤 진형을 취하는가?</em></p></section>"
                 },
                 "bemKmwjBtbEFVWXM": {
                     "name": "부수적 피해",
-                    "description": "<p>적이 쓰러질 때, 당신은 <strong>공포를 소비</strong>하여 무작위 공성 무기 공격이 전장의 한 지점에 떨어지게 할 수 있습니다. 그 지점에서 매우 가까운 거리 내의 모든 대상은 민첩 반응 굴림을 해야 합니다. </p><p>@Template[type:circle|range:vc]</p><ul><li><p>실패한 대상은 <strong>3d8+3</strong> 물리 또는 마법 피해를 받고 스트레스를 표시해야 합니다. </p></li><li><p>성공한 대상은 스트레스를 표시해야 합니다.</p></li></ul><section id='secret-JdhetLsgL626ouo7' class='secret'><p><em>공격으로 어떤 잔해가 흩날리는가? 일격으로 무엇이 부서져 쉽게 고칠 수 없게 되는가?</em></p></section>",
+                    "description": "<p>적대자가 쓰러질 때, 당신은 <strong>공포를 소비</strong>하여 무작위 공성 무기 공격이 전장의 한 지점에 떨어지게 할 수 있습니다. 그 지점에서 매우 가까운 거리 내의 모든 대상은 민첩 반응 굴림을 해야 합니다. </p><p>@Template[type:circle|range:vc]</p><ul><li><p>실패한 대상은 <strong>3d8+3</strong> 물리 또는 마법 피해를 받고 스트레스를 표시해야 합니다. </p></li><li><p>성공한 대상은 스트레스를 표시해야 합니다.</p></li></ul><section id='secret-JdhetLsgL626ouo7' class='secret'><p><em>공격으로 어떤 잔해가 흩날리는가? 일격으로 무엇이 부서져 쉽게 고칠 수 없게 되는가?</em></p></section>",
                     "actions": {
-                        "r5JN5oFYL5DC6Qqw": "<p>적이 쓰러질 때, 당신은 <strong>공포를 소비</strong>하여 무작위 공성 무기 공격이 전장의 한 지점에 떨어지게 할 수 있습니다. 그 지점에서 매우 가까운 거리 내의 모든 대상은 민첩 반응 굴림을 해야 합니다. </p><p>@Template[type:circle|range:vc]</p><ul><li><p>실패한 대상은 <strong>3d8+3</strong> 물리 또는 마법 피해를 받고 스트레스를 표시해야 합니다. </p></li><li><p>성공한 대상은 스트레스를 표시해야 합니다.</p></li></ul><section id='secret-JdhetLsgL626ouo7' class='secret'><p><em>공격으로 어떤 잔해가 흩날리는가? 일격으로 무엇이 부서져 쉽게 고칠 수 없게 되는가?</em></p></section>"
+                        "r5JN5oFYL5DC6Qqw": "<p>적대자가 쓰러질 때, 당신은 <strong>공포를 소비</strong>하여 무작위 공성 무기 공격이 전장의 한 지점에 떨어지게 할 수 있습니다. 그 지점에서 매우 가까운 거리 내의 모든 대상은 민첩 반응 굴림을 해야 합니다. </p><p>@Template[type:circle|range:vc]</p><ul><li><p>실패한 대상은 <strong>3d8+3</strong> 물리 또는 마법 피해를 받고 스트레스를 표시해야 합니다. </p></li><li><p>성공한 대상은 스트레스를 표시해야 합니다.</p></li></ul><section id='secret-JdhetLsgL626ouo7' class='secret'><p><em>공격으로 어떤 잔해가 흩날리는가? 일격으로 무엇이 부서져 쉽게 고칠 수 없게 되는가?</em></p></section>"
                     }
                 }
             }
@@ -197,9 +197,9 @@
                 },
                 "SZpUJeJETVQtZwae": {
                     "name": "바깥 영역의 사냥꾼들",
-                    "description": "<p><strong>공포를 소비</strong>하여 @UUID[Compendium.daggerheart.adversaries.Actor.A0SeeDzwjvqOsyof]{바깥 영역의 흉물}, @UUID[Compendium.daggerheart.adversaries.Actor.ms6nuOl3NFkhPj1k]{바깥 영역의 부패자}, 그리고 [[/r 2d6]] 마리의 @UUID[Compendium.daggerheart.adversaries.Actor.moJhHgKqTKPS2WYS]{바깥 영역의 노예}를 소환합니다. 이들은 논리와 인과를 거슬러 선택한 PC로부터 가까운 거리 내에 나타납니다. 이 적들 중 하나를 즉시 강조하고, 추가 공포를 소비하여 그 적의 표준 공격을 자동으로 성공시킬 수 있습니다.</p><section class='secret' id='secret-psXRRXLoibTKFpaW'><p><em>이 괴물들이 살아 있는 살을 쫓을 때 무너진 세계에서 반쯤 먹다 남긴 어떤 잔해를 흘리는가? 무자비한 악의의 순간들 사이에서 이전 자아의 어떤 들쭉날쭉한 잔재가 보이는가?</em></p></section>",
+                    "description": "<p><strong>공포를 소비</strong>하여 @UUID[Compendium.daggerheart.adversaries.Actor.A0SeeDzwjvqOsyof]{바깥 영역의 흉물}, @UUID[Compendium.daggerheart.adversaries.Actor.ms6nuOl3NFkhPj1k]{바깥 영역의 부패자}, 그리고 [[/r 2d6]] 마리의 @UUID[Compendium.daggerheart.adversaries.Actor.moJhHgKqTKPS2WYS]{바깥 영역의 노예}를 소환합니다. 이들은 논리와 인과를 거슬러 선택한 PC로부터 가까운 거리 내에 나타납니다. 이 적대자들 중 하나를 즉시 강조하고, 추가 공포를 소비하여 그 적대자의 표준 공격을 자동으로 성공시킬 수 있습니다.</p><section class='secret' id='secret-psXRRXLoibTKFpaW'><p><em>이 괴물들이 살아 있는 살을 쫓을 때 무너진 세계에서 반쯤 먹다 남긴 어떤 잔해를 흘리는가? 무자비한 악의의 순간들 사이에서 이전 자아의 어떤 들쭉날쭉한 잔재가 보이는가?</em></p></section>",
                     "actions": {
-                        "5a8ESNroEQHAm7rO": "<p><strong>공포를 소비</strong>하여 @UUID[Compendium.daggerheart.adversaries.Actor.A0SeeDzwjvqOsyof]{바깥 영역의 흉물}, @UUID[Compendium.daggerheart.adversaries.Actor.ms6nuOl3NFkhPj1k]{바깥 영역의 부패자}, 그리고 [[/r 2d6]] 마리의 @UUID[Compendium.daggerheart.adversaries.Actor.moJhHgKqTKPS2WYS]{바깥 영역의 노예}를 소환합니다. 이들은 논리와 인과를 거슬러 선택한 PC로부터 가까운 거리 내에 나타납니다. 이 적들 중 하나를 즉시 강조하고, 추가 공포를 소비하여 그 적의 표준 공격을 자동으로 성공시킬 수 있습니다.</p><section class='secret' id='secret-psXRRXLoibTKFpaW'><p><em>이 괴물들이 살아 있는 살을 쫓을 때 무너진 세계에서 반쯤 먹다 남긴 어떤 잔해를 흘리는가? 무자비한 악의의 순간들 사이에서 이전 자아의 어떤 들쭉날쭉한 잔재가 보이는가?</em></p></section>"
+                        "5a8ESNroEQHAm7rO": "<p><strong>공포를 소비</strong>하여 @UUID[Compendium.daggerheart.adversaries.Actor.A0SeeDzwjvqOsyof]{바깥 영역의 흉물}, @UUID[Compendium.daggerheart.adversaries.Actor.ms6nuOl3NFkhPj1k]{바깥 영역의 부패자}, 그리고 [[/r 2d6]] 마리의 @UUID[Compendium.daggerheart.adversaries.Actor.moJhHgKqTKPS2WYS]{바깥 영역의 노예}를 소환합니다. 이들은 논리와 인과를 거슬러 선택한 PC로부터 가까운 거리 내에 나타납니다. 이 적대자들 중 하나를 즉시 강조하고, 추가 공포를 소비하여 그 적대자의 표준 공격을 자동으로 성공시킬 수 있습니다.</p><section class='secret' id='secret-psXRRXLoibTKFpaW'><p><em>이 괴물들이 살아 있는 살을 쫓을 때 무너진 세계에서 반쯤 먹다 남긴 어떤 잔해를 흘리는가? 무자비한 악의의 순간들 사이에서 이전 자아의 어떤 들쭉날쭉한 잔재가 보이는가?</em></p></section>"
                     }
                 },
                 "MyIh4CJsDnkjmeYs": {
@@ -253,14 +253,14 @@
                 },
                 "0Rgqw1kUPeJ11ldd": {
                     "name": "신성모독의 힘",
-                    "description": "<p>의식의 힘 일부가 침입자들과 맞서기 위해 사교 일원에게 전달됩니다. 장면이 끝나거나 그가 쓰러질 때까지 끔찍한 마법으로 채워진 적 한 명을 선택합니다. 채워진 적은 즉시 강조되며, 다음 이점 중 하나를 얻거나, 당신이 <strong>공포를 소비</strong>하면 세 가지 모두를 얻습니다:</p><ul><li><p>모든 공격에 유리를 얻습니다.</p></li><li><p>성공한 공격에 추가 <strong>1d10</strong> 피해를 입힙니다.</p></li><li><p>다음 특성을 얻습니다: <strong>불굴 (2) - 수동</strong>. 이 적은 GM 차례에 두 번까지 강조될 수 있습니다. 평소처럼 공포를 소비하여 강조하세요.</p></li></ul><section class='secret' id='secret-600LhfEy1uNSxWdJ'><p><em>적의 외모는 어떻게 변하는가? 그들의 공격은 어떤 두려움을 불러일으키는가?</p></section>",
+                    "description": "<p>의식의 힘 일부가 침입자들과 맞서기 위해 사교 일원에게 전달됩니다. 장면이 끝나거나 그가 쓰러질 때까지 끔찍한 마법으로 채워진 적대자 한 명을 선택합니다. 채워진 적대자는 즉시 강조되며, 다음 이점 중 하나를 얻거나, 당신이 <strong>공포를 소비</strong>하면 세 가지 모두를 얻습니다:</p><ul><li><p>모든 공격에 유리를 얻습니다.</p></li><li><p>성공한 공격에 추가 <strong>1d10</strong> 피해를 입힙니다.</p></li><li><p>다음 특성을 얻습니다: <strong>불굴 (2) - 수동</strong>. 이 적대자는 GM 차례에 두 번까지 강조될 수 있습니다. 평소처럼 공포를 소비하여 강조하세요.</p></li></ul><section class='secret' id='secret-600LhfEy1uNSxWdJ'><p><em>적대자의 외모는 어떻게 변하는가? 그들의 공격은 어떤 두려움을 불러일으키는가?</p></section>",
                     "actions": {
-                        "EATw4ZkcuGeDfgLZ": "<p>의식의 힘 일부가 침입자들과 맞서기 위해 사교 일원에게 전달됩니다. 장면이 끝나거나 그가 쓰러질 때까지 끔찍한 마법으로 채워진 적 한 명을 선택합니다. 채워진 적은 즉시 강조되며, 다음 이점 중 하나를 얻거나, 당신이 <strong>공포를 소비</strong>하면 세 가지 모두를 얻습니다:</p><ul><li><p>모든 공격에 유리를 얻습니다.</p></li><li><p>성공한 공격에 추가 <strong>1d10</strong> 피해를 입힙니다.</p></li><li><p>다음 특성을 얻습니다: <strong>불굴 (2) - 수동</strong>. 이 적은 GM 차례에 두 번까지 강조될 수 있습니다. 평소처럼 공포를 소비하여 강조하세요.</p></li></ul><section class='secret' id='secret-600LhfEy1uNSxWdJ'><p><em>적의 외모는 어떻게 변하는가? 그들의 공격은 어떤 두려움을 불러일으키는가?</p></section>"
+                        "EATw4ZkcuGeDfgLZ": "<p>의식의 힘 일부가 침입자들과 맞서기 위해 사교 일원에게 전달됩니다. 장면이 끝나거나 그가 쓰러질 때까지 끔찍한 마법으로 채워진 적대자 한 명을 선택합니다. 채워진 적대자는 즉시 강조되며, 다음 이점 중 하나를 얻거나, 당신이 <strong>공포를 소비</strong>하면 세 가지 모두를 얻습니다:</p><ul><li><p>모든 공격에 유리를 얻습니다.</p></li><li><p>성공한 공격에 추가 <strong>1d10</strong> 피해를 입힙니다.</p></li><li><p>다음 특성을 얻습니다: <strong>불굴 (2) - 수동</strong>. 이 적대자는 GM 차례에 두 번까지 강조될 수 있습니다. 평소처럼 공포를 소비하여 강조하세요.</p></li></ul><section class='secret' id='secret-600LhfEy1uNSxWdJ'><p><em>적대자의 외모는 어떻게 변하는가? 그들의 공격은 어떤 두려움을 불러일으키는가?</p></section>"
                     }
                 },
                 "oFfu3hUhp4ta4qwT": {
                     "name": "소환",
-                    "description": "<p>카운트다운 (6). PC가 장면에 들어오거나 사교가 악마 소환 의식을 시작할 때 카운트다운을 활성화합니다. 의식을 이끌 적 한 명을 지정합니다. PC가 공포와 함께 주사위를 굴릴 때 카운트다운이 진행됩니다. 카운트다운이 발동되면 의식 지도자로부터 매우 가까운 거리 내에 작은 악마를 소환합니다. 지도자가 쓰러지면 의식이 실패하여 카운트다운은 효과 없이 끝납니다.</p><section class='secret' id='secret-OXdRqIZ0R8wGn3Gm'><p><em>사교가 성공한다면, 이 묶인 악마로 무엇을 할 것인가? 그들은 다음에 무엇을 소환하려 하는가?</em></p></section>"
+                    "description": "<p>카운트다운 (6). PC가 장면에 들어오거나 사교가 악마 소환 의식을 시작할 때 카운트다운을 활성화합니다. 의식을 이끌 적대자 한 명을 지정합니다. PC가 공포와 함께 주사위를 굴릴 때 카운트다운이 진행됩니다. 카운트다운이 발동되면 의식 지도자로부터 매우 가까운 거리 내에 작은 악마를 소환합니다. 지도자가 쓰러지면 의식이 실패하여 카운트다운은 효과 없이 끝납니다.</p><section class='secret' id='secret-OXdRqIZ0R8wGn3Gm'><p><em>사교가 성공한다면, 이 묶인 악마로 무엇을 할 것인가? 그들은 다음에 무엇을 소환하려 하는가?</em></p></section>"
                 },
                 "WltEUhtYwfnX8WCc": {
                     "name": "의식을 끝까지",
@@ -275,10 +275,10 @@
             "items": {
                 "IHLJjpOQyWjmCLAL": {
                     "name": "마지막 준비",
-                    "description": "<p>이 환경이 처음 강조될 때, 신들을 끌어내리려는 찬탈자로 적 한 명을 지정합니다. 찬탈자가 의식 수행에 필요한 모든 것을 모으는 동안 장기 카운트다운 (8)을 활성화합니다. 카운트다운이 발동되면 이 환경을 강조하여 「종말의 시작」 특성을 사용합니다. 이 환경이 게임에 남아 있는 동안 당신은 공포를 15점까지 보관할 수 있습니다. </p><section id='secret-5ezbFLP3BnyqQPov' class='secret'><p><em>찬탈자에게 또 무엇이 필요한가: 상위 세라핌의 심장? 고대 차원문의 돌? 두 숙적의 충성? 순수한 영혼의 부서진 눈물?</em></p></section>",
+                    "description": "<p>이 환경이 처음 강조될 때, 신들을 끌어내리려는 찬탈자로 적대자 한 명을 지정합니다. 찬탈자가 의식 수행에 필요한 모든 것을 모으는 동안 장기 카운트다운 (8)을 활성화합니다. 카운트다운이 발동되면 이 환경을 강조하여 「종말의 시작」 특성을 사용합니다. 이 환경이 게임에 남아 있는 동안 당신은 공포를 15점까지 보관할 수 있습니다. </p><section id='secret-5ezbFLP3BnyqQPov' class='secret'><p><em>찬탈자에게 또 무엇이 필요한가: 상위 세라핌의 심장? 고대 차원문의 돌? 두 숙적의 충성? 순수한 영혼의 부서진 눈물?</em></p></section>",
                     "actions": {
-                        "pnAJNmZApL1Acsj1": "<p>이 환경이 처음 강조될 때, 신들을 끌어내리려는 찬탈자로 적 한 명을 지정합니다. 찬탈자가 의식 수행에 필요한 모든 것을 모으는 동안 장기 카운트다운 (8)을 활성화합니다. 카운트다운이 발동되면 이 환경을 강조하여 「종말의 시작」 특성을 사용합니다. 이 환경이 게임에 남아 있는 동안 당신은 공포를 15점까지 보관할 수 있습니다. </p><section id='secret-5ezbFLP3BnyqQPov' class='secret'><p><em>찬탈자에게 또 무엇이 필요한가: 상위 세라핌의 심장? 고대 차원문의 돌? 두 숙적의 충성? 순수한 영혼의 부서진 눈물?</em></p></section>",
-                        "UMGyEHdQhYXyGEss": "<p>이 환경이 처음 강조될 때, 신들을 끌어내리려는 찬탈자로 적 한 명을 지정합니다. 찬탈자가 의식 수행에 필요한 모든 것을 모으는 동안 장기 카운트다운 (8)을 활성화합니다. 카운트다운이 발동되면 이 환경을 강조하여 「종말의 시작」 특성을 사용합니다. 이 환경이 게임에 남아 있는 동안 당신은 공포를 15점까지 보관할 수 있습니다. </p><section id='secret-5ezbFLP3BnyqQPov' class='secret'><p><em>찬탈자에게 또 무엇이 필요한가: 상위 세라핌의 심장? 고대 차원문의 돌? 두 숙적의 충성? 순수한 영혼의 부서진 눈물?</em></p></section>"
+                        "pnAJNmZApL1Acsj1": "<p>이 환경이 처음 강조될 때, 신들을 끌어내리려는 찬탈자로 적대자 한 명을 지정합니다. 찬탈자가 의식 수행에 필요한 모든 것을 모으는 동안 장기 카운트다운 (8)을 활성화합니다. 카운트다운이 발동되면 이 환경을 강조하여 「종말의 시작」 특성을 사용합니다. 이 환경이 게임에 남아 있는 동안 당신은 공포를 15점까지 보관할 수 있습니다. </p><section id='secret-5ezbFLP3BnyqQPov' class='secret'><p><em>찬탈자에게 또 무엇이 필요한가: 상위 세라핌의 심장? 고대 차원문의 돌? 두 숙적의 충성? 순수한 영혼의 부서진 눈물?</em></p></section>",
+                        "UMGyEHdQhYXyGEss": "<p>이 환경이 처음 강조될 때, 신들을 끌어내리려는 찬탈자로 적대자 한 명을 지정합니다. 찬탈자가 의식 수행에 필요한 모든 것을 모으는 동안 장기 카운트다운 (8)을 활성화합니다. 카운트다운이 발동되면 이 환경을 강조하여 「종말의 시작」 특성을 사용합니다. 이 환경이 게임에 남아 있는 동안 당신은 공포를 15점까지 보관할 수 있습니다. </p><section id='secret-5ezbFLP3BnyqQPov' class='secret'><p><em>찬탈자에게 또 무엇이 필요한가: 상위 세라핌의 심장? 고대 차원문의 돌? 두 숙적의 충성? 순수한 영혼의 부서진 눈물?</em></p></section>"
                     }
                 },
                 "fA2wVTxpDPaTlP9v": {
@@ -359,9 +359,9 @@
                 },
                 "gRpkBU3CLJvDnB7I": {
                     "name": "유령의 형체",
-                    "description": "<p>이곳에 나타나는 적들은 유령의 형체를 지닙니다. 그들은 물리 피해에 저항을 가지며 <strong>스트레스를 표시</strong>하여 단단한 물체를 통과해 가까운 거리로 이동할 수 있습니다. </p><section id='secret-P15mCN36Cns7QUHw' class='secret'><p><em>그들의 물리적 형체에 남은 어떤 상처가 죽음의 원인을 말해주는가? 어떤 미완의 목적이 그들을 유한자의 영역에 붙들어 두는가?</em> </p></section>",
+                    "description": "<p>이곳에 나타나는 적대자들은 유령의 형체를 지닙니다. 그들은 물리 피해에 저항을 가지며 <strong>스트레스를 표시</strong>하여 단단한 물체를 통과해 가까운 거리로 이동할 수 있습니다. </p><section id='secret-P15mCN36Cns7QUHw' class='secret'><p><em>그들의 물리적 형체에 남은 어떤 상처가 죽음의 원인을 말해주는가? 어떤 미완의 목적이 그들을 유한자의 영역에 붙들어 두는가?</em> </p></section>",
                     "actions": {
-                        "VCWX0P9kq2oGTpUo": "<p>이곳에 나타나는 적들은 유령의 형체를 지닙니다. 그들은 물리 피해에 저항을 가지며 <strong>스트레스를 표시</strong>하여 단단한 물체를 통과해 가까운 거리로 이동할 수 있습니다. </p><section id='secret-P15mCN36Cns7QUHw' class='secret'><p><em>그들의 물리적 형체에 남은 어떤 상처가 죽음의 원인을 말해주는가? 어떤 미완의 목적이 그들을 유한자의 영역에 붙들어 두는가?</em> </p></section>"
+                        "VCWX0P9kq2oGTpUo": "<p>이곳에 나타나는 적대자들은 유령의 형체를 지닙니다. 그들은 물리 피해에 저항을 가지며 <strong>스트레스를 표시</strong>하여 단단한 물체를 통과해 가까운 거리로 이동할 수 있습니다. </p><section id='secret-P15mCN36Cns7QUHw' class='secret'><p><em>그들의 물리적 형체에 남은 어떤 상처가 죽음의 원인을 말해주는가? 어떤 미완의 목적이 그들을 유한자의 영역에 붙들어 두는가?</em> </p></section>"
                     }
                 },
                 "ZA2RzxH5FlnrcYLN": {
@@ -549,7 +549,7 @@
             "items": {
                 "HG9GwIZoCDcqOEOc": {
                     "name": "결정적 전투",
-                    "description": "<p>전투가 진행되는 동안 전장에서 움직이는 것은 극히 위험합니다. PC는 움직이기 위해 민첩 굴림에 성공해야 하며, 성공해도 가까운 거리까지만 이동할 수 있습니다. 적이 근접 거리 내에 있다면, 그들은 움직임을 위한 민첩 굴림을 하기 위해 스트레스를 표시해야 합니다.</p><section id='secret-c0pwA8OrITyfhrCX' class='secret'><p><em>전투원들은 당신을 적으로 여기는가, 아니면 침입자로 간주하는가? 난전 속에서 아군과 적군을 구분할 수 있는가?</em></p></section>"
+                    "description": "<p>전투가 진행되는 동안 전장에서 움직이는 것은 극히 위험합니다. PC는 움직이기 위해 민첩 굴림에 성공해야 하며, 성공해도 가까운 거리까지만 이동할 수 있습니다. 적대자가 근접 거리 내에 있다면, 그들은 움직임을 위한 민첩 굴림을 하기 위해 스트레스를 표시해야 합니다.</p><section id='secret-c0pwA8OrITyfhrCX' class='secret'><p><em>전투원들은 당신을 적대자로 여기는가, 아니면 침입자로 간주하는가? 난전 속에서 아군과 적군을 구분할 수 있는가?</em></p></section>"
                 },
                 "fnvOiHKsd34EaLqG": {
                     "name": "약탈과 강탈",
@@ -564,7 +564,7 @@
                 },
                 "ZAIvH5CfhehW48EY": {
                     "name": "지원군",
-                    "description": "<p>지원군으로 @UUID[Compendium.daggerheart.adversaries.Actor.7ai2opemrclQe3VF]{왕국의 기사}, PC 수만큼의 3등급 미니언, 그리고 당신이 선택한 적 둘을 선택한 PC로부터 먼 거리 내에 소환합니다. 왕국의 기사는 즉시 중앙에 자리합니다. </p><section id='secret-ZNhg3daBKekzABSQ' class='secret'><p><em>그들은 누구를 먼저 공격하는가? 어떤 진형을 취하는가?</em></p></section>"
+                    "description": "<p>지원군으로 @UUID[Compendium.daggerheart.adversaries.Actor.7ai2opemrclQe3VF]{왕국의 기사}, PC 수만큼의 3등급 미니언, 그리고 당신이 선택한 적대자 둘을 선택한 PC로부터 먼 거리 내에 소환합니다. 왕국의 기사는 즉시 중앙에 자리합니다. </p><section id='secret-ZNhg3daBKekzABSQ' class='secret'><p><em>그들은 누구를 먼저 공격하는가? 어떤 진형을 취하는가?</em></p></section>"
                 }
             }
         },
