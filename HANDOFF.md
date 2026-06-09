@@ -177,9 +177,26 @@ git log --oneline       # 진행 상황 확인
 git pull                # 원격 동기화
 ```
 
-## 다음 작업: `i18n/systems/daggerheart.json` (163KB)
+## 다음 작업: `i18n/systems/daggerheart.json` (163KB / 2559줄)
 
-시스템 i18n (Babele 아님, UI 라벨). Foundry VTT 시스템 인터페이스 라벨이라 기존 게임 용어집과 100% 일치 필요. 키-값 구조이며 키는 영문, 값을 번역. 대용량이므로 청크 분할 또는 카테고리별 처리.
+시스템 i18n (Babele 아님, UI 라벨). Foundry VTT 시스템 인터페이스 라벨이라 기존 게임 용어집과 100% 일치 필요. 키-값 구조이며 키는 영문, 값을 번역.
+
+### 권장 작업 흐름
+1. `python3 -c` 로 최상위 키 카테고리 목록 추출 (TYPES / CONTROLS / DAGGERHEART.* / ACTIVEEFFECT 등)
+2. 카테고리별로 Read + Edit 청크 처리 (한 카테고리 ≈ 100~300줄)
+3. 라벨 길이는 보통 1~10단어 → environments 같은 긴 문장 번역과는 결이 다름
+4. 게임 용어집 (이 문서 하단 + classes/subclasses/environments 사용 용어) 일관성이 가장 중요
+5. 매 청크 후 `python3 -m json.tool` 로 즉시 검증
+
+### i18n 핵심 주의점
+- 키(영문)는 절대 수정 X — 값(러시아어)만 한국어로
+- `{변수명}` 자리표시자 그대로 보존 (예: `"+{step} за шаг"` → `"단계당 +{step}"`)
+- Foundry 표준 라벨 (예: `Item`, `Actor`, `ActiveEffect`)은 한국어로 자연스럽게
+- TYPES (Item/Actor types) 는 이미 ancestries/classes 등에서 쓰는 용어와 동일하게:
+  - ancestry → 혈통, community → 공동체, class → 직업, subclass → 하위직업
+  - feature → 특성, domainCard → 영역 카드, consumable → 소모품, loot → 전리품
+  - weapon → 무기, armor → 방어구, beastform → 야수 형태
+  - character → 캐릭터, companion → 동반자, adversary → 적, environment → 장소
 
 ### environments 번역 추가 용어 (계속 사용)
 - Spotlight/Spotlighted (Подсвечивать) → 강조 / 강조됨
