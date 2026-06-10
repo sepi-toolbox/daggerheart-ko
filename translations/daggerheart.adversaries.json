@@ -624,9 +624,9 @@
                 },
                 "JpSrduK3vjd9h098": {
                     "name": "그림자 사슬",
-                    "description": "<p><strong>공포를 소비</strong>하고 먼 거리 내 한 지점을 선택합니다. 그 지점으로부터 가까운 거리 내 모든 대상은 연기 같은 사슬에 <em>속박</em>되며, 힘 또는 직감 굴림에 성공해 빠져나갈 때까지 지속됩니다. 이 특성으로 속박된 대상은 행동 굴림을 하려면 희망을 소비해야 합니다.</p><p>@Template[type:circle|range:c]</p>",
+                    "description": "<p><strong>공포를 소비</strong>하고 먼 거리 내 한 지점을 선택합니다. 그 지점으로부터 가까운 거리 내 모든 대상은 연기 같은 사슬에 <em>속박</em>되며, 근력 또는 직감 굴림에 성공해 빠져나갈 때까지 지속됩니다. 이 특성으로 속박된 대상은 행동 굴림을 하려면 희망을 소비해야 합니다.</p><p>@Template[type:circle|range:c]</p>",
                     "actions": {
-                        "g4RDHrY0AEYXjH52": "<p><strong>공포를 소비</strong>하고 먼 거리 내 한 지점을 선택합니다. 그 지점으로부터 가까운 거리 내 모든 대상은 연기 같은 사슬에 <em>속박</em>되며, 힘 또는 직감 굴림에 성공해 빠져나갈 때까지 지속됩니다. 이 특성으로 속박된 대상은 행동 굴림을 하려면 희망을 소비해야 합니다.</p><p>@Template[type:circle|range:c]</p>"
+                        "g4RDHrY0AEYXjH52": "<p><strong>공포를 소비</strong>하고 먼 거리 내 한 지점을 선택합니다. 그 지점으로부터 가까운 거리 내 모든 대상은 연기 같은 사슬에 <em>속박</em>되며, 근력 또는 직감 굴림에 성공해 빠져나갈 때까지 지속됩니다. 이 특성으로 속박된 대상은 행동 굴림을 하려면 희망을 소비해야 합니다.</p><p>@Template[type:circle|range:c]</p>"
                     }
                 },
                 "x6FbcrfOscb3er6P": {
@@ -1590,9 +1590,9 @@
                 },
                 "bcwFQeuU6ZfIGjau": {
                     "name": "익사의 손아귀",
-                    "description": "<p><strong>공포를 소비</strong>하여 매우 가까운 거리 내 모든 대상을 공격합니다. 원소의 공격이 성공한 대상은 익사하기 시작하며 <em>속박</em>되고 <em>취약</em> 상태가 됩니다. 대상은 힘 또는 직감 굴림에 성공해 두 상태 모두를 종료시킬 수 있습니다.</p><p>@Template[type:emanation|range:vc]</p>",
+                    "description": "<p><strong>공포를 소비</strong>하여 매우 가까운 거리 내 모든 대상을 공격합니다. 원소의 공격이 성공한 대상은 익사하기 시작하며 <em>속박</em>되고 <em>취약</em> 상태가 됩니다. 대상은 근력 또는 직감 굴림에 성공해 두 상태 모두를 종료시킬 수 있습니다.</p><p>@Template[type:emanation|range:vc]</p>",
                     "actions": {
-                        "ooYbiLrYjoWXIfe9": "<p><strong>공포를 소비</strong>하여 매우 가까운 거리 내 모든 대상을 공격합니다. 원소의 공격이 성공한 대상은 익사하기 시작하며 <em>속박</em>되고 <em>취약</em> 상태가 됩니다. 대상은 힘 또는 직감 굴림에 성공해 두 상태 모두를 종료시킬 수 있습니다.</p><p>@Template[type:emanation|range:vc]</p>"
+                        "ooYbiLrYjoWXIfe9": "<p><strong>공포를 소비</strong>하여 매우 가까운 거리 내 모든 대상을 공격합니다. 원소의 공격이 성공한 대상은 익사하기 시작하며 <em>속박</em>되고 <em>취약</em> 상태가 됩니다. 대상은 근력 또는 직감 굴림에 성공해 두 상태 모두를 종료시킬 수 있습니다.</p><p>@Template[type:emanation|range:vc]</p>"
                     }
                 },
                 "BGE42W1XPd0vpimR": {
