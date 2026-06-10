@@ -10,11 +10,11 @@
     },
     "Armor Stitcher": {
       "name": "방어구 봉합기",
-      "description": "<p>이 봉합 기계를 사용해 희망을 임의의 수만큼 소모하여 같은 수의 방어구 슬롯을 해제할 수 있습니다.</p>"
+      "description": "<p>이 봉합 기계를 사용해 희망을 임의의 수만큼 소모하여 같은 수의 방어 슬롯을 해제할 수 있습니다.</p>"
     },
     "Attune Potion": {
       "name": "조율의 물약",
-      "description": "<p>다음 본능 굴림에 +1 보너스를 받습니다.</p>"
+      "description": "<p>다음 직감 굴림에 +1 보너스를 받습니다.</p>"
     },
     "Blinding Orb": {
       "name": "실명의 구체",
@@ -26,7 +26,7 @@
     },
     "Bolster Potion": {
       "name": "강화의 물약",
-      "description": "<p>다음 힘 굴림에 +1 보너스를 받습니다.</p>"
+      "description": "<p>다음 근력 굴림에 +1 보너스를 받습니다.</p>"
     },
     "Bonding Honey": {
       "name": "접합 꿀",
@@ -42,7 +42,7 @@
     },
     "Charm Potion": {
       "name": "매혹의 물약",
-      "description": "<p>다음 존재감 굴림에 +1 보너스를 받습니다.</p>"
+      "description": "<p>다음 매력 굴림에 +1 보너스를 받습니다.</p>"
     },
     "Circle of the Void": {
       "name": "공허의 원",
@@ -50,15 +50,15 @@
     },
     "Control Potion": {
       "name": "제어의 물약",
-      "description": "<p>다음 손재주 굴림에 +1 보너스를 받습니다.</p>"
+      "description": "<p>다음 기교 굴림에 +1 보너스를 받습니다.</p>"
     },
     "Death Tea": {
       "name": "죽음의 차",
-      "description": "<p>이 차를 마시면 결정타 공격이 성공할 경우 대상을 즉사시킵니다. 다음 긴 휴식 전까지 결정타 공격이 성공하지 못하면 당신은 죽습니다.</p>"
+      "description": "<p>이 차를 마시면 치명적 성공 공격이 성공할 경우 대상을 즉사시킵니다. 다음 긴 휴식 전까지 치명적 성공 공격이 성공하지 못하면 당신은 죽습니다.</p>"
     },
     "Dragonbloom Tea": {
       "name": "드래곤블룸 차",
-      "description": "<p>이 차를 마시면 화염의 숨결을 사용할 수 있습니다. 당신 앞에 있는 가까운 거리 내의 모든 적대자에 대해 본능 굴림을 합니다. 성공한 대상은 당신의 숙련도를 사용한 d20의 물리 피해를 받습니다.</p>"
+      "description": "<p>이 차를 마시면 화염의 숨결을 사용할 수 있습니다. 당신 앞에 있는 가까운 거리 내의 모든 적대자에 대해 직감 굴림을 합니다. 성공한 대상은 당신의 숙련도를 사용한 d20의 물리 피해를 받습니다.</p>"
     },
     "Dripfang Poison": {
       "name": "드립팽 독",
@@ -86,7 +86,7 @@
     },
     "Growing Potion": {
       "name": "성장의 물약",
-      "description": "<p>이 물약을 마시면 이 형태를 떠나기로 결정하거나 다음 휴식을 시작할 때까지 두 배로 커집니다. 이 형태에서 힘 +2, 숙련도 +1 보너스를 받습니다.</p>"
+      "description": "<p>이 물약을 마시면 이 형태를 떠나기로 결정하거나 다음 휴식을 시작할 때까지 두 배로 커집니다. 이 형태에서 근력 +2, 숙련도 +1 보너스를 받습니다.</p>"
     },
     "Health Potion": {
       "name": "치유의 물약",
@@ -94,7 +94,7 @@
     },
     "Homet’s Secret Potion": {
       "name": "호메트의 비밀 물약",
-      "description": "<p>이 물약을 마신 뒤, 다음에 성공한 공격은 결정타가 됩니다.</p>"
+      "description": "<p>이 물약을 마신 뒤, 다음에 성공한 공격은 치명적 성공가 됩니다.</p>"
     },
     "Hopehold Flare": {
       "name": "호프홀드 신호탄",
@@ -102,7 +102,7 @@
     },
     "Improved Arcane Shard": {
       "name": "개량 비전 파편",
-      "description": "<p>손재주 굴림을 하여 이 파편을 먼 거리 내의 적대자 무리에게 던질 수 있습니다. 성공한 대상은 2d20의 마법 피해를 받습니다.</p>"
+      "description": "<p>기교 굴림을 하여 이 파편을 먼 거리 내의 적대자 무리에게 던질 수 있습니다. 성공한 대상은 2d20의 마법 피해를 받습니다.</p>"
     },
     "Improved Grindletooth Venom": {
       "name": "개량 그라인들투스 독액",
@@ -110,7 +110,7 @@
     },
     "Jar of Lost Voices": {
       "name": "잃어버린 목소리의 항아리",
-      "description": "<p>이 항아리를 열어 당신의 본능과 같은 수의 분 동안 귀를 멍하게 하는 목소리의 메아리를 풀어놓을 수 있습니다. 먼 거리 내의 존재 중 이 소리에 대비하지 않은 자들은 6d8의 마법 피해를 받습니다.</p><p>@Template[type:emanation|range:f]</p>"
+      "description": "<p>이 항아리를 열어 당신의 직감과 같은 수의 분 동안 귀를 멍하게 하는 목소리의 메아리를 풀어놓을 수 있습니다. 먼 거리 내의 존재 중 이 소리에 대비하지 않은 자들은 6d8의 마법 피해를 받습니다.</p><p>@Template[type:emanation|range:f]</p>"
     },
     "Jumping Root": {
       "name": "도약의 뿌리",
@@ -122,23 +122,23 @@
     },
     "Major Arcane Shard": {
       "name": "강력한 비전 파편",
-      "description": "<p>손재주 굴림을 하여 이 파편을 먼 거리 내의 적대자 무리에게 던질 수 있습니다. 성공한 대상은 4d20의 마법 피해를 받습니다.</p>"
+      "description": "<p>기교 굴림을 하여 이 파편을 먼 거리 내의 적대자 무리에게 던질 수 있습니다. 성공한 대상은 4d20의 마법 피해를 받습니다.</p>"
     },
     "Major Attune Potion": {
       "name": "강력한 조율의 물약",
-      "description": "<p>다음 휴식까지 본능에 +1 보너스를 받습니다.</p>"
+      "description": "<p>다음 휴식까지 직감에 +1 보너스를 받습니다.</p>"
     },
     "Major Bolster Potion": {
       "name": "강력한 강화의 물약",
-      "description": "<p>다음 휴식까지 힘에 +1 보너스를 받습니다.</p>"
+      "description": "<p>다음 휴식까지 근력에 +1 보너스를 받습니다.</p>"
     },
     "Major Charm Potion": {
       "name": "강력한 매혹의 물약",
-      "description": "<p>다음 휴식까지 존재감에 +1 보너스를 받습니다.</p>"
+      "description": "<p>다음 휴식까지 매력에 +1 보너스를 받습니다.</p>"
     },
     "Major Control Potion": {
       "name": "강력한 제어의 물약",
-      "description": "<p>다음 휴식까지 손재주에 +1 보너스를 받습니다.</p>"
+      "description": "<p>다음 휴식까지 기교에 +1 보너스를 받습니다.</p>"
     },
     "Major Enlighten Potion": {
       "name": "강력한 깨달음의 물약",
@@ -226,7 +226,7 @@
     },
     "Unstable Arcane Shard": {
       "name": "불안정한 비전 파편",
-      "description": "<p>손재주 굴림을 하여 이 파편을 먼 거리 내의 적대자 무리에게 던질 수 있습니다. 성공한 대상은 1d20의 마법 피해를 받습니다.</p>"
+      "description": "<p>기교 굴림을 하여 이 파편을 먼 거리 내의 적대자 무리에게 던질 수 있습니다. 성공한 대상은 1d20의 마법 피해를 받습니다.</p>"
     },
     "Varik Leaves": {
       "name": "바릭의 잎",

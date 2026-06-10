@@ -10,11 +10,11 @@
     },
     "Aantari Bow": {
       "name": "아안타리 활",
-      "description": "<p><strong>정확함</strong>: 공격 굴림에 +1</p>"
+      "description": "<p><strong>정확함</strong>: 명중 굴림에 +1</p>"
     },
     "Advanced Arcane-Frame Wheelchair": {
       "name": "고급 비전 프레임 휠체어",
-      "description": "<p><strong>정확함</strong>: 공격 굴림에 +1</p>"
+      "description": "<p><strong>정확함</strong>: 명중 굴림에 +1</p>"
     },
     "Advanced Arcane Gauntlets": {
       "name": "고급 비전 건틀릿"
@@ -24,7 +24,7 @@
     },
     "Advanced Broadsword": {
       "name": "고급 브로드소드",
-      "description": "<p><strong>정확함</strong>: 공격 굴림에 +1</p>"
+      "description": "<p><strong>정확함</strong>: 명중 굴림에 +1</p>"
     },
     "Advanced Crossbow": {
       "name": "고급 석궁"
@@ -55,7 +55,7 @@
     },
     "Advanced Halberd": {
       "name": "고급 미늘창",
-      "description": "<p><strong>거추장스러움</strong>: 손재주 -1</p>"
+      "description": "<p><strong>거추장스러움</strong>: 기교 -1</p>"
     },
     "Advanced Hallowed Axe": {
       "name": "고급 신성 도끼"
@@ -76,7 +76,7 @@
     },
     "Advanced Longbow": {
       "name": "고급 장궁",
-      "description": "<p><strong>거추장스러움</strong>: 손재주 -1</p>"
+      "description": "<p><strong>거추장스러움</strong>: 기교 -1</p>"
     },
     "Advanced Longsword": {
       "name": "고급 롱소드"
@@ -97,11 +97,11 @@
     },
     "Advanced Round Shield": {
       "name": "고급 원형 방패",
-      "description": "<p><strong>방호</strong>: 캐릭터 등급을 방어 점수에 추가합니다.</p>"
+      "description": "<p><strong>방호</strong>: 캐릭터 등급을 방어도에 추가합니다.</p>"
     },
     "Advanced Scepter": {
       "name": "고급 홀",
-      "description": "<p><strong>만능</strong>: 이 무기는 다음 능력치로도 사용할 수 있습니다: 존재감, 근접, d8+4</p>"
+      "description": "<p><strong>만능</strong>: 이 무기는 다음 능력치로도 사용할 수 있습니다: 매력, 근접, d8+4</p>"
     },
     "Advanced Shortbow": {
       "name": "고급 단궁"
@@ -119,11 +119,11 @@
     },
     "Advanced Spear": {
       "name": "고급 창",
-      "description": "<p><strong>거추장스러움</strong>: 손재주 -1</p>"
+      "description": "<p><strong>거추장스러움</strong>: 기교 -1</p>"
     },
     "Advanced Tower Shield": {
       "name": "고급 타워 실드",
-      "description": "<p><strong>장벽</strong>: 방어 점수에 무기 등급 +1; 회피 -1</p>"
+      "description": "<p><strong>장벽</strong>: 방어도에 무기 등급 +1; 회피 -1</p>"
     },
     "Advanced Wand": {
       "name": "고급 마법봉"
@@ -138,7 +138,7 @@
     },
     "Arcane-Frame Wheelchair": {
       "name": "비전 프레임 휠체어",
-      "description": "<p><strong>정확함</strong>: 공격 굴림에 +1</p>"
+      "description": "<p><strong>정확함</strong>: 명중 굴림에 +1</p>"
     },
     "Arcane Gauntlets": {
       "name": "비전 건틀릿"
@@ -168,19 +168,19 @@
     },
     "Braveshield": {
       "name": "용기의 방패",
-      "description": "<p><strong>보호</strong>: 방어구 슬롯을 표시할 때, 그 슬롯은 같은 피해를 받은 자신과 근접 거리 내 모든 동료에게도 피해를 감소시킵니다.</p>"
+      "description": "<p><strong>보호</strong>: 방어 슬롯을 표시할 때, 그 슬롯은 같은 피해를 받은 자신과 근접 거리 내 모든 동료에게도 피해를 감소시킵니다.</p>"
     },
     "Bravesword": {
       "name": "용기의 검",
-      "description": "<p><strong>용감함</strong>: 회피 -1; 큰 피해 한계치에 무기 등급 추가</p>"
+      "description": "<p><strong>용감함</strong>: 회피 -1; 중대한 피해 임계치에 무기 등급 추가</p>"
     },
     "Broadsword": {
       "name": "브로드소드",
-      "description": "<p><strong>정확함</strong>: 공격 굴림에 +1</p>"
+      "description": "<p><strong>정확함</strong>: 명중 굴림에 +1</p>"
     },
     "Buckler": {
       "name": "버클러",
-      "description": "<p><strong>편향</strong>: 공격받을 때 방어구 슬롯을 표시하여 그 공격에 대한 방어 점수와 같은 회피 보너스를 받을 수 있습니다.</p>"
+      "description": "<p><strong>편향</strong>: 공격받을 때 방어 슬롯을 표시하여 그 공격에 대한 방어도와 같은 회피 보너스를 받을 수 있습니다.</p>"
     },
     "Casting Sword": {
       "name": "캐스팅 검",
@@ -216,7 +216,7 @@
     },
     "Ego Blade": {
       "name": "에고 검",
-      "description": "<p><strong>거만함</strong>: 이 무기를 사용하려면 존재감이 0 이하여야 합니다.</p>"
+      "description": "<p><strong>거만함</strong>: 이 무기를 사용하려면 매력이 0 이하여야 합니다.</p>"
     },
     "Elder Bow": {
       "name": "장로의 활",
@@ -228,7 +228,7 @@
     },
     "Finehair Bow": {
       "name": "고운 머리카락 활",
-      "description": "<p><strong>정확함</strong>: 공격 굴림에 +1</p>"
+      "description": "<p><strong>정확함</strong>: 명중 굴림에 +1</p>"
     },
     "Firestaff": {
       "name": "화염 지팡이",
@@ -278,18 +278,18 @@
     },
     "Halberd": {
       "name": "미늘창",
-      "description": "<p><strong>거추장스러움</strong>: 손재주 -1</p>"
+      "description": "<p><strong>거추장스러움</strong>: 기교 -1</p>"
     },
     "Hallowed Axe": {
       "name": "신성 도끼"
     },
     "Hammer of Exota": {
       "name": "엑소타의 망치",
-      "description": "<p><strong>분출</strong>: 근접 거리 내 대상에 대한 공격이 성공하면, 매우 가까운 거리 내의 다른 모든 적대자는 반응 굴림(14)에 성공해야 하며 실패 시 피해의 절반을 받습니다.</p>"
+      "description": "<p><strong>분출</strong>: 근접 거리 내 대상에 대한 공격이 성공하면, 매우 가까운 거리 내의 다른 모든 적대자는 대응 굴림(14)에 성공해야 하며 실패 시 피해의 절반을 받습니다.</p>"
     },
     "Hammer of Wrath": {
       "name": "분노의 망치",
-      "description": "<p><strong>황폐</strong>: 공격 굴림을 하기 전에 스트레스를 표시하여 d20을 피해 주사위로 사용할 수 있습니다.</p>"
+      "description": "<p><strong>황폐</strong>: 명중 굴림을 하기 전에 스트레스를 표시하여 d20을 피해 주사위로 사용할 수 있습니다.</p>"
     },
     "Hand Cannon": {
       "name": "핸드 캐논",
@@ -303,7 +303,7 @@
     },
     "Hand Sling": {
       "name": "손 투석기",
-      "description": "<p><strong>만능</strong>: 이 무기는 다음 능력치로도 사용할 수 있습니다: 손재주, 가까운 거리, d8+4</p>"
+      "description": "<p><strong>만능</strong>: 이 무기는 다음 능력치로도 사용할 수 있습니다: 기교, 가까운 거리, d8+4</p>"
     },
     "Heavy-Frame Wheelchair": {
       "name": "중량 프레임 휠체어",
@@ -319,7 +319,7 @@
     },
     "Improved Arcane-Frame Wheelchair": {
       "name": "개량 비전 프레임 휠체어",
-      "description": "<p><strong>정확함</strong>: 공격 굴림에 +1</p>"
+      "description": "<p><strong>정확함</strong>: 명중 굴림에 +1</p>"
     },
     "Improved Arcane Gauntlets": {
       "name": "개량 비전 건틀릿"
@@ -329,7 +329,7 @@
     },
     "Improved Broadsword": {
       "name": "개량 브로드소드",
-      "description": "<p><strong>정확함</strong>: 공격 굴림에 +1</p>"
+      "description": "<p><strong>정확함</strong>: 명중 굴림에 +1</p>"
     },
     "Improved Crossbow": {
       "name": "개량 석궁"
@@ -360,7 +360,7 @@
     },
     "Improved Halberd": {
       "name": "개량 미늘창",
-      "description": "<p><strong>거추장스러움</strong>: 손재주 -1</p>"
+      "description": "<p><strong>거추장스러움</strong>: 기교 -1</p>"
     },
     "Improved Hallowed Axe": {
       "name": "개량 신성 도끼"
@@ -381,7 +381,7 @@
     },
     "Improved Longbow": {
       "name": "개량 장궁",
-      "description": "<p><strong>거추장스러움</strong>: 손재주 -1</p>"
+      "description": "<p><strong>거추장스러움</strong>: 기교 -1</p>"
     },
     "Improved Longsword": {
       "name": "개량 롱소드"
@@ -402,11 +402,11 @@
     },
     "Improved Round Shield": {
       "name": "개량 원형 방패",
-      "description": "<p><strong>방호</strong>: 캐릭터 등급을 방어 점수에 추가합니다.</p>"
+      "description": "<p><strong>방호</strong>: 캐릭터 등급을 방어도에 추가합니다.</p>"
     },
     "Improved Scepter": {
       "name": "개량 홀",
-      "description": "<p><strong>만능</strong>: 이 무기는 다음 능력치로도 사용할 수 있습니다: 존재감, 근접, d8+3</p>"
+      "description": "<p><strong>만능</strong>: 이 무기는 다음 능력치로도 사용할 수 있습니다: 매력, 근접, d8+3</p>"
     },
     "Improved Shortbow": {
       "name": "개량 단궁"
@@ -424,11 +424,11 @@
     },
     "Improved Spear": {
       "name": "개량 창",
-      "description": "<p><strong>거추장스러움</strong>: 손재주 -1</p>"
+      "description": "<p><strong>거추장스러움</strong>: 기교 -1</p>"
     },
     "Improved Tower Shield": {
       "name": "개량 타워 실드",
-      "description": "<p><strong>장벽</strong>: 방어 점수에 무기 등급 +1; 회피 -1</p>"
+      "description": "<p><strong>장벽</strong>: 방어도에 무기 등급 +1; 회피 -1</p>"
     },
     "Improved Wand": {
       "name": "개량 마법봉"
@@ -443,7 +443,7 @@
     },
     "Keeper's Staff": {
       "name": "수호자의 지팡이",
-      "description": "<p><strong>정확함</strong>: 공격 굴림에 +1</p>"
+      "description": "<p><strong>정확함</strong>: 명중 굴림에 +1</p>"
     },
     "Knuckle Blades": {
       "name": "너클 칼날",
@@ -455,11 +455,11 @@
     },
     "Labrys Axe": {
       "name": "라브리스 도끼",
-      "description": "<p><strong>방호</strong>: 캐릭터 등급을 방어 점수에 추가합니다.</p>"
+      "description": "<p><strong>방호</strong>: 캐릭터 등급을 방어도에 추가합니다.</p>"
     },
     "Legendary Arcane-Frame Wheelchair": {
       "name": "전설의 비전 프레임 휠체어",
-      "description": "<p><strong>정확함</strong>: 공격 굴림에 +1</p>"
+      "description": "<p><strong>정확함</strong>: 명중 굴림에 +1</p>"
     },
     "Legendary Arcane Gauntlets": {
       "name": "전설의 비전 건틀릿"
@@ -469,7 +469,7 @@
     },
     "Legendary Broadsword": {
       "name": "전설의 브로드소드",
-      "description": "<p><strong>정확함</strong>: 공격 굴림에 +1</p>"
+      "description": "<p><strong>정확함</strong>: 명중 굴림에 +1</p>"
     },
     "Legendary Crossbow": {
       "name": "전설의 석궁"
@@ -500,7 +500,7 @@
     },
     "Legendary Halberd": {
       "name": "전설의 미늘창",
-      "description": "<p><strong>거추장스러움</strong>: 손재주 -1</p>"
+      "description": "<p><strong>거추장스러움</strong>: 기교 -1</p>"
     },
     "Legendary Hallowed Axe": {
       "name": "전설의 신성 도끼"
@@ -521,7 +521,7 @@
     },
     "Legendary Longbow": {
       "name": "전설의 장궁",
-      "description": "<p><strong>거추장스러움</strong>: 손재주 -1</p>"
+      "description": "<p><strong>거추장스러움</strong>: 기교 -1</p>"
     },
     "Legendary Longsword": {
       "name": "전설의 롱소드"
@@ -542,11 +542,11 @@
     },
     "Legendary Round Shield": {
       "name": "전설의 원형 방패",
-      "description": "<p><strong>방호</strong>: 캐릭터 등급을 방어 점수에 추가합니다.</p>"
+      "description": "<p><strong>방호</strong>: 캐릭터 등급을 방어도에 추가합니다.</p>"
     },
     "Legendary Scepter": {
       "name": "전설의 홀",
-      "description": "<p><strong>만능</strong>: 이 무기는 다음 능력치로도 사용할 수 있습니다: 존재감, 근접, d8+6</p>"
+      "description": "<p><strong>만능</strong>: 이 무기는 다음 능력치로도 사용할 수 있습니다: 매력, 근접, d8+6</p>"
     },
     "Legendary Shortbow": {
       "name": "전설의 단궁"
@@ -564,11 +564,11 @@
     },
     "Legendary Spear": {
       "name": "전설의 창",
-      "description": "<p><strong>거추장스러움</strong>: 손재주 -1</p>"
+      "description": "<p><strong>거추장스러움</strong>: 기교 -1</p>"
     },
     "Legendary Tower Shield": {
       "name": "전설의 타워 실드",
-      "description": "<p><strong>장벽</strong>: 방어 점수에 무기 등급 +1; 회피 -1</p>"
+      "description": "<p><strong>장벽</strong>: 방어도에 무기 등급 +1; 회피 -1</p>"
     },
     "Legendary Wand": {
       "name": "전설의 마법봉"
@@ -587,7 +587,7 @@
     },
     "Longbow": {
       "name": "장궁",
-      "description": "<p><strong>거추장스러움</strong>: 손재주 -1</p>"
+      "description": "<p><strong>거추장스러움</strong>: 기교 -1</p>"
     },
     "Longsword": {
       "name": "롱소드"
@@ -605,7 +605,7 @@
     },
     "Meridian Cutlass": {
       "name": "메리디언 커틀러스",
-      "description": "<p><strong>결투</strong>: 대상의 가까운 거리 내에 다른 존재가 없으면, 그 대상에 대한 공격에 유리를 받습니다.</p>"
+      "description": "<p><strong>결투</strong>: 대상의 가까운 거리 내에 다른 존재가 없으면, 그 대상에 대한 공격에 이점를 받습니다.</p>"
     },
     "Midas Scythe": {
       "name": "미다스의 낫",
@@ -648,7 +648,7 @@
     },
     "Round Shield": {
       "name": "원형 방패",
-      "description": "<p><strong>방호</strong>: 캐릭터 등급을 방어 점수에 추가합니다.</p>"
+      "description": "<p><strong>방호</strong>: 캐릭터 등급을 방어도에 추가합니다.</p>"
     },
     "Runes of Ruination": {
       "name": "파멸의 룬",
@@ -656,7 +656,7 @@
     },
     "Scepter": {
       "name": "홀",
-      "description": "<p><strong>만능</strong>: 이 무기는 다음 능력치로도 사용할 수 있습니다: 존재감, 근접, d8+6</p>"
+      "description": "<p><strong>만능</strong>: 이 무기는 다음 능력치로도 사용할 수 있습니다: 매력, 근접, d8+6</p>"
     },
     "Scepter of Elias": {
       "name": "엘리아스의 홀",
@@ -686,7 +686,7 @@
     },
     "Spear": {
       "name": "창",
-      "description": "<p><strong>거추장스러움</strong>: 손재주 -1</p>"
+      "description": "<p><strong>거추장스러움</strong>: 기교 -1</p>"
     },
     "Spiked Bow": {
       "name": "가시 활",
@@ -694,7 +694,7 @@
     },
     "Spiked Shield": {
       "name": "가시 방패",
-      "description": "<p><strong>이중 역할</strong>: 방어 점수 +1; 근접 거리 내 대상에 대한 주 무기 피해 +1</p>"
+      "description": "<p><strong>이중 역할</strong>: 방어도 +1; 근접 거리 내 대상에 대한 주 무기 피해 +1</p>"
     },
     "Steelforged Halberd": {
       "name": "강철 단조 미늘창",
@@ -714,26 +714,26 @@
     },
     "Thistlebow": {
       "name": "엉겅퀴 활",
-      "description": "<p><strong>정확함</strong>: 공격 굴림에 +1</p>"
+      "description": "<p><strong>정확함</strong>: 명중 굴림에 +1</p>"
     },
     "Tower Shield": {
       "name": "타워 실드",
-      "description": "<p><strong>장벽</strong>: 방어 점수에 무기 등급 +1; 회피 -1</p>"
+      "description": "<p><strong>장벽</strong>: 방어도에 무기 등급 +1; 회피 -1</p>"
     },
     "Urok Broadsword": {
       "name": "우록 브로드소드",
-      "description": "<p><strong>치명</strong>: 큰 피해를 입힐 때 대상은 추가로 1 HP를 표시해야 합니다.</p>"
+      "description": "<p><strong>치명</strong>: 중대한 피해를 입힐 때 대상은 추가로 1 HP를 표시해야 합니다.</p>"
     },
     "Wand": {
       "name": "마법봉"
     },
     "Wand of Enthrallment": {
       "name": "매혹의 마법봉",
-      "description": "<p><strong>설득</strong>: 존재감 굴림에 +2 보너스를 받습니다.</p>"
+      "description": "<p><strong>설득</strong>: 매력 굴림에 +2 보너스를 받습니다.</p>"
     },
     "Wand of Essek": {
       "name": "에세크의 마법봉",
-      "description": "<p><strong>시간 굴절</strong>: 공격 굴림 이후에 공격 대상을 선택합니다.</p>"
+      "description": "<p><strong>시간 굴절</strong>: 명중 굴림 이후에 공격 대상을 선택합니다.</p>"
     },
     "Warhammer": {
       "name": "워해머",
@@ -741,7 +741,7 @@
     },
     "War Scythe": {
       "name": "전쟁 낫",
-      "description": "<p><strong>정확함</strong>: 공격 굴림에 +1</p>"
+      "description": "<p><strong>정확함</strong>: 명중 굴림에 +1</p>"
     },
     "Whip": {
       "name": "채찍",
@@ -749,7 +749,7 @@
     },
     "Widogast Pendant": {
       "name": "위도가스트 펜던트",
-      "description": "<p><strong>시간 굴절</strong>: 공격 굴림 이후에 공격 대상을 선택합니다.</p>"
+      "description": "<p><strong>시간 굴절</strong>: 명중 굴림 이후에 공격 대상을 선택합니다.</p>"
     },
     "Yutari Bloodbow": {
       "name": "유타리 핏빛 활",

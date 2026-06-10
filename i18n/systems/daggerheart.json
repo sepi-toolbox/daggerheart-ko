@@ -3,10 +3,10 @@
         "Item": {
             "ancestry": "혈통",
             "community": "공동체",
-            "class": "직업",
-            "subclass": "하위직업",
+            "class": "클래스",
+            "subclass": "서브클래스",
             "feature": "특성",
-            "domainCard": "영역 카드",
+            "domainCard": "권역 카드",
             "consumable": "소모품",
             "loot": "전리품",
             "weapon": "무기",
@@ -126,7 +126,7 @@
                                 "label": "피해"
                             },
                             "type": {
-                                "label": "피해 종류"
+                                "label": "피해 유형"
                             }
                         }
                     },
@@ -187,8 +187,8 @@
             },
             "Character": {
                 "advantageSources": {
-                    "label": "유리 출처",
-                    "hint": "캐릭터가 어떤 상황에서 유리를 갖는지에 대한 단어나 짧은 메모를 추가하세요."
+                    "label": "이점 출처",
+                    "hint": "캐릭터가 어떤 상황에서 이점를 갖는지에 대한 단어나 짧은 메모를 추가하세요."
                 },
                 "age": "나이",
                 "companionFeatures": "동반자 특성",
@@ -202,8 +202,8 @@
                     "useItem": "아이템 사용"
                 },
                 "disadvantageSources": {
-                    "label": "불리 출처",
-                    "hint": "캐릭터가 어떤 상황에서 불리를 갖는지에 대한 단어나 짧은 메모를 추가하세요."
+                    "label": "불리점 출처",
+                    "hint": "캐릭터가 어떤 상황에서 불리점를 갖는지에 대한 단어나 짧은 메모를 추가하세요."
                 },
                 "faith": "신앙",
                 "levelUp": "레벨업 가능",
@@ -220,12 +220,12 @@
                     "text": "삭제하려는 경험에는 레벨업 관련 데이터가 포함되어 있습니다('levelupAuto' 자동화 설정이 켜진 상태로 레벨업했기 때문일 가능성이 큽니다). 이를 삭제하면 해당 자동화 데이터도 함께 삭제됩니다. 계속하시겠습니까?"
                 },
                 "manualMulticlass": {
-                    "title": "다중직업",
-                    "text": "이 직업을 다중직업으로 추가하시겠습니까?"
+                    "title": "다중클래스",
+                    "text": "이 클래스을 다중클래스으로 추가하시겠습니까?"
                 },
                 "manualMulticlassSubclass": {
-                    "title": "다중직업의 하위직업",
-                    "text": "이 하위직업을 다중직업의 하위직업으로 추가하시겠습니까?"
+                    "title": "다중클래스의 서브클래스",
+                    "text": "이 서브클래스을 다중클래스의 서브클래스으로 추가하시겠습니까?"
                 },
                 "cannotRemoveCoreExperience": "자동 레벨업을 사용 중입니다. 성장 규칙에 따라 얻은 경험은 삭제할 수 없습니다.",
                 "companionLevelup": {
@@ -292,10 +292,10 @@
                 "tabs": {
                     "ancestry": "혈통",
                     "community": "공동체",
-                    "class": "직업",
+                    "class": "클래스",
                     "experience": "경험",
                     "traits": "능력치",
-                    "domainCards": "영역 카드",
+                    "domainCards": "권역 카드",
                     "equipment": "장비"
                 },
                 "ancestryNamePlaceholder": "혈통 이름",
@@ -310,11 +310,11 @@
                 "selectPrimaryAncestry": "주 혈통 선택",
                 "selectSecondaryAncestry": "부 혈통 선택",
                 "selectArmor": "방어구 선택",
-                "selectClass": "직업 선택",
+                "selectClass": "클래스 선택",
                 "selectCommunity": "공동체 선택",
                 "selectPrimaryWeapon": "주 무기 선택",
                 "selectSecondaryWeapon": "보조 무기 선택",
-                "selectSubclass": "하위직업 선택",
+                "selectSubclass": "서브클래스 선택",
                 "startingItems": "시작 아이템",
                 "story": "이야기",
                 "suggestedArmor": "추천 방어구",
@@ -386,7 +386,7 @@
                 "text": "{name}을(를) 정말 삭제하시겠습니까?"
             },
             "DamageReduction": {
-                "armorMarks": "방어구 슬롯 표시",
+                "armorMarks": "방어 슬롯 표시",
                 "armorWithStress": "추가 슬롯을 사용하려면 스트레스 1을 소모하세요",
                 "thresholdImmunities": "한계치 면역",
                 "stress": "스트레스",
@@ -397,8 +397,8 @@
             },
             "DeathMove": {
                 "selectMove": "행동 선택",
-                "takeMove": "죽음의 행동 실행",
-                "title": "{actor} - 죽음의 행동"
+                "takeMove": "죽음 동작 실행",
+                "title": "{actor} - 죽음 동작"
             },
             "Downtime": {
                 "longRest": {
@@ -413,7 +413,7 @@
                         "name": "준비"
                     },
                     "repairArmor": {
-                        "description": "방어구를 어떻게 정비하는지 묘사하고 모든 방어구 슬롯을 비우세요. 동료의 방어구에도 할 수 있습니다.",
+                        "description": "방어구를 어떻게 정비하는지 묘사하고 모든 방어 슬롯을 비우세요. 동료의 방어구에도 할 수 있습니다.",
                         "name": "방어구 수리"
                     },
                     "tendToWounds": {
@@ -438,7 +438,7 @@
                     },
                     "repairArmor": {
                         "name": "방어구 수리",
-                        "description": "방어구를 어떻게 빠르게 수리하는지 묘사한 뒤 1d4 + 레벨만큼 방어구 슬롯을 비우세요. 동료의 방어구에도 할 수 있습니다."
+                        "description": "방어구를 어떻게 빠르게 수리하는지 묘사한 뒤 1d4 + 레벨만큼 방어 슬롯을 비우세요. 동료의 방어구에도 할 수 있습니다."
                     },
                     "prepare": {
                         "name": "준비",
@@ -463,7 +463,7 @@
                     },
                     "armored": {
                         "name": "장갑",
-                        "description": "동반자가 피해를 받을 때 동반자의 스트레스 슬롯 대신 당신의 방어구 슬롯 하나에 표시할 수 있습니다."
+                        "description": "동반자가 피해를 받을 때 동반자의 스트레스 슬롯 대신 당신의 방어 슬롯 하나에 표시할 수 있습니다."
                     },
                     "bonded": {
                         "name": "유대",
@@ -475,11 +475,11 @@
                     "hitPointSlots": "영구적으로 HP 슬롯 하나를 얻습니다.",
                     "stressSlots": "영구적으로 스트레스 슬롯 하나를 얻습니다.",
                     "experiences": "영구적으로 경험 두 개에 +1 보너스를 받습니다.",
-                    "domainCard": "당신이 사용 가능한 영역에서 자신의 레벨 이하의 영역 카드를 하나 추가로 선택하세요 (최대 레벨 {maxLevel})",
+                    "domainCard": "당신이 사용 가능한 영역에서 자신의 레벨 이하의 권역 카드를 하나 추가로 선택하세요 (최대 레벨 {maxLevel})",
                     "evasion": "영구적으로 회피에 +1 보너스를 얻습니다.",
                     "proficiency": "숙련도를 +1 증가시킵니다.",
-                    "subclass": "강화된 하위직업 카드를 가져오세요. 그런 다음 이 레벨의 다중직업 옵션을 줄로 지우세요.",
-                    "multiclass": "다중직업: 캐릭터에 추가 직업을 선택한 다음, 이 시트에서 사용하지 않은 '강화된 하위직업 카드 가져오기' 옵션과 다른 다중직업 옵션을 줄로 지우세요."
+                    "subclass": "강화된 서브클래스 카드를 가져오세요. 그런 다음 이 레벨의 다중클래스 옵션을 줄로 지우세요.",
+                    "multiclass": "다중클래스: 캐릭터에 추가 클래스을 선택한 다음, 이 시트에서 사용하지 않은 '강화된 서브클래스 카드 가져오기' 옵션과 다른 다중클래스 옵션을 줄로 지우세요."
                 },
                 "delevel": {
                     "content": "이전 레벨의 선택으로 되돌리면 이번 레벨에서 한 모든 선택이 삭제됩니다. 계속하시겠습니까?",
@@ -493,15 +493,15 @@
                     "hitPoint": "영구적으로 HP 슬롯 하나를 얻습니다.",
                     "stress": "영구적으로 스트레스 슬롯 하나를 얻습니다.",
                     "experience": "영구적으로 경험 두 개에 +1 보너스를 받습니다.",
-                    "domainCard": "당신이 사용 가능한 영역에서 자신의 레벨 이하의 영역 카드를 하나 추가로 선택하세요 (최대 레벨 {maxLevel})",
+                    "domainCard": "당신이 사용 가능한 영역에서 자신의 레벨 이하의 권역 카드를 하나 추가로 선택하세요 (최대 레벨 {maxLevel})",
                     "evasion": "영구적으로 회피에 +1 보너스를 얻습니다.",
-                    "subclass": "강화된 하위직업 카드를 가져오세요. 그런 다음 이 레벨의 다중직업 옵션을 줄로 지우세요.",
+                    "subclass": "강화된 서브클래스 카드를 가져오세요. 그런 다음 이 레벨의 다중클래스 옵션을 줄로 지우세요.",
                     "proficiency": "숙련도를 +1 증가시킵니다.",
-                    "multiclass": "다중직업: 캐릭터에 추가 직업을 선택한 다음, 이 시트에서 사용하지 않은 '강화된 하위직업 카드 가져오기' 옵션과 다른 다중직업 옵션을 줄로 지우세요.",
+                    "multiclass": "다중클래스: 캐릭터에 추가 클래스을 선택한 다음, 이 시트에서 사용하지 않은 '강화된 서브클래스 카드 가져오기' 옵션과 다른 다중클래스 옵션을 줄로 지우세요.",
                     "intelligent": "동반자가 선택한 동반자 경험에 영구적으로 +1 보너스를 얻습니다.",
                     "lightInTheDark": "캐릭터에 추가 희망 슬롯을 얻습니다.",
                     "creatureComfort": "휴식당 한 번, 조용한 순간에 동반자에게 애정과 관심을 쏟는 모습을 묘사하면 희망 1을 얻거나 두 명 모두 스트레스 1을 제거할 수 있습니다.",
-                    "armored": "동반자가 피해를 받을 때 동반자의 스트레스 슬롯 대신 당신의 방어구 슬롯 하나에 표시할 수 있습니다.",
+                    "armored": "동반자가 피해를 받을 때 동반자의 스트레스 슬롯 대신 당신의 방어 슬롯 하나에 표시할 수 있습니다.",
                     "vicious": "동반자의 피해 주사위 또는 거리를 한 단계 증가시킵니다 (d6→d8, 가까운→먼 거리 등).",
                     "resilient": "동반자가 추가 스트레스 슬롯을 얻습니다.",
                     "bonded": "마지막 HP를 표시할 때, 동반자가 당신을 위로하려 달려옵니다. 동반자의 비어 있는 스트레스 슬롯 수만큼 d6을 굴리고 모두 표시하세요. 주사위 중 하나라도 6이 나오면 동반자가 당신을 일으켜 세웁니다. 마지막 HP를 비우고 다시 장면에 복귀하세요.",
@@ -523,12 +523,12 @@
                     "damageThresholdSevereIncrease": "심각: {threshold}",
                     "newExperiences": "새 경험",
                     "experiencePlaceholder": "새 경험...",
-                    "domainCards": "영역 카드",
-                    "subclass": "하위직업",
-                    "multiclass": "다중직업",
+                    "domainCards": "권역 카드",
+                    "subclass": "서브클래스",
+                    "multiclass": "다중클래스",
                     "traits": "강화된 능력치",
                     "experienceIncreases": "경험 증가",
-                    "damageThresholds": "피해 한계치",
+                    "damageThresholds": "피해 임계치",
                     "vicious": "흉포함",
                     "damageIncreased": "피해 증가: {damage}",
                     "rangeIncreased": "거리 증가: {range}",
@@ -539,25 +539,25 @@
                     "label": "레벨 2-4",
                     "infoLabel": "레벨 2에서 +2 값의 추가 경험과 숙련도에 +1 보너스를 얻습니다.",
                     "pretext": "아래 목록에서 두 가지 옵션을 선택하세요",
-                    "posttext": "당신이 사용 가능한 영역에서 자신의 레벨 이하의 영역 카드를 하나 추가로 가져오세요."
+                    "posttext": "당신이 사용 가능한 영역에서 자신의 레벨 이하의 권역 카드를 하나 추가로 가져오세요."
                 },
                 "tier3": {
                     "label": "레벨 5-7",
                     "infoLabel": "레벨 5에서 추가 경험을 얻고 능력치의 모든 표시를 제거합니다.",
                     "pretext": "레벨업할 때 캐릭터 시트에 기록한 뒤, 아래 목록에서 두 가지 옵션을 선택하거나 이전 등급에서 표시되지 않은 옵션을 고르세요.",
-                    "posttext": "당신이 사용 가능한 영역에서 자신의 레벨 이하의 영역 카드를 하나 추가로 가져오세요."
+                    "posttext": "당신이 사용 가능한 영역에서 자신의 레벨 이하의 권역 카드를 하나 추가로 가져오세요."
                 },
                 "tier4": {
                     "label": "레벨 8-10",
                     "infoLabel": "레벨 8에서 추가 경험을 얻고 능력치의 모든 표시를 제거합니다.",
                     "pretext": "레벨업할 때 캐릭터 시트에 기록한 뒤, 아래 목록에서 두 가지 옵션을 선택하거나 이전 등급에서 표시되지 않은 옵션을 고르세요.",
-                    "posttext": "당신이 사용 가능한 영역에서 자신의 레벨 이하의 영역 카드를 하나 추가로 가져오세요."
+                    "posttext": "당신이 사용 가능한 영역에서 자신의 레벨 이하의 권역 카드를 하나 추가로 가져오세요."
                 },
                 "title": "{actor} 레벨업"
             },
             "MulticlassChoice": {
-                "title": "다중직업 - {actor}",
-                "explanation": "{class}을(를) 다중직업으로 추가합니다",
+                "title": "다중클래스 - {actor}",
+                "explanation": "{class}을(를) 다중클래스으로 추가합니다",
                 "selectDomainPrompt": "새 영역을 선택하세요"
             },
             "OwnershipSelection": {
@@ -565,7 +565,7 @@
                 "default": "기본 소유권"
             },
             "ReactionRoll": {
-                "title": "반응 굴림: {trait}"
+                "title": "대응 굴림: {trait}"
             },
             "RerollDialog": {
                 "title": "재굴림",
@@ -661,11 +661,11 @@
                 },
                 "channeling": {
                     "name": "발현",
-                    "description": "주문 굴림에 +1",
+                    "description": "주문시전 굴림에 +1",
                     "effects": {
                         "channeling": {
                             "name": "발현",
-                            "description": "주문 굴림에 +1"
+                            "description": "주문시전 굴림에 +1"
                         }
                     }
                 },
@@ -691,21 +691,21 @@
                 },
                 "fortified": {
                     "name": "강화",
-                    "description": "방어구 슬롯을 표시할 때, 공격의 심각도를 한 단계 대신 두 단계 감소시킵니다.",
+                    "description": "방어 슬롯을 표시할 때, 공격의 심각도를 한 단계 대신 두 단계 감소시킵니다.",
                     "effects": {
                         "fortified": {
                             "name": "강화",
-                            "description": "방어구 슬롯을 표시할 때, 공격의 심각도를 한 단계 대신 두 단계 감소시킵니다."
+                            "description": "방어 슬롯을 표시할 때, 공격의 심각도를 한 단계 대신 두 단계 감소시킵니다."
                         }
                     }
                 },
                 "gilded": {
                     "name": "도금",
-                    "description": "존재감 +1",
+                    "description": "매력 +1",
                     "effects": {
                         "gilded": {
                             "name": "도금",
-                            "description": "존재감 +1"
+                            "description": "매력 +1"
                         }
                     }
                 },
@@ -721,11 +721,11 @@
                 },
                 "hopeful": {
                     "name": "희망찬",
-                    "description": "희망을 소비해야 할 때, 대신 방어구 슬롯을 표시할 수 있습니다.",
+                    "description": "희망을 소비해야 할 때, 대신 방어 슬롯을 표시할 수 있습니다.",
                     "actions": {
                         "hope": {
                             "name": "희망",
-                            "description": "희망을 소비해야 할 때, 대신 방어구 슬롯을 표시할 수 있습니다."
+                            "description": "희망을 소비해야 할 때, 대신 방어 슬롯을 표시할 수 있습니다."
                         }
                     }
                 },
@@ -741,31 +741,31 @@
                 },
                 "magical": {
                     "name": "마법",
-                    "description": "물리 피해를 줄이기 위해 방어구 슬롯을 표시할 수 없습니다.",
+                    "description": "물리 피해를 줄이기 위해 방어 슬롯을 표시할 수 없습니다.",
                     "effects": {
                         "magical": {
                             "name": "마법",
-                            "description": "물리 피해를 줄이기 위해 방어구 슬롯을 표시할 수 없습니다."
+                            "description": "물리 피해를 줄이기 위해 방어 슬롯을 표시할 수 없습니다."
                         }
                     }
                 },
                 "painful": {
                     "name": "고통스러움",
-                    "description": "방어구 슬롯을 표시할 때마다 스트레스 1을 함께 표시해야 합니다.",
+                    "description": "방어 슬롯을 표시할 때마다 스트레스 1을 함께 표시해야 합니다.",
                     "actions": {
                         "pain": {
                             "name": "고통",
-                            "description": "방어구 슬롯을 표시할 때마다 스트레스 1을 함께 표시해야 합니다."
+                            "description": "방어 슬롯을 표시할 때마다 스트레스 1을 함께 표시해야 합니다."
                         }
                     }
                 },
                 "physical": {
                     "name": "물리",
-                    "description": "마법 피해를 줄이기 위해 방어구 슬롯을 표시할 수 없습니다.",
+                    "description": "마법 피해를 줄이기 위해 방어 슬롯을 표시할 수 없습니다.",
                     "effects": {
                         "physical": {
                             "name": "물리",
-                            "description": "마법 피해를 줄이기 위해 방어구 슬롯을 표시할 수 없습니다."
+                            "description": "마법 피해를 줄이기 위해 방어 슬롯을 표시할 수 없습니다."
                         }
                     }
                 },
@@ -781,27 +781,27 @@
                 },
                 "reinforced": {
                     "name": "보강",
-                    "description": "마지막 방어구 슬롯을 표시할 때, 방어구 슬롯을 최소 1개 비울 때까지 피해 한계치를 +2 증가시킵니다.",
+                    "description": "마지막 방어 슬롯을 표시할 때, 방어 슬롯을 최소 1개 비울 때까지 피해 임계치를 +2 증가시킵니다.",
                     "actions": {
                         "reinforce": {
                             "name": "보강",
-                            "description": "마지막 방어구 슬롯을 표시할 때, 방어구 슬롯을 최소 1개 비울 때까지 피해 한계치를 +2 증가시킵니다."
+                            "description": "마지막 방어 슬롯을 표시할 때, 방어 슬롯을 최소 1개 비울 때까지 피해 임계치를 +2 증가시킵니다."
                         }
                     },
                     "effects": {
                         "reinforced": {
                             "name": "보강",
-                            "description": "마지막 방어구 슬롯을 표시할 때, 방어구 슬롯을 최소 1개 비울 때까지 피해 한계치를 +2 증가시킵니다."
+                            "description": "마지막 방어 슬롯을 표시할 때, 방어 슬롯을 최소 1개 비울 때까지 피해 임계치를 +2 증가시킵니다."
                         }
                     }
                 },
                 "resilient": {
                     "name": "저항",
-                    "description": "마지막 방어구 슬롯을 표시하기 전에 d6을 굴리세요. 6이 나오면 방어구 슬롯을 표시하지 않고 심각도를 한 단계 줄입니다.",
+                    "description": "마지막 방어 슬롯을 표시하기 전에 d6을 굴리세요. 6이 나오면 방어 슬롯을 표시하지 않고 심각도를 한 단계 줄입니다.",
                     "actions": {
                         "resilient": {
                             "name": "저항",
-                            "description": "마지막 방어구 슬롯을 표시하기 전에 d6을 굴리세요. 6이 나오면 방어구 슬롯을 표시하지 않고 심각도를 한 단계 줄입니다."
+                            "description": "마지막 방어 슬롯을 표시하기 전에 d6을 굴리세요. 6이 나오면 방어 슬롯을 표시하지 않고 심각도를 한 단계 줄입니다."
                         }
                     }
                 },
@@ -817,21 +817,21 @@
                 },
                 "shifting": {
                     "name": "변형",
-                    "description": "공격 대상이 될 때 방어구 슬롯을 표시하여 자신을 향한 공격 굴림을 불리로 만들 수 있습니다.",
+                    "description": "공격 대상이 될 때 방어 슬롯을 표시하여 자신을 향한 명중 굴림을 불리점로 만들 수 있습니다.",
                     "actions": {
                         "shift": {
                             "name": "변형",
-                            "description": "공격 대상이 될 때 방어구 슬롯을 표시하여 자신을 향한 공격 굴림을 불리로 만들 수 있습니다."
+                            "description": "공격 대상이 될 때 방어 슬롯을 표시하여 자신을 향한 명중 굴림을 불리점로 만들 수 있습니다."
                         }
                     }
                 },
                 "timeslowing": {
                     "name": "시간 둔화",
-                    "description": "방어구 슬롯을 표시해 d4를 굴리고, 그 결과를 들어오는 공격에 대한 회피 보너스로 추가합니다.",
+                    "description": "방어 슬롯을 표시해 d4를 굴리고, 그 결과를 들어오는 공격에 대한 회피 보너스로 추가합니다.",
                     "actions": {
                         "slowTime": {
                             "name": "시간 둔화",
-                            "description": "방어구 슬롯을 표시해 d4를 굴리고, 그 결과를 들어오는 공격에 대한 회피 보너스로 추가합니다."
+                            "description": "방어 슬롯을 표시해 d4를 굴리고, 그 결과를 들어오는 공격에 대한 회피 보너스로 추가합니다."
                         }
                     }
                 },
@@ -857,11 +857,11 @@
                 },
                 "warded": {
                     "name": "방호",
-                    "description": "들어오는 마법 피해를 피해 한계치에 적용하기 전에 방어 점수만큼 감소시킵니다.",
+                    "description": "들어오는 마법 피해를 피해 임계치에 적용하기 전에 방어도만큼 감소시킵니다.",
                     "effects": {
                         "warded": {
                             "name": "방호",
-                            "description": "들어오는 마법 피해를 피해 한계치에 적용하기 전에 방어 점수만큼 감소시킵니다."
+                            "description": "들어오는 마법 피해를 피해 임계치에 적용하기 전에 방어도만큼 감소시킵니다."
                         }
                     }
                 }
@@ -890,7 +890,7 @@
                 },
                 "hidden": {
                     "name": "은신",
-                    "description": "은신 상태인 동안에는 직접 공격받지 않으며, 그에 대한 모든 굴림은 불리로 이루어집니다.\n은신한 존재가 움직이거나 공격하면 은신이 해제됩니다. 다만 공격을 시작할 때 은신 상태였다면 그 굴림은 유리로 이루어지며, 은신은 공격이 끝난 후에 해제됩니다."
+                    "description": "은신 상태인 동안에는 직접 공격받지 않으며, 그에 대한 모든 굴림은 불리점로 이루어집니다.\n은신한 존재가 움직이거나 공격하면 은신이 해제됩니다. 다만 공격을 시작할 때 은신 상태였다면 그 굴림은 이점로 이루어지며, 은신은 공격이 끝난 후에 해제됩니다."
                 },
                 "restrained": {
                     "name": "속박",
@@ -902,7 +902,7 @@
                 },
                 "vulnerable": {
                     "name": "취약",
-                    "description": "취약한 존재에 대한 모든 굴림은 유리로 이루어집니다.\n이미 취약한 존재는 다시 이 상태를 받을 수 없습니다."
+                    "description": "취약한 존재에 대한 모든 굴림은 이점로 이루어집니다.\n이미 취약한 존재는 다시 이 상태를 받을 수 없습니다."
                 }
             },
             "CountdownType": {
@@ -927,11 +927,11 @@
                 },
                 "riskItAll": {
                     "name": "전부 건다",
-                    "description": "양면 주사위를 굴리세요. 희망이 더 높으면 쓰러지지 않고 희망 주사위 값만큼 HP 및/또는 스트레스 표시를 제거할 수 있습니다(원하는 대로 희망 주사위 값을 나누어 분배). 공포 주사위가 더 높으면 죽음의 장막을 넘습니다. 양면 주사위의 값이 같으면 쓰러지지 않고 모든 HP와 스트레스 표시를 제거합니다."
+                    "description": "이중성 주사위를 굴리세요. 희망이 더 높으면 쓰러지지 않고 희망 주사위 값만큼 HP 및/또는 스트레스 표시를 제거할 수 있습니다(원하는 대로 희망 주사위 값을 나누어 분배). 공포 주사위가 더 높으면 죽음의 장막을 넘습니다. 이중성 주사위의 값이 같으면 쓰러지지 않고 모든 HP와 스트레스 표시를 제거합니다."
                 },
                 "blazeOfGlory": {
                     "name": "영광의 최후",
-                    "description": "「영광의 최후」를 선택하면 플레이어는 캐릭터의 죽음을 받아들입니다. GM의 재량에 따라 한 가지 행동을 수행하며, 그 행동은 자동으로 결정타 성공이 됩니다. 이후 죽음의 장막을 넘습니다."
+                    "description": "「영광의 최후」를 선택하면 플레이어는 캐릭터의 죽음을 받아들입니다. GM의 재량에 따라 한 가지 행동을 수행하며, 그 행동은 자동으로 치명적 성공 성공이 됩니다. 이후 죽음의 장막을 넘습니다."
                 }
             },
             "DomainCardTypes": {
@@ -978,7 +978,7 @@
                     "abbreviation": "희망"
                 },
                 "armor": {
-                    "name": "방어구 슬롯",
+                    "name": "방어 슬롯",
                     "abbreviation": "방슬"
                 },
                 "fear": {
@@ -1078,8 +1078,8 @@
                     }
                 },
                 "finesse": {
-                    "name": "손재주",
-                    "short": "손재주",
+                    "name": "기교",
+                    "short": "기교",
                     "verb": {
                         "control": "통제",
                         "hide": "숨김",
@@ -1087,8 +1087,8 @@
                     }
                 },
                 "instinct": {
-                    "name": "본능",
-                    "short": "본능",
+                    "name": "직감",
+                    "short": "직감",
                     "verb": {
                         "perceive": "감지",
                         "sense": "직감",
@@ -1096,8 +1096,8 @@
                     }
                 },
                 "presence": {
-                    "name": "존재감",
-                    "short": "존재감",
+                    "name": "매력",
+                    "short": "매력",
                     "verb": {
                         "charm": "매혹",
                         "perform": "공연",
@@ -1117,11 +1117,11 @@
             "WeaponFeature": {
                 "barrier": {
                     "name": "장벽",
-                    "description": "방어 점수에 무기 등급 + 1을 얻습니다. 회피 -1",
+                    "description": "방어도에 무기 등급 + 1을 얻습니다. 회피 -1",
                     "effects": {
                         "barrier": {
                             "name": "장벽",
-                            "description": "방어 점수에 무기 등급 + 1을 얻습니다. 회피 -1"
+                            "description": "방어도에 무기 등급 + 1을 얻습니다. 회피 -1"
                         }
                     }
                 },
@@ -1147,11 +1147,11 @@
                 },
                 "brave": {
                     "name": "용감함",
-                    "description": "회피 -1; 심각 피해 한계치 + 무기 등급",
+                    "description": "회피 -1; 심각한 피해 임계치 + 무기 등급",
                     "effects": {
                         "brave": {
                             "name": "용감함",
-                            "description": "회피 -1; 심각 피해 한계치 + 무기 등급"
+                            "description": "회피 -1; 심각한 피해 임계치 + 무기 등급"
                         }
                     }
                 },
@@ -1203,37 +1203,37 @@
                 },
                 "cumbersome": {
                     "name": "거추장스러움",
-                    "description": "손재주 -1",
+                    "description": "기교 -1",
                     "effects": {
                         "cumbersome": {
                             "name": "거추장스러움",
-                            "description": "손재주 -1"
+                            "description": "기교 -1"
                         }
                     }
                 },
                 "deadly": {
                     "name": "치명적",
-                    "description": "심각 피해를 입혔을 때 대상이 추가로 HP 1을 표시해야 합니다.",
+                    "description": "심각한 피해를 입혔을 때 대상이 추가로 HP 1을 표시해야 합니다.",
                     "actions": {
                         "extraDamage": {
                             "name": "치명적",
-                            "description": "심각 피해를 입혔을 때 대상이 추가로 HP 1을 표시해야 합니다."
+                            "description": "심각한 피해를 입혔을 때 대상이 추가로 HP 1을 표시해야 합니다."
                         }
                     }
                 },
                 "deflecting": {
                     "name": "흘리기",
-                    "description": "공격받을 때 방어구 슬롯을 표시하여 그 공격에 대해 회피에 방어 점수만큼 보너스를 얻습니다.",
+                    "description": "공격받을 때 방어 슬롯을 표시하여 그 공격에 대해 회피에 방어도만큼 보너스를 얻습니다.",
                     "actions": {
                         "deflect": {
                             "name": "흘리기",
-                            "description": "공격받을 때 방어구 슬롯을 표시하여 그 공격에 대해 회피에 방어 점수만큼 보너스를 얻습니다."
+                            "description": "공격받을 때 방어 슬롯을 표시하여 그 공격에 대해 회피에 방어도만큼 보너스를 얻습니다."
                         }
                     },
                     "effects": {
                         "deflecting": {
                             "name": "흘리기",
-                            "description": "그 공격에 대해 회피에 방어 점수만큼 보너스를 얻습니다."
+                            "description": "그 공격에 대해 회피에 방어도만큼 보너스를 얻습니다."
                         }
                     }
                 },
@@ -1255,21 +1255,21 @@
                 },
                 "devastating": {
                     "name": "강타",
-                    "description": "공격 굴림 전에 스트레스를 표시하여 피해 주사위로 d20을 사용할 수 있습니다.",
+                    "description": "명중 굴림 전에 스트레스를 표시하여 피해 주사위로 d20을 사용할 수 있습니다.",
                     "actions": {
                         "devastate": {
                             "name": "강타",
-                            "description": "공격 굴림 전에 스트레스를 표시하여 피해 주사위로 d20을 사용할 수 있습니다."
+                            "description": "명중 굴림 전에 스트레스를 표시하여 피해 주사위로 d20을 사용할 수 있습니다."
                         }
                     }
                 },
                 "doubleDuty": {
                     "name": "양수겸장",
-                    "description": "방어 점수 +1; 근접 주 무기 피해 +1",
+                    "description": "방어도 +1; 근접 주 무기 피해 +1",
                     "effects": {
                         "doubleDuty": {
                             "name": "양수겸장",
-                            "description": "방어 점수 +1; 근접 주 무기 피해 +1"
+                            "description": "방어도 +1; 근접 주 무기 피해 +1"
                         }
                     }
                 },
@@ -1285,21 +1285,21 @@
                 },
                 "dueling": {
                     "name": "결투",
-                    "description": "대상의 매우 가까운 거리 내에 다른 존재가 없다면, 그 대상을 향한 공격 굴림에 유리를 얻습니다.",
+                    "description": "대상의 매우 가까운 거리 내에 다른 존재가 없다면, 그 대상을 향한 명중 굴림에 이점를 얻습니다.",
                     "actions": {
                         "duel": {
                             "name": "결투",
-                            "description": "대상의 매우 가까운 거리 내에 다른 존재가 없다면, 그 대상을 향한 공격 굴림에 유리를 얻습니다."
+                            "description": "대상의 매우 가까운 거리 내에 다른 존재가 없다면, 그 대상을 향한 명중 굴림에 이점를 얻습니다."
                         }
                     }
                 },
                 "eruptive": {
                     "name": "폭발",
-                    "description": "근접 거리 내 대상에게 공격이 성공하면 매우 가까운 거리 내의 다른 모든 적대자는 반응 굴림(14)에 성공해야 하며, 실패하면 피해의 절반을 받습니다.",
+                    "description": "근접 거리 내 대상에게 공격이 성공하면 매우 가까운 거리 내의 다른 모든 적대자는 대응 굴림(14)에 성공해야 하며, 실패하면 피해의 절반을 받습니다.",
                     "actions": {
                         "erupt": {
                             "name": "폭발",
-                            "description": "근접 거리 내 대상에게 공격이 성공하면 매우 가까운 거리 내의 다른 모든 적대자는 반응 굴림(14)에 성공해야 하며, 실패하면 피해의 절반을 받습니다."
+                            "description": "근접 거리 내 대상에게 공격이 성공하면 매우 가까운 거리 내의 다른 모든 적대자는 대응 굴림(14)에 성공해야 하며, 실패하면 피해의 절반을 받습니다."
                         }
                     }
                 },
@@ -1461,27 +1461,27 @@
                 },
                 "persuasive": {
                     "name": "설득",
-                    "description": "존재감 굴림 전에 스트레스를 표시하여 결과에 +2 보너스를 받을 수 있습니다.",
+                    "description": "매력 굴림 전에 스트레스를 표시하여 결과에 +2 보너스를 받을 수 있습니다.",
                     "actions": {
                         "persuade": {
                             "name": "설득",
-                            "description": "존재감 굴림 전에 스트레스를 표시하여 결과에 +2 보너스를 받을 수 있습니다."
+                            "description": "매력 굴림 전에 스트레스를 표시하여 결과에 +2 보너스를 받을 수 있습니다."
                         }
                     },
                     "effects": {
                         "persuasive": {
                             "name": "설득",
-                            "description": "존재감 굴림에 +2 보너스를 받습니다."
+                            "description": "매력 굴림에 +2 보너스를 받습니다."
                         }
                     }
                 },
                 "pompous": {
                     "name": "허세",
-                    "description": "이 무기를 사용하려면 존재감이 0 이하여야 합니다.",
+                    "description": "이 무기를 사용하려면 매력이 0 이하여야 합니다.",
                     "actions": {
                         "pompous": {
                             "name": "허세",
-                            "description": "이 무기를 사용하려면 존재감이 0 이하여야 합니다."
+                            "description": "이 무기를 사용하려면 매력이 0 이하여야 합니다."
                         }
                     }
                 },
@@ -1497,11 +1497,11 @@
                 },
                 "protective": {
                     "name": "방호",
-                    "description": "방어 점수에 아이템의 등급만큼을 더합니다.",
+                    "description": "방어도에 아이템의 등급만큼을 더합니다.",
                     "effects": {
                         "protective": {
                             "name": "방호",
-                            "description": "방어 점수에 아이템의 등급만큼을 더합니다."
+                            "description": "방어도에 아이템의 등급만큼을 더합니다."
                         }
                     }
                 },
@@ -1517,11 +1517,11 @@
                 },
                 "reliable": {
                     "name": "정확함",
-                    "description": "공격 굴림에 +1",
+                    "description": "명중 굴림에 +1",
                     "effects": {
                         "reliable": {
                             "name": "정확함",
-                            "description": "공격 굴림에 +1"
+                            "description": "명중 굴림에 +1"
                         }
                     }
                 },
@@ -1597,11 +1597,11 @@
                 },
                 "sheltering": {
                     "name": "엄폐",
-                    "description": "방어구 슬롯을 표시하면 자신과 같은 피해를 받은 근접 거리의 모든 동료에 대한 피해를 줄입니다.",
+                    "description": "방어 슬롯을 표시하면 자신과 같은 피해를 받은 근접 거리의 모든 동료에 대한 피해를 줄입니다.",
                     "actions": {
                         "shelter": {
                             "name": "엄폐",
-                            "description": "방어구 슬롯을 표시하면 자신과 같은 피해를 받은 근접 거리의 모든 동료에 대한 피해를 줄입니다."
+                            "description": "방어 슬롯을 표시하면 자신과 같은 피해를 받은 근접 거리의 모든 동료에 대한 피해를 줄입니다."
                         }
                     }
                 },
@@ -1617,11 +1617,11 @@
                 },
                 "timebending": {
                     "name": "시간 왜곡",
-                    "description": "공격 굴림을 굴린 뒤 공격 대상을 선택할 수 있습니다.",
+                    "description": "명중 굴림을 굴린 뒤 공격 대상을 선택할 수 있습니다.",
                     "actions": {
                         "bendTime": {
                             "name": "시간 왜곡",
-                            "description": "공격 굴림을 굴린 뒤 공격 대상을 선택할 수 있습니다."
+                            "description": "명중 굴림을 굴린 뒤 공격 대상을 선택할 수 있습니다."
                         }
                     }
                 }
@@ -1630,7 +1630,7 @@
         "EFFECTS": {
             "ApplyLocations": {
                 "attackRoll": {
-                    "name": "공격 굴림"
+                    "name": "명중 굴림"
                 },
                 "damageRoll": {
                     "name": "피해 굴림"
@@ -1668,9 +1668,9 @@
                 "plural": "행동"
             },
             "Advantage": {
-                "full": "유리",
-                "plural": "유리",
-                "short": "유리"
+                "full": "이점",
+                "plural": "이점",
+                "short": "이점"
             },
             "Adversary": {
                 "singular": "적대자",
@@ -1751,13 +1751,13 @@
                 }
             },
             "DamageThresholds": {
-                "title": "피해 한계치",
+                "title": "피해 임계치",
                 "minor": "작은",
                 "major": "큰",
                 "severe": "심각",
-                "majorThreshold": "큰 피해 한계치",
-                "severeThreshold": "심각 피해 한계치",
-                "with": "{threshold} 피해 한계치"
+                "majorThreshold": "중대한 피해 임계치",
+                "severeThreshold": "심각한 피해 임계치",
+                "with": "{threshold} 피해 임계치"
             },
             "Dice": {
                 "single": "주사위",
@@ -1768,15 +1768,15 @@
                 "reaction": "난이도: 반응"
             },
             "Disadvantage": {
-                "full": "불리",
-                "short": "불리"
+                "full": "불리점",
+                "short": "불리점"
             },
             "Domain": {
                 "single": "영역",
                 "plural": "영역",
                 "arcana": {
                     "label": "비전",
-                    "description": "이 영역은 마법을 타고난 본능으로 다루는 자들의 영역입니다. 이 길을 걷는 이들은 길들지 않은 신비로운 세계의 힘을 끌어내, 원소와 자신의 에너지 모두를 다룹니다. 비전은 그 사용자에게 변덕스러운 힘을 주지만, 올바르게 다스리면 굉장히 강력해집니다."
+                    "description": "이 영역은 마법을 타고난 직감으로 다루는 자들의 영역입니다. 이 길을 걷는 이들은 길들지 않은 신비로운 세계의 힘을 끌어내, 원소와 자신의 에너지 모두를 다룹니다. 비전은 그 사용자에게 변덕스러운 힘을 주지만, 올바르게 다스리면 굉장히 강력해집니다."
                 },
                 "blade": {
                     "label": "검",
@@ -1846,26 +1846,26 @@
                 "plural": "자원"
             },
             "Roll": {
-                "attack": "공격 굴림",
+                "attack": "명중 굴림",
                 "basic": "굴림",
                 "difficulty": "굴림 (난이도 {difficulty})",
-                "primaryWeaponAttack": "주 무기 공격 굴림",
-                "secondaryWeaponAttack": "보조 무기 공격 굴림",
-                "spellcast": "주문 굴림",
+                "primaryWeaponAttack": "주 무기 명중 굴림",
+                "secondaryWeaponAttack": "보조 무기 명중 굴림",
+                "spellcast": "주문시전 굴림",
                 "trait": "능력치 굴림",
                 "action": "행동 굴림",
-                "reaction": "반응 굴림"
+                "reaction": "대응 굴림"
             },
             "Rules": {
                 "damageReduction": {
                     "increasePerArmorMark": {
-                        "label": "방어구 슬롯당 피해 감소",
-                        "hint": "방어구 슬롯을 사용하면 보통 피해가 한 단계 줄어듭니다. 이 값은 피해가 줄어드는 단계 수를 증가시킵니다."
+                        "label": "방어 슬롯당 피해 감소",
+                        "hint": "방어 슬롯을 사용하면 보통 피해가 한 단계 줄어듭니다. 이 값은 피해가 줄어드는 단계 수를 증가시킵니다."
                     },
                     "maxArmorMarkedBonus": "최대 사용 가능 방어구",
                     "maxArmorMarkedStress": {
                         "label": "스트레스로 사용 가능한 최대 방어구",
-                        "hint": "이 값이 설정되면 평소 최대치를 초과하여 추가 방어구 슬롯을 사용하기 위해 그만큼의 스트레스를 소모할 수 있습니다."
+                        "hint": "이 값이 설정되면 평소 최대치를 초과하여 추가 방어 슬롯을 사용하기 위해 그만큼의 스트레스를 소모할 수 있습니다."
                     },
                     "stress": {
                         "any": {
@@ -1874,15 +1874,15 @@
                         },
                         "severe": {
                             "label": "스트레스로 피해 감소: 심각",
-                            "hint": "심각 피해를 큰 피해로 줄이기 위해 지불할 수 있는 스트레스 비용."
+                            "hint": "심각한 피해를 중대한 피해로 줄이기 위해 지불할 수 있는 스트레스 비용."
                         },
                         "major": {
                             "label": "스트레스로 피해 감소: 큰",
-                            "hint": "큰 피해를 작은 피해로 줄이기 위해 지불할 수 있는 스트레스 비용."
+                            "hint": "중대한 피해를 경미한 피해로 줄이기 위해 지불할 수 있는 스트레스 비용."
                         },
                         "minor": {
                             "label": "스트레스로 피해 감소: 작은",
-                            "hint": "작은 피해를 0으로 줄이기 위해 지불할 수 있는 스트레스 비용."
+                            "hint": "경미한 피해를 0으로 줄이기 위해 지불할 수 있는 스트레스 비용."
                         }
                     }
                 },
@@ -1960,20 +1960,20 @@
             "any": "모두",
             "armor": "방어구",
             "armors": "방어구",
-            "armorScore": "방어 점수",
+            "armorScore": "방어도",
             "activeEffects": "활성 효과",
-            "armorSlots": "방어구 슬롯",
+            "armorSlots": "방어 슬롯",
             "attack": "공격",
             "basics": "기본",
             "bonus": "보너스",
             "burden": "무게",
             "continue": "계속",
-            "criticalSuccess": "결정타",
-            "criticalShort": "결정타",
+            "criticalSuccess": "치명적 성공",
+            "criticalShort": "치명적 성공",
             "d20Roll": "d20 굴림",
             "damage": "피해",
             "damageRoll": "피해 굴림",
-            "damageType": "피해 종류",
+            "damageType": "피해 유형",
             "description": "설명",
             "difficulty": "난이도",
             "downtime": "휴식 시간",
@@ -2023,7 +2023,7 @@
             },
             "maxWithThing": "최대 {thing}",
             "missingDragDropThing": "여기에 {thing}을(를) 드래그하세요",
-            "multiclass": "다중직업",
+            "multiclass": "다중클래스",
             "newCategory": "새 카테고리",
             "none": "없음",
             "noTarget": "현재 대상 없음",
@@ -2031,7 +2031,7 @@
             "proficiency": "숙련도",
             "quantity": "수량",
             "range": "거리",
-            "reactionRoll": "반응 굴림",
+            "reactionRoll": "대응 굴림",
             "recovery": "회복",
             "reroll": "재굴림",
             "rerollThing": "{thing} 재굴림",
@@ -2044,7 +2044,7 @@
             "scalable": "스케일 가능",
             "situationalBonus": "상황 보너스",
             "stress": "스트레스",
-            "subclasses": "하위직업",
+            "subclasses": "서브클래스",
             "success": "성공",
             "take": "가져오기",
             "Target": {
@@ -2121,7 +2121,7 @@
                         "label": "예시"
                     },
                     "advantageOn": {
-                        "label": "유리를 얻는 항목"
+                        "label": "이점를 얻는 항목"
                     },
                     "tokenImg": {
                         "label": "토큰 이미지"
@@ -2151,7 +2151,7 @@
                             "label": "야수 형태 수"
                         },
                         "advantages": {
-                            "label": "유리 수"
+                            "label": "이점 수"
                         },
                         "features": {
                             "label": "특성 수"
@@ -2172,7 +2172,7 @@
             },
             "Class": {
                 "hopeFeatures": "희망 특성",
-                "classFeatures": "직업 특성",
+                "classFeatures": "클래스 기능",
                 "guide": {
                     "suggestedEquipment": "추천 장비",
                     "suggestedPrimaryWeaponTitle": "주 무기",
@@ -2320,8 +2320,8 @@
                         "hint": "비워두거나 0으로 설정하면 무제한입니다"
                     },
                     "maxDomains": {
-                        "label": "직업 최대 영역 수",
-                        "hint": "직업에 설정할 수 있는 최대 영역 수"
+                        "label": "클래스 최대 영역 수",
+                        "hint": "클래스에 설정할 수 있는 최대 영역 수"
                     }
                 },
                 "currency": {
@@ -2371,7 +2371,7 @@
                     "duality": "양면 굴림",
                     "diceSoNice": {
                         "title": "Dice So Nice",
-                        "hint": "Dice So Nice 모듈 사용 시 양면 주사위의 색상.",
+                        "hint": "Dice So Nice 모듈 사용 시 이중성 주사위의 색상.",
                         "foreground": "기호 색상",
                         "background": "배경 색상",
                         "outline": "윤곽선 색상",
@@ -2437,18 +2437,18 @@
                     "currentTarget": "현재"
                 },
                 "deathMove": {
-                    "title": "죽음의 행동"
+                    "title": "죽음 동작"
                 },
                 "dicePool": {
                     "title": "주사위 풀"
                 },
                 "domainCard": {
-                    "title": "영역 카드"
+                    "title": "권역 카드"
                 },
                 "dualityRoll": {
                     "abilityCheckTitle": "{ability} 판정"
                 },
-                "featureTitle": "직업 특성",
+                "featureTitle": "클래스 기능",
                 "healingRoll": {
                     "title": "치유 - {damage}",
                     "heal": "치유",
@@ -2475,23 +2475,23 @@
                 "dualityParsing": "양면 굴림의 형식이 올바르지 않습니다.",
                 "attributeFaulty": "지정된 속성이 존재하지 않습니다.",
                 "domainCardWrongDomain": "이 영역에 접근할 수 없습니다.",
-                "domainCardToHighLevel": "선택하기에 영역 카드의 레벨이 너무 높습니다.",
-                "domainCardDuplicate": "이미 이 영역 카드를 가지고 있습니다!",
+                "domainCardToHighLevel": "선택하기에 권역 카드의 레벨이 너무 높습니다.",
+                "domainCardDuplicate": "이미 이 권역 카드를 가지고 있습니다!",
                 "noSelectionsLeft": "더 이상 선택할 항목이 없습니다!",
-                "alreadySelectedClass": "이미 이 직업을 가지고 있습니다!",
-                "classAlreadySelected": "캐릭터는 이미 직업을 가지고 있습니다.",
-                "subclassAlreadySelected": "캐릭터는 이미 이 직업의 하위직업을 가지고 있습니다.",
-                "noClassSelected": "캐릭터에 직업이 선택되지 않았습니다!",
+                "alreadySelectedClass": "이미 이 클래스을 가지고 있습니다!",
+                "classAlreadySelected": "캐릭터는 이미 클래스을 가지고 있습니다.",
+                "subclassAlreadySelected": "캐릭터는 이미 이 클래스의 서브클래스을 가지고 있습니다.",
+                "noClassSelected": "캐릭터에 클래스이 선택되지 않았습니다!",
                 "lacksDomain": "캐릭터가 이 카드의 영역을 가지고 있지 않습니다!",
-                "duplicateDomainCard": "이미 같은 이름의 영역 카드를 가지고 있습니다!",
-                "missingClassOrSubclass": "캐릭터에게 직업과 하위직업이 없습니다.",
+                "duplicateDomainCard": "이미 같은 이름의 권역 카드를 가지고 있습니다!",
+                "missingClassOrSubclass": "캐릭터에게 클래스과 서브클래스이 없습니다.",
                 "tooHighLevel": "캐릭터의 레벨을 최대치 이상으로 올릴 수 없습니다.",
                 "tooLowLevel": "캐릭터의 레벨을 시작 레벨 미만으로 내릴 수 없습니다.",
-                "subclassNotInClass": "이 하위직업은 선택한 직업에 속하지 않습니다.",
-                "subclassNotInMulticlass": "이 하위직업은 선택한 다중직업에 속하지 않습니다.",
-                "missingClass": "아직 직업을 선택하지 않았습니다.",
-                "missingMulticlass": "다중직업이 없습니다.",
-                "wrongDomain": "이 카드는 직업의 영역 중 하나에 속하지 않습니다.",
+                "subclassNotInClass": "이 서브클래스은 선택한 클래스에 속하지 않습니다.",
+                "subclassNotInMulticlass": "이 서브클래스은 선택한 다중클래스에 속하지 않습니다.",
+                "missingClass": "아직 클래스을 선택하지 않았습니다.",
+                "missingMulticlass": "다중클래스이 없습니다.",
+                "wrongDomain": "이 카드는 클래스의 영역 중 하나에 속하지 않습니다.",
                 "cardTooHighLevel": "카드 레벨이 너무 높습니다!",
                 "duplicateCard": "같은 카드를 두 번 이상 선택할 수 없습니다.",
                 "notPrimary": "이 무기는 주 무기가 아닙니다!",
@@ -2500,7 +2500,7 @@
                 "primaryIsTwoHanded": "양손 주 무기와 함께 보조 무기를 선택할 수 없습니다!",
                 "noMoreMoves": "휴식 행동을 더 선택할 수 없습니다.",
                 "damageAlreadyNone": "피해가 이미 0으로 감소되었습니다.",
-                "noAvailableArmorMarks": "사용 가능한 방어구 슬롯이 더 없습니다.",
+                "noAvailableArmorMarks": "사용 가능한 방어 슬롯이 더 없습니다.",
                 "notEnoughStress": "스트레스가 부족합니다.",
                 "damageIgnore": "{character}이(가) 피해를 받지 않았습니다.",
                 "featureIsMissing": "특성이 없습니다.",
@@ -2509,23 +2509,23 @@
                 "unownedActionMacro": "캐릭터가 가지고 있지 않은 행동에 대한 매크로는 만들 수 없습니다",
                 "unownedAttackMacro": "본인의 캐릭터에 속하지 않은 공격에 대한 매크로는 만들 수 없습니다",
                 "featureNotHope": "이 특성은 희망 특성으로 사용되지 않으므로 여기에 적용할 수 없습니다.",
-                "featureNotClass": "이 특성은 직업 특성으로 사용되지 않으므로 여기에 적용할 수 없습니다.",
+                "featureNotClass": "이 특성은 클래스 기능으로 사용되지 않으므로 여기에 적용할 수 없습니다.",
                 "featureNotPrimary": "이 특성은 주 특성으로 사용되지 않으므로 여기에 적용할 수 없습니다.",
                 "featureNotSecondary": "이 특성은 보조 특성으로 사용되지 않으므로 여기에 적용할 수 없습니다.",
                 "featureNotFoundation": "이 특성은 기초 특성으로 사용되지 않으므로 여기에 적용할 수 없습니다.",
                 "featureNotSpecialization": "이 특성은 특화 특성으로 사용되지 않으므로 여기에 적용할 수 없습니다.",
                 "featureNotMastery": "이 특성은 숙련 특성으로 사용되지 않으므로 여기에 적용할 수 없습니다.",
                 "beastformMissingEffect": "야수 형태에 야수 형태 효과가 없습니다. 사용할 수 없습니다.",
-                "beastformToManyAdvantages": "더 이상 유리를 선택할 수 없습니다.",
+                "beastformToManyAdvantages": "더 이상 이점를 선택할 수 없습니다.",
                 "beastformToManyFeatures": "더 이상 특성을 선택할 수 없습니다.",
                 "beastformEquipWeapon": "야수 형태에서는 무기를 장착할 수 없습니다.",
-                "loadoutMaxReached": "최대 장비치에 도달했습니다. 영역 카드 한 장 이상을 보관소로 옮기거나, 원한다면 홈브루 설정에서 한도를 늘리세요.",
-                "domainMaxReached": "이 직업의 최대 영역 수에 도달했습니다. 원한다면 홈브루 설정에서 한도를 늘리세요.",
+                "loadoutMaxReached": "최대 장비치에 도달했습니다. 권역 카드 한 장 이상을 보관소로 옮기거나, 원한다면 홈브루 설정에서 한도를 늘리세요.",
+                "domainMaxReached": "이 클래스의 최대 영역 수에 도달했습니다. 원한다면 홈브루 설정에서 한도를 늘리세요.",
                 "insufficientResources": "자원이 부족합니다",
-                "multiclassAlreadyPresent": "이미 직업과 다중직업을 가지고 있습니다",
-                "subclassesAlreadyPresent": "이미 직업과 다중직업의 하위직업을 가지고 있습니다",
+                "multiclassAlreadyPresent": "이미 클래스과 다중클래스을 가지고 있습니다",
+                "subclassesAlreadyPresent": "이미 클래스과 다중클래스의 서브클래스을 가지고 있습니다",
                 "noDiceSystem": "선택한 주사위 세트 {system}에는 {faces}면 주사위가 없습니다",
-                "subclassAlreadyLinked": "{name}은(는) 이미 직업 {class}의 하위직업입니다. 이 직업의 하위직업으로 만들고 싶다면 그쪽에서 제거하세요."
+                "subclassAlreadyLinked": "{name}은(는) 이미 클래스 {class}의 서브클래스입니다. 이 클래스의 서브클래스으로 만들고 싶다면 그쪽에서 제거하세요."
             },
             "Tooltip": {
                 "disableEffect": "효과 비활성화",
@@ -2533,19 +2533,19 @@
                 "openItemWorld": "아이템 월드 열기",
                 "openActorWorld": "캐릭터 월드 열기",
                 "sendToChat": "채팅으로 전송",
-                "maxEvasionClassBound": "기본 회피는 직업으로 결정됩니다. 이 값은 그 위의 증가량입니다.",
-                "maxHPClassBound": "기본 최대 HP는 직업으로 결정됩니다. 이 값은 그 위의 증가량입니다.",
+                "maxEvasionClassBound": "기본 회피는 클래스으로 결정됩니다. 이 값은 그 위의 증가량입니다.",
+                "maxHPClassBound": "기본 최대 HP는 클래스으로 결정됩니다. 이 값은 그 위의 증가량입니다.",
                 "moreOptions": "더 많은 옵션",
                 "equip": "장착",
                 "unequip": "해제",
                 "sendToVault": "보관소로 보내기",
                 "sendToLoadout": "장비로 보내기",
-                "makeDeathMove": "죽음의 행동 실행",
+                "makeDeathMove": "죽음 동작 실행",
                 "rangeAndTarget": "거리와 대상",
                 "dragApplyEffect": "효과를 드래그하여 캐릭터에 적용하세요",
                 "appliedEvenIfSuccessful": "내성 굴림에 성공해도 적용됨",
                 "diceIsRerolled": "주사위를 다시 굴렸습니다 (x{times})",
-                "pendingSaves": "대기 중인 반응 굴림",
+                "pendingSaves": "대기 중인 대응 굴림",
                 "openSheetSettings": "설정 열기",
                 "compendiumBrowser": "컴펜디움 브라우저",
                 "rulesOn": "규칙 켬",

@@ -17,9 +17,9 @@
         },
         "Arcana-Touched": {
             "name": "비전의 가호",
-            "description": "<p class=\"Body-Foundation\">당신의 장비에 있는 영역 카드 4장 이상이 비전 영역에 속한다면, 다음 이점을 얻습니다:</p><ul><li class=\"vertical-card-list-found\"><p>주문 굴림에 +1 보너스</p></li><li class=\"vertical-card-list-found\"><p>휴식당 한 번, 희망 주사위와 공포 주사위의 결과를 서로 맞바꿀 수 있습니다.</p></li></ul>",
+            "description": "<p class=\"Body-Foundation\">당신의 장비에 있는 권역 카드 4장 이상이 비전 영역에 속한다면, 다음 이점을 얻습니다:</p><ul><li class=\"vertical-card-list-found\"><p>주문시전 굴림에 +1 보너스</p></li><li class=\"vertical-card-list-found\"><p>휴식당 한 번, 희망 주사위와 공포 주사위의 결과를 서로 맞바꿀 수 있습니다.</p></li></ul>",
             "actions": {
-                "hBh4Lt0Bdd9CtJY7": "<p class=\"Body-Foundation\">당신의 장비에 있는 영역 카드 4장 이상이 비전 영역에 속한다면, 다음 이점을 얻습니다:</p><ul><li class=\"vertical-card-list-found\"><p>주문 굴림에 +1 보너스</p></li><li class=\"vertical-card-list-found\"><p>휴식당 한 번, 희망 주사위와 공포 주사위의 결과를 서로 맞바꿀 수 있습니다.</p></li></ul>"
+                "hBh4Lt0Bdd9CtJY7": "<p class=\"Body-Foundation\">당신의 장비에 있는 권역 카드 4장 이상이 비전 영역에 속한다면, 다음 이점을 얻습니다:</p><ul><li class=\"vertical-card-list-found\"><p>주문시전 굴림에 +1 보너스</p></li><li class=\"vertical-card-list-found\"><p>휴식당 한 번, 희망 주사위와 공포 주사위의 결과를 서로 맞바꿀 수 있습니다.</p></li></ul>"
             }
         },
         "Arcane Reflection": {
@@ -31,9 +31,9 @@
         },
         "Armorer": {
             "name": "갑주술사",
-            "description": "<p class=\"Body-Foundation\">갑옷을 착용하고 있는 동안, 갑옷 수치에 +1 보너스를 받습니다.</p><p class=\"Body-Foundation\">휴식 중 자유 시간 행동으로 자신의 갑옷을 수리하기로 정하면, 당신의 동료들도 방어구 슬롯을 비울 수 있습니다.</p>",
+            "description": "<p class=\"Body-Foundation\">갑옷을 착용하고 있는 동안, 갑옷 수치에 +1 보너스를 받습니다.</p><p class=\"Body-Foundation\">휴식 중 자유 시간 행동으로 자신의 갑옷을 수리하기로 정하면, 당신의 동료들도 방어 슬롯을 비울 수 있습니다.</p>",
             "actions": {
-                "Z864RtY6fR5Cnrx9": "<p class=\"Body-Foundation\">갑옷을 착용하고 있는 동안, 갑옷 수치에 +1 보너스를 받습니다.</p><p class=\"Body-Foundation\">휴식 중 자유 시간 행동으로 자신의 갑옷을 수리하기로 정하면, 당신의 동료들도 방어구 슬롯을 비울 수 있습니다.</p>"
+                "Z864RtY6fR5Cnrx9": "<p class=\"Body-Foundation\">갑옷을 착용하고 있는 동안, 갑옷 수치에 +1 보너스를 받습니다.</p><p class=\"Body-Foundation\">휴식 중 자유 시간 행동으로 자신의 갑옷을 수리하기로 정하면, 당신의 동료들도 방어 슬롯을 비울 수 있습니다.</p>"
             }
         },
         "Astral Projection": {
@@ -52,27 +52,27 @@
         },
         "Banish": {
             "name": "추방",
-            "description": "<p><p class=\"Body-Foundation\">가까운 거리의 대상에게 <strong>주문 굴림</strong>을 굴립니다. 성공 시, 당신의 주문 시전 수치만큼의 <strong>d20</strong>을 굴립니다. 대상은 당신의 가장 높은 결과와 동일한 난이도로 반응 굴림을 굴려야 합니다. 성공 시, 대상은 스트레스를 표시해야 하지만 추방되지 않습니다. 휴식당 한 번, 실패 시 대상은 이 세계에서 추방됩니다. </p><p class=\"Body-Foundation\">GM이 공포 굴림을 굴릴 때, 난이도에 −1 페널티가 주어지며, 대상은 반응 굴림을 다시 굴립니다. 성공 시 추방에서 돌아옵니다.</p></p>",
+            "description": "<p><p class=\"Body-Foundation\">가까운 거리의 대상에게 <strong>주문시전 굴림</strong>을 굴립니다. 성공 시, 당신의 주문 시전 수치만큼의 <strong>d20</strong>을 굴립니다. 대상은 당신의 가장 높은 결과와 동일한 난이도로 대응 굴림을 굴려야 합니다. 성공 시, 대상은 스트레스를 표시해야 하지만 추방되지 않습니다. 휴식당 한 번, 실패 시 대상은 이 세계에서 추방됩니다. </p><p class=\"Body-Foundation\">GM이 공포 굴림을 굴릴 때, 난이도에 −1 페널티가 주어지며, 대상은 대응 굴림을 다시 굴립니다. 성공 시 추방에서 돌아옵니다.</p></p>",
             "actions": {
-                "pgBalKb5NeRFQ9rt": "<p><p class=\"Body-Foundation\">가까운 거리의 대상에게 <strong>주문 굴림</strong>을 굴립니다. 성공 시, 당신의 주문 시전 수치만큼의 <strong>d20</strong>을 굴립니다. 대상은 당신의 가장 높은 결과와 동일한 난이도로 반응 굴림을 굴려야 합니다. 성공 시, 대상은 스트레스를 표시해야 하지만 추방되지 않습니다. 휴식당 한 번, 실패 시 대상은 이 세계에서 추방됩니다. </p><p class=\"Body-Foundation\">GM이 공포 굴림을 굴릴 때, 난이도에 −1 페널티가 주어지며, 대상은 반응 굴림을 다시 굴립니다. 성공 시 추방에서 돌아옵니다.</p></p>"
+                "pgBalKb5NeRFQ9rt": "<p><p class=\"Body-Foundation\">가까운 거리의 대상에게 <strong>주문시전 굴림</strong>을 굴립니다. 성공 시, 당신의 주문 시전 수치만큼의 <strong>d20</strong>을 굴립니다. 대상은 당신의 가장 높은 결과와 동일한 난이도로 대응 굴림을 굴려야 합니다. 성공 시, 대상은 스트레스를 표시해야 하지만 추방되지 않습니다. 휴식당 한 번, 실패 시 대상은 이 세계에서 추방됩니다. </p><p class=\"Body-Foundation\">GM이 공포 굴림을 굴릴 때, 난이도에 −1 페널티가 주어지며, 대상은 대응 굴림을 다시 굴립니다. 성공 시 추방에서 돌아옵니다.</p></p>"
             }
         },
         "Bare Bones": {
             "name": "맨몸의 강건함",
-            "description": "<p class=\"Body-Foundation\">갑옷을 입지 않으면, 당신의 기본 갑옷 수치는 3 + 당신의 힘이며, 다음 값을 기본 피해 한계치로 사용합니다:</p><ul><li class=\"vertical-card-list-found\"><strong>1 등급:</strong> 9/19</li><li class=\"vertical-card-list-found\"><strong>2 등급:</strong> 11/24</li><li class=\"vertical-card-list-found\"><strong>3 등급:</strong> 13/31</li><li class=\"vertical-card-list-found\"><strong>4 등급:</strong> 15/38</li></ul><p>아래 표시된 갑옷을 착용하여 맨몸의 강건함을 사용하세요.</p><p>@UUID[Compendium.daggerheart.armors.Item.ITAjcigTcUw5pMCN]{Bare Bones}</p>"
+            "description": "<p class=\"Body-Foundation\">갑옷을 입지 않으면, 당신의 기본 갑옷 수치는 3 + 당신의 힘이며, 다음 값을 기본 피해 임계치로 사용합니다:</p><ul><li class=\"vertical-card-list-found\"><strong>1 등급:</strong> 9/19</li><li class=\"vertical-card-list-found\"><strong>2 등급:</strong> 11/24</li><li class=\"vertical-card-list-found\"><strong>3 등급:</strong> 13/31</li><li class=\"vertical-card-list-found\"><strong>4 등급:</strong> 15/38</li></ul><p>아래 표시된 갑옷을 착용하여 맨몸의 강건함을 사용하세요.</p><p>@UUID[Compendium.daggerheart.armors.Item.ITAjcigTcUw5pMCN]{Bare Bones}</p>"
         },
         "Battle Cry": {
             "name": "전투 함성",
-            "description": "<p class=\"Body-Foundation\">긴 휴식당 한 번, 당신이 위험으로 뛰어들 때, 동료들에게 영감을 주는 함성을 외칠 수 있습니다. 당신의 소리를 들을 수 있는 모든 동료는 스트레스를 비우고 희망을 얻습니다. 또한, 당신이나 동료가 공포 굴림에 실패할 때까지 당신의 동료들은 공격 굴림에 유리를 얻습니다.</p>",
+            "description": "<p class=\"Body-Foundation\">긴 휴식당 한 번, 당신이 위험으로 뛰어들 때, 동료들에게 영감을 주는 함성을 외칠 수 있습니다. 당신의 소리를 들을 수 있는 모든 동료는 스트레스를 비우고 희망을 얻습니다. 또한, 당신이나 동료가 공포 굴림에 실패할 때까지 당신의 동료들은 명중 굴림에 이점를 얻습니다.</p>",
             "actions": {
-                "jakoB9n8KSgvYVZv": "<p class=\"Body-Foundation\">긴 휴식당 한 번, 당신이 위험으로 뛰어들 때, 동료들에게 영감을 주는 함성을 외칠 수 있습니다. 당신의 소리를 들을 수 있는 모든 동료는 스트레스를 비우고 희망을 얻습니다. 또한, 당신이나 동료가 공포 굴림에 실패할 때까지 당신의 동료들은 공격 굴림에 유리를 얻습니다.</p>"
+                "jakoB9n8KSgvYVZv": "<p class=\"Body-Foundation\">긴 휴식당 한 번, 당신이 위험으로 뛰어들 때, 동료들에게 영감을 주는 함성을 외칠 수 있습니다. 당신의 소리를 들을 수 있는 모든 동료는 스트레스를 비우고 희망을 얻습니다. 또한, 당신이나 동료가 공포 굴림에 실패할 때까지 당신의 동료들은 명중 굴림에 이점를 얻습니다.</p>"
             }
         },
         "Battle-Hardened": {
             "name": "역전의 용사",
-            "description": "<p class=\"Body-Foundation\">긴 휴식당 한 번, 당신이 죽음의 행동을 해야 할 때, <strong>희망을 소모</strong>하여 대신 HP를 회복할 수 있습니다.</p>",
+            "description": "<p class=\"Body-Foundation\">긴 휴식당 한 번, 당신이 죽음 동작을 해야 할 때, <strong>희망을 소모</strong>하여 대신 HP를 회복할 수 있습니다.</p>",
             "actions": {
-                "iucXKML1P8Q7nmcp": "<p class=\"Body-Foundation\">긴 휴식당 한 번, 당신이 죽음의 행동을 해야 할 때, <strong>희망을 소모</strong>하여 대신 HP를 회복할 수 있습니다.</p>"
+                "iucXKML1P8Q7nmcp": "<p class=\"Body-Foundation\">긴 휴식당 한 번, 당신이 죽음 동작을 해야 할 때, <strong>희망을 소모</strong>하여 대신 HP를 회복할 수 있습니다.</p>"
             }
         },
         "Battle Monster": {
@@ -84,164 +84,164 @@
         },
         "Blade-Touched": {
             "name": "검의 가호",
-            "description": "<p class=\"Body-Foundation-No-BOLDITALIC\">당신의 장비에 있는 영역 카드 4장 이상이 검 영역에 속할 때, 다음 이점을 얻습니다:</p><ul><li class=\"vertical-card-list-found\"><p>공격 굴림에 +2 보너스</p></li><li class=\"vertical-card-list-found\"><p>심각 피해 한계치에 +4 보너스</p></li></ul>"
+            "description": "<p class=\"Body-Foundation-No-BOLDITALIC\">당신의 장비에 있는 권역 카드 4장 이상이 검 영역에 속할 때, 다음 이점을 얻습니다:</p><ul><li class=\"vertical-card-list-found\"><p>명중 굴림에 +2 보너스</p></li><li class=\"vertical-card-list-found\"><p>심각한 피해 임계치에 +4 보너스</p></li></ul>"
         },
         "Blink Out": {
             "name": "점멸 이동",
-            "description": "<p><p class=\"Body-Foundation\"><strong>주문 굴림</strong><strong> (12)</strong>을 굴립니다. 성공 시, <strong>희망을 소모</strong>하여 먼 거리 내의 볼 수 있는 다른 지점으로 순간이동할 수 있습니다. 매우 가까운 거리 내에 동의하는 존재가 있다면, <strong>존재마다 추가로 희망을 소모</strong>하여 그들을 함께 데려갈 수 있습니다.  </p></p>",
+            "description": "<p><p class=\"Body-Foundation\"><strong>주문시전 굴림</strong><strong> (12)</strong>을 굴립니다. 성공 시, <strong>희망을 소모</strong>하여 먼 거리 내의 볼 수 있는 다른 지점으로 순간이동할 수 있습니다. 매우 가까운 거리 내에 동의하는 존재가 있다면, <strong>존재마다 추가로 희망을 소모</strong>하여 그들을 함께 데려갈 수 있습니다.  </p></p>",
             "actions": {
-                "LsAdmSinOiNr9jH8": "<p><p class=\"Body-Foundation\"><strong>주문 굴림</strong><strong> (12)</strong>을 굴립니다. 성공 시, <strong>희망을 소모</strong>하여 먼 거리 내의 볼 수 있는 다른 지점으로 순간이동할 수 있습니다. 매우 가까운 거리 내에 동의하는 존재가 있다면, <strong>존재마다 추가로 희망을 소모</strong>하여 그들을 함께 데려갈 수 있습니다.  </p></p>"
+                "LsAdmSinOiNr9jH8": "<p><p class=\"Body-Foundation\"><strong>주문시전 굴림</strong><strong> (12)</strong>을 굴립니다. 성공 시, <strong>희망을 소모</strong>하여 먼 거리 내의 볼 수 있는 다른 지점으로 순간이동할 수 있습니다. 매우 가까운 거리 내에 동의하는 존재가 있다면, <strong>존재마다 추가로 희망을 소모</strong>하여 그들을 함께 데려갈 수 있습니다.  </p></p>"
             }
         },
         "Body Basher": {
             "name": "육탄 돌격",
-            "description": "<p class=\"Body-Foundation\">당신은 전투에서 자신의 신체의 모든 힘을 사용합니다. 근접 거리 무기로 성공적인 공격을 했을 때, 피해 굴림에 당신의 힘과 동일한 보너스를 얻습니다.</p>"
+            "description": "<p class=\"Body-Foundation\">당신은 전투에서 자신의 신체의 모든 힘을 사용합니다. 근접 거리 무기로 성공적인 공격을 했을 때, 피해 굴림에 당신의 근력과 동일한 보너스를 얻습니다.</p>"
         },
         "Bold Presence": {
-            "name": "대담한 존재감",
-            "description": "<p class=\"Body-Foundation\">존재감 굴림을 굴릴 때, <strong>희망을 소모</strong>하여 자신의 힘을 굴림에 더할 수 있습니다.</p><p class=\"Body-Foundation\">또한, 휴식당 한 번, 어떤 상태를 받아야 할 때, 자신의 대담한 존재감이 어떻게 그 상황에서 도움이 되는지 묘사하여 그 상태를 받지 않을 수 있습니다.</p>",
+            "name": "대담한 매력",
+            "description": "<p class=\"Body-Foundation\">매력 굴림을 굴릴 때, <strong>희망을 소모</strong>하여 자신의 근력을 굴림에 더할 수 있습니다.</p><p class=\"Body-Foundation\">또한, 휴식당 한 번, 어떤 상태를 받아야 할 때, 자신의 대담한 매력이 어떻게 그 상황에서 도움이 되는지 묘사하여 그 상태를 받지 않을 수 있습니다.</p>",
             "actions": {
-                "GYXo5c2OYS3v1UBA": "<p class=\"Body-Foundation\">존재감 굴림을 굴릴 때, <strong>희망을 소모</strong>하여 자신의 힘을 굴림에 더할 수 있습니다.</p>",
-                "OdRTXMOXhZFiZHES": "<p class=\"Body-Foundation\">또한, 휴식당 한 번, 어떤 상태를 받아야 할 때, 자신의 대담한 존재감이 어떻게 그 상황에서 도움이 되는지 묘사하여 그 상태를 받지 않을 수 있습니다.</p>"
+                "GYXo5c2OYS3v1UBA": "<p class=\"Body-Foundation\">매력 굴림을 굴릴 때, <strong>희망을 소모</strong>하여 자신의 근력을 굴림에 더할 수 있습니다.</p>",
+                "OdRTXMOXhZFiZHES": "<p class=\"Body-Foundation\">또한, 휴식당 한 번, 어떤 상태를 받아야 할 때, 자신의 대담한 매력이 어떻게 그 상황에서 도움이 되는지 묘사하여 그 상태를 받지 않을 수 있습니다.</p>"
             }
         },
         "Bolt Beacon": {
             "name": "섬광 표식",
-            "description": "<p class='Body-Foundation'>먼 거리의 대상에게 <strong>주문 굴림</strong>을 굴립니다. 성공 시 <strong>희망을 소모</strong>하여 반짝이는 빛의 광선을 그에게 보내, 당신의 숙련도를 사용해 마법 피해 <strong>d8+2</strong>를 입힙니다. 대상은 일시적으로 취약해지고, 이 상태가 해제될 때까지 밝게 빛납니다.</p>",
+            "description": "<p class='Body-Foundation'>먼 거리의 대상에게 <strong>주문시전 굴림</strong>을 굴립니다. 성공 시 <strong>희망을 소모</strong>하여 반짝이는 빛의 광선을 그에게 보내, 당신의 숙련도를 사용해 마법 피해 <strong>d8+2</strong>를 입힙니다. 대상은 일시적으로 취약해지고, 이 상태가 해제될 때까지 밝게 빛납니다.</p>",
             "actions": {
-                "zrGLlwmpuUIBrSXy": "<p class='Body-Foundation'>먼 거리의 대상에게 <strong>주문 굴림</strong>을 굴립니다. 성공 시 <strong>희망을 소모</strong>하여 반짝이는 빛의 광선을 그에게 보내, 당신의 숙련도를 사용해 마법 피해 <strong>d8+2</strong>를 입힙니다. 대상은 일시적으로 취약해지고, 이 상태가 해제될 때까지 밝게 빛납니다.</p>"
+                "zrGLlwmpuUIBrSXy": "<p class='Body-Foundation'>먼 거리의 대상에게 <strong>주문시전 굴림</strong>을 굴립니다. 성공 시 <strong>희망을 소모</strong>하여 반짝이는 빛의 광선을 그에게 보내, 당신의 숙련도를 사용해 마법 피해 <strong>d8+2</strong>를 입힙니다. 대상은 일시적으로 취약해지고, 이 상태가 해제될 때까지 밝게 빛납니다.</p>"
             }
         },
         "Bone-Touched": {
             "name": "뼈의 가호",
-            "description": "<p class='Body-Foundation-No-BOLDITALIC'>당신의 장비에 있는 영역 카드 4장 이상이 뼈 영역에 속한다면, 다음 이점을 얻습니다:</p><ul><li class='vertical-card-list-found'><p>민첩에 +1 보너스</p></li><li class='vertical-card-list-found'><p>휴식당 한 번, <strong>희망 3을 소모</strong>하여 당신을 성공적으로 맞춘 공격을 대신 실패하게 만들 수 있습니다.</p></li></ul>",
+            "description": "<p class='Body-Foundation-No-BOLDITALIC'>당신의 장비에 있는 권역 카드 4장 이상이 뼈 영역에 속한다면, 다음 이점을 얻습니다:</p><ul><li class='vertical-card-list-found'><p>민첩에 +1 보너스</p></li><li class='vertical-card-list-found'><p>휴식당 한 번, <strong>희망 3을 소모</strong>하여 당신을 성공적으로 맞춘 공격을 대신 실패하게 만들 수 있습니다.</p></li></ul>",
             "actions": {
-                "pRSiIoh4Bzk5I9ej": "<p class='Body-Foundation-No-BOLDITALIC'>당신의 장비에 있는 영역 카드 4장 이상이 뼈 영역에 속한다면, 다음 이점을 얻습니다:</p><ul><li class='vertical-card-list-found'><p>민첩에 +1 보너스</p></li><li class='vertical-card-list-found'><p>휴식당 한 번, <strong>희망 3을 소모</strong>하여 당신을 성공적으로 맞춘 공격을 대신 실패하게 만들 수 있습니다.</p></li></ul>"
+                "pRSiIoh4Bzk5I9ej": "<p class='Body-Foundation-No-BOLDITALIC'>당신의 장비에 있는 권역 카드 4장 이상이 뼈 영역에 속한다면, 다음 이점을 얻습니다:</p><ul><li class='vertical-card-list-found'><p>민첩에 +1 보너스</p></li><li class='vertical-card-list-found'><p>휴식당 한 번, <strong>희망 3을 소모</strong>하여 당신을 성공적으로 맞춘 공격을 대신 실패하게 만들 수 있습니다.</p></li></ul>"
             }
         },
         "Book of Ava": {
             "name": "아바의 서",
-            "description": "<p class='Card-Feature'><strong>강력한 밀쳐내기:</strong> 근접 거리의 대상에게 <strong>주문 굴림</strong>을 굴립니다. 성공 시 그는 먼 거리로 밀쳐지고, 당신의 숙련도를 사용해 마법 피해 <strong>d10+2</strong>를 입습니다.</p><p class='Card-Feature'><strong>타바의 갑옷:</strong> <strong>희망을 소모</strong>하여 당신이 접촉할 수 있는 대상에게 다음 휴식까지 또는 타바의 갑옷을 다시 시전할 때까지 갑옷 수치에 +1 보너스를 줍니다.</p><p class='Card-Feature'><strong>얼음 가시:</strong> <strong>주문 굴림 (12)</strong>을 굴려 먼 거리에 큰 얼음 가시를 소환합니다. 그것을 무기로 사용한다면, 대상의 난이도에 대해 주문 굴림을 굴립니다. 성공 시 당신의 숙련도를 사용해 물리 피해 <strong>d6</strong>을 입힙니다.</p>",
+            "description": "<p class='Card-Feature'><strong>강력한 밀쳐내기:</strong> 근접 거리의 대상에게 <strong>주문시전 굴림</strong>을 굴립니다. 성공 시 그는 먼 거리로 밀쳐지고, 당신의 숙련도를 사용해 마법 피해 <strong>d10+2</strong>를 입습니다.</p><p class='Card-Feature'><strong>타바의 갑옷:</strong> <strong>희망을 소모</strong>하여 당신이 접촉할 수 있는 대상에게 다음 휴식까지 또는 타바의 갑옷을 다시 시전할 때까지 갑옷 수치에 +1 보너스를 줍니다.</p><p class='Card-Feature'><strong>얼음 가시:</strong> <strong>주문시전 굴림 (12)</strong>을 굴려 먼 거리에 큰 얼음 가시를 소환합니다. 그것을 무기로 사용한다면, 대상의 난이도에 대해 주문시전 굴림을 굴립니다. 성공 시 당신의 숙련도를 사용해 물리 피해 <strong>d6</strong>을 입힙니다.</p>",
             "actions": {
-                "jX4wg2HR2xkdtbIU": "<p class='Card-Feature'><strong>강력한 밀쳐내기:</strong> 근접 거리의 대상에게 <strong>주문 굴림</strong>을 굴립니다. 성공 시 그는 먼 거리로 밀쳐지고, 당신의 숙련도를 사용해 마법 피해 <strong>d10+2</strong>를 입습니다.</p>",
+                "jX4wg2HR2xkdtbIU": "<p class='Card-Feature'><strong>강력한 밀쳐내기:</strong> 근접 거리의 대상에게 <strong>주문시전 굴림</strong>을 굴립니다. 성공 시 그는 먼 거리로 밀쳐지고, 당신의 숙련도를 사용해 마법 피해 <strong>d10+2</strong>를 입습니다.</p>",
                 "4N7ViDYt9Na3zwzi": "<p class='Card-Feature'><strong>타바의 갑옷:</strong> <strong>희망을 소모</strong>하여 당신이 접촉할 수 있는 대상에게 다음 휴식까지 또는 타바의 갑옷을 다시 시전할 때까지 갑옷 수치에 +1 보너스를 줍니다.</p>",
-                "XU1joyIDFZrQiToF": "<p class='Card-Feature'><strong>얼음 가시:</strong> <strong>주문 굴림 (12)</strong>을 굴려 먼 거리에 큰 얼음 가시를 소환합니다. 그것을 무기로 사용한다면, 대상의 난이도에 대해 주문 굴림을 굴립니다. 성공 시 당신의 숙련도를 사용해 물리 피해 <strong>d6</strong>을 입힙니다.</p>",
-                "enit3ZkPp0nY5lN1": "<p class='Card-Feature'><strong>얼음 가시:</strong> <strong>주문 굴림 (12)</strong>을 굴려 먼 거리에 큰 얼음 가시를 소환합니다. 그것을 무기로 사용한다면, 대상의 난이도에 대해 주문 굴림을 굴립니다. 성공 시 당신의 숙련도를 사용해 물리 피해 <strong>d6</strong>을 입힙니다.</p>"
+                "XU1joyIDFZrQiToF": "<p class='Card-Feature'><strong>얼음 가시:</strong> <strong>주문시전 굴림 (12)</strong>을 굴려 먼 거리에 큰 얼음 가시를 소환합니다. 그것을 무기로 사용한다면, 대상의 난이도에 대해 주문시전 굴림을 굴립니다. 성공 시 당신의 숙련도를 사용해 물리 피해 <strong>d6</strong>을 입힙니다.</p>",
+                "enit3ZkPp0nY5lN1": "<p class='Card-Feature'><strong>얼음 가시:</strong> <strong>주문시전 굴림 (12)</strong>을 굴려 먼 거리에 큰 얼음 가시를 소환합니다. 그것을 무기로 사용한다면, 대상의 난이도에 대해 주문시전 굴림을 굴립니다. 성공 시 당신의 숙련도를 사용해 물리 피해 <strong>d6</strong>을 입힙니다.</p>"
             }
         },
         "Book of Exota": {
             "name": "엑소타의 서",
-            "description": "<p class='Card-Feature'><strong>부정:</strong> 진행 중인 마법 효과를 중단시킬 수 있습니다. 당신의 주문 시전 특성을 사용해 반응 굴림을 굴립니다. 휴식당 한 번, 성공 시 효과가 종료되고 모든 결과가 방지됩니다.</p><p class='Card-Feature'><strong>구조물 창조:</strong> <strong>희망을 소모</strong>하여 당신 주위의 물체 무리를 선택하고, 기본 명령을 따르는 움직이는 구조물을 그것들로 만듭니다. <strong>주문 굴림</strong>을 굴려 그들에게 행동하도록 명령합니다. 필요시 그들은 당신의 회피와 기술을 공유하며, 그들의 공격은 물리 피해 <strong>2d10+3</strong>을 입힙니다. 한 번에 하나의 구조물만 유지할 수 있으며, 어떤 피해라도 입으면 무너집니다.</p>",
+            "description": "<p class='Card-Feature'><strong>부정:</strong> 진행 중인 마법 효과를 중단시킬 수 있습니다. 당신의 주문 시전 특성을 사용해 대응 굴림을 굴립니다. 휴식당 한 번, 성공 시 효과가 종료되고 모든 결과가 방지됩니다.</p><p class='Card-Feature'><strong>구조물 창조:</strong> <strong>희망을 소모</strong>하여 당신 주위의 물체 무리를 선택하고, 기본 명령을 따르는 움직이는 구조물을 그것들로 만듭니다. <strong>주문시전 굴림</strong>을 굴려 그들에게 행동하도록 명령합니다. 필요시 그들은 당신의 회피와 기술을 공유하며, 그들의 공격은 물리 피해 <strong>2d10+3</strong>을 입힙니다. 한 번에 하나의 구조물만 유지할 수 있으며, 어떤 피해라도 입으면 무너집니다.</p>",
             "actions": {
-                "6eioK8CoAPfObBP2": "<p class='Card-Feature'><strong>부정:</strong> 진행 중인 마법 효과를 중단시킬 수 있습니다. 당신의 주문 시전 특성을 사용해 반응 굴림을 굴립니다. 휴식당 한 번, 성공 시 효과가 종료되고 모든 결과가 방지됩니다.</p>",
-                "6JWhxevxbL0sOcbv": "<p class='Card-Feature'><strong>구조물 창조:</strong> <strong>희망을 소모</strong>하여 당신 주위의 물체 무리를 선택하고, 기본 명령을 따르는 움직이는 구조물을 그것들로 만듭니다. <strong>주문 굴림</strong>을 굴려 그들에게 행동하도록 명령합니다. 필요시 그들은 당신의 회피와 기술을 공유하며, 그들의 공격은 물리 피해 <strong>2d10+3</strong>을 입힙니다. 한 번에 하나의 구조물만 유지할 수 있으며, 어떤 피해라도 입으면 무너집니다.</p>",
-                "MGVKJ8wVac1v8eJv": "<p class='Card-Feature'><strong>구조물 창조:</strong> <strong>희망을 소모</strong>하여 당신 주위의 물체 무리를 선택하고, 기본 명령을 따르는 움직이는 구조물을 그것들로 만듭니다. <strong>주문 굴림</strong>을 굴려 그들에게 행동하도록 명령합니다. 필요시 그들은 당신의 회피와 기술을 공유하며, 그들의 공격은 물리 피해 <strong>2d10+3</strong>을 입힙니다. 한 번에 하나의 구조물만 유지할 수 있으며, 어떤 피해라도 입으면 무너집니다.</p>"
+                "6eioK8CoAPfObBP2": "<p class='Card-Feature'><strong>부정:</strong> 진행 중인 마법 효과를 중단시킬 수 있습니다. 당신의 주문 시전 특성을 사용해 대응 굴림을 굴립니다. 휴식당 한 번, 성공 시 효과가 종료되고 모든 결과가 방지됩니다.</p>",
+                "6JWhxevxbL0sOcbv": "<p class='Card-Feature'><strong>구조물 창조:</strong> <strong>희망을 소모</strong>하여 당신 주위의 물체 무리를 선택하고, 기본 명령을 따르는 움직이는 구조물을 그것들로 만듭니다. <strong>주문시전 굴림</strong>을 굴려 그들에게 행동하도록 명령합니다. 필요시 그들은 당신의 회피와 기술을 공유하며, 그들의 공격은 물리 피해 <strong>2d10+3</strong>을 입힙니다. 한 번에 하나의 구조물만 유지할 수 있으며, 어떤 피해라도 입으면 무너집니다.</p>",
+                "MGVKJ8wVac1v8eJv": "<p class='Card-Feature'><strong>구조물 창조:</strong> <strong>희망을 소모</strong>하여 당신 주위의 물체 무리를 선택하고, 기본 명령을 따르는 움직이는 구조물을 그것들로 만듭니다. <strong>주문시전 굴림</strong>을 굴려 그들에게 행동하도록 명령합니다. 필요시 그들은 당신의 회피와 기술을 공유하며, 그들의 공격은 물리 피해 <strong>2d10+3</strong>을 입힙니다. 한 번에 하나의 구조물만 유지할 수 있으며, 어떤 피해라도 입으면 무너집니다.</p>"
             }
         },
         "Book of Grynn": {
             "name": "그린의 서",
-            "description": "<p class='Card-Feature'><strong>마법 편향:</strong> 긴 휴식당 한 번, <strong>희망을 소모</strong>하여 당신이나 매우 가까운 거리 내의 동료를 노리는 공격의 피해를 취소합니다.</p><p class='Card-Feature'><strong>시간 잠금:</strong> 먼 거리 내의 물체를 선택합니다. 그 물체는 다음 휴식까지 정확히 그 자리에서 시공간에 정지됩니다. 한 존재가 그것을 옮기려 시도하면, 그에게 <strong>주문 굴림</strong>을 굴려 이 주문을 유지합니다.</p><p class='Card-Feature'><strong>화염의 벽:</strong> <strong>주문 굴림 (15)</strong>을 굴립니다. 성공 시 먼 거리 내의 두 지점 사이에 마법 화염의 벽을 만듭니다. 그 경로상의 모든 존재는 자신이 있을 쪽을 선택해야 하며, 이후 벽을 통과하는 모든 것은 마법 피해 <strong>4d10+3</strong>을 입습니다.</p>",
+            "description": "<p class='Card-Feature'><strong>마법 편향:</strong> 긴 휴식당 한 번, <strong>희망을 소모</strong>하여 당신이나 매우 가까운 거리 내의 동료를 노리는 공격의 피해를 취소합니다.</p><p class='Card-Feature'><strong>시간 잠금:</strong> 먼 거리 내의 물체를 선택합니다. 그 물체는 다음 휴식까지 정확히 그 자리에서 시공간에 정지됩니다. 한 존재가 그것을 옮기려 시도하면, 그에게 <strong>주문시전 굴림</strong>을 굴려 이 주문을 유지합니다.</p><p class='Card-Feature'><strong>화염의 벽:</strong> <strong>주문시전 굴림 (15)</strong>을 굴립니다. 성공 시 먼 거리 내의 두 지점 사이에 마법 화염의 벽을 만듭니다. 그 경로상의 모든 존재는 자신이 있을 쪽을 선택해야 하며, 이후 벽을 통과하는 모든 것은 마법 피해 <strong>4d10+3</strong>을 입습니다.</p>",
             "actions": {
                 "2pyqgdVZDCUQPYaj": "<p class='Card-Feature'><strong>마법 편향:</strong> 긴 휴식당 한 번, <strong>희망을 소모</strong>하여 당신이나 매우 가까운 거리 내의 동료를 노리는 공격의 피해를 취소합니다.</p>",
-                "0vUkyQiGHTFS3Api": "<p class='Card-Feature'><strong>시간 잠금:</strong> 먼 거리 내의 물체를 선택합니다. 그 물체는 다음 휴식까지 정확히 그 자리에서 시공간에 정지됩니다. 한 존재가 그것을 옮기려 시도하면, 그에게 <strong>주문 굴림</strong>을 굴려 이 주문을 유지합니다.</p>",
-                "K26kfjmTEH9zPMMO": "<p class='Card-Feature'><strong>화염의 벽:</strong> <strong>주문 굴림 (15)</strong>을 굴립니다. 성공 시 먼 거리 내의 두 지점 사이에 마법 화염의 벽을 만듭니다. 그 경로상의 모든 존재는 자신이 있을 쪽을 선택해야 하며, 이후 벽을 통과하는 모든 것은 마법 피해 <strong>4d10+3</strong>을 입습니다.</p>"
+                "0vUkyQiGHTFS3Api": "<p class='Card-Feature'><strong>시간 잠금:</strong> 먼 거리 내의 물체를 선택합니다. 그 물체는 다음 휴식까지 정확히 그 자리에서 시공간에 정지됩니다. 한 존재가 그것을 옮기려 시도하면, 그에게 <strong>주문시전 굴림</strong>을 굴려 이 주문을 유지합니다.</p>",
+                "K26kfjmTEH9zPMMO": "<p class='Card-Feature'><strong>화염의 벽:</strong> <strong>주문시전 굴림 (15)</strong>을 굴립니다. 성공 시 먼 거리 내의 두 지점 사이에 마법 화염의 벽을 만듭니다. 그 경로상의 모든 존재는 자신이 있을 쪽을 선택해야 하며, 이후 벽을 통과하는 모든 것은 마법 피해 <strong>4d10+3</strong>을 입습니다.</p>"
             }
         },
         "Book of Homet": {
             "name": "호멧의 서",
-            "description": "<p class='Card-Feature'><strong>통로:</strong> <strong>주문 굴림 (13)</strong>을 굴립니다. 휴식당 한 번, 성공 시 당신과 당신을 만지고 있는 모든 존재는 가까운 거리 내의 벽이나 문을 통과할 수 있습니다. 모두가 반대편에 도착하는 즉시 효과가 종료됩니다.</p><p class='Card-Feature'><strong>차원의 문:</strong> <strong>주문 굴림 (14)</strong>을 굴립니다. 긴 휴식당 한 번, 성공 시 당신이 이미 가본 적 있는 다른 차원이나 존재의 영역에 있는 한 장소로 통하는 문을 엽니다. 이 문은 당신의 다음 휴식까지 유지됩니다.</p>",
+            "description": "<p class='Card-Feature'><strong>통로:</strong> <strong>주문시전 굴림 (13)</strong>을 굴립니다. 휴식당 한 번, 성공 시 당신과 당신을 만지고 있는 모든 존재는 가까운 거리 내의 벽이나 문을 통과할 수 있습니다. 모두가 반대편에 도착하는 즉시 효과가 종료됩니다.</p><p class='Card-Feature'><strong>차원의 문:</strong> <strong>주문시전 굴림 (14)</strong>을 굴립니다. 긴 휴식당 한 번, 성공 시 당신이 이미 가본 적 있는 다른 차원이나 존재의 영역에 있는 한 장소로 통하는 문을 엽니다. 이 문은 당신의 다음 휴식까지 유지됩니다.</p>",
             "actions": {
-                "4cKqwH2jWsYylzI7": "<p class='Card-Feature'><strong>통로:</strong> <strong>주문 굴림 (13)</strong>을 굴립니다. 휴식당 한 번, 성공 시 당신과 당신을 만지고 있는 모든 존재는 가까운 거리 내의 벽이나 문을 통과할 수 있습니다. 모두가 반대편에 도착하는 즉시 효과가 종료됩니다.</p>",
-                "RTUxVXUyRM6mNwUX": "<p class='Card-Feature'><strong>차원의 문:</strong> <strong>주문 굴림 (14)</strong>을 굴립니다. 긴 휴식당 한 번, 성공 시 당신이 이미 가본 적 있는 다른 차원이나 존재의 영역에 있는 한 장소로 통하는 문을 엽니다. 이 문은 당신의 다음 휴식까지 유지됩니다.</p>"
+                "4cKqwH2jWsYylzI7": "<p class='Card-Feature'><strong>통로:</strong> <strong>주문시전 굴림 (13)</strong>을 굴립니다. 휴식당 한 번, 성공 시 당신과 당신을 만지고 있는 모든 존재는 가까운 거리 내의 벽이나 문을 통과할 수 있습니다. 모두가 반대편에 도착하는 즉시 효과가 종료됩니다.</p>",
+                "RTUxVXUyRM6mNwUX": "<p class='Card-Feature'><strong>차원의 문:</strong> <strong>주문시전 굴림 (14)</strong>을 굴립니다. 긴 휴식당 한 번, 성공 시 당신이 이미 가본 적 있는 다른 차원이나 존재의 영역에 있는 한 장소로 통하는 문을 엽니다. 이 문은 당신의 다음 휴식까지 유지됩니다.</p>"
             }
         },
         "Book of Illiat": {
             "name": "일리아트의 서",
-            "description": "<p class='Card-Feature'><strong>수면:</strong> 매우 가까운 거리 내의 대상에게 <strong>주문 굴림</strong>을 굴립니다. 성공 시 대상은 피해를 입거나 GM이 자신의 차례에 <strong>공포</strong>를 소모하여 이 상태를 제거할 때까지 수면 상태가 됩니다.</p><p class='Card-Feature'><strong>마법의 일제 사격:</strong> 휴식당 한 번, <strong>희망을 원하는 만큼 소모</strong>하여 가까운 거리 내의 선택한 대상을 맞추는 마법 탄환을 발사합니다. 소모한 희망 수만큼 <strong>d6</strong>을 굴려, 그만큼의 마법 피해를 대상에게 입힙니다.</p><p class='Card-Feature'><strong>텔레파시:</strong> <strong>희망을 소모</strong>하여 볼 수 있는 한 대상과의 정신적 연결선을 엽니다. 이 연결은 당신의 다음 휴식까지 또는 텔레파시를 다시 사용할 때까지 지속됩니다.</p>",
+            "description": "<p class='Card-Feature'><strong>수면:</strong> 매우 가까운 거리 내의 대상에게 <strong>주문시전 굴림</strong>을 굴립니다. 성공 시 대상은 피해를 입거나 GM이 자신의 차례에 <strong>공포</strong>를 소모하여 이 상태를 제거할 때까지 수면 상태가 됩니다.</p><p class='Card-Feature'><strong>마법의 일제 사격:</strong> 휴식당 한 번, <strong>희망을 원하는 만큼 소모</strong>하여 가까운 거리 내의 선택한 대상을 맞추는 마법 탄환을 발사합니다. 소모한 희망 수만큼 <strong>d6</strong>을 굴려, 그만큼의 마법 피해를 대상에게 입힙니다.</p><p class='Card-Feature'><strong>텔레파시:</strong> <strong>희망을 소모</strong>하여 볼 수 있는 한 대상과의 정신적 연결선을 엽니다. 이 연결은 당신의 다음 휴식까지 또는 텔레파시를 다시 사용할 때까지 지속됩니다.</p>",
             "actions": {
-                "gd4zjBV1UvXhgAid": "<p class='Card-Feature'><strong>수면:</strong> 매우 가까운 거리 내의 대상에게 <strong>주문 굴림</strong>을 굴립니다. 성공 시 대상은 피해를 입거나 GM이 자신의 차례에 <strong>공포</strong>를 소모하여 이 상태를 제거할 때까지 수면 상태가 됩니다.</p>",
+                "gd4zjBV1UvXhgAid": "<p class='Card-Feature'><strong>수면:</strong> 매우 가까운 거리 내의 대상에게 <strong>주문시전 굴림</strong>을 굴립니다. 성공 시 대상은 피해를 입거나 GM이 자신의 차례에 <strong>공포</strong>를 소모하여 이 상태를 제거할 때까지 수면 상태가 됩니다.</p>",
                 "tOHoeUFjdPw2TGrw": "<p class='Card-Feature'><strong>마법의 일제 사격:</strong> 휴식당 한 번, <strong>희망을 원하는 만큼 소모</strong>하여 가까운 거리 내의 선택한 대상을 맞추는 마법 탄환을 발사합니다. 소모한 희망 수만큼 <strong>d6</strong>을 굴려, 그만큼의 마법 피해를 대상에게 입힙니다.</p>",
                 "Ya1vttriJRLbuyhk": "<p class='Card-Feature'><strong>텔레파시:</strong> <strong>희망을 소모</strong>하여 볼 수 있는 한 대상과의 정신적 연결선을 엽니다. 이 연결은 당신의 다음 휴식까지 또는 텔레파시를 다시 사용할 때까지 지속됩니다.</p>"
             }
         },
         "Book of Korvax": {
             "name": "코르박스의 서",
-            "description": "<p class='Card-Feature'><strong>부양:</strong> <strong>주문 굴림</strong>을 굴려, 볼 수 있는 한 대상을 일시적으로 공중에 들어 올리고 원래 위치에서 가까운 거리 내로 이동시킵니다.</p><p class='Card-Feature'><strong>부인:</strong> <strong>희망을 소모</strong>하여 근접 거리 내의 대상이 반응 굴림 (15)을 굴리게 합니다. 실패 시, 대상은 당신과의 마지막 1분의 대화를 잊습니다.</p><p class='Card-Feature'><strong>룬의 원:</strong> <strong>스트레스를 표시</strong>하여 당신이 서 있는 땅에 임시 마법의 원을 만듭니다. 근접 거리 내의 모든 적대자, 또는 근접 거리로 들어오는 자는 마법 피해 <strong>2d12+4</strong>를 입고 매우 가까운 거리로 밀쳐집니다.</p>",
+            "description": "<p class='Card-Feature'><strong>부양:</strong> <strong>주문시전 굴림</strong>을 굴려, 볼 수 있는 한 대상을 일시적으로 공중에 들어 올리고 원래 위치에서 가까운 거리 내로 이동시킵니다.</p><p class='Card-Feature'><strong>부인:</strong> <strong>희망을 소모</strong>하여 근접 거리 내의 대상이 대응 굴림 (15)을 굴리게 합니다. 실패 시, 대상은 당신과의 마지막 1분의 대화를 잊습니다.</p><p class='Card-Feature'><strong>룬의 원:</strong> <strong>스트레스를 표시</strong>하여 당신이 서 있는 땅에 임시 마법의 원을 만듭니다. 근접 거리 내의 모든 적대자, 또는 근접 거리로 들어오는 자는 마법 피해 <strong>2d12+4</strong>를 입고 매우 가까운 거리로 밀쳐집니다.</p>",
             "actions": {
-                "fgBLkAtuv9okxUd4": "<p class='Card-Feature'><strong>부양:</strong> <strong>주문 굴림</strong>을 굴려, 볼 수 있는 한 대상을 일시적으로 공중에 들어 올리고 원래 위치에서 가까운 거리 내로 이동시킵니다.</p>",
-                "m4y7KXhjVNT30wUT": "<p class='Card-Feature'><strong>부인:</strong> <strong>희망을 소모</strong>하여 근접 거리 내의 대상이 반응 굴림 (15)을 굴리게 합니다. 실패 시, 대상은 당신과의 마지막 1분의 대화를 잊습니다.</p>",
+                "fgBLkAtuv9okxUd4": "<p class='Card-Feature'><strong>부양:</strong> <strong>주문시전 굴림</strong>을 굴려, 볼 수 있는 한 대상을 일시적으로 공중에 들어 올리고 원래 위치에서 가까운 거리 내로 이동시킵니다.</p>",
+                "m4y7KXhjVNT30wUT": "<p class='Card-Feature'><strong>부인:</strong> <strong>희망을 소모</strong>하여 근접 거리 내의 대상이 대응 굴림 (15)을 굴리게 합니다. 실패 시, 대상은 당신과의 마지막 1분의 대화를 잊습니다.</p>",
                 "fb2HYD9J759nHKhV": "<p class='Card-Feature'><strong>룬의 원:</strong> <strong>스트레스를 표시</strong>하여 당신이 서 있는 땅에 임시 마법의 원을 만듭니다. 근접 거리 내의 모든 적대자, 또는 근접 거리로 들어오는 자는 마법 피해 <strong>2d12+4</strong>를 입고 매우 가까운 거리로 밀쳐집니다.</p>"
             }
         },
         "Book of Norai": {
             "name": "노라이의 서",
-            "description": "<p class='Card-Feature'><strong>신비의 결박:</strong> 먼 거리의 대상에게 <strong>주문 굴림</strong>을 굴립니다. 성공 시 대상은 일시적으로 속박 상태가 되며 스트레스를 표시해야 합니다. 비행 존재를 대상으로 한다면, 이 주문은 그를 착륙시키고 일시적으로 속박시킵니다.</p><p class='Card-Feature'><strong>화염구:</strong> 매우 먼 거리의 대상에게 <strong>주문 굴림</strong>을 굴립니다. 성공 시, 충돌 시 폭발하는 화염의 구체를 그에게 던집니다. 대상과 그로부터 매우 가까운 거리 내의 모든 존재는 반응 굴림 (13)을 굴려야 합니다. 굴림에 실패한 대상은 당신의 본능을 사용해 마법 피해 <strong>d20+5</strong>를 입습니다. 성공한 대상은 피해의 절반을 입습니다.</p>",
+            "description": "<p class='Card-Feature'><strong>신비의 결박:</strong> 먼 거리의 대상에게 <strong>주문시전 굴림</strong>을 굴립니다. 성공 시 대상은 일시적으로 속박 상태가 되며 스트레스를 표시해야 합니다. 비행 존재를 대상으로 한다면, 이 주문은 그를 착륙시키고 일시적으로 속박시킵니다.</p><p class='Card-Feature'><strong>화염구:</strong> 매우 먼 거리의 대상에게 <strong>주문시전 굴림</strong>을 굴립니다. 성공 시, 충돌 시 폭발하는 화염의 구체를 그에게 던집니다. 대상과 그로부터 매우 가까운 거리 내의 모든 존재는 대응 굴림 (13)을 굴려야 합니다. 굴림에 실패한 대상은 당신의 직감을 사용해 마법 피해 <strong>d20+5</strong>를 입습니다. 성공한 대상은 피해의 절반을 입습니다.</p>",
             "actions": {
-                "ywBVT5mbDKr485Jg": "<p class='Card-Feature'><strong>신비의 결박:</strong> 먼 거리의 대상에게 <strong>주문 굴림</strong>을 굴립니다. 성공 시 대상은 일시적으로 속박 상태가 되며 스트레스를 표시해야 합니다. 비행 존재를 대상으로 한다면, 이 주문은 그를 착륙시키고 일시적으로 속박시킵니다.</p>",
-                "GI2VkIcGDOjFRxpT": "<p class='Card-Feature'><strong>화염구:</strong> 매우 먼 거리의 대상에게 <strong>주문 굴림</strong>을 굴립니다. 성공 시, 충돌 시 폭발하는 화염의 구체를 그에게 던집니다. 대상과 그로부터 매우 가까운 거리 내의 모든 존재는 반응 굴림 (13)을 굴려야 합니다. 굴림에 실패한 대상은 당신의 본능을 사용해 마법 피해 <strong>d20+5</strong>를 입습니다. 성공한 대상은 피해의 절반을 입습니다.</p>"
+                "ywBVT5mbDKr485Jg": "<p class='Card-Feature'><strong>신비의 결박:</strong> 먼 거리의 대상에게 <strong>주문시전 굴림</strong>을 굴립니다. 성공 시 대상은 일시적으로 속박 상태가 되며 스트레스를 표시해야 합니다. 비행 존재를 대상으로 한다면, 이 주문은 그를 착륙시키고 일시적으로 속박시킵니다.</p>",
+                "GI2VkIcGDOjFRxpT": "<p class='Card-Feature'><strong>화염구:</strong> 매우 먼 거리의 대상에게 <strong>주문시전 굴림</strong>을 굴립니다. 성공 시, 충돌 시 폭발하는 화염의 구체를 그에게 던집니다. 대상과 그로부터 매우 가까운 거리 내의 모든 존재는 대응 굴림 (13)을 굴려야 합니다. 굴림에 실패한 대상은 당신의 직감을 사용해 마법 피해 <strong>d20+5</strong>를 입습니다. 성공한 대상은 피해의 절반을 입습니다.</p>"
             }
         },
         "Book of Ronin": {
             "name": "로닌의 서",
-            "description": "<p class='Card-Feature'><strong>변환:</strong> <strong>주문 굴림 (15)</strong>을 굴립니다. 성공 시 평소 크기의 두 배 이하인 무생물 물체로 변신합니다. 피해를 입을 때까지 이 형태를 유지할 수 있습니다.</p><p class='Card-Feature'><strong>영원한 쇠약:</strong> 긴 휴식당 한 번, 가까운 거리의 대상에게 <strong>주문 굴림</strong>을 굴립니다. 성공 시 대상은 영구적으로 취약해집니다. 그는 어떤 수단으로도 이 상태를 해제할 수 없습니다.</p>",
+            "description": "<p class='Card-Feature'><strong>변환:</strong> <strong>주문시전 굴림 (15)</strong>을 굴립니다. 성공 시 평소 크기의 두 배 이하인 무생물 물체로 변신합니다. 피해를 입을 때까지 이 형태를 유지할 수 있습니다.</p><p class='Card-Feature'><strong>영원한 쇠약:</strong> 긴 휴식당 한 번, 가까운 거리의 대상에게 <strong>주문시전 굴림</strong>을 굴립니다. 성공 시 대상은 영구적으로 취약해집니다. 그는 어떤 수단으로도 이 상태를 해제할 수 없습니다.</p>",
             "actions": {
-                "etnR1OKzpLWrx2os": "<p class='Card-Feature'><strong>변환:</strong> <strong>주문 굴림 (15)</strong>을 굴립니다. 성공 시 평소 크기의 두 배 이하인 무생물 물체로 변신합니다. 피해를 입을 때까지 이 형태를 유지할 수 있습니다.</p>",
-                "h7i4ZuDYuYLnjze6": "<p class='Card-Feature'><strong>영원한 쇠약:</strong> 긴 휴식당 한 번, 가까운 거리의 대상에게 <strong>주문 굴림</strong>을 굴립니다. 성공 시 대상은 영구적으로 취약해집니다. 그는 어떤 수단으로도 이 상태를 해제할 수 없습니다.</p>"
+                "etnR1OKzpLWrx2os": "<p class='Card-Feature'><strong>변환:</strong> <strong>주문시전 굴림 (15)</strong>을 굴립니다. 성공 시 평소 크기의 두 배 이하인 무생물 물체로 변신합니다. 피해를 입을 때까지 이 형태를 유지할 수 있습니다.</p>",
+                "h7i4ZuDYuYLnjze6": "<p class='Card-Feature'><strong>영원한 쇠약:</strong> 긴 휴식당 한 번, 가까운 거리의 대상에게 <strong>주문시전 굴림</strong>을 굴립니다. 성공 시 대상은 영구적으로 취약해집니다. 그는 어떤 수단으로도 이 상태를 해제할 수 없습니다.</p>"
             }
         },
         "Book of Sitil": {
             "name": "시틸의 서",
-            "description": "<p class='Card-Feature'><strong>외모 변경:</strong> 인식을 피하기 위해 자신의 외모와 옷을 마법적으로 바꿉니다.</p><p class='Card-Feature'><strong>평행:</strong><strong> 희망 2을 소모</strong>하여 자신이나 가까운 거리 내의 동료에게 이 주문을 시전합니다. 다음에 대상이 공격할 때, 그는 공격 굴림이 성공했을 사정거리 내의 추가 대상을 맞출 수 있습니다. 한 번에 한 존재에게만 이 주문을 유지할 수 있습니다.</p><p class='Card-Feature'><strong>환영:</strong> <strong>주문 굴림 (14)</strong>을 굴립니다. 성공 시, 가까운 거리 내에 자신보다 크지 않은 크기의 임시 시각적 환영을 만들며, 당신이 그것을 바라보는 동안 지속됩니다. 관찰자가 근접 거리 내에 있을 때까지 그것은 검증을 견딥니다.</p>",
+            "description": "<p class='Card-Feature'><strong>외모 변경:</strong> 인식을 피하기 위해 자신의 외모와 옷을 마법적으로 바꿉니다.</p><p class='Card-Feature'><strong>평행:</strong><strong> 희망 2을 소모</strong>하여 자신이나 가까운 거리 내의 동료에게 이 주문을 시전합니다. 다음에 대상이 공격할 때, 그는 명중 굴림이 성공했을 사정거리 내의 추가 대상을 맞출 수 있습니다. 한 번에 한 존재에게만 이 주문을 유지할 수 있습니다.</p><p class='Card-Feature'><strong>환영:</strong> <strong>주문시전 굴림 (14)</strong>을 굴립니다. 성공 시, 가까운 거리 내에 자신보다 크지 않은 크기의 임시 시각적 환영을 만들며, 당신이 그것을 바라보는 동안 지속됩니다. 관찰자가 근접 거리 내에 있을 때까지 그것은 검증을 견딥니다.</p>",
             "actions": {
                 "cc1ahwawL16OEu2r": "<p class='Card-Feature'><strong>외모 변경:</strong> 인식을 피하기 위해 자신의 외모와 옷을 마법적으로 바꿉니다.</p>",
-                "wBQkw3P4Esj6kOx2": "<p class='Card-Feature'><strong>평행:</strong><strong> 희망 2을 소모</strong>하여 자신이나 가까운 거리 내의 동료에게 이 주문을 시전합니다. 다음에 대상이 공격할 때, 그는 공격 굴림이 성공했을 사정거리 내의 추가 대상을 맞출 수 있습니다. 한 번에 한 존재에게만 이 주문을 유지할 수 있습니다.</p>",
-                "rsyxORrTH5oU2DkV": "<p class='Card-Feature'><strong>환영:</strong> <strong>주문 굴림 (14)</strong>을 굴립니다. 성공 시, 가까운 거리 내에 자신보다 크지 않은 크기의 임시 시각적 환영을 만들며, 당신이 그것을 바라보는 동안 지속됩니다. 관찰자가 근접 거리 내에 있을 때까지 그것은 검증을 견딥니다.</p>"
+                "wBQkw3P4Esj6kOx2": "<p class='Card-Feature'><strong>평행:</strong><strong> 희망 2을 소모</strong>하여 자신이나 가까운 거리 내의 동료에게 이 주문을 시전합니다. 다음에 대상이 공격할 때, 그는 명중 굴림이 성공했을 사정거리 내의 추가 대상을 맞출 수 있습니다. 한 번에 한 존재에게만 이 주문을 유지할 수 있습니다.</p>",
+                "rsyxORrTH5oU2DkV": "<p class='Card-Feature'><strong>환영:</strong> <strong>주문시전 굴림 (14)</strong>을 굴립니다. 성공 시, 가까운 거리 내에 자신보다 크지 않은 크기의 임시 시각적 환영을 만들며, 당신이 그것을 바라보는 동안 지속됩니다. 관찰자가 근접 거리 내에 있을 때까지 그것은 검증을 견딥니다.</p>"
             }
         },
         "Book of Tyfar": {
             "name": "티파르의 서",
-            "description": "<p class='Card-Feature'><strong>야생의 화염:</strong> 근접 거리 내의 적대자 최대 3에게 <strong>주문 굴림</strong>을 굴립니다. 당신이 성공한 대상은 당신의 손에서 화염이 분출할 때 마법 피해 <strong>2d6</strong>을 입고 스트레스를 표시해야 합니다.</p><p class='Card-Feature'><strong>마법의 손:</strong> 먼 거리 내에 자신의 손과 같은 크기와 힘의 마법의 손을 소환합니다.</p><p class='Card-Feature'><strong>신비의 안개:</strong> <strong>주문 굴림 (13)</strong>을 굴려, 매우 가까운 거리 내의 정적인 지역에 모이는 임시 짙은 안개를 만듭니다. 안개는 그 지역과 그 안의 모든 것을 강하게 가립니다.</p><p></p>",
+            "description": "<p class='Card-Feature'><strong>야생의 화염:</strong> 근접 거리 내의 적대자 최대 3에게 <strong>주문시전 굴림</strong>을 굴립니다. 당신이 성공한 대상은 당신의 손에서 화염이 분출할 때 마법 피해 <strong>2d6</strong>을 입고 스트레스를 표시해야 합니다.</p><p class='Card-Feature'><strong>마법의 손:</strong> 먼 거리 내에 자신의 손과 같은 크기와 힘의 마법의 손을 소환합니다.</p><p class='Card-Feature'><strong>신비의 안개:</strong> <strong>주문시전 굴림 (13)</strong>을 굴려, 매우 가까운 거리 내의 정적인 지역에 모이는 임시 짙은 안개를 만듭니다. 안개는 그 지역과 그 안의 모든 것을 강하게 가립니다.</p><p></p>",
             "actions": {
-                "E3AnyfI7LDL0z9tT": "<p class='Card-Feature'><strong>야생의 화염:</strong> 근접 거리 내의 적대자 최대 3에게 <strong>주문 굴림</strong>을 굴립니다. 당신이 성공한 대상은 당신의 손에서 화염이 분출할 때 마법 피해 <strong>2d6</strong>을 입고 스트레스를 표시해야 합니다.</p>",
+                "E3AnyfI7LDL0z9tT": "<p class='Card-Feature'><strong>야생의 화염:</strong> 근접 거리 내의 적대자 최대 3에게 <strong>주문시전 굴림</strong>을 굴립니다. 당신이 성공한 대상은 당신의 손에서 화염이 분출할 때 마법 피해 <strong>2d6</strong>을 입고 스트레스를 표시해야 합니다.</p>",
                 "MYZWoU0clYEcsYDb": "<p class='Card-Feature'><strong>마법의 손:</strong> 먼 거리 내에 자신의 손과 같은 크기와 힘의 마법의 손을 소환합니다.</p>",
-                "WQ9XzpbtXl4SmVet": "<p class='Card-Feature'><strong>신비의 안개:</strong> <strong>주문 굴림 (13)</strong>을 굴려, 매우 가까운 거리 내의 정적인 지역에 모이는 임시 짙은 안개를 만듭니다. 안개는 그 지역과 그 안의 모든 것을 강하게 가립니다.</p><p></p>"
+                "WQ9XzpbtXl4SmVet": "<p class='Card-Feature'><strong>신비의 안개:</strong> <strong>주문시전 굴림 (13)</strong>을 굴려, 매우 가까운 거리 내의 정적인 지역에 모이는 임시 짙은 안개를 만듭니다. 안개는 그 지역과 그 안의 모든 것을 강하게 가립니다.</p><p></p>"
             }
         },
         "Book of Vagras": {
             "name": "바그라스의 서",
-            "description": "<p class='Card-Feature'><strong>룬의 자물쇠:</strong> 당신이 접촉한 닫을 수 있는 물체(자물쇠, 상자, 통 등)에 <strong>주문 굴림 (15)</strong>을 굴립니다. 휴식당 한 번, 성공 시 당신이 선택한 존재만 열 수 있도록 그 물체를 잠글 수 있습니다. 마법에 접근할 수 있고 주문을 연구할 시간이 한 시간 있는 자는 그것을 깨뜨릴 수 있습니다.</p><p class='Card-Feature'><strong>비밀의 문:</strong> 근접 거리 내에 적대자가 없을 때, <strong>주문 굴림 (13)</strong>을 굴립니다. 성공 시 <strong>희망을 소모</strong>하여 당신부터 볼 수 있는 먼 거리 내의 한 지점까지 포털을 만듭니다. 한 존재가 그것을 통과하는 즉시 포털이 닫힙니다.</p><p class='Card-Feature'><strong>드러내기:</strong> <strong>주문 굴림</strong>을 굴립니다. 가까운 거리 내에 굴림이 성공했을 마법적으로 숨겨진 것이 있다면, 그것이 드러납니다.</p>",
+            "description": "<p class='Card-Feature'><strong>룬의 자물쇠:</strong> 당신이 접촉한 닫을 수 있는 물체(자물쇠, 상자, 통 등)에 <strong>주문시전 굴림 (15)</strong>을 굴립니다. 휴식당 한 번, 성공 시 당신이 선택한 존재만 열 수 있도록 그 물체를 잠글 수 있습니다. 마법에 접근할 수 있고 주문을 연구할 시간이 한 시간 있는 자는 그것을 깨뜨릴 수 있습니다.</p><p class='Card-Feature'><strong>비밀의 문:</strong> 근접 거리 내에 적대자가 없을 때, <strong>주문시전 굴림 (13)</strong>을 굴립니다. 성공 시 <strong>희망을 소모</strong>하여 당신부터 볼 수 있는 먼 거리 내의 한 지점까지 포털을 만듭니다. 한 존재가 그것을 통과하는 즉시 포털이 닫힙니다.</p><p class='Card-Feature'><strong>드러내기:</strong> <strong>주문시전 굴림</strong>을 굴립니다. 가까운 거리 내에 굴림이 성공했을 마법적으로 숨겨진 것이 있다면, 그것이 드러납니다.</p>",
             "actions": {
-                "kfJZdT3F4SH1h1dc": "<p class='Card-Feature'><strong>룬의 자물쇠:</strong> 당신이 접촉한 닫을 수 있는 물체(자물쇠, 상자, 통 등)에 <strong>주문 굴림 (15)</strong>을 굴립니다. 휴식당 한 번, 성공 시 당신이 선택한 존재만 열 수 있도록 그 물체를 잠글 수 있습니다. 마법에 접근할 수 있고 주문을 연구할 시간이 한 시간 있는 자는 그것을 깨뜨릴 수 있습니다.</p>",
-                "Da3zkKkOljZfu5Xb": "<p class='Card-Feature'><strong>비밀의 문:</strong> 근접 거리 내에 적대자가 없을 때, <strong>주문 굴림 (13)</strong>을 굴립니다. 성공 시 <strong>희망을 소모</strong>하여 당신부터 볼 수 있는 먼 거리 내의 한 지점까지 포털을 만듭니다. 한 존재가 그것을 통과하는 즉시 포털이 닫힙니다.</p>",
-                "VOOND5icbz1WxUUD": "<p class='Card-Feature'><strong>드러내기:</strong> <strong>주문 굴림</strong>을 굴립니다. 가까운 거리 내에 굴림이 성공했을 마법적으로 숨겨진 것이 있다면, 그것이 드러납니다.</p>"
+                "kfJZdT3F4SH1h1dc": "<p class='Card-Feature'><strong>룬의 자물쇠:</strong> 당신이 접촉한 닫을 수 있는 물체(자물쇠, 상자, 통 등)에 <strong>주문시전 굴림 (15)</strong>을 굴립니다. 휴식당 한 번, 성공 시 당신이 선택한 존재만 열 수 있도록 그 물체를 잠글 수 있습니다. 마법에 접근할 수 있고 주문을 연구할 시간이 한 시간 있는 자는 그것을 깨뜨릴 수 있습니다.</p>",
+                "Da3zkKkOljZfu5Xb": "<p class='Card-Feature'><strong>비밀의 문:</strong> 근접 거리 내에 적대자가 없을 때, <strong>주문시전 굴림 (13)</strong>을 굴립니다. 성공 시 <strong>희망을 소모</strong>하여 당신부터 볼 수 있는 먼 거리 내의 한 지점까지 포털을 만듭니다. 한 존재가 그것을 통과하는 즉시 포털이 닫힙니다.</p>",
+                "VOOND5icbz1WxUUD": "<p class='Card-Feature'><strong>드러내기:</strong> <strong>주문시전 굴림</strong>을 굴립니다. 가까운 거리 내에 굴림이 성공했을 마법적으로 숨겨진 것이 있다면, 그것이 드러납니다.</p>"
             }
         },
         "Book of Vyola": {
             "name": "비올라의 서",
-            "description": "<p class='Card-Feature'><strong>기억으로의 잠수:</strong> 먼 거리 내의 대상에게 <strong>주문 굴림</strong>을 굴립니다. 성공 시 대상의 마음을 들여다보고 GM에게 질문 하나를 합니다. GM은 답과 관련된 대상의 기억을 묘사합니다.</p><p class='Card-Feature'><strong>공유된 명료함:</strong> 긴 휴식당 한 번, <strong>희망을 소모</strong>하여 두 동의하는 존재를 선택합니다. 그들 중 한 명이 스트레스를 표시해야 할 때, 그들은 누가 표시할지 자신들 사이에서 선택할 수 있습니다. 이 주문은 그들의 다음 휴식까지 지속됩니다.</p>",
+            "description": "<p class='Card-Feature'><strong>기억으로의 잠수:</strong> 먼 거리 내의 대상에게 <strong>주문시전 굴림</strong>을 굴립니다. 성공 시 대상의 마음을 들여다보고 GM에게 질문 하나를 합니다. GM은 답과 관련된 대상의 기억을 묘사합니다.</p><p class='Card-Feature'><strong>공유된 명료함:</strong> 긴 휴식당 한 번, <strong>희망을 소모</strong>하여 두 동의하는 존재를 선택합니다. 그들 중 한 명이 스트레스를 표시해야 할 때, 그들은 누가 표시할지 자신들 사이에서 선택할 수 있습니다. 이 주문은 그들의 다음 휴식까지 지속됩니다.</p>",
             "actions": {
-                "gV6i6Nn6Qolc6PuF": "<p class='Card-Feature'><strong>기억으로의 잠수:</strong> 먼 거리 내의 대상에게 <strong>주문 굴림</strong>을 굴립니다. 성공 시 대상의 마음을 들여다보고 GM에게 질문 하나를 합니다. GM은 답과 관련된 대상의 기억을 묘사합니다.</p>",
+                "gV6i6Nn6Qolc6PuF": "<p class='Card-Feature'><strong>기억으로의 잠수:</strong> 먼 거리 내의 대상에게 <strong>주문시전 굴림</strong>을 굴립니다. 성공 시 대상의 마음을 들여다보고 GM에게 질문 하나를 합니다. GM은 답과 관련된 대상의 기억을 묘사합니다.</p>",
                 "djZ0hQamdwzvYeKc": "<p class='Card-Feature'><strong>공유된 명료함:</strong> 긴 휴식당 한 번, <strong>희망을 소모</strong>하여 두 동의하는 존재를 선택합니다. 그들 중 한 명이 스트레스를 표시해야 할 때, 그들은 누가 표시할지 자신들 사이에서 선택할 수 있습니다. 이 주문은 그들의 다음 휴식까지 지속됩니다.</p>"
             }
         },
         "Book of Yarrow": {
             "name": "야로우의 서",
-            "description": "<p class='Card-Feature'><strong>시간 지연자:</strong> <strong>주문 굴림 (18)</strong>을 굴립니다. 성공 시 먼 거리 내의 당신을 제외한 모든 이에게 시간이 일시적으로 멈춥니다. 당신이 다른 존재를 노리는 행동 굴림을 다음에 굴릴 때 시간이 다시 흐릅니다.</p><p class='Card-Feature'><strong>마법 면역: 희망 5을 소모</strong>하여 다음 휴식까지 마법 피해에 면역이 됩니다.</p>",
+            "description": "<p class='Card-Feature'><strong>시간 지연자:</strong> <strong>주문시전 굴림 (18)</strong>을 굴립니다. 성공 시 먼 거리 내의 당신을 제외한 모든 이에게 시간이 일시적으로 멈춥니다. 당신이 다른 존재를 노리는 행동 굴림을 다음에 굴릴 때 시간이 다시 흐릅니다.</p><p class='Card-Feature'><strong>마법 면역: 희망 5을 소모</strong>하여 다음 휴식까지 마법 피해에 면역이 됩니다.</p>",
             "actions": {
-                "IxoglRervMx9YdVn": "<p class='Card-Feature'><strong>시간 지연자:</strong> <strong>주문 굴림 (18)</strong>을 굴립니다. 성공 시 먼 거리 내의 당신을 제외한 모든 이에게 시간이 일시적으로 멈춥니다. 당신이 다른 존재를 노리는 행동 굴림을 다음에 굴릴 때 시간이 다시 흐릅니다.</p>",
+                "IxoglRervMx9YdVn": "<p class='Card-Feature'><strong>시간 지연자:</strong> <strong>주문시전 굴림 (18)</strong>을 굴립니다. 성공 시 먼 거리 내의 당신을 제외한 모든 이에게 시간이 일시적으로 멈춥니다. 당신이 다른 존재를 노리는 행동 굴림을 다음에 굴릴 때 시간이 다시 흐릅니다.</p>",
                 "ZcQfbtGet0KQWjWS": "<p class='Card-Feature'><strong>마법 면역: 희망 5을 소모</strong>하여 다음 휴식까지 마법 피해에 면역이 됩니다.</p>"
             }
         },
         "Boost": {
             "name": "도약",
-            "description": "<p class='Body-Foundation'><strong>스트레스를 표시</strong>하여 가까운 거리의 동료를 박차고 공중으로 도약하여 먼 거리의 대상에게 공중 공격을 가합니다. 공격에 유리를 얻고, 피해 굴림에 <strong>d10</strong>을 더하며, 대상으로부터 근접 거리에서 차례를 마칩니다.</p>",
+            "description": "<p class='Body-Foundation'><strong>스트레스를 표시</strong>하여 가까운 거리의 동료를 박차고 공중으로 도약하여 먼 거리의 대상에게 공중 공격을 가합니다. 공격에 이점를 얻고, 피해 굴림에 <strong>d10</strong>을 더하며, 대상으로부터 근접 거리에서 차례를 마칩니다.</p>",
             "actions": {
-                "EA3lGjFhJAX1xoT4": "<p class='Body-Foundation'><strong>스트레스를 표시</strong>하여 가까운 거리의 동료를 박차고 공중으로 도약하여 먼 거리의 대상에게 공중 공격을 가합니다. 공격에 유리를 얻고, 피해 굴림에 <strong>d10</strong>을 더하며, 대상으로부터 근접 거리에서 차례를 마칩니다.</p>"
+                "EA3lGjFhJAX1xoT4": "<p class='Body-Foundation'><strong>스트레스를 표시</strong>하여 가까운 거리의 동료를 박차고 공중으로 도약하여 먼 거리의 대상에게 공중 공격을 가합니다. 공격에 이점를 얻고, 피해 굴림에 <strong>d10</strong>을 더하며, 대상으로부터 근접 거리에서 차례를 마칩니다.</p>"
             }
         },
         "Brace": {
             "name": "버팀",
-            "description": "<p class='Body-Foundation'>들어오는 피해를 줄이기 위해 방어구 슬롯을 표시할 때, <strong>스트레스를 표시</strong>하여 추가 방어구 슬롯을 표시할 수 있습니다.</p>"
+            "description": "<p class='Body-Foundation'>들어오는 피해를 줄이기 위해 방어 슬롯을 표시할 때, <strong>스트레스를 표시</strong>하여 추가 방어 슬롯을 표시할 수 있습니다.</p>"
         },
         "Breaking Blow": {
             "name": "강타",
@@ -252,19 +252,19 @@
         },
         "Chain Lightning": {
             "name": "사슬 번개",
-            "description": "스트레스 2를 표시하여 주문 굴림을 굴려, 근접 거리의 모든 대상에게 번개를 내리칩니다. 당신이 성공한 대상은 당신의 주문 굴림 결과와 같은 난이도의 반응 굴림을 굴려야 합니다. 실패한 대상은 마법 피해 2d8+4를 입습니다. 사슬 번개에 아직 맞지 않았고 이전에 피해를 입은 대상과 근접 거리에 있는 추가 적대자들도 반응 굴림을 굴려야 합니다. 실패한 대상은 마법 피해 2d8+4를 입습니다. 이 사슬은 사정거리 내에 더 이상 적대자가 남지 않을 때까지 계속됩니다.",
+            "description": "스트레스 2를 표시하여 주문시전 굴림을 굴려, 근접 거리의 모든 대상에게 번개를 내리칩니다. 당신이 성공한 대상은 당신의 주문시전 굴림 결과와 같은 난이도의 대응 굴림을 굴려야 합니다. 실패한 대상은 마법 피해 2d8+4를 입습니다. 사슬 번개에 아직 맞지 않았고 이전에 피해를 입은 대상과 근접 거리에 있는 추가 적대자들도 대응 굴림을 굴려야 합니다. 실패한 대상은 마법 피해 2d8+4를 입습니다. 이 사슬은 사정거리 내에 더 이상 적대자가 남지 않을 때까지 계속됩니다.",
             "actions": {
-                "2jjOspoj5HGgUBmE": "스트레스 2를 표시하여 주문 굴림을 굴려, 근접 거리의 모든 대상에게 번개를 내리칩니다. 당신이 성공한 대상은 당신의 주문 굴림 결과와 같은 난이도의 반응 굴림을 굴려야 합니다. 실패한 대상은 마법 피해 2d8+4를 입습니다. 사슬 번개에 아직 맞지 않았고 이전에 피해를 입은 대상과 근접 거리에 있는 추가 적대자들도 반응 굴림을 굴려야 합니다. 실패한 대상은 마법 피해 2d8+4를 입습니다. 이 사슬은 사정거리 내에 더 이상 적대자가 남지 않을 때까지 계속됩니다.",
-                "tRJNO3DVvVYwW3tt": "스트레스 2를 표시하여 주문 굴림을 굴려, 근접 거리의 모든 대상에게 번개를 내리칩니다. 당신이 성공한 대상은 당신의 주문 굴림 결과와 같은 난이도의 반응 굴림을 굴려야 합니다. 실패한 대상은 마법 피해 2d8+4를 입습니다. 사슬 번개에 아직 맞지 않았고 이전에 피해를 입은 대상과 근접 거리에 있는 추가 적대자들도 반응 굴림을 굴려야 합니다. 실패한 대상은 마법 피해 2d8+4를 입습니다. 이 사슬은 사정거리 내에 더 이상 적대자가 남지 않을 때까지 계속됩니다."
+                "2jjOspoj5HGgUBmE": "스트레스 2를 표시하여 주문시전 굴림을 굴려, 근접 거리의 모든 대상에게 번개를 내리칩니다. 당신이 성공한 대상은 당신의 주문시전 굴림 결과와 같은 난이도의 대응 굴림을 굴려야 합니다. 실패한 대상은 마법 피해 2d8+4를 입습니다. 사슬 번개에 아직 맞지 않았고 이전에 피해를 입은 대상과 근접 거리에 있는 추가 적대자들도 대응 굴림을 굴려야 합니다. 실패한 대상은 마법 피해 2d8+4를 입습니다. 이 사슬은 사정거리 내에 더 이상 적대자가 남지 않을 때까지 계속됩니다.",
+                "tRJNO3DVvVYwW3tt": "스트레스 2를 표시하여 주문시전 굴림을 굴려, 근접 거리의 모든 대상에게 번개를 내리칩니다. 당신이 성공한 대상은 당신의 주문시전 굴림 결과와 같은 난이도의 대응 굴림을 굴려야 합니다. 실패한 대상은 마법 피해 2d8+4를 입습니다. 사슬 번개에 아직 맞지 않았고 이전에 피해를 입은 대상과 근접 거리에 있는 추가 적대자들도 대응 굴림을 굴려야 합니다. 실패한 대상은 마법 피해 2d8+4를 입습니다. 이 사슬은 사정거리 내에 더 이상 적대자가 남지 않을 때까지 계속됩니다."
             }
         },
         "Champion’s Edge": {
             "name": "챔피언의 우위",
-            "description": "공격에서 결정타가 났을 때, 희망을 최대 3까지 소모하고, 소모한 희망 하나당 다음 중 하나를 선택할 수 있습니다:\n\nHP 1을 회복합니다.\n\n방어구 슬롯 1을 회복합니다.\n\n대상은 추가 HP를 표시해야 합니다.\n\n같은 옵션을 두 번 이상 선택할 수 없습니다.",
+            "description": "공격에서 치명적 성공가 났을 때, 희망을 최대 3까지 소모하고, 소모한 희망 하나당 다음 중 하나를 선택할 수 있습니다:\n\nHP 1을 회복합니다.\n\n방어 슬롯 1을 회복합니다.\n\n대상은 추가 HP를 표시해야 합니다.\n\n같은 옵션을 두 번 이상 선택할 수 없습니다.",
             "actions": {
-                "CbKKgf1TboGPZitf": "공격에서 결정타가 났을 때, 희망을 최대 3까지 소모하고, 소모한 희망 하나당 다음 중 하나를 선택할 수 있습니다:\n\nHP 1을 회복합니다.\n\n방어구 슬롯 1을 회복합니다.\n\n대상은 추가 HP를 표시해야 합니다.\n\n같은 옵션을 두 번 이상 선택할 수 없습니다.",
-                "hsI4QDa6Br52P2mc": "공격에서 결정타가 났을 때, 희망을 최대 3까지 소모하고, 소모한 희망 하나당 다음 중 하나를 선택할 수 있습니다:\n\nHP 1을 회복합니다.\n\n방어구 슬롯 1을 회복합니다.\n\n대상은 추가 HP를 표시해야 합니다.\n\n같은 옵션을 두 번 이상 선택할 수 없습니다.",
-                "IqLoK4KHMpoTGQIM": "공격에서 결정타가 났을 때, 희망을 최대 3까지 소모하고, 소모한 희망 하나당 다음 중 하나를 선택할 수 있습니다:\n\nHP 1을 회복합니다.\n\n방어구 슬롯 1을 회복합니다.\n\n대상은 추가 HP를 표시해야 합니다.\n\n같은 옵션을 두 번 이상 선택할 수 없습니다."
+                "CbKKgf1TboGPZitf": "공격에서 치명적 성공가 났을 때, 희망을 최대 3까지 소모하고, 소모한 희망 하나당 다음 중 하나를 선택할 수 있습니다:\n\nHP 1을 회복합니다.\n\n방어 슬롯 1을 회복합니다.\n\n대상은 추가 HP를 표시해야 합니다.\n\n같은 옵션을 두 번 이상 선택할 수 없습니다.",
+                "hsI4QDa6Br52P2mc": "공격에서 치명적 성공가 났을 때, 희망을 최대 3까지 소모하고, 소모한 희망 하나당 다음 중 하나를 선택할 수 있습니다:\n\nHP 1을 회복합니다.\n\n방어 슬롯 1을 회복합니다.\n\n대상은 추가 HP를 표시해야 합니다.\n\n같은 옵션을 두 번 이상 선택할 수 없습니다.",
+                "IqLoK4KHMpoTGQIM": "공격에서 치명적 성공가 났을 때, 희망을 최대 3까지 소모하고, 소모한 희망 하나당 다음 중 하나를 선택할 수 있습니다:\n\nHP 1을 회복합니다.\n\n방어 슬롯 1을 회복합니다.\n\n대상은 추가 HP를 표시해야 합니다.\n\n같은 옵션을 두 번 이상 선택할 수 없습니다."
             }
         },
         "Chokehold": {
@@ -277,89 +277,89 @@
         },
         "Cinder Grasp": {
             "name": "재의 손아귀",
-            "description": "<p class='Body-Foundation'>근접 거리의 대상에게 <strong>주문 굴림</strong>을 굴립니다. 성공 시 대상은 즉시 불이 붙어 마법 피해 <strong>1d20+3</strong>을 받고 일시적으로 화염 상태가 됩니다.</p><p class='Body-Foundation'>한 존재가 화염 상태에서 행동할 때, 행동 종료 시점에도 여전히 화염 상태라면 추가로 마법 피해 <strong>2d6</strong>을 받아야 합니다.</p>",
+            "description": "<p class='Body-Foundation'>근접 거리의 대상에게 <strong>주문시전 굴림</strong>을 굴립니다. 성공 시 대상은 즉시 불이 붙어 마법 피해 <strong>1d20+3</strong>을 받고 일시적으로 화염 상태가 됩니다.</p><p class='Body-Foundation'>한 존재가 화염 상태에서 행동할 때, 행동 종료 시점에도 여전히 화염 상태라면 추가로 마법 피해 <strong>2d6</strong>을 받아야 합니다.</p>",
             "actions": {
-                "9qebkHgxdWVFhIqd": "<p class='Body-Foundation'>근접 거리의 대상에게 <strong>주문 굴림</strong>을 굴립니다. 성공 시 대상은 즉시 불이 붙어 마법 피해 <strong>1d20+3</strong>을 받고 일시적으로 화염 상태가 됩니다.</p><p class='Body-Foundation'>한 존재가 화염 상태에서 행동할 때, 행동 종료 시점에도 여전히 화염 상태라면 추가로 마법 피해 <strong>2d6</strong>을 받아야 합니다.</p>",
-                "z9vUmnLXfskowwsc": "<p class='Body-Foundation'>근접 거리의 대상에게 <strong>주문 굴림</strong>을 굴립니다. 성공 시 대상은 즉시 불이 붙어 마법 피해 <strong>1d20+3</strong>을 받고 일시적으로 화염 상태가 됩니다.</p><p class='Body-Foundation'>한 존재가 화염 상태에서 행동할 때, 행동 종료 시점에도 여전히 화염 상태라면 추가로 마법 피해 <strong>2d6</strong>을 받아야 합니다.</p>"
+                "9qebkHgxdWVFhIqd": "<p class='Body-Foundation'>근접 거리의 대상에게 <strong>주문시전 굴림</strong>을 굴립니다. 성공 시 대상은 즉시 불이 붙어 마법 피해 <strong>1d20+3</strong>을 받고 일시적으로 화염 상태가 됩니다.</p><p class='Body-Foundation'>한 존재가 화염 상태에서 행동할 때, 행동 종료 시점에도 여전히 화염 상태라면 추가로 마법 피해 <strong>2d6</strong>을 받아야 합니다.</p>",
+                "z9vUmnLXfskowwsc": "<p class='Body-Foundation'>근접 거리의 대상에게 <strong>주문시전 굴림</strong>을 굴립니다. 성공 시 대상은 즉시 불이 붙어 마법 피해 <strong>1d20+3</strong>을 받고 일시적으로 화염 상태가 됩니다.</p><p class='Body-Foundation'>한 존재가 화염 상태에서 행동할 때, 행동 종료 시점에도 여전히 화염 상태라면 추가로 마법 피해 <strong>2d6</strong>을 받아야 합니다.</p>"
             }
         },
         "Cloaking Blast": {
             "name": "은신 발산",
-            "description": "<p class='Body-Foundation'>다른 주문을 시전하기 위한 <strong>주문 굴림</strong>에 성공했을 때, <strong>희망을 소모</strong>하여 은신 상태가 될 수 있습니다. 은신 상태일 때, 적대자가 평소 당신을 볼 수 있는 곳으로 이동해도 당신이 가만히 있다면 보이지 않은 채로 남아있습니다. 당신이 적대자의 시야 안으로 이동하거나 그 안에서 이동하거나, 공격을 하면 은신 상태가 해제됩니다.</p>",
+            "description": "<p class='Body-Foundation'>다른 주문을 시전하기 위한 <strong>주문시전 굴림</strong>에 성공했을 때, <strong>희망을 소모</strong>하여 은신 상태가 될 수 있습니다. 은신 상태일 때, 적대자가 평소 당신을 볼 수 있는 곳으로 이동해도 당신이 가만히 있다면 보이지 않은 채로 남아있습니다. 당신이 적대자의 시야 안으로 이동하거나 그 안에서 이동하거나, 공격을 하면 은신 상태가 해제됩니다.</p>",
             "actions": {
-                "A12J0jyQrOaQoLf7": "<p class='Body-Foundation'>다른 주문을 시전하기 위한 <strong>주문 굴림</strong>에 성공했을 때, <strong>희망을 소모</strong>하여 은신 상태가 될 수 있습니다. 은신 상태일 때, 적대자가 평소 당신을 볼 수 있는 곳으로 이동해도 당신이 가만히 있다면 보이지 않은 채로 남아있습니다. 당신이 적대자의 시야 안으로 이동하거나 그 안에서 이동하거나, 공격을 하면 은신 상태가 해제됩니다.</p>"
+                "A12J0jyQrOaQoLf7": "<p class='Body-Foundation'>다른 주문을 시전하기 위한 <strong>주문시전 굴림</strong>에 성공했을 때, <strong>희망을 소모</strong>하여 은신 상태가 될 수 있습니다. 은신 상태일 때, 적대자가 평소 당신을 볼 수 있는 곳으로 이동해도 당신이 가만히 있다면 보이지 않은 채로 남아있습니다. 당신이 적대자의 시야 안으로 이동하거나 그 안에서 이동하거나, 공격을 하면 은신 상태가 해제됩니다.</p>"
             }
         },
         "Codex-Touched": {
             "name": "기록의 가호",
-            "description": "<p><p class='Body-Foundation'>당신의 장비에 있는 영역 카드 4장 이상이 기록 영역에 속할 때, 다음 이점을 얻습니다:</p><ul class=''><li class='vertical-card-list'><strong>스트레스를 표시</strong>하여 주문 굴림에 자신의 숙련도를 더할 수 있습니다.   </li><li class='vertical-card-list'>휴식당 한 번, 회상 비용을 지불하지 않고 이 카드를 보관소의 어떤 카드와도 교체할 수 있습니다.</li></ul></p>",
+            "description": "<p><p class='Body-Foundation'>당신의 장비에 있는 권역 카드 4장 이상이 기록 영역에 속할 때, 다음 이점을 얻습니다:</p><ul class=''><li class='vertical-card-list'><strong>스트레스를 표시</strong>하여 주문시전 굴림에 자신의 숙련도를 더할 수 있습니다.   </li><li class='vertical-card-list'>휴식당 한 번, 회상 비용을 지불하지 않고 이 카드를 보관소의 어떤 카드와도 교체할 수 있습니다.</li></ul></p>",
             "actions": {
-                "OV23p0uWuzmrQsZi": "<p><p class='Body-Foundation'>당신의 장비에 있는 영역 카드 4장 이상이 기록 영역에 속할 때, 다음 이점을 얻습니다:</p><ul class=''><li class='vertical-card-list'><strong>스트레스를 표시</strong>하여 주문 굴림에 자신의 숙련도를 더할 수 있습니다.   </li><li class='vertical-card-list'>휴식당 한 번, 회상 비용을 지불하지 않고 이 카드를 보관소의 어떤 카드와도 교체할 수 있습니다.</li></ul></p>",
-                "TGOGkEzH3HluH6YK": "<p><p class='Body-Foundation'>당신의 장비에 있는 영역 카드 4장 이상이 기록 영역에 속할 때, 다음 이점을 얻습니다:</p><ul class=''><li class='vertical-card-list'><strong>스트레스를 표시</strong>하여 주문 굴림에 자신의 숙련도를 더할 수 있습니다.   </li><li class='vertical-card-list'>휴식당 한 번, 회상 비용을 지불하지 않고 이 카드를 보관소의 어떤 카드와도 교체할 수 있습니다.</li></ul></p>"
+                "OV23p0uWuzmrQsZi": "<p><p class='Body-Foundation'>당신의 장비에 있는 권역 카드 4장 이상이 기록 영역에 속할 때, 다음 이점을 얻습니다:</p><ul class=''><li class='vertical-card-list'><strong>스트레스를 표시</strong>하여 주문시전 굴림에 자신의 숙련도를 더할 수 있습니다.   </li><li class='vertical-card-list'>휴식당 한 번, 회상 비용을 지불하지 않고 이 카드를 보관소의 어떤 카드와도 교체할 수 있습니다.</li></ul></p>",
+                "TGOGkEzH3HluH6YK": "<p><p class='Body-Foundation'>당신의 장비에 있는 권역 카드 4장 이상이 기록 영역에 속할 때, 다음 이점을 얻습니다:</p><ul class=''><li class='vertical-card-list'><strong>스트레스를 표시</strong>하여 주문시전 굴림에 자신의 숙련도를 더할 수 있습니다.   </li><li class='vertical-card-list'>휴식당 한 번, 회상 비용을 지불하지 않고 이 카드를 보관소의 어떤 카드와도 교체할 수 있습니다.</li></ul></p>"
             }
         },
         "Confusing Aura": {
             "name": "혼란의 오라",
-            "description": "<p class='Body-Foundation-No-BOLDITALIC'><strong>주문 굴림 (14)</strong>을 굴립니다. 긴 휴식당 한 번, 성공 시 당신의 몸 주위에 환영의 층을 만들어 당신의 정확한 위치를 파악하기 어렵게 만듭니다. <strong>스트레스를 원하는 만큼 표시</strong>하여 그 수만큼 추가 층을 만듭니다. 적대자가 당신에게 공격을 가할 때, 활성화된 층의 수만큼 <strong>d6</strong>을 굴립니다. 어떤 굴림이라도 5 이상이라면, 오라의 한 층이 파괴되고 공격이 실패합니다. 모든 결과가 4 이하라면, 당신은 피해를 입고 이 주문이 종료됩니다.</p>",
+            "description": "<p class='Body-Foundation-No-BOLDITALIC'><strong>주문시전 굴림 (14)</strong>을 굴립니다. 긴 휴식당 한 번, 성공 시 당신의 몸 주위에 환영의 층을 만들어 당신의 정확한 위치를 파악하기 어렵게 만듭니다. <strong>스트레스를 원하는 만큼 표시</strong>하여 그 수만큼 추가 층을 만듭니다. 적대자가 당신에게 공격을 가할 때, 활성화된 층의 수만큼 <strong>d6</strong>을 굴립니다. 어떤 굴림이라도 5 이상이라면, 오라의 한 층이 파괴되고 공격이 실패합니다. 모든 결과가 4 이하라면, 당신은 피해를 입고 이 주문이 종료됩니다.</p>",
             "actions": {
-                "L2hCs7xXO6sD4tUa": "<p class='Body-Foundation-No-BOLDITALIC'><strong>주문 굴림 (14)</strong>을 굴립니다. 긴 휴식당 한 번, 성공 시 당신의 몸 주위에 환영의 층을 만들어 당신의 정확한 위치를 파악하기 어렵게 만듭니다. <strong>스트레스를 원하는 만큼 표시</strong>하여 그 수만큼 추가 층을 만듭니다. 적대자가 당신에게 공격을 가할 때, 활성화된 층의 수만큼 <strong>d6</strong>을 굴립니다. 어떤 굴림이라도 5 이상이라면, 오라의 한 층이 파괴되고 공격이 실패합니다. 모든 결과가 4 이하라면, 당신은 피해를 입고 이 주문이 종료됩니다.</p>",
-                "oB5tyd2a7bmcJJmm": "<p class='Body-Foundation-No-BOLDITALIC'><strong>주문 굴림 (14)</strong>을 굴립니다. 긴 휴식당 한 번, 성공 시 당신의 몸 주위에 환영의 층을 만들어 당신의 정확한 위치를 파악하기 어렵게 만듭니다. <strong>스트레스를 원하는 만큼 표시</strong>하여 그 수만큼 추가 층을 만듭니다. 적대자가 당신에게 공격을 가할 때, 활성화된 층의 수만큼 <strong>d6</strong>을 굴립니다. 어떤 굴림이라도 5 이상이라면, 오라의 한 층이 파괴되고 공격이 실패합니다. 모든 결과가 4 이하라면, 당신은 피해를 입고 이 주문이 종료됩니다.</p>"
+                "L2hCs7xXO6sD4tUa": "<p class='Body-Foundation-No-BOLDITALIC'><strong>주문시전 굴림 (14)</strong>을 굴립니다. 긴 휴식당 한 번, 성공 시 당신의 몸 주위에 환영의 층을 만들어 당신의 정확한 위치를 파악하기 어렵게 만듭니다. <strong>스트레스를 원하는 만큼 표시</strong>하여 그 수만큼 추가 층을 만듭니다. 적대자가 당신에게 공격을 가할 때, 활성화된 층의 수만큼 <strong>d6</strong>을 굴립니다. 어떤 굴림이라도 5 이상이라면, 오라의 한 층이 파괴되고 공격이 실패합니다. 모든 결과가 4 이하라면, 당신은 피해를 입고 이 주문이 종료됩니다.</p>",
+                "oB5tyd2a7bmcJJmm": "<p class='Body-Foundation-No-BOLDITALIC'><strong>주문시전 굴림 (14)</strong>을 굴립니다. 긴 휴식당 한 번, 성공 시 당신의 몸 주위에 환영의 층을 만들어 당신의 정확한 위치를 파악하기 어렵게 만듭니다. <strong>스트레스를 원하는 만큼 표시</strong>하여 그 수만큼 추가 층을 만듭니다. 적대자가 당신에게 공격을 가할 때, 활성화된 층의 수만큼 <strong>d6</strong>을 굴립니다. 어떤 굴림이라도 5 이상이라면, 오라의 한 층이 파괴되고 공격이 실패합니다. 모든 결과가 4 이하라면, 당신은 피해를 입고 이 주문이 종료됩니다.</p>"
             }
         },
         "Conjured Steeds": {
             "name": "소환된 탈것",
-            "description": "<p class='Body-Foundation'><strong>희망을 원하는 만큼 소모</strong>하여 그 수만큼의 마법 탈것(말, 낙타 또는 코끼리 등)을 소환합니다. 당신과 동료들은 다음 긴 휴식까지 또는 탈것이 어떤 피해라도 입을 때까지 이들을 타고 다닐 수 있습니다. 탈것은 여행 중 육로 이동 속도를 두 배로 만들고, 위험에 처해 있을 때 주사위를 굴리지 않고도 먼 거리 내로 이동할 수 있게 해줍니다. 탑승 중인 존재는 공격 굴림에 −2 페널티를 받고, 피해 굴림에 +2 보너스를 받습니다.</p>",
+            "description": "<p class='Body-Foundation'><strong>희망을 원하는 만큼 소모</strong>하여 그 수만큼의 마법 탈것(말, 낙타 또는 코끼리 등)을 소환합니다. 당신과 동료들은 다음 긴 휴식까지 또는 탈것이 어떤 피해라도 입을 때까지 이들을 타고 다닐 수 있습니다. 탈것은 여행 중 육로 이동 속도를 두 배로 만들고, 위험에 처해 있을 때 주사위를 굴리지 않고도 먼 거리 내로 이동할 수 있게 해줍니다. 탑승 중인 존재는 명중 굴림에 −2 페널티를 받고, 피해 굴림에 +2 보너스를 받습니다.</p>",
             "actions": {
-                "xMIMyRto9jgYLN3S": "<p class='Body-Foundation'><strong>희망을 원하는 만큼 소모</strong>하여 그 수만큼의 마법 탈것(말, 낙타 또는 코끼리 등)을 소환합니다. 당신과 동료들은 다음 긴 휴식까지 또는 탈것이 어떤 피해라도 입을 때까지 이들을 타고 다닐 수 있습니다. 탈것은 여행 중 육로 이동 속도를 두 배로 만들고, 위험에 처해 있을 때 주사위를 굴리지 않고도 먼 거리 내로 이동할 수 있게 해줍니다. 탑승 중인 존재는 공격 굴림에 −2 페널티를 받고, 피해 굴림에 +2 보너스를 받습니다.</p>"
+                "xMIMyRto9jgYLN3S": "<p class='Body-Foundation'><strong>희망을 원하는 만큼 소모</strong>하여 그 수만큼의 마법 탈것(말, 낙타 또는 코끼리 등)을 소환합니다. 당신과 동료들은 다음 긴 휴식까지 또는 탈것이 어떤 피해라도 입을 때까지 이들을 타고 다닐 수 있습니다. 탈것은 여행 중 육로 이동 속도를 두 배로 만들고, 위험에 처해 있을 때 주사위를 굴리지 않고도 먼 거리 내로 이동할 수 있게 해줍니다. 탑승 중인 존재는 명중 굴림에 −2 페널티를 받고, 피해 굴림에 +2 보너스를 받습니다.</p>"
             }
         },
         "Conjure Swarm": {
             "name": "무리 소환",
-            "description": "<p class='Card-Feature'><strong>테카이라의 갑주 딱정벌레:</strong> <strong>스트레스를 표시</strong>하여 당신 주위를 둘러싸는 갑주 딱정벌레를 소환합니다. 다음에 피해를 입을 때, 그 심각도를 한 단계 줄입니다. <strong>희망을 소모</strong>하여 피해를 입은 후에도 딱정벌레가 소환된 상태로 유지되게 할 수 있습니다.</p><p class='Card-Feature'><strong>반딧불이:</strong> 가까운 거리 내의 모든 적대자에게 <strong>주문 굴림</strong>을 굴립니다. <strong>희망을 소모</strong>하여 당신이 성공한 대상에게 마법 피해 <strong>2d8+3</strong>을 입힙니다.</p>",
+            "description": "<p class='Card-Feature'><strong>테카이라의 갑주 딱정벌레:</strong> <strong>스트레스를 표시</strong>하여 당신 주위를 둘러싸는 갑주 딱정벌레를 소환합니다. 다음에 피해를 입을 때, 그 심각도를 한 단계 줄입니다. <strong>희망을 소모</strong>하여 피해를 입은 후에도 딱정벌레가 소환된 상태로 유지되게 할 수 있습니다.</p><p class='Card-Feature'><strong>반딧불이:</strong> 가까운 거리 내의 모든 적대자에게 <strong>주문시전 굴림</strong>을 굴립니다. <strong>희망을 소모</strong>하여 당신이 성공한 대상에게 마법 피해 <strong>2d8+3</strong>을 입힙니다.</p>",
             "actions": {
                 "qygTUSNldYNbP7vN": "<p class='Card-Feature'><strong>테카이라의 갑주 딱정벌레:</strong> <strong>스트레스를 표시</strong>하여 당신 주위를 둘러싸는 갑주 딱정벌레를 소환합니다. 다음에 피해를 입을 때, 그 심각도를 한 단계 줄입니다. <strong>희망을 소모</strong>하여 피해를 입은 후에도 딱정벌레가 소환된 상태로 유지되게 할 수 있습니다.</p>",
-                "533qzPIjcccpiMey": "<p class='Card-Feature'><strong>반딧불이:</strong> 가까운 거리 내의 모든 적대자에게 <strong>주문 굴림</strong>을 굴립니다. <strong>희망을 소모</strong>하여 당신이 성공한 대상에게 마법 피해 <strong>2d8+3</strong>을 입힙니다.</p>",
-                "nugW0yPOG08pqBAT": "<p class='Card-Feature'><strong>반딧불이:</strong> 가까운 거리 내의 모든 적대자에게 <strong>주문 굴림</strong>을 굴립니다. <strong>희망을 소모</strong>하여 당신이 성공한 대상에게 마법 피해 <strong>2d8+3</strong>을 입힙니다.</p>"
+                "533qzPIjcccpiMey": "<p class='Card-Feature'><strong>반딧불이:</strong> 가까운 거리 내의 모든 적대자에게 <strong>주문시전 굴림</strong>을 굴립니다. <strong>희망을 소모</strong>하여 당신이 성공한 대상에게 마법 피해 <strong>2d8+3</strong>을 입힙니다.</p>",
+                "nugW0yPOG08pqBAT": "<p class='Card-Feature'><strong>반딧불이:</strong> 가까운 거리 내의 모든 적대자에게 <strong>주문시전 굴림</strong>을 굴립니다. <strong>희망을 소모</strong>하여 당신이 성공한 대상에게 마법 피해 <strong>2d8+3</strong>을 입힙니다.</p>"
             }
         },
         "Copycat": {
             "name": "모방자",
-            "description": "<p class='Body-Foundation'>긴 휴식당 한 번, 이 카드는 다른 플레이어의 장비에 있는 8 등급 이하의 다른 영역 카드의 특성을 모방할 수 있습니다. <strong>카드 등급의 절반과 동일한 희망을 소모</strong>하여 그 특성에 접근합니다. 다음 휴식까지 또는 그들이 카드를 보관소에 넣을 때까지 작동합니다.</p>",
+            "description": "<p class='Body-Foundation'>긴 휴식당 한 번, 이 카드는 다른 플레이어의 장비에 있는 8 등급 이하의 다른 권역 카드의 특성을 모방할 수 있습니다. <strong>카드 등급의 절반과 동일한 희망을 소모</strong>하여 그 특성에 접근합니다. 다음 휴식까지 또는 그들이 카드를 보관소에 넣을 때까지 작동합니다.</p>",
             "actions": {
-                "RKEceNKiQirYwN45": "<p class='Body-Foundation'>긴 휴식당 한 번, 이 카드는 다른 플레이어의 장비에 있는 8 등급 이하의 다른 영역 카드의 특성을 모방할 수 있습니다. <strong>카드 등급의 절반과 동일한 희망을 소모</strong>하여 그 특성에 접근합니다. 다음 휴식까지 또는 그들이 카드를 보관소에 넣을 때까지 작동합니다.</p>"
+                "RKEceNKiQirYwN45": "<p class='Body-Foundation'>긴 휴식당 한 번, 이 카드는 다른 플레이어의 장비에 있는 8 등급 이하의 다른 권역 카드의 특성을 모방할 수 있습니다. <strong>카드 등급의 절반과 동일한 희망을 소모</strong>하여 그 특성에 접근합니다. 다음 휴식까지 또는 그들이 카드를 보관소에 넣을 때까지 작동합니다.</p>"
             }
         },
         "Corrosive Projectile": {
             "name": "부식 탄환",
-            "description": "<p class='Body-Foundation'>먼 거리의 대상에게 <strong>주문 굴림</strong>을 굴립니다. 성공 시 자신의 숙련도를 사용해 마법 피해 <strong>d6+4</strong>를 입힙니다. 추가로 <strong>스트레스 2 이상을 소모</strong>하여 대상을 영구적으로 부식 상태로 만들 수 있습니다. 대상이 부식 상태인 동안, 당신이 소모한 스트레스 2마다 그의 난이도에 −1 페널티를 받습니다. 이 상태는 누적될 수 있습니다.</p>",
+            "description": "<p class='Body-Foundation'>먼 거리의 대상에게 <strong>주문시전 굴림</strong>을 굴립니다. 성공 시 자신의 숙련도를 사용해 마법 피해 <strong>d6+4</strong>를 입힙니다. 추가로 <strong>스트레스 2 이상을 소모</strong>하여 대상을 영구적으로 부식 상태로 만들 수 있습니다. 대상이 부식 상태인 동안, 당신이 소모한 스트레스 2마다 그의 난이도에 −1 페널티를 받습니다. 이 상태는 누적될 수 있습니다.</p>",
             "actions": {
-                "WqHLiHxP2enmJaHx": "<p class='Body-Foundation'>먼 거리의 대상에게 <strong>주문 굴림</strong>을 굴립니다. 성공 시 자신의 숙련도를 사용해 마법 피해 <strong>d6+4</strong>를 입힙니다. 추가로 <strong>스트레스 2 이상을 소모</strong>하여 대상을 영구적으로 부식 상태로 만들 수 있습니다. 대상이 부식 상태인 동안, 당신이 소모한 스트레스 2마다 그의 난이도에 −1 페널티를 받습니다. 이 상태는 누적될 수 있습니다.</p>",
-                "maf0whws7wgRnFsH": "<p class='Body-Foundation'>먼 거리의 대상에게 <strong>주문 굴림</strong>을 굴립니다. 성공 시 자신의 숙련도를 사용해 마법 피해 <strong>d6+4</strong>를 입힙니다. 추가로 <strong>스트레스 2 이상을 소모</strong>하여 대상을 영구적으로 부식 상태로 만들 수 있습니다. 대상이 부식 상태인 동안, 당신이 소모한 스트레스 2마다 그의 난이도에 −1 페널티를 받습니다. 이 상태는 누적될 수 있습니다.</p>"
+                "WqHLiHxP2enmJaHx": "<p class='Body-Foundation'>먼 거리의 대상에게 <strong>주문시전 굴림</strong>을 굴립니다. 성공 시 자신의 숙련도를 사용해 마법 피해 <strong>d6+4</strong>를 입힙니다. 추가로 <strong>스트레스 2 이상을 소모</strong>하여 대상을 영구적으로 부식 상태로 만들 수 있습니다. 대상이 부식 상태인 동안, 당신이 소모한 스트레스 2마다 그의 난이도에 −1 페널티를 받습니다. 이 상태는 누적될 수 있습니다.</p>",
+                "maf0whws7wgRnFsH": "<p class='Body-Foundation'>먼 거리의 대상에게 <strong>주문시전 굴림</strong>을 굴립니다. 성공 시 자신의 숙련도를 사용해 마법 피해 <strong>d6+4</strong>를 입힙니다. 추가로 <strong>스트레스 2 이상을 소모</strong>하여 대상을 영구적으로 부식 상태로 만들 수 있습니다. 대상이 부식 상태인 동안, 당신이 소모한 스트레스 2마다 그의 난이도에 −1 페널티를 받습니다. 이 상태는 누적될 수 있습니다.</p>"
             }
         },
         "Counterspell": {
             "name": "주문 반격",
-            "description": "<p></p><p class='Body-Foundation'>당신은 주문 시전 특성을 사용해 반응 굴림을 굴림으로써 마법 효과를 차단할 수 있습니다. 성공 시 효과가 종료되고, 어떤 결과도 방지되며, 이 카드는 보관소에 들어갑니다.</p>",
+            "description": "<p></p><p class='Body-Foundation'>당신은 주문 시전 특성을 사용해 대응 굴림을 굴림으로써 마법 효과를 차단할 수 있습니다. 성공 시 효과가 종료되고, 어떤 결과도 방지되며, 이 카드는 보관소에 들어갑니다.</p>",
             "actions": {
-                "SeOcGdKAc7egwg9H": "<p></p><p class='Body-Foundation'>당신은 주문 시전 특성을 사용해 반응 굴림을 굴림으로써 마법 효과를 차단할 수 있습니다. 성공 시 효과가 종료되고, 어떤 결과도 방지되며, 이 카드는 보관소에 들어갑니다.</p>"
+                "SeOcGdKAc7egwg9H": "<p></p><p class='Body-Foundation'>당신은 주문 시전 특성을 사용해 대응 굴림을 굴림으로써 마법 효과를 차단할 수 있습니다. 성공 시 효과가 종료되고, 어떤 결과도 방지되며, 이 카드는 보관소에 들어갑니다.</p>"
             }
         },
         "Critical Inspiration": {
             "name": "결정적 영감",
-            "description": "<p class='Body-Foundation'>휴식당 한 번, 당신이 결정타로 공격을 가했을 때, 매우 가까운 거리 내의 모든 동료는 스트레스를 비우거나 희망을 얻을 수 있습니다.</p>",
+            "description": "<p class='Body-Foundation'>휴식당 한 번, 당신이 치명적 성공로 공격을 가했을 때, 매우 가까운 거리 내의 모든 동료는 스트레스를 비우거나 희망을 얻을 수 있습니다.</p>",
             "actions": {
-                "kyPCNwzwrbb3LhWm": "<p class='Body-Foundation'>휴식당 한 번, 당신이 결정타로 공격을 가했을 때, 매우 가까운 거리 내의 모든 동료는 스트레스를 비우거나 희망을 얻을 수 있습니다.</p>"
+                "kyPCNwzwrbb3LhWm": "<p class='Body-Foundation'>휴식당 한 번, 당신이 치명적 성공로 공격을 가했을 때, 매우 가까운 거리 내의 모든 동료는 스트레스를 비우거나 희망을 얻을 수 있습니다.</p>"
             }
         },
         "Cruel Precision": {
             "name": "잔혹한 정확성",
-            "description": "<p class='Body-Foundation'>당신이 무기로 성공적인 공격을 가했을 때, 손재주 또는 민첩과 같은 피해 굴림 보너스를 받습니다.</p>"
+            "description": "<p class='Body-Foundation'>당신이 무기로 성공적인 공격을 가했을 때, 기교 또는 민첩과 같은 피해 굴림 보너스를 받습니다.</p>"
         },
         "Dark Whispers": {
             "name": "어둠의 속삭임",
-            "description": "<p class='Body-Foundation'>당신은 신체 접촉이 있었던 어떤 사람의 마음에든 말을 걸 수 있습니다. 일단 그들과 채널을 열면, 그들도 당신의 마음에 말을 걸 수 있습니다. 또한, <strong>스트레스를 표시</strong>하여 그들에게 <strong>주문 굴림</strong>을 굴릴 수 있습니다. 성공 시 다음 질문 중 하나를 GM에게 묻고 답을 얻을 수 있습니다:</p><ul><li class='vertical-card-list-found'>그들이 어디 있는가?</li><li class='vertical-card-list-found'>그들이 무엇을 하고 있는가?</li><li class='vertical-card-list-found'>그들이 무엇을 두려워하는가?</li><li class='vertical-card-list-found'>그들이 세상에서 가장 소중히 여기는 것은 무엇인가?</li></ul>",
+            "description": "<p class='Body-Foundation'>당신은 신체 접촉이 있었던 어떤 사람의 마음에든 말을 걸 수 있습니다. 일단 그들과 채널을 열면, 그들도 당신의 마음에 말을 걸 수 있습니다. 또한, <strong>스트레스를 표시</strong>하여 그들에게 <strong>주문시전 굴림</strong>을 굴릴 수 있습니다. 성공 시 다음 질문 중 하나를 GM에게 묻고 답을 얻을 수 있습니다:</p><ul><li class='vertical-card-list-found'>그들이 어디 있는가?</li><li class='vertical-card-list-found'>그들이 무엇을 하고 있는가?</li><li class='vertical-card-list-found'>그들이 무엇을 두려워하는가?</li><li class='vertical-card-list-found'>그들이 세상에서 가장 소중히 여기는 것은 무엇인가?</li></ul>",
             "actions": {
-                "3F2zSCsdMMeztQye": "<p class='Body-Foundation'>당신은 신체 접촉이 있었던 어떤 사람의 마음에든 말을 걸 수 있습니다. 일단 그들과 채널을 열면, 그들도 당신의 마음에 말을 걸 수 있습니다. 또한, <strong>스트레스를 표시</strong>하여 그들에게 <strong>주문 굴림</strong>을 굴릴 수 있습니다. 성공 시 다음 질문 중 하나를 GM에게 묻고 답을 얻을 수 있습니다:</p><ul><li class='vertical-card-list-found'>그들이 어디 있는가?</li><li class='vertical-card-list-found'>그들이 무엇을 하고 있는가?</li><li class='vertical-card-list-found'>그들이 무엇을 두려워하는가?</li><li class='vertical-card-list-found'>그들이 세상에서 가장 소중히 여기는 것은 무엇인가?</li></ul>"
+                "3F2zSCsdMMeztQye": "<p class='Body-Foundation'>당신은 신체 접촉이 있었던 어떤 사람의 마음에든 말을 걸 수 있습니다. 일단 그들과 채널을 열면, 그들도 당신의 마음에 말을 걸 수 있습니다. 또한, <strong>스트레스를 표시</strong>하여 그들에게 <strong>주문시전 굴림</strong>을 굴릴 수 있습니다. 성공 시 다음 질문 중 하나를 GM에게 묻고 답을 얻을 수 있습니다:</p><ul><li class='vertical-card-list-found'>그들이 어디 있는가?</li><li class='vertical-card-list-found'>그들이 무엇을 하고 있는가?</li><li class='vertical-card-list-found'>그들이 무엇을 두려워하는가?</li><li class='vertical-card-list-found'>그들이 세상에서 가장 소중히 여기는 것은 무엇인가?</li></ul>"
             }
         },
         "Deadly Focus": {
@@ -378,32 +378,32 @@
         },
         "Death Grip": {
             "name": "죽음의 손아귀",
-            "description": "<p class='Body-Foundation-No-BOLDITALIC'>가까운 거리의 대상에게 <strong>주문 굴림</strong>을 굴리고 다음 중 하나를 선택하세요:</p><ul><li class='vertical-card-list'><p>대상을 근접 거리로 끌어당기거나, 당신을 그쪽 근접 거리로 끌어당깁니다.</p></li><li class='vertical-card-list'><p>대상을 조여 스트레스 2를 표시하게 만듭니다.</p></li><li class='vertical-card-list'><p>당신과 대상 사이의 모든 적대자는 반응 굴림 (13)에 성공해야 하며, 그렇지 않으면 덩굴에 맞아 물리 피해 <strong>3d6+2</strong>를 입습니다.</p></li></ul><p class='Body-Foundation-No-BOLDITALIC'>성공 시 당신의 손에서 덩굴이 뻗어 나와 선택한 효과를 일으키고, 대상을 일시적으로 속박합니다.</p>",
+            "description": "<p class='Body-Foundation-No-BOLDITALIC'>가까운 거리의 대상에게 <strong>주문시전 굴림</strong>을 굴리고 다음 중 하나를 선택하세요:</p><ul><li class='vertical-card-list'><p>대상을 근접 거리로 끌어당기거나, 당신을 그쪽 근접 거리로 끌어당깁니다.</p></li><li class='vertical-card-list'><p>대상을 조여 스트레스 2를 표시하게 만듭니다.</p></li><li class='vertical-card-list'><p>당신과 대상 사이의 모든 적대자는 대응 굴림 (13)에 성공해야 하며, 그렇지 않으면 덩굴에 맞아 물리 피해 <strong>3d6+2</strong>를 입습니다.</p></li></ul><p class='Body-Foundation-No-BOLDITALIC'>성공 시 당신의 손에서 덩굴이 뻗어 나와 선택한 효과를 일으키고, 대상을 일시적으로 속박합니다.</p>",
             "actions": {
-                "wsXZCKqGKfOUHE1M": "<p class='Body-Foundation-No-BOLDITALIC'>가까운 거리의 대상에게 <strong>주문 굴림</strong>을 굴리고 다음 중 하나를 선택하세요:</p><ul><li class='vertical-card-list'><p>대상을 근접 거리로 끌어당기거나, 당신을 그쪽 근접 거리로 끌어당깁니다.</p></li><li class='vertical-card-list'><p>대상을 조여 스트레스 2를 표시하게 만듭니다.</p></li><li class='vertical-card-list'><p>당신과 대상 사이의 모든 적대자는 반응 굴림 (13)에 성공해야 하며, 그렇지 않으면 덩굴에 맞아 물리 피해 <strong>3d6+2</strong>를 입습니다.</p></li></ul><p class='Body-Foundation-No-BOLDITALIC'>성공 시 당신의 손에서 덩굴이 뻗어 나와 선택한 효과를 일으키고, 대상을 일시적으로 속박합니다.</p>",
-                "x62SXSpT9bjIEP5e": "<p class='Body-Foundation-No-BOLDITALIC'>가까운 거리의 대상에게 <strong>주문 굴림</strong>을 굴리고 다음 중 하나를 선택하세요:</p><ul><li class='vertical-card-list'><p>대상을 근접 거리로 끌어당기거나, 당신을 그쪽 근접 거리로 끌어당깁니다.</p></li><li class='vertical-card-list'><p>대상을 조여 스트레스 2를 표시하게 만듭니다.</p></li><li class='vertical-card-list'><p>당신과 대상 사이의 모든 적대자는 반응 굴림 (13)에 성공해야 하며, 그렇지 않으면 덩굴에 맞아 물리 피해 <strong>3d6+2</strong>를 입습니다.</p></li></ul><p class='Body-Foundation-No-BOLDITALIC'>성공 시 당신의 손에서 덩굴이 뻗어 나와 선택한 효과를 일으키고, 대상을 일시적으로 속박합니다.</p>",
-                "9416a3EogNFLRdUX": "<p class='Body-Foundation-No-BOLDITALIC'>가까운 거리의 대상에게 <strong>주문 굴림</strong>을 굴리고 다음 중 하나를 선택하세요:</p><ul><li class='vertical-card-list'><p>대상을 근접 거리로 끌어당기거나, 당신을 그쪽 근접 거리로 끌어당깁니다.</p></li><li class='vertical-card-list'><p>대상을 조여 스트레스 2를 표시하게 만듭니다.</p></li><li class='vertical-card-list'><p>당신과 대상 사이의 모든 적대자는 반응 굴림 (13)에 성공해야 하며, 그렇지 않으면 덩굴에 맞아 물리 피해 <strong>3d6+2</strong>를 입습니다.</p></li></ul><p class='Body-Foundation-No-BOLDITALIC'>성공 시 당신의 손에서 덩굴이 뻗어 나와 선택한 효과를 일으키고, 대상을 일시적으로 속박합니다.</p>"
+                "wsXZCKqGKfOUHE1M": "<p class='Body-Foundation-No-BOLDITALIC'>가까운 거리의 대상에게 <strong>주문시전 굴림</strong>을 굴리고 다음 중 하나를 선택하세요:</p><ul><li class='vertical-card-list'><p>대상을 근접 거리로 끌어당기거나, 당신을 그쪽 근접 거리로 끌어당깁니다.</p></li><li class='vertical-card-list'><p>대상을 조여 스트레스 2를 표시하게 만듭니다.</p></li><li class='vertical-card-list'><p>당신과 대상 사이의 모든 적대자는 대응 굴림 (13)에 성공해야 하며, 그렇지 않으면 덩굴에 맞아 물리 피해 <strong>3d6+2</strong>를 입습니다.</p></li></ul><p class='Body-Foundation-No-BOLDITALIC'>성공 시 당신의 손에서 덩굴이 뻗어 나와 선택한 효과를 일으키고, 대상을 일시적으로 속박합니다.</p>",
+                "x62SXSpT9bjIEP5e": "<p class='Body-Foundation-No-BOLDITALIC'>가까운 거리의 대상에게 <strong>주문시전 굴림</strong>을 굴리고 다음 중 하나를 선택하세요:</p><ul><li class='vertical-card-list'><p>대상을 근접 거리로 끌어당기거나, 당신을 그쪽 근접 거리로 끌어당깁니다.</p></li><li class='vertical-card-list'><p>대상을 조여 스트레스 2를 표시하게 만듭니다.</p></li><li class='vertical-card-list'><p>당신과 대상 사이의 모든 적대자는 대응 굴림 (13)에 성공해야 하며, 그렇지 않으면 덩굴에 맞아 물리 피해 <strong>3d6+2</strong>를 입습니다.</p></li></ul><p class='Body-Foundation-No-BOLDITALIC'>성공 시 당신의 손에서 덩굴이 뻗어 나와 선택한 효과를 일으키고, 대상을 일시적으로 속박합니다.</p>",
+                "9416a3EogNFLRdUX": "<p class='Body-Foundation-No-BOLDITALIC'>가까운 거리의 대상에게 <strong>주문시전 굴림</strong>을 굴리고 다음 중 하나를 선택하세요:</p><ul><li class='vertical-card-list'><p>대상을 근접 거리로 끌어당기거나, 당신을 그쪽 근접 거리로 끌어당깁니다.</p></li><li class='vertical-card-list'><p>대상을 조여 스트레스 2를 표시하게 만듭니다.</p></li><li class='vertical-card-list'><p>당신과 대상 사이의 모든 적대자는 대응 굴림 (13)에 성공해야 하며, 그렇지 않으면 덩굴에 맞아 물리 피해 <strong>3d6+2</strong>를 입습니다.</p></li></ul><p class='Body-Foundation-No-BOLDITALIC'>성공 시 당신의 손에서 덩굴이 뻗어 나와 선택한 효과를 일으키고, 대상을 일시적으로 속박합니다.</p>"
             }
         },
         "Deft Deceiver": {
             "name": "능숙한 기만자",
-            "description": "<p class='Body-Foundation'><strong>희망을 소모</strong>하여 누군가를 속이거나 당신의 거짓말을 믿게 설득하는 굴림에 유리를 얻습니다.</p><p></p>",
+            "description": "<p class='Body-Foundation'><strong>희망을 소모</strong>하여 누군가를 속이거나 당신의 거짓말을 믿게 설득하는 굴림에 이점를 얻습니다.</p><p></p>",
             "actions": {
-                "8upofDpPl8wqSl77": "<p class='Body-Foundation'><strong>희망을 소모</strong>하여 누군가를 속이거나 당신의 거짓말을 믿게 설득하는 굴림에 유리를 얻습니다.</p><p></p>"
+                "8upofDpPl8wqSl77": "<p class='Body-Foundation'><strong>희망을 소모</strong>하여 누군가를 속이거나 당신의 거짓말을 믿게 설득하는 굴림에 이점를 얻습니다.</p><p></p>"
             }
         },
         "Deft Maneuvers": {
             "name": "능숙한 책략",
-            "description": "<p class='Body-Foundation'>휴식당 한 번, <strong>스트레스를 표시</strong>하여 민첩 굴림 없이 먼 거리 내의 어느 지점이든 달려갈 수 있습니다.</p><p class='Body-Foundation'>이 이동을 적대자와의 근접 거리에서 끝내고 즉시 그에게 공격을 가하면, 공격 굴림에 +1 보너스를 받습니다.</p>",
+            "description": "<p class='Body-Foundation'>휴식당 한 번, <strong>스트레스를 표시</strong>하여 민첩 굴림 없이 먼 거리 내의 어느 지점이든 달려갈 수 있습니다.</p><p class='Body-Foundation'>이 이동을 적대자와의 근접 거리에서 끝내고 즉시 그에게 공격을 가하면, 명중 굴림에 +1 보너스를 받습니다.</p>",
             "actions": {
-                "AKexQGjS5HwPTo19": "<p class='Body-Foundation'>휴식당 한 번, <strong>스트레스를 표시</strong>하여 민첩 굴림 없이 먼 거리 내의 어느 지점이든 달려갈 수 있습니다.</p><p class='Body-Foundation'>이 이동을 적대자와의 근접 거리에서 끝내고 즉시 그에게 공격을 가하면, 공격 굴림에 +1 보너스를 받습니다.</p>"
+                "AKexQGjS5HwPTo19": "<p class='Body-Foundation'>휴식당 한 번, <strong>스트레스를 표시</strong>하여 민첩 굴림 없이 먼 거리 내의 어느 지점이든 달려갈 수 있습니다.</p><p class='Body-Foundation'>이 이동을 적대자와의 근접 거리에서 끝내고 즉시 그에게 공격을 가하면, 명중 굴림에 +1 보너스를 받습니다.</p>"
             }
         },
         "Disintegration Wave": {
             "name": "붕괴의 파동",
-            "description": "<p class='Body'><strong>주문 굴림 (18)</strong>을 굴립니다. 긴 휴식당 한 번, 성공 시 GM은 먼 거리 내에 난이도 18 이하인 적대자가 누구인지 알려줍니다. 이 주문으로 맞추고자 하는 적대자마다 <strong>스트레스를 표시</strong>합니다. 그들은 죽으며 어떤 방법으로도 부활할 수 없습니다.</p>",
+            "description": "<p class='Body'><strong>주문시전 굴림 (18)</strong>을 굴립니다. 긴 휴식당 한 번, 성공 시 GM은 먼 거리 내에 난이도 18 이하인 적대자가 누구인지 알려줍니다. 이 주문으로 맞추고자 하는 적대자마다 <strong>스트레스를 표시</strong>합니다. 그들은 죽으며 어떤 방법으로도 부활할 수 없습니다.</p>",
             "actions": {
-                "38A4Q7WVvGCFlRpc": "<p class='Body'><strong>주문 굴림 (18)</strong>을 굴립니다. 긴 휴식당 한 번, 성공 시 GM은 먼 거리 내에 난이도 18 이하인 적대자가 누구인지 알려줍니다. 이 주문으로 맞추고자 하는 적대자마다 <strong>스트레스를 표시</strong>합니다. 그들은 죽으며 어떤 방법으로도 부활할 수 없습니다.</p>"
+                "38A4Q7WVvGCFlRpc": "<p class='Body'><strong>주문시전 굴림 (18)</strong>을 굴립니다. 긴 휴식당 한 번, 성공 시 GM은 먼 거리 내에 난이도 18 이하인 적대자가 누구인지 알려줍니다. 이 주문으로 맞추고자 하는 적대자마다 <strong>스트레스를 표시</strong>합니다. 그들은 죽으며 어떤 방법으로도 부활할 수 없습니다.</p>"
             }
         },
         "Divination": {
@@ -415,24 +415,24 @@
         },
         "Earthquake": {
             "name": "지진",
-            "description": "<p class='Body-Foundation'><strong>주문 굴림 (16)</strong>을 굴립니다. 휴식당 한 번, 성공 시 매우 먼 거리 내에서 날지 않는 모든 대상은 반응 굴림 (18)을 굴려야 합니다. 실패한 대상은 물리 피해 <strong>3d10+8</strong>을 입고 일시적으로 취약 상태가 됩니다. 성공한 대상은 피해의 절반을 입습니다.</p><p class='Body-Foundation'>또한, 주문 굴림에 성공할 때 매우 먼 거리 내의 모든 지형이 험지로 변하며, 그 반경 내의 구조물은 피해를 입거나 무너질 수 있습니다.</p>",
+            "description": "<p class='Body-Foundation'><strong>주문시전 굴림 (16)</strong>을 굴립니다. 휴식당 한 번, 성공 시 매우 먼 거리 내에서 날지 않는 모든 대상은 대응 굴림 (18)을 굴려야 합니다. 실패한 대상은 물리 피해 <strong>3d10+8</strong>을 입고 일시적으로 취약 상태가 됩니다. 성공한 대상은 피해의 절반을 입습니다.</p><p class='Body-Foundation'>또한, 주문시전 굴림에 성공할 때 매우 먼 거리 내의 모든 지형이 험지로 변하며, 그 반경 내의 구조물은 피해를 입거나 무너질 수 있습니다.</p>",
             "actions": {
-                "h9PMdatB6EPvJx9N": "<p class='Body-Foundation'><strong>주문 굴림 (16)</strong>을 굴립니다. 휴식당 한 번, 성공 시 매우 먼 거리 내에서 날지 않는 모든 대상은 반응 굴림 (18)을 굴려야 합니다. 실패한 대상은 물리 피해 <strong>3d10+8</strong>을 입고 일시적으로 취약 상태가 됩니다. 성공한 대상은 피해의 절반을 입습니다.</p><p class='Body-Foundation'>또한, 주문 굴림에 성공할 때 매우 먼 거리 내의 모든 지형이 험지로 변하며, 그 반경 내의 구조물은 피해를 입거나 무너질 수 있습니다.</p>"
+                "h9PMdatB6EPvJx9N": "<p class='Body-Foundation'><strong>주문시전 굴림 (16)</strong>을 굴립니다. 휴식당 한 번, 성공 시 매우 먼 거리 내에서 날지 않는 모든 대상은 대응 굴림 (18)을 굴려야 합니다. 실패한 대상은 물리 피해 <strong>3d10+8</strong>을 입고 일시적으로 취약 상태가 됩니다. 성공한 대상은 피해의 절반을 입습니다.</p><p class='Body-Foundation'>또한, 주문시전 굴림에 성공할 때 매우 먼 거리 내의 모든 지형이 험지로 변하며, 그 반경 내의 구조물은 피해를 입거나 무너질 수 있습니다.</p>"
             }
         },
         "Eclipse": {
             "name": "일식",
-            "description": "<p class='Body-Foundation'><strong>주문 굴림 (16)</strong>을 굴립니다. 긴 휴식당 한 번, 성공 시 먼 거리 내의 모든 지역을 완전한 어둠으로 덮어, 당신과 동료만이 그것을 꿰뚫어 볼 수 있습니다. 이 어둠 속에서 당신이나 동료를 노리는 공격 굴림은 불리로 굴립니다.</p><p class='Body-Foundation'>또한, 당신이나 동료가 이 어둠 속의 적대자에게 희망을 성공적으로 사용했을 때, 대상은 스트레스를 표시해야 합니다.</p><p class='Body-Foundation'>이 주문은 GM이 자신의 차례에 <strong>공포</strong>를 소모하여 효과를 제거하거나, 당신이 심각 피해를 입을 때까지 지속됩니다.</p>",
+            "description": "<p class='Body-Foundation'><strong>주문시전 굴림 (16)</strong>을 굴립니다. 긴 휴식당 한 번, 성공 시 먼 거리 내의 모든 지역을 완전한 어둠으로 덮어, 당신과 동료만이 그것을 꿰뚫어 볼 수 있습니다. 이 어둠 속에서 당신이나 동료를 노리는 명중 굴림은 불리점로 굴립니다.</p><p class='Body-Foundation'>또한, 당신이나 동료가 이 어둠 속의 적대자에게 희망을 성공적으로 사용했을 때, 대상은 스트레스를 표시해야 합니다.</p><p class='Body-Foundation'>이 주문은 GM이 자신의 차례에 <strong>공포</strong>를 소모하여 효과를 제거하거나, 당신이 심각한 피해를 입을 때까지 지속됩니다.</p>",
             "actions": {
-                "7vU2EBQ1bp3OF3G3": "<p class='Body-Foundation'><strong>주문 굴림 (16)</strong>을 굴립니다. 긴 휴식당 한 번, 성공 시 먼 거리 내의 모든 지역을 완전한 어둠으로 덮어, 당신과 동료만이 그것을 꿰뚫어 볼 수 있습니다. 이 어둠 속에서 당신이나 동료를 노리는 공격 굴림은 불리로 굴립니다.</p><p class='Body-Foundation'>또한, 당신이나 동료가 이 어둠 속의 적대자에게 희망을 성공적으로 사용했을 때, 대상은 스트레스를 표시해야 합니다.</p><p class='Body-Foundation'>이 주문은 GM이 자신의 차례에 <strong>공포</strong>를 소모하여 효과를 제거하거나, 당신이 심각 피해를 입을 때까지 지속됩니다.</p>",
-                "rvkNiqCr8N6t6KPo": "<p class='Body-Foundation'><strong>주문 굴림 (16)</strong>을 굴립니다. 긴 휴식당 한 번, 성공 시 먼 거리 내의 모든 지역을 완전한 어둠으로 덮어, 당신과 동료만이 그것을 꿰뚫어 볼 수 있습니다. 이 어둠 속에서 당신이나 동료를 노리는 공격 굴림은 불리로 굴립니다.</p><p class='Body-Foundation'>또한, 당신이나 동료가 이 어둠 속의 적대자에게 희망을 성공적으로 사용했을 때, 대상은 스트레스를 표시해야 합니다.</p><p class='Body-Foundation'>이 주문은 GM이 자신의 차례에 <strong>공포</strong>를 소모하여 효과를 제거하거나, 당신이 심각 피해를 입을 때까지 지속됩니다.</p>"
+                "7vU2EBQ1bp3OF3G3": "<p class='Body-Foundation'><strong>주문시전 굴림 (16)</strong>을 굴립니다. 긴 휴식당 한 번, 성공 시 먼 거리 내의 모든 지역을 완전한 어둠으로 덮어, 당신과 동료만이 그것을 꿰뚫어 볼 수 있습니다. 이 어둠 속에서 당신이나 동료를 노리는 명중 굴림은 불리점로 굴립니다.</p><p class='Body-Foundation'>또한, 당신이나 동료가 이 어둠 속의 적대자에게 희망을 성공적으로 사용했을 때, 대상은 스트레스를 표시해야 합니다.</p><p class='Body-Foundation'>이 주문은 GM이 자신의 차례에 <strong>공포</strong>를 소모하여 효과를 제거하거나, 당신이 심각한 피해를 입을 때까지 지속됩니다.</p>",
+                "rvkNiqCr8N6t6KPo": "<p class='Body-Foundation'><strong>주문시전 굴림 (16)</strong>을 굴립니다. 긴 휴식당 한 번, 성공 시 먼 거리 내의 모든 지역을 완전한 어둠으로 덮어, 당신과 동료만이 그것을 꿰뚫어 볼 수 있습니다. 이 어둠 속에서 당신이나 동료를 노리는 명중 굴림은 불리점로 굴립니다.</p><p class='Body-Foundation'>또한, 당신이나 동료가 이 어둠 속의 적대자에게 희망을 성공적으로 사용했을 때, 대상은 스트레스를 표시해야 합니다.</p><p class='Body-Foundation'>이 주문은 GM이 자신의 차례에 <strong>공포</strong>를 소모하여 효과를 제거하거나, 당신이 심각한 피해를 입을 때까지 지속됩니다.</p>"
             }
         },
         "Encore": {
             "name": "앙코르",
-            "description": "<p><p class='Body-Foundation'>가까운 거리 내의 동료가 적대자에게 피해를 입혔을 때, 같은 대상에게 <strong>주문 굴림</strong>을 굴릴 수 있습니다. 성공 시 동료와 동일한 피해를 대상에게 입힙니다. 주문 굴림이 공포와 함께 성공했다면, 이 카드를 보관소에 놓습니다.</p></p>",
+            "description": "<p><p class='Body-Foundation'>가까운 거리 내의 동료가 적대자에게 피해를 입혔을 때, 같은 대상에게 <strong>주문시전 굴림</strong>을 굴릴 수 있습니다. 성공 시 동료와 동일한 피해를 대상에게 입힙니다. 주문시전 굴림이 공포와 함께 성공했다면, 이 카드를 보관소에 놓습니다.</p></p>",
             "actions": {
-                "raz0BnldcCkMrKfn": "<p><p class='Body-Foundation'>가까운 거리 내의 동료가 적대자에게 피해를 입혔을 때, 같은 대상에게 <strong>주문 굴림</strong>을 굴릴 수 있습니다. 성공 시 동료와 동일한 피해를 대상에게 입힙니다. 주문 굴림이 공포와 함께 성공했다면, 이 카드를 보관소에 놓습니다.</p></p>"
+                "raz0BnldcCkMrKfn": "<p><p class='Body-Foundation'>가까운 거리 내의 동료가 적대자에게 피해를 입혔을 때, 같은 대상에게 <strong>주문시전 굴림</strong>을 굴릴 수 있습니다. 성공 시 동료와 동일한 피해를 대상에게 입힙니다. 주문시전 굴림이 공포와 함께 성공했다면, 이 카드를 보관소에 놓습니다.</p></p>"
             }
         },
         "Endless Charisma": {
@@ -444,22 +444,22 @@
         },
         "Enrapture": {
             "name": "매혹",
-            "description": "<p class='Body-Foundation'>가까운 거리 내의 대상에게 <strong>주문 굴림</strong>을 굴립니다. 성공 시 대상은 일시적으로 매혹 상태가 됩니다. 매혹된 동안, 대상의 주의는 당신에게 고정되어 시야가 좁아지고 당신의 목소리 외의 모든 소리가 묻혀집니다. 휴식당 한 번, 성공 시 <strong>스트레스를 표시</strong>하여 매혹된 대상도 스트레스를 표시하게 만들 수 있습니다.</p>",
+            "description": "<p class='Body-Foundation'>가까운 거리 내의 대상에게 <strong>주문시전 굴림</strong>을 굴립니다. 성공 시 대상은 일시적으로 매혹 상태가 됩니다. 매혹된 동안, 대상의 주의는 당신에게 고정되어 시야가 좁아지고 당신의 목소리 외의 모든 소리가 묻혀집니다. 휴식당 한 번, 성공 시 <strong>스트레스를 표시</strong>하여 매혹된 대상도 스트레스를 표시하게 만들 수 있습니다.</p>",
             "actions": {
-                "G6RBFMbCuHlM45t0": "<p class='Body-Foundation'>가까운 거리 내의 대상에게 <strong>주문 굴림</strong>을 굴립니다. 성공 시 대상은 일시적으로 매혹 상태가 됩니다. 매혹된 동안, 대상의 주의는 당신에게 고정되어 시야가 좁아지고 당신의 목소리 외의 모든 소리가 묻혀집니다. 휴식당 한 번, 성공 시 <strong>스트레스를 표시</strong>하여 매혹된 대상도 스트레스를 표시하게 만들 수 있습니다.</p>",
-                "oJDiE9egDyfdLbR7": "<p class='Body-Foundation'>가까운 거리 내의 대상에게 <strong>주문 굴림</strong>을 굴립니다. 성공 시 대상은 일시적으로 매혹 상태가 됩니다. 매혹된 동안, 대상의 주의는 당신에게 고정되어 시야가 좁아지고 당신의 목소리 외의 모든 소리가 묻혀집니다. 휴식당 한 번, 성공 시 <strong>스트레스를 표시</strong>하여 매혹된 대상도 스트레스를 표시하게 만들 수 있습니다.</p>"
+                "G6RBFMbCuHlM45t0": "<p class='Body-Foundation'>가까운 거리 내의 대상에게 <strong>주문시전 굴림</strong>을 굴립니다. 성공 시 대상은 일시적으로 매혹 상태가 됩니다. 매혹된 동안, 대상의 주의는 당신에게 고정되어 시야가 좁아지고 당신의 목소리 외의 모든 소리가 묻혀집니다. 휴식당 한 번, 성공 시 <strong>스트레스를 표시</strong>하여 매혹된 대상도 스트레스를 표시하게 만들 수 있습니다.</p>",
+                "oJDiE9egDyfdLbR7": "<p class='Body-Foundation'>가까운 거리 내의 대상에게 <strong>주문시전 굴림</strong>을 굴립니다. 성공 시 대상은 일시적으로 매혹 상태가 됩니다. 매혹된 동안, 대상의 주의는 당신에게 고정되어 시야가 좁아지고 당신의 목소리 외의 모든 소리가 묻혀집니다. 휴식당 한 번, 성공 시 <strong>스트레스를 표시</strong>하여 매혹된 대상도 스트레스를 표시하게 만들 수 있습니다.</p>"
             }
         },
         "Falling Sky": {
             "name": "추락하는 하늘",
-            "description": "<p class='Body-Foundation'>먼 거리 내의 모든 적대자에게 <strong>주문 굴림</strong>을 굴립니다. <strong>스트레스를 원하는 만큼 표시</strong>하여 비전의 파편이 위에서 떨어지게 합니다. 당신이 성공한 대상은 표시한 스트레스 하나당 마법 피해 <strong>1d20+2</strong>를 입습니다.</p><p>@Template[type:emanation|range:f]</p>",
+            "description": "<p class='Body-Foundation'>먼 거리 내의 모든 적대자에게 <strong>주문시전 굴림</strong>을 굴립니다. <strong>스트레스를 원하는 만큼 표시</strong>하여 비전의 파편이 위에서 떨어지게 합니다. 당신이 성공한 대상은 표시한 스트레스 하나당 마법 피해 <strong>1d20+2</strong>를 입습니다.</p><p>@Template[type:emanation|range:f]</p>",
             "actions": {
-                "xJfXJDVsBayGaqkr": "<p class='Body-Foundation'>먼 거리 내의 모든 적대자에게 <strong>주문 굴림</strong>을 굴립니다. <strong>스트레스를 원하는 만큼 표시</strong>하여 비전의 파편이 위에서 떨어지게 합니다. 당신이 성공한 대상은 표시한 스트레스 하나당 마법 피해 <strong>1d20+2</strong>를 입습니다.</p><p>@Template[type:emanation|range:f]</p>"
+                "xJfXJDVsBayGaqkr": "<p class='Body-Foundation'>먼 거리 내의 모든 적대자에게 <strong>주문시전 굴림</strong>을 굴립니다. <strong>스트레스를 원하는 만큼 표시</strong>하여 비전의 파편이 위에서 떨어지게 합니다. 당신이 성공한 대상은 표시한 스트레스 하나당 마법 피해 <strong>1d20+2</strong>를 입습니다.</p><p>@Template[type:emanation|range:f]</p>"
             }
         },
         "Fane of the Wilds": {
             "name": "야생의 신전",
-            "description": "<p class='Body-Foundation'>긴 휴식 후, 당신의 장비와 보관소에 있는 현자 영역 카드 수와 같은 만큼의 토큰을 이 카드에 놓습니다.</p><p class='Body-Foundation'>당신이 주문 굴림을 굴릴 때, 굴림 후 원하는 만큼의 토큰을 소모하여 소모한 토큰 하나당 +1 보너스를 얻을 수 있습니다.</p><p class='Body-Foundation'>현자 영역 주문에 대한 주문 굴림에서 결정타로 성공할 때, 토큰을 1 얻습니다.</p><p class='Body-Foundation'>긴 휴식을 취할 때, 사용하지 않은 모든 토큰을 제거합니다.</p>"
+            "description": "<p class='Body-Foundation'>긴 휴식 후, 당신의 장비와 보관소에 있는 현자 권역 카드 수와 같은 만큼의 토큰을 이 카드에 놓습니다.</p><p class='Body-Foundation'>당신이 주문시전 굴림을 굴릴 때, 굴림 후 원하는 만큼의 토큰을 소모하여 소모한 토큰 하나당 +1 보너스를 얻을 수 있습니다.</p><p class='Body-Foundation'>현자 영역 주문에 대한 주문시전 굴림에서 치명적 성공로 성공할 때, 토큰을 1 얻습니다.</p><p class='Body-Foundation'>긴 휴식을 취할 때, 사용하지 않은 모든 토큰을 제거합니다.</p>"
         },
         "Ferocity": {
             "name": "흉포함",
@@ -470,17 +470,17 @@
         },
         "Final Words": {
             "name": "마지막 말",
-            "description": "<p class='Body-Foundation'>당신은 시신에 잠시 생명의 숨을 불어넣어 그것과 대화할 수 있습니다. <strong>주문 굴림 (13)</strong>을 굴립니다. 희망과 함께 성공 시 시신은 세 가지 질문에 답합니다. 공포와 함께 성공 시 시신은 한 가지 질문에 답합니다. 시신은 정직하게 답하지만, 생전에 몰랐던 정보는 전달할 수 없습니다. 실패하거나 시신이 당신의 질문에 답하는 것을 마치면, 시체는 재로 변합니다.</p>",
+            "description": "<p class='Body-Foundation'>당신은 시신에 잠시 생명의 숨을 불어넣어 그것과 대화할 수 있습니다. <strong>주문시전 굴림 (13)</strong>을 굴립니다. 희망과 함께 성공 시 시신은 세 가지 질문에 답합니다. 공포와 함께 성공 시 시신은 한 가지 질문에 답합니다. 시신은 정직하게 답하지만, 생전에 몰랐던 정보는 전달할 수 없습니다. 실패하거나 시신이 당신의 질문에 답하는 것을 마치면, 시체는 재로 변합니다.</p>",
             "actions": {
-                "XQD9kHORVBowly4H": "<p class='Body-Foundation'>당신은 시신에 잠시 생명의 숨을 불어넣어 그것과 대화할 수 있습니다. <strong>주문 굴림 (13)</strong>을 굴립니다. 희망과 함께 성공 시 시신은 세 가지 질문에 답합니다. 공포와 함께 성공 시 시신은 한 가지 질문에 답합니다. 시신은 정직하게 답하지만, 생전에 몰랐던 정보는 전달할 수 없습니다. 실패하거나 시신이 당신의 질문에 답하는 것을 마치면, 시체는 재로 변합니다.</p>"
+                "XQD9kHORVBowly4H": "<p class='Body-Foundation'>당신은 시신에 잠시 생명의 숨을 불어넣어 그것과 대화할 수 있습니다. <strong>주문시전 굴림 (13)</strong>을 굴립니다. 희망과 함께 성공 시 시신은 세 가지 질문에 답합니다. 공포와 함께 성공 시 시신은 한 가지 질문에 답합니다. 시신은 정직하게 답하지만, 생전에 몰랐던 정보는 전달할 수 없습니다. 실패하거나 시신이 당신의 질문에 답하는 것을 마치면, 시체는 재로 변합니다.</p>"
             }
         },
         "Flight": {
             "name": "비행",
-            "description": "<p class='Body-Foundation'><strong>주문 굴림 (15)</strong>을 굴립니다. 성공 시 이 카드에 당신의 민첩(최소 1)과 동일한 만큼의 토큰을 놓습니다. 비행 중 행동 굴림을 굴릴 때, 이 카드에서 토큰 1을 소모합니다. 마지막 토큰을 소모한 행동이 해결된 후, 당신은 바로 아래의 땅에 착륙합니다.</p>",
+            "description": "<p class='Body-Foundation'><strong>주문시전 굴림 (15)</strong>을 굴립니다. 성공 시 이 카드에 당신의 민첩(최소 1)과 동일한 만큼의 토큰을 놓습니다. 비행 중 행동 굴림을 굴릴 때, 이 카드에서 토큰 1을 소모합니다. 마지막 토큰을 소모한 행동이 해결된 후, 당신은 바로 아래의 땅에 착륙합니다.</p>",
             "actions": {
-                "sAE4ZDLyU9CmNzES": "<p class='Body-Foundation'><strong>주문 굴림 (15)</strong>을 굴립니다. 성공 시 이 카드에 당신의 민첩(최소 1)과 동일한 만큼의 토큰을 놓습니다. 비행 중 행동 굴림을 굴릴 때, 이 카드에서 토큰 1을 소모합니다. 마지막 토큰을 소모한 행동이 해결된 후, 당신은 바로 아래의 땅에 착륙합니다.</p>",
-                "2wzlrOPefdowBtRr": "<p class='Body-Foundation'><strong>주문 굴림 (15)</strong>을 굴립니다. 성공 시 이 카드에 당신의 민첩(최소 1)과 동일한 만큼의 토큰을 놓습니다. 비행 중 행동 굴림을 굴릴 때, 이 카드에서 토큰 1을 소모합니다. 마지막 토큰을 소모한 행동이 해결된 후, 당신은 바로 아래의 땅에 착륙합니다.</p>"
+                "sAE4ZDLyU9CmNzES": "<p class='Body-Foundation'><strong>주문시전 굴림 (15)</strong>을 굴립니다. 성공 시 이 카드에 당신의 민첩(최소 1)과 동일한 만큼의 토큰을 놓습니다. 비행 중 행동 굴림을 굴릴 때, 이 카드에서 토큰 1을 소모합니다. 마지막 토큰을 소모한 행동이 해결된 후, 당신은 바로 아래의 땅에 착륙합니다.</p>",
+                "2wzlrOPefdowBtRr": "<p class='Body-Foundation'><strong>주문시전 굴림 (15)</strong>을 굴립니다. 성공 시 이 카드에 당신의 민첩(최소 1)과 동일한 만큼의 토큰을 놓습니다. 비행 중 행동 굴림을 굴릴 때, 이 카드에서 토큰 1을 소모합니다. 마지막 토큰을 소모한 행동이 해결된 후, 당신은 바로 아래의 땅에 착륙합니다.</p>"
             }
         },
         "Floating Eye": {
@@ -492,12 +492,12 @@
         },
         "Forager": {
             "name": "채집가",
-            "description": "<p class='Domain-Ability'>추가 자유 시간 행동으로, d6을 굴려 당신이 무엇을 채집했는지 알 수 있습니다. GM과 함께 그것을 묘사하고 소모성 물품으로 인벤토리에 추가합니다. 당신의 일행은 한 번에 최대 다섯 개의 채집한 소모품을 휴대할 수 있습니다.</p><ol><li><p>특별한 음식 (스트레스 2을 비움)</p></li><li><p>아름다운 유물 (희망 2을 얻음)</p></li><li><p>비밀의 룬 (주문 굴림에 +2)</p></li><li>치유의 물약 (HP 2 회복)</li><li>행운의 부적 (어떤 주사위든 다시 굴림)</li><li>위 중 하나를 선택합니다.</li></ol>",
+            "description": "<p class='Domain-Ability'>추가 자유 시간 행동으로, d6을 굴려 당신이 무엇을 채집했는지 알 수 있습니다. GM과 함께 그것을 묘사하고 소모성 물품으로 인벤토리에 추가합니다. 당신의 일행은 한 번에 최대 다섯 개의 채집한 소모품을 휴대할 수 있습니다.</p><ol><li><p>특별한 음식 (스트레스 2을 비움)</p></li><li><p>아름다운 유물 (희망 2을 얻음)</p></li><li><p>비밀의 룬 (주문시전 굴림에 +2)</p></li><li>치유의 물약 (HP 2 회복)</li><li>행운의 부적 (어떤 주사위든 다시 굴림)</li><li>위 중 하나를 선택합니다.</li></ol>",
             "actions": {
-                "bOjFayylsEZmRhmX": "<p class='Domain-Ability'>추가 자유 시간 행동으로, d6을 굴려 당신이 무엇을 채집했는지 알 수 있습니다. GM과 함께 그것을 묘사하고 소모성 물품으로 인벤토리에 추가합니다. 당신의 일행은 한 번에 최대 다섯 개의 채집한 소모품을 휴대할 수 있습니다.</p><ol><li><p>특별한 음식 (스트레스 2을 비움)</p></li><li><p>아름다운 유물 (희망 2을 얻음)</p></li><li><p>비밀의 룬 (주문 굴림에 +2)</p></li><li>치유의 물약 (HP 2 회복)</li><li>행운의 부적 (어떤 주사위든 다시 굴림)</li><li>위 중 하나를 선택합니다.</li></ol>",
-                "gNjJLRtEvKB9SCS2": "<p class='Domain-Ability'>추가 자유 시간 행동으로, d6을 굴려 당신이 무엇을 채집했는지 알 수 있습니다. GM과 함께 그것을 묘사하고 소모성 물품으로 인벤토리에 추가합니다. 당신의 일행은 한 번에 최대 다섯 개의 채집한 소모품을 휴대할 수 있습니다.</p><ol><li><p>특별한 음식 (스트레스 2을 비움)</p></li><li><p>아름다운 유물 (희망 2을 얻음)</p></li><li><p>비밀의 룬 (주문 굴림에 +2)</p></li><li>치유의 물약 (HP 2 회복)</li><li>행운의 부적 (어떤 주사위든 다시 굴림)</li><li>위 중 하나를 선택합니다.</li></ol>",
-                "mZGaBlk8JBcXVCrw": "<p class='Domain-Ability'>추가 자유 시간 행동으로, d6을 굴려 당신이 무엇을 채집했는지 알 수 있습니다. GM과 함께 그것을 묘사하고 소모성 물품으로 인벤토리에 추가합니다. 당신의 일행은 한 번에 최대 다섯 개의 채집한 소모품을 휴대할 수 있습니다.</p><ol><li><p>특별한 음식 (스트레스 2을 비움)</p></li><li><p>아름다운 유물 (희망 2을 얻음)</p></li><li><p>비밀의 룬 (주문 굴림에 +2)</p></li><li>치유의 물약 (HP 2 회복)</li><li>행운의 부적 (어떤 주사위든 다시 굴림)</li><li>위 중 하나를 선택합니다.</li></ol>",
-                "8RE4q25nr2SJii0W": "<p class='Domain-Ability'>추가 자유 시간 행동으로, d6을 굴려 당신이 무엇을 채집했는지 알 수 있습니다. GM과 함께 그것을 묘사하고 소모성 물품으로 인벤토리에 추가합니다. 당신의 일행은 한 번에 최대 다섯 개의 채집한 소모품을 휴대할 수 있습니다.</p><ol><li><p>특별한 음식 (스트레스 2을 비움)</p></li><li><p>아름다운 유물 (희망 2을 얻음)</p></li><li><p>비밀의 룬 (주문 굴림에 +2)</p></li><li>치유의 물약 (HP 2 회복)</li><li>행운의 부적 (어떤 주사위든 다시 굴림)</li><li>위 중 하나를 선택합니다.</li></ol>"
+                "bOjFayylsEZmRhmX": "<p class='Domain-Ability'>추가 자유 시간 행동으로, d6을 굴려 당신이 무엇을 채집했는지 알 수 있습니다. GM과 함께 그것을 묘사하고 소모성 물품으로 인벤토리에 추가합니다. 당신의 일행은 한 번에 최대 다섯 개의 채집한 소모품을 휴대할 수 있습니다.</p><ol><li><p>특별한 음식 (스트레스 2을 비움)</p></li><li><p>아름다운 유물 (희망 2을 얻음)</p></li><li><p>비밀의 룬 (주문시전 굴림에 +2)</p></li><li>치유의 물약 (HP 2 회복)</li><li>행운의 부적 (어떤 주사위든 다시 굴림)</li><li>위 중 하나를 선택합니다.</li></ol>",
+                "gNjJLRtEvKB9SCS2": "<p class='Domain-Ability'>추가 자유 시간 행동으로, d6을 굴려 당신이 무엇을 채집했는지 알 수 있습니다. GM과 함께 그것을 묘사하고 소모성 물품으로 인벤토리에 추가합니다. 당신의 일행은 한 번에 최대 다섯 개의 채집한 소모품을 휴대할 수 있습니다.</p><ol><li><p>특별한 음식 (스트레스 2을 비움)</p></li><li><p>아름다운 유물 (희망 2을 얻음)</p></li><li><p>비밀의 룬 (주문시전 굴림에 +2)</p></li><li>치유의 물약 (HP 2 회복)</li><li>행운의 부적 (어떤 주사위든 다시 굴림)</li><li>위 중 하나를 선택합니다.</li></ol>",
+                "mZGaBlk8JBcXVCrw": "<p class='Domain-Ability'>추가 자유 시간 행동으로, d6을 굴려 당신이 무엇을 채집했는지 알 수 있습니다. GM과 함께 그것을 묘사하고 소모성 물품으로 인벤토리에 추가합니다. 당신의 일행은 한 번에 최대 다섯 개의 채집한 소모품을 휴대할 수 있습니다.</p><ol><li><p>특별한 음식 (스트레스 2을 비움)</p></li><li><p>아름다운 유물 (희망 2을 얻음)</p></li><li><p>비밀의 룬 (주문시전 굴림에 +2)</p></li><li>치유의 물약 (HP 2 회복)</li><li>행운의 부적 (어떤 주사위든 다시 굴림)</li><li>위 중 하나를 선택합니다.</li></ol>",
+                "8RE4q25nr2SJii0W": "<p class='Domain-Ability'>추가 자유 시간 행동으로, d6을 굴려 당신이 무엇을 채집했는지 알 수 있습니다. GM과 함께 그것을 묘사하고 소모성 물품으로 인벤토리에 추가합니다. 당신의 일행은 한 번에 최대 다섯 개의 채집한 소모품을 휴대할 수 있습니다.</p><ol><li><p>특별한 음식 (스트레스 2을 비움)</p></li><li><p>아름다운 유물 (희망 2을 얻음)</p></li><li><p>비밀의 룬 (주문시전 굴림에 +2)</p></li><li>치유의 물약 (HP 2 회복)</li><li>행운의 부적 (어떤 주사위든 다시 굴림)</li><li>위 중 하나를 선택합니다.</li></ol>"
             }
         },
         "Forceful Push": {
@@ -509,28 +509,28 @@
         },
         "Force of Nature": {
             "name": "자연의 힘",
-            "description": "<p class='Body-Foundation-No-BOLDITALIC'><strong>스트레스를 표시</strong>하여 거대한 자연의 정령으로 변신하며, 다음 이점을 얻습니다:</p><ul><li class='vertical-card-list'><p>성공적인 공격 또는 주문 굴림에 피해 굴림 +10 보너스를 얻습니다.</p></li><li class='vertical-card-list'><p>가까운 거리 내의 존재를 쓰러뜨릴 만큼의 피해를 입혔을 때, 그를 흡수하고 방어구 슬롯을 비웁니다.</p></li><li class='vertical-card-list'><p>속박될 수 없습니다.</p></li></ul><p class='Body-Foundation'>행동 굴림을 굴리기 전에 희망을 소모해야 합니다. 그렇게 할 수 없다면, 평소의 모습으로 돌아갑니다.</p>",
+            "description": "<p class='Body-Foundation-No-BOLDITALIC'><strong>스트레스를 표시</strong>하여 거대한 자연의 정령으로 변신하며, 다음 이점을 얻습니다:</p><ul><li class='vertical-card-list'><p>성공적인 공격 또는 주문시전 굴림에 피해 굴림 +10 보너스를 얻습니다.</p></li><li class='vertical-card-list'><p>가까운 거리 내의 존재를 쓰러뜨릴 만큼의 피해를 입혔을 때, 그를 흡수하고 방어 슬롯을 비웁니다.</p></li><li class='vertical-card-list'><p>속박될 수 없습니다.</p></li></ul><p class='Body-Foundation'>행동 굴림을 굴리기 전에 희망을 소모해야 합니다. 그렇게 할 수 없다면, 평소의 모습으로 돌아갑니다.</p>",
             "actions": {
-                "Yf4L0fo5vq4dIZFM": "<p class='Body-Foundation-No-BOLDITALIC'><strong>스트레스를 표시</strong>하여 거대한 자연의 정령으로 변신하며, 다음 이점을 얻습니다:</p><ul><li class='vertical-card-list'><p>성공적인 공격 또는 주문 굴림에 피해 굴림 +10 보너스를 얻습니다.</p></li><li class='vertical-card-list'><p>가까운 거리 내의 존재를 쓰러뜨릴 만큼의 피해를 입혔을 때, 그를 흡수하고 방어구 슬롯을 비웁니다.</p></li><li class='vertical-card-list'><p>속박될 수 없습니다.</p></li></ul><p class='Body-Foundation'>행동 굴림을 굴리기 전에 희망을 소모해야 합니다. 그렇게 할 수 없다면, 평소의 모습으로 돌아갑니다.</p>",
-                "1rLoYS90AZizJujS": "<p class='Body-Foundation-No-BOLDITALIC'><strong>스트레스를 표시</strong>하여 거대한 자연의 정령으로 변신하며, 다음 이점을 얻습니다:</p><ul><li class='vertical-card-list'><p>성공적인 공격 또는 주문 굴림에 피해 굴림 +10 보너스를 얻습니다.</p></li><li class='vertical-card-list'><p>가까운 거리 내의 존재를 쓰러뜨릴 만큼의 피해를 입혔을 때, 그를 흡수하고 방어구 슬롯을 비웁니다.</p></li><li class='vertical-card-list'><p>속박될 수 없습니다.</p></li></ul><p class='Body-Foundation'>행동 굴림을 굴리기 전에 희망을 소모해야 합니다. 그렇게 할 수 없다면, 평소의 모습으로 돌아갑니다.</p>"
+                "Yf4L0fo5vq4dIZFM": "<p class='Body-Foundation-No-BOLDITALIC'><strong>스트레스를 표시</strong>하여 거대한 자연의 정령으로 변신하며, 다음 이점을 얻습니다:</p><ul><li class='vertical-card-list'><p>성공적인 공격 또는 주문시전 굴림에 피해 굴림 +10 보너스를 얻습니다.</p></li><li class='vertical-card-list'><p>가까운 거리 내의 존재를 쓰러뜨릴 만큼의 피해를 입혔을 때, 그를 흡수하고 방어 슬롯을 비웁니다.</p></li><li class='vertical-card-list'><p>속박될 수 없습니다.</p></li></ul><p class='Body-Foundation'>행동 굴림을 굴리기 전에 희망을 소모해야 합니다. 그렇게 할 수 없다면, 평소의 모습으로 돌아갑니다.</p>",
+                "1rLoYS90AZizJujS": "<p class='Body-Foundation-No-BOLDITALIC'><strong>스트레스를 표시</strong>하여 거대한 자연의 정령으로 변신하며, 다음 이점을 얻습니다:</p><ul><li class='vertical-card-list'><p>성공적인 공격 또는 주문시전 굴림에 피해 굴림 +10 보너스를 얻습니다.</p></li><li class='vertical-card-list'><p>가까운 거리 내의 존재를 쓰러뜨릴 만큼의 피해를 입혔을 때, 그를 흡수하고 방어 슬롯을 비웁니다.</p></li><li class='vertical-card-list'><p>속박될 수 없습니다.</p></li></ul><p class='Body-Foundation'>행동 굴림을 굴리기 전에 희망을 소모해야 합니다. 그렇게 할 수 없다면, 평소의 모습으로 돌아갑니다.</p>"
             }
         },
         "Forest Sprites": {
             "name": "숲의 정령",
-            "description": "<p class='Body'>주문 굴림 (13)을 굴립니다. 성공 시 희망을 원하는 만큼 소모하여 같은 수의 작은 숲의 정령들을 먼 거리 내의 선택한 지점에 만들며, 다음 이점을 제공합니다: </p><ul><li class='vertical-card-list'><p>당신의 동료는 정령과 근접 거리에 있는 적대자에 대한 공격 굴림에 +3 보너스를 받습니다.</p></li><li class='vertical-card-list'><p>정령과 근접 거리에 있는 동안 방어구 슬롯을 표시하는 동료는 추가 방어구 슬롯을 표시할 수 있습니다.</p></li></ul><p class='Body'>정령은 이점을 제공하거나 어떤 피해를 입은 후 사라집니다.</p>",
+            "description": "<p class='Body'>주문시전 굴림 (13)을 굴립니다. 성공 시 희망을 원하는 만큼 소모하여 같은 수의 작은 숲의 정령들을 먼 거리 내의 선택한 지점에 만들며, 다음 이점을 제공합니다: </p><ul><li class='vertical-card-list'><p>당신의 동료는 정령과 근접 거리에 있는 적대자에 대한 명중 굴림에 +3 보너스를 받습니다.</p></li><li class='vertical-card-list'><p>정령과 근접 거리에 있는 동안 방어 슬롯을 표시하는 동료는 추가 방어 슬롯을 표시할 수 있습니다.</p></li></ul><p class='Body'>정령은 이점을 제공하거나 어떤 피해를 입은 후 사라집니다.</p>",
             "actions": {
-                "TVepLgRNQLhZWDu6": "<p class='Body'>주문 굴림 (13)을 굴립니다. 성공 시 희망을 원하는 만큼 소모하여 같은 수의 작은 숲의 정령들을 먼 거리 내의 선택한 지점에 만들며, 다음 이점을 제공합니다: </p><ul><li class='vertical-card-list'><p>당신의 동료는 정령과 근접 거리에 있는 적대자에 대한 공격 굴림에 +3 보너스를 받습니다.</p></li><li class='vertical-card-list'><p>정령과 근접 거리에 있는 동안 방어구 슬롯을 표시하는 동료는 추가 방어구 슬롯을 표시할 수 있습니다.</p></li></ul><p class='Body'>정령은 이점을 제공하거나 어떤 피해를 입은 후 사라집니다.</p>"
+                "TVepLgRNQLhZWDu6": "<p class='Body'>주문시전 굴림 (13)을 굴립니다. 성공 시 희망을 원하는 만큼 소모하여 같은 수의 작은 숲의 정령들을 먼 거리 내의 선택한 지점에 만들며, 다음 이점을 제공합니다: </p><ul><li class='vertical-card-list'><p>당신의 동료는 정령과 근접 거리에 있는 적대자에 대한 명중 굴림에 +3 보너스를 받습니다.</p></li><li class='vertical-card-list'><p>정령과 근접 거리에 있는 동안 방어 슬롯을 표시하는 동료는 추가 방어 슬롯을 표시할 수 있습니다.</p></li></ul><p class='Body'>정령은 이점을 제공하거나 어떤 피해를 입은 후 사라집니다.</p>"
             }
         },
         "Fortified Armor": {
             "name": "강화된 갑옷",
-            "description": "<p class='Body'>갑옷을 착용하고 있는 동안, 피해 한계치에 +2 보너스를 받습니다.</p>"
+            "description": "<p class='Body'>갑옷을 착용하고 있는 동안, 피해 임계치에 +2 보너스를 받습니다.</p>"
         },
         "Frenzy": {
             "name": "광란",
-            "description": "<p class='Body-Foundation'>긴 휴식당 한 번, 시야 내에 적대자가 남아 있지 않을 때까지 광란 상태에 빠질 수 있습니다.</p><p class='Body-Foundation'>광란 중에는 방어구 슬롯을 사용할 수 없으며, 피해 굴림에 +10 보너스와 심각 피해 한계치에 +8 보너스를 받습니다.</p>",
+            "description": "<p class='Body-Foundation'>긴 휴식당 한 번, 시야 내에 적대자가 남아 있지 않을 때까지 광란 상태에 빠질 수 있습니다.</p><p class='Body-Foundation'>광란 중에는 방어 슬롯을 사용할 수 없으며, 피해 굴림에 +10 보너스와 심각한 피해 임계치에 +8 보너스를 받습니다.</p>",
             "actions": {
-                "xEpwnkNppHe3aoEs": "<p class='Body-Foundation'>긴 휴식당 한 번, 시야 내에 적대자가 남아 있지 않을 때까지 광란 상태에 빠질 수 있습니다.</p><p class='Body-Foundation'>광란 중에는 방어구 슬롯을 사용할 수 없으며, 피해 굴림에 +10 보너스와 심각 피해 한계치에 +8 보너스를 받습니다.</p>"
+                "xEpwnkNppHe3aoEs": "<p class='Body-Foundation'>긴 휴식당 한 번, 시야 내에 적대자가 남아 있지 않을 때까지 광란 상태에 빠질 수 있습니다.</p><p class='Body-Foundation'>광란 중에는 방어 슬롯을 사용할 수 없으며, 피해 굴림에 +10 보너스와 심각한 피해 임계치에 +8 보너스를 받습니다.</p>"
             }
         },
         "Full Surge": {
@@ -542,7 +542,7 @@
         },
         "Get Back Up": {
             "name": "일어서기",
-            "description": "<p class='Body-Foundation'>심각 피해를 입었을 때, <strong>스트레스를 표시</strong>하여 심각도를 한 단계 낮출 수 있습니다.</p>"
+            "description": "<p class='Body-Foundation'>심각한 피해를 입었을 때, <strong>스트레스를 표시</strong>하여 심각도를 한 단계 낮출 수 있습니다.</p>"
         },
         "Gifted Tracker": {
             "name": "재능 있는 추적자",
@@ -553,46 +553,46 @@
         },
         "Glancing Blow": {
             "name": "스치는 일격",
-            "description": "<p class='Body-Foundation'>당신이 공격을 빗맞췄을 때, <strong>스트레스를 표시</strong>하여 손재주의 절반을 사용해 무기 피해를 입힐 수 있습니다.</p>",
+            "description": "<p class='Body-Foundation'>당신이 공격을 빗맞췄을 때, <strong>스트레스를 표시</strong>하여 기교의 절반을 사용해 무기 피해를 입힐 수 있습니다.</p>",
             "actions": {
-                "DUojhK0OtvsotiE6": "<p class='Body-Foundation'>당신이 공격을 빗맞췄을 때, <strong>스트레스를 표시</strong>하여 손재주의 절반을 사용해 무기 피해를 입힐 수 있습니다.</p>"
+                "DUojhK0OtvsotiE6": "<p class='Body-Foundation'>당신이 공격을 빗맞췄을 때, <strong>스트레스를 표시</strong>하여 기교의 절반을 사용해 무기 피해를 입힐 수 있습니다.</p>"
             }
         },
         "Glyph of Nightfall": {
             "name": "황혼의 문양",
-            "description": "<p class='Body-Foundation'>매우 가까운 거리 내의 대상에게 <strong>주문 굴림</strong>을 굴립니다. 성공 시 <strong>희망을 소모</strong>하여 대상의 몸에 어두운 문양을 만들어 약점을 드러내고, 대상의 난이도를 당신의 지식과 같은 값(최소 1)만큼 일시적으로 낮춥니다.</p>",
+            "description": "<p class='Body-Foundation'>매우 가까운 거리 내의 대상에게 <strong>주문시전 굴림</strong>을 굴립니다. 성공 시 <strong>희망을 소모</strong>하여 대상의 몸에 어두운 문양을 만들어 약점을 드러내고, 대상의 난이도를 당신의 지식과 같은 값(최소 1)만큼 일시적으로 낮춥니다.</p>",
             "actions": {
-                "9jzYsHQc8vlPOL3o": "<p class='Body-Foundation'>매우 가까운 거리 내의 대상에게 <strong>주문 굴림</strong>을 굴립니다. 성공 시 <strong>희망을 소모</strong>하여 대상의 몸에 어두운 문양을 만들어 약점을 드러내고, 대상의 난이도를 당신의 지식과 같은 값(최소 1)만큼 일시적으로 낮춥니다.</p>"
+                "9jzYsHQc8vlPOL3o": "<p class='Body-Foundation'>매우 가까운 거리 내의 대상에게 <strong>주문시전 굴림</strong>을 굴립니다. 성공 시 <strong>희망을 소모</strong>하여 대상의 몸에 어두운 문양을 만들어 약점을 드러내고, 대상의 난이도를 당신의 지식과 같은 값(최소 1)만큼 일시적으로 낮춥니다.</p>"
             }
         },
         "Goad Them On": {
             "name": "도발",
-            "description": "<p class='Body-Foundation'>가까운 거리 내의 대상을 어떻게 도발하는지 묘사한 후, 그에게 <strong>존재감 굴림</strong>을 굴립니다. 성공 시 대상은 스트레스를 표시해야 하며, GM이 다음에 그를 강조할 때 그는 당신을 공격해야 하며, 그 공격은 불리로 굴립니다.</p>",
+            "description": "<p class='Body-Foundation'>가까운 거리 내의 대상을 어떻게 도발하는지 묘사한 후, 그에게 <strong>매력 굴림</strong>을 굴립니다. 성공 시 대상은 스트레스를 표시해야 하며, GM이 다음에 그를 강조할 때 그는 당신을 공격해야 하며, 그 공격은 불리점로 굴립니다.</p>",
             "actions": {
-                "kiKrK30UMopx3izN": "<p class='Body-Foundation'>가까운 거리 내의 대상을 어떻게 도발하는지 묘사한 후, 그에게 <strong>존재감 굴림</strong>을 굴립니다. 성공 시 대상은 스트레스를 표시해야 하며, GM이 다음에 그를 강조할 때 그는 당신을 공격해야 하며, 그 공격은 불리로 굴립니다.</p>"
+                "kiKrK30UMopx3izN": "<p class='Body-Foundation'>가까운 거리 내의 대상을 어떻게 도발하는지 묘사한 후, 그에게 <strong>매력 굴림</strong>을 굴립니다. 성공 시 대상은 스트레스를 표시해야 하며, GM이 다음에 그를 강조할 때 그는 당신을 공격해야 하며, 그 공격은 불리점로 굴립니다.</p>"
             }
         },
         "Gore and Glory": {
             "name": "피와 영광",
-            "description": "<p class='Body-Foundation'>당신이 무기 공격에서 결정타로 성공했을 때, 추가 희망을 얻거나 추가 스트레스를 비웁니다.</p><p class='Body-Foundation'>또한, 적대자를 쓰러뜨릴 만큼의 피해를 입혔을 때, 희망을 얻거나 스트레스를 비웁니다.</p>",
+            "description": "<p class='Body-Foundation'>당신이 무기 공격에서 치명적 성공로 성공했을 때, 추가 희망을 얻거나 추가 스트레스를 비웁니다.</p><p class='Body-Foundation'>또한, 적대자를 쓰러뜨릴 만큼의 피해를 입혔을 때, 희망을 얻거나 스트레스를 비웁니다.</p>",
             "actions": {
-                "crvDbD8V8linpzeg": "<p class='Body-Foundation'>당신이 무기 공격에서 결정타로 성공했을 때, 추가 희망을 얻거나 추가 스트레스를 비웁니다.</p><p class='Body-Foundation'>또한, 적대자를 쓰러뜨릴 만큼의 피해를 입혔을 때, 희망을 얻거나 스트레스를 비웁니다.</p>",
-                "r7MFU8khXqsEpx16": "<p class='Body-Foundation'>당신이 무기 공격에서 결정타로 성공했을 때, 추가 희망을 얻거나 추가 스트레스를 비웁니다.</p><p class='Body-Foundation'>또한, 적대자를 쓰러뜨릴 만큼의 피해를 입혔을 때, 희망을 얻거나 스트레스를 비웁니다.</p>"
+                "crvDbD8V8linpzeg": "<p class='Body-Foundation'>당신이 무기 공격에서 치명적 성공로 성공했을 때, 추가 희망을 얻거나 추가 스트레스를 비웁니다.</p><p class='Body-Foundation'>또한, 적대자를 쓰러뜨릴 만큼의 피해를 입혔을 때, 희망을 얻거나 스트레스를 비웁니다.</p>",
+                "r7MFU8khXqsEpx16": "<p class='Body-Foundation'>당신이 무기 공격에서 치명적 성공로 성공했을 때, 추가 희망을 얻거나 추가 스트레스를 비웁니다.</p><p class='Body-Foundation'>또한, 적대자를 쓰러뜨릴 만큼의 피해를 입혔을 때, 희망을 얻거나 스트레스를 비웁니다.</p>"
             }
         },
         "Grace-Touched": {
             "name": "우아함의 가호",
-            "description": "<p class='Body-Foundation'>당신의 장비에 있는 영역 카드 4장 이상이 우아함 영역에 속한다면, 다음 이점을 얻습니다:</p><ul><li class='vertical-card-list-found'><p>스트레스를 표시하는 대신 <strong>방어구 슬롯을 표시</strong>할 수 있습니다.</p></li><li class='vertical-card-list-found'><p>대상에게 일정량의 HP를 표시하게 만들 때, 대신 같은 양의 스트레스를 표시하게 만들 수 있습니다.</p></li></ul>",
+            "description": "<p class='Body-Foundation'>당신의 장비에 있는 권역 카드 4장 이상이 우아함 영역에 속한다면, 다음 이점을 얻습니다:</p><ul><li class='vertical-card-list-found'><p>스트레스를 표시하는 대신 <strong>방어 슬롯을 표시</strong>할 수 있습니다.</p></li><li class='vertical-card-list-found'><p>대상에게 일정량의 HP를 표시하게 만들 때, 대신 같은 양의 스트레스를 표시하게 만들 수 있습니다.</p></li></ul>",
             "actions": {
-                "VkPMSuoowd7hnsR5": "<p class='Body-Foundation'>당신의 장비에 있는 영역 카드 4장 이상이 우아함 영역에 속한다면, 다음 이점을 얻습니다:</p><ul><li class='vertical-card-list-found'><p>스트레스를 표시하는 대신 <strong>방어구 슬롯을 표시</strong>할 수 있습니다.</p></li><li class='vertical-card-list-found'><p>대상에게 일정량의 HP를 표시하게 만들 때, 대신 같은 양의 스트레스를 표시하게 만들 수 있습니다.</p></li></ul>",
-                "YzrQmUhNZoDYawo0": "<p class='Body-Foundation'>당신의 장비에 있는 영역 카드 4장 이상이 우아함 영역에 속한다면, 다음 이점을 얻습니다:</p><ul><li class='vertical-card-list-found'><p>스트레스를 표시하는 대신 <strong>방어구 슬롯을 표시</strong>할 수 있습니다.</p></li><li class='vertical-card-list-found'><p>대상에게 일정량의 HP를 표시하게 만들 때, 대신 같은 양의 스트레스를 표시하게 만들 수 있습니다.</p></li></ul>"
+                "VkPMSuoowd7hnsR5": "<p class='Body-Foundation'>당신의 장비에 있는 권역 카드 4장 이상이 우아함 영역에 속한다면, 다음 이점을 얻습니다:</p><ul><li class='vertical-card-list-found'><p>스트레스를 표시하는 대신 <strong>방어 슬롯을 표시</strong>할 수 있습니다.</p></li><li class='vertical-card-list-found'><p>대상에게 일정량의 HP를 표시하게 만들 때, 대신 같은 양의 스트레스를 표시하게 만들 수 있습니다.</p></li></ul>",
+                "YzrQmUhNZoDYawo0": "<p class='Body-Foundation'>당신의 장비에 있는 권역 카드 4장 이상이 우아함 영역에 속한다면, 다음 이점을 얻습니다:</p><ul><li class='vertical-card-list-found'><p>스트레스를 표시하는 대신 <strong>방어 슬롯을 표시</strong>할 수 있습니다.</p></li><li class='vertical-card-list-found'><p>대상에게 일정량의 HP를 표시하게 만들 때, 대신 같은 양의 스트레스를 표시하게 만들 수 있습니다.</p></li></ul>"
             }
         },
         "Ground Pound": {
             "name": "지면 강타",
-            "description": "<p class='Body-Foundation'><strong>희망 2을 소모</strong>하여 당신이 서 있는 땅을 쳐, 매우 가까운 거리 내의 모든 대상에게 <strong>힘 굴림</strong>을 굴립니다. 당신이 성공한 대상은 먼 거리로 밀쳐지며 반응 굴림 (17)을 굴려야 합니다. 실패한 대상은 피해 <strong>4d10+8</strong>을 입습니다. 성공한 대상은 피해의 절반을 입습니다.</p><p>@Template[type:emanation|range:vc]</p>",
+            "description": "<p class='Body-Foundation'><strong>희망 2을 소모</strong>하여 당신이 서 있는 땅을 쳐, 매우 가까운 거리 내의 모든 대상에게 <strong>근력 굴림</strong>을 굴립니다. 당신이 성공한 대상은 먼 거리로 밀쳐지며 대응 굴림 (17)을 굴려야 합니다. 실패한 대상은 피해 <strong>4d10+8</strong>을 입습니다. 성공한 대상은 피해의 절반을 입습니다.</p><p>@Template[type:emanation|range:vc]</p>",
             "actions": {
-                "FOrohOCnzfdBl4sM": "<p class='Body-Foundation'><strong>희망 2을 소모</strong>하여 당신이 서 있는 땅을 쳐, 매우 가까운 거리 내의 모든 대상에게 <strong>힘 굴림</strong>을 굴립니다. 당신이 성공한 대상은 먼 거리로 밀쳐지며 반응 굴림 (17)을 굴려야 합니다. 실패한 대상은 피해 <strong>4d10+8</strong>을 입습니다. 성공한 대상은 피해의 절반을 입습니다.</p><p>@Template[type:emanation|range:vc]</p>"
+                "FOrohOCnzfdBl4sM": "<p class='Body-Foundation'><strong>희망 2을 소모</strong>하여 당신이 서 있는 땅을 쳐, 매우 가까운 거리 내의 모든 대상에게 <strong>근력 굴림</strong>을 굴립니다. 당신이 성공한 대상은 먼 거리로 밀쳐지며 대응 굴림 (17)을 굴려야 합니다. 실패한 대상은 피해 <strong>4d10+8</strong>을 입습니다. 성공한 대상은 피해의 절반을 입습니다.</p><p>@Template[type:emanation|range:vc]</p>"
             }
         },
         "Healing Field": {
@@ -605,13 +605,13 @@
         },
         "Healing Hands": {
             "name": "치유의 손",
-            "description": "<p class=\"Body-Foundation\"><strong>주문 굴림 (13)</strong>을 굴리고 근접 거리 내에서 당신 외의 존재를 대상으로 선택합니다. 성공 시 <strong>스트레스 1을 표시</strong>하여 대상에게서 HP 2 또는 스트레스 2을 비웁니다. 실패 시 <strong>스트레스 1을 표시</strong>하여 대상에게서 HP 1 또는 스트레스 1을 비웁니다. 같은 대상을 다음 긴 휴식까지 다시 치유할 수 없습니다.</p>",
+            "description": "<p class=\"Body-Foundation\"><strong>주문시전 굴림 (13)</strong>을 굴리고 근접 거리 내에서 당신 외의 존재를 대상으로 선택합니다. 성공 시 <strong>스트레스 1을 표시</strong>하여 대상에게서 HP 2 또는 스트레스 2을 비웁니다. 실패 시 <strong>스트레스 1을 표시</strong>하여 대상에게서 HP 1 또는 스트레스 1을 비웁니다. 같은 대상을 다음 긴 휴식까지 다시 치유할 수 없습니다.</p>",
             "actions": {
-                "PjXt807MYg1JbAfO": "<p class=\"Body-Foundation\"><strong>주문 굴림 (13)</strong>을 굴리고 근접 거리 내에서 당신 외의 존재를 대상으로 선택합니다. 성공 시 <strong>스트레스 1을 표시</strong>하여 대상에게서 HP 2 또는 스트레스 2을 비웁니다. 실패 시 <strong>스트레스 1을 표시</strong>하여 대상에게서 HP 1 또는 스트레스 1을 비웁니다. 같은 대상을 다음 긴 휴식까지 다시 치유할 수 없습니다.</p>",
-                "vmWku5XYmakLdwX2": "<p class=\"Body-Foundation\"><strong>주문 굴림 (13)</strong>을 굴리고 근접 거리 내에서 당신 외의 존재를 대상으로 선택합니다. 성공 시 <strong>스트레스 1을 표시</strong>하여 대상에게서 HP 2 또는 스트레스 2을 비웁니다. 실패 시 <strong>스트레스 1을 표시</strong>하여 대상에게서 HP 1 또는 스트레스 1을 비웁니다. 같은 대상을 다음 긴 휴식까지 다시 치유할 수 없습니다.</p>",
-                "FYHLuVtFCR9A6Nvt": "<p class=\"Body-Foundation\"><strong>주문 굴림 (13)</strong>을 굴리고 근접 거리 내에서 당신 외의 존재를 대상으로 선택합니다. 성공 시 <strong>스트레스 1을 표시</strong>하여 대상에게서 HP 2 또는 스트레스 2을 비웁니다. 실패 시 <strong>스트레스 1을 표시</strong>하여 대상에게서 HP 1 또는 스트레스 1을 비웁니다. 같은 대상을 다음 긴 휴식까지 다시 치유할 수 없습니다.</p>",
-                "8ElTYMjIM7YI6Kb8": "<p class=\"Body-Foundation\"><strong>주문 굴림 (13)</strong>을 굴리고 근접 거리 내에서 당신 외의 존재를 대상으로 선택합니다. 성공 시 <strong>스트레스 1을 표시</strong>하여 대상에게서 HP 2 또는 스트레스 2을 비웁니다. 실패 시 <strong>스트레스 1을 표시</strong>하여 대상에게서 HP 1 또는 스트레스 1을 비웁니다. 같은 대상을 다음 긴 휴식까지 다시 치유할 수 없습니다.</p>",
-                "lQMhidLodJn9Nj7e": "<p class=\"Body-Foundation\"><strong>주문 굴림 (13)</strong>을 굴리고 근접 거리 내에서 당신 외의 존재를 대상으로 선택합니다. 성공 시 <strong>스트레스 1을 표시</strong>하여 대상에게서 HP 2 또는 스트레스 2을 비웁니다. 실패 시 <strong>스트레스 1을 표시</strong>하여 대상에게서 HP 1 또는 스트레스 1을 비웁니다. 같은 대상을 다음 긴 휴식까지 다시 치유할 수 없습니다.</p>"
+                "PjXt807MYg1JbAfO": "<p class=\"Body-Foundation\"><strong>주문시전 굴림 (13)</strong>을 굴리고 근접 거리 내에서 당신 외의 존재를 대상으로 선택합니다. 성공 시 <strong>스트레스 1을 표시</strong>하여 대상에게서 HP 2 또는 스트레스 2을 비웁니다. 실패 시 <strong>스트레스 1을 표시</strong>하여 대상에게서 HP 1 또는 스트레스 1을 비웁니다. 같은 대상을 다음 긴 휴식까지 다시 치유할 수 없습니다.</p>",
+                "vmWku5XYmakLdwX2": "<p class=\"Body-Foundation\"><strong>주문시전 굴림 (13)</strong>을 굴리고 근접 거리 내에서 당신 외의 존재를 대상으로 선택합니다. 성공 시 <strong>스트레스 1을 표시</strong>하여 대상에게서 HP 2 또는 스트레스 2을 비웁니다. 실패 시 <strong>스트레스 1을 표시</strong>하여 대상에게서 HP 1 또는 스트레스 1을 비웁니다. 같은 대상을 다음 긴 휴식까지 다시 치유할 수 없습니다.</p>",
+                "FYHLuVtFCR9A6Nvt": "<p class=\"Body-Foundation\"><strong>주문시전 굴림 (13)</strong>을 굴리고 근접 거리 내에서 당신 외의 존재를 대상으로 선택합니다. 성공 시 <strong>스트레스 1을 표시</strong>하여 대상에게서 HP 2 또는 스트레스 2을 비웁니다. 실패 시 <strong>스트레스 1을 표시</strong>하여 대상에게서 HP 1 또는 스트레스 1을 비웁니다. 같은 대상을 다음 긴 휴식까지 다시 치유할 수 없습니다.</p>",
+                "8ElTYMjIM7YI6Kb8": "<p class=\"Body-Foundation\"><strong>주문시전 굴림 (13)</strong>을 굴리고 근접 거리 내에서 당신 외의 존재를 대상으로 선택합니다. 성공 시 <strong>스트레스 1을 표시</strong>하여 대상에게서 HP 2 또는 스트레스 2을 비웁니다. 실패 시 <strong>스트레스 1을 표시</strong>하여 대상에게서 HP 1 또는 스트레스 1을 비웁니다. 같은 대상을 다음 긴 휴식까지 다시 치유할 수 없습니다.</p>",
+                "lQMhidLodJn9Nj7e": "<p class=\"Body-Foundation\"><strong>주문시전 굴림 (13)</strong>을 굴리고 근접 거리 내에서 당신 외의 존재를 대상으로 선택합니다. 성공 시 <strong>스트레스 1을 표시</strong>하여 대상에게서 HP 2 또는 스트레스 2을 비웁니다. 실패 시 <strong>스트레스 1을 표시</strong>하여 대상에게서 HP 1 또는 스트레스 1을 비웁니다. 같은 대상을 다음 긴 휴식까지 다시 치유할 수 없습니다.</p>"
             }
         },
         "Healing Strike": {
@@ -631,29 +631,29 @@
         },
         "Hush": {
             "name": "침묵",
-            "description": "<p class='Body-Foundation'>가까운 거리 내의 대상에게 <strong>주문 굴림</strong>을 굴립니다. 성공 시 <strong>희망을 소모</strong>하여 대상 주위에 압도하는 마법을 시전합니다. 이 마법은 그로부터 매우 가까운 거리 내의 모든 것을 감싸며, 그의 이동을 따라갑니다.</p><p class='Body-Foundation'>대상과 효과 범위 내의 모든 것은 GM이 자신의 차례에 공포를 소모하여 이 상태를 제거하거나, 당신이 침묵을 다시 시전하거나, 당신이 심각 피해를 입을 때까지 침묵 상태가 됩니다. 침묵 상태일 때 그들은 소리를 낼 수 없고 주문을 시전할 수 없습니다.</p>",
+            "description": "<p class='Body-Foundation'>가까운 거리 내의 대상에게 <strong>주문시전 굴림</strong>을 굴립니다. 성공 시 <strong>희망을 소모</strong>하여 대상 주위에 압도하는 마법을 시전합니다. 이 마법은 그로부터 매우 가까운 거리 내의 모든 것을 감싸며, 그의 이동을 따라갑니다.</p><p class='Body-Foundation'>대상과 효과 범위 내의 모든 것은 GM이 자신의 차례에 공포를 소모하여 이 상태를 제거하거나, 당신이 침묵을 다시 시전하거나, 당신이 심각한 피해를 입을 때까지 침묵 상태가 됩니다. 침묵 상태일 때 그들은 소리를 낼 수 없고 주문을 시전할 수 없습니다.</p>",
             "actions": {
-                "GrblHtCL5fOD2OQ7": "<p class='Body-Foundation'>가까운 거리 내의 대상에게 <strong>주문 굴림</strong>을 굴립니다. 성공 시 <strong>희망을 소모</strong>하여 대상 주위에 압도하는 마법을 시전합니다. 이 마법은 그로부터 매우 가까운 거리 내의 모든 것을 감싸며, 그의 이동을 따라갑니다.</p><p class='Body-Foundation'>대상과 효과 범위 내의 모든 것은 GM이 자신의 차례에 공포를 소모하여 이 상태를 제거하거나, 당신이 침묵을 다시 시전하거나, 당신이 심각 피해를 입을 때까지 침묵 상태가 됩니다. 침묵 상태일 때 그들은 소리를 낼 수 없고 주문을 시전할 수 없습니다.</p>"
+                "GrblHtCL5fOD2OQ7": "<p class='Body-Foundation'>가까운 거리 내의 대상에게 <strong>주문시전 굴림</strong>을 굴립니다. 성공 시 <strong>희망을 소모</strong>하여 대상 주위에 압도하는 마법을 시전합니다. 이 마법은 그로부터 매우 가까운 거리 내의 모든 것을 감싸며, 그의 이동을 따라갑니다.</p><p class='Body-Foundation'>대상과 효과 범위 내의 모든 것은 GM이 자신의 차례에 공포를 소모하여 이 상태를 제거하거나, 당신이 침묵을 다시 시전하거나, 당신이 심각한 피해를 입을 때까지 침묵 상태가 됩니다. 침묵 상태일 때 그들은 소리를 낼 수 없고 주문을 시전할 수 없습니다.</p>"
             }
         },
         "Hypnotic Shimmer": {
             "name": "최면의 광채",
-            "description": "<p class='Body-Foundation'>당신 앞 가까운 거리 내의 모든 적대자에게 <strong>주문 굴림</strong>을 굴립니다. 휴식당 한 번, 성공 시 깜빡이는 색채와 빛의 환영을 만들어 당신이 성공한 대상을 일시적으로 매혹시키고 그들에게 스트레스를 표시하게 합니다. 매혹된 동안 그들은 반응을 사용할 수 없고, 이 상태를 제거하기 전까지 다른 어떤 행동도 할 수 없습니다.</p>",
+            "description": "<p class='Body-Foundation'>당신 앞 가까운 거리 내의 모든 적대자에게 <strong>주문시전 굴림</strong>을 굴립니다. 휴식당 한 번, 성공 시 깜빡이는 색채와 빛의 환영을 만들어 당신이 성공한 대상을 일시적으로 매혹시키고 그들에게 스트레스를 표시하게 합니다. 매혹된 동안 그들은 반응을 사용할 수 없고, 이 상태를 제거하기 전까지 다른 어떤 행동도 할 수 없습니다.</p>",
             "actions": {
-                "kLMAuyZktmohOSXa": "<p class='Body-Foundation'>당신 앞 가까운 거리 내의 모든 적대자에게 <strong>주문 굴림</strong>을 굴립니다. 휴식당 한 번, 성공 시 깜빡이는 색채와 빛의 환영을 만들어 당신이 성공한 대상을 일시적으로 매혹시키고 그들에게 스트레스를 표시하게 합니다. 매혹된 동안 그들은 반응을 사용할 수 없고, 이 상태를 제거하기 전까지 다른 어떤 행동도 할 수 없습니다.</p>"
+                "kLMAuyZktmohOSXa": "<p class='Body-Foundation'>당신 앞 가까운 거리 내의 모든 적대자에게 <strong>주문시전 굴림</strong>을 굴립니다. 휴식당 한 번, 성공 시 깜빡이는 색채와 빛의 환영을 만들어 당신이 성공한 대상을 일시적으로 매혹시키고 그들에게 스트레스를 표시하게 합니다. 매혹된 동안 그들은 반응을 사용할 수 없고, 이 상태를 제거하기 전까지 다른 어떤 행동도 할 수 없습니다.</p>"
             }
         },
         "Inevitable": {
             "name": "필연",
-            "description": "<p class='Body-Foundation'>당신이 행동 굴림에 실패할 때, 다음 행동 굴림은 유리를 얻습니다.</p>"
+            "description": "<p class='Body-Foundation'>당신이 행동 굴림에 실패할 때, 다음 행동 굴림은 이점를 얻습니다.</p>"
         },
         "Inspirational Words": {
             "name": "고무하는 말",
-            "description": "<p class='Body-Foundation-No-BOLDITALIC'>당신의 말은 힘으로 가득 차 있습니다. 긴 휴식 후, 이 카드에 당신의 존재감과 같은 수의 토큰을 놓습니다. 동료에게 말할 때, 이 카드에서 토큰 1을 소모하여 다음 이점 중 하나를 줄 수 있습니다:</p><ul><li class='vertical-card-list-found'><p>당신의 동료가 스트레스를 비웁니다.</p></li><li class='vertical-card-list-found'><p>당신의 동료가 HP를 회복합니다.</p></li><li class='vertical-card-list-found'><p>당신의 동료가 희망을 얻습니다.</p></li></ul><p class='Body-Foundation'>긴 휴식을 취할 때, 사용하지 않은 모든 토큰을 제거합니다.</p>",
+            "description": "<p class='Body-Foundation-No-BOLDITALIC'>당신의 말은 힘으로 가득 차 있습니다. 긴 휴식 후, 이 카드에 당신의 매력과 같은 수의 토큰을 놓습니다. 동료에게 말할 때, 이 카드에서 토큰 1을 소모하여 다음 이점 중 하나를 줄 수 있습니다:</p><ul><li class='vertical-card-list-found'><p>당신의 동료가 스트레스를 비웁니다.</p></li><li class='vertical-card-list-found'><p>당신의 동료가 HP를 회복합니다.</p></li><li class='vertical-card-list-found'><p>당신의 동료가 희망을 얻습니다.</p></li></ul><p class='Body-Foundation'>긴 휴식을 취할 때, 사용하지 않은 모든 토큰을 제거합니다.</p>",
             "actions": {
-                "5sGMd6m6Ltahit4h": "<p class='Body-Foundation-No-BOLDITALIC'>당신의 말은 힘으로 가득 차 있습니다. 긴 휴식 후, 이 카드에 당신의 존재감과 같은 수의 토큰을 놓습니다. 동료에게 말할 때, 이 카드에서 토큰 1을 소모하여 다음 이점 중 하나를 줄 수 있습니다:</p><ul><li class='vertical-card-list-found'><p>당신의 동료가 스트레스를 비웁니다.</p></li><li class='vertical-card-list-found'><p>당신의 동료가 HP를 회복합니다.</p></li><li class='vertical-card-list-found'><p>당신의 동료가 희망을 얻습니다.</p></li></ul><p class='Body-Foundation'>긴 휴식을 취할 때, 사용하지 않은 모든 토큰을 제거합니다.</p>",
-                "QKS3vo3Nf5CK8rkF": "<p class='Body-Foundation-No-BOLDITALIC'>당신의 말은 힘으로 가득 차 있습니다. 긴 휴식 후, 이 카드에 당신의 존재감과 같은 수의 토큰을 놓습니다. 동료에게 말할 때, 이 카드에서 토큰 1을 소모하여 다음 이점 중 하나를 줄 수 있습니다:</p><ul><li class='vertical-card-list-found'><p>당신의 동료가 스트레스를 비웁니다.</p></li><li class='vertical-card-list-found'><p>당신의 동료가 HP를 회복합니다.</p></li><li class='vertical-card-list-found'><p>당신의 동료가 희망을 얻습니다.</p></li></ul><p class='Body-Foundation'>긴 휴식을 취할 때, 사용하지 않은 모든 토큰을 제거합니다.</p>",
-                "5xn70wYZW7k9aiVl": "<p class='Body-Foundation-No-BOLDITALIC'>당신의 말은 힘으로 가득 차 있습니다. 긴 휴식 후, 이 카드에 당신의 존재감과 같은 수의 토큰을 놓습니다. 동료에게 말할 때, 이 카드에서 토큰 1을 소모하여 다음 이점 중 하나를 줄 수 있습니다:</p><ul><li class='vertical-card-list-found'><p>당신의 동료가 스트레스를 비웁니다.</p></li><li class='vertical-card-list-found'><p>당신의 동료가 HP를 회복합니다.</p></li><li class='vertical-card-list-found'><p>당신의 동료가 희망을 얻습니다.</p></li></ul><p class='Body-Foundation'>긴 휴식을 취할 때, 사용하지 않은 모든 토큰을 제거합니다.</p>"
+                "5sGMd6m6Ltahit4h": "<p class='Body-Foundation-No-BOLDITALIC'>당신의 말은 힘으로 가득 차 있습니다. 긴 휴식 후, 이 카드에 당신의 매력과 같은 수의 토큰을 놓습니다. 동료에게 말할 때, 이 카드에서 토큰 1을 소모하여 다음 이점 중 하나를 줄 수 있습니다:</p><ul><li class='vertical-card-list-found'><p>당신의 동료가 스트레스를 비웁니다.</p></li><li class='vertical-card-list-found'><p>당신의 동료가 HP를 회복합니다.</p></li><li class='vertical-card-list-found'><p>당신의 동료가 희망을 얻습니다.</p></li></ul><p class='Body-Foundation'>긴 휴식을 취할 때, 사용하지 않은 모든 토큰을 제거합니다.</p>",
+                "QKS3vo3Nf5CK8rkF": "<p class='Body-Foundation-No-BOLDITALIC'>당신의 말은 힘으로 가득 차 있습니다. 긴 휴식 후, 이 카드에 당신의 매력과 같은 수의 토큰을 놓습니다. 동료에게 말할 때, 이 카드에서 토큰 1을 소모하여 다음 이점 중 하나를 줄 수 있습니다:</p><ul><li class='vertical-card-list-found'><p>당신의 동료가 스트레스를 비웁니다.</p></li><li class='vertical-card-list-found'><p>당신의 동료가 HP를 회복합니다.</p></li><li class='vertical-card-list-found'><p>당신의 동료가 희망을 얻습니다.</p></li></ul><p class='Body-Foundation'>긴 휴식을 취할 때, 사용하지 않은 모든 토큰을 제거합니다.</p>",
+                "5xn70wYZW7k9aiVl": "<p class='Body-Foundation-No-BOLDITALIC'>당신의 말은 힘으로 가득 차 있습니다. 긴 휴식 후, 이 카드에 당신의 매력과 같은 수의 토큰을 놓습니다. 동료에게 말할 때, 이 카드에서 토큰 1을 소모하여 다음 이점 중 하나를 줄 수 있습니다:</p><ul><li class='vertical-card-list-found'><p>당신의 동료가 스트레스를 비웁니다.</p></li><li class='vertical-card-list-found'><p>당신의 동료가 HP를 회복합니다.</p></li><li class='vertical-card-list-found'><p>당신의 동료가 희망을 얻습니다.</p></li></ul><p class='Body-Foundation'>긴 휴식을 취할 때, 사용하지 않은 모든 토큰을 제거합니다.</p>"
             }
         },
         "Invigoration": {
@@ -665,16 +665,16 @@
         },
         "Invisibility": {
             "name": "투명화",
-            "description": "<p class='Body-Foundation'><strong>주문 굴림 (10)</strong>을 굴립니다. 성공 시, <strong>스트레스를 표시</strong>하고 자신 또는 근접 거리 내의 동료를 선택하여 투명화시킵니다. 투명한 존재는 마법 수단을 제외하고는 볼 수 없으며, 그를 향한 공격 굴림은 불리로 굴립니다. 이 카드에 당신의 주문 시전 수치와 같은 수의 토큰을 놓습니다. 투명한 존재가 행동을 할 때, 이 카드에서 토큰 1을 소모합니다. 마지막 토큰을 소모한 행동이 해결된 후, 효과가 종료됩니다.</p><p class='Body-Foundation'>한 번에 한 존재에게만 투명화를 유지할 수 있습니다.</p>",
+            "description": "<p class='Body-Foundation'><strong>주문시전 굴림 (10)</strong>을 굴립니다. 성공 시, <strong>스트레스를 표시</strong>하고 자신 또는 근접 거리 내의 동료를 선택하여 투명화시킵니다. 투명한 존재는 마법 수단을 제외하고는 볼 수 없으며, 그를 향한 명중 굴림은 불리점로 굴립니다. 이 카드에 당신의 주문 시전 수치와 같은 수의 토큰을 놓습니다. 투명한 존재가 행동을 할 때, 이 카드에서 토큰 1을 소모합니다. 마지막 토큰을 소모한 행동이 해결된 후, 효과가 종료됩니다.</p><p class='Body-Foundation'>한 번에 한 존재에게만 투명화를 유지할 수 있습니다.</p>",
             "actions": {
-                "aIERmFBWCRLVv184": "<p class='Body-Foundation'><strong>주문 굴림 (10)</strong>을 굴립니다. 성공 시, <strong>스트레스를 표시</strong>하고 자신 또는 근접 거리 내의 동료를 선택하여 투명화시킵니다. 투명한 존재는 마법 수단을 제외하고는 볼 수 없으며, 그를 향한 공격 굴림은 불리로 굴립니다. 이 카드에 당신의 주문 시전 수치와 같은 수의 토큰을 놓습니다. 투명한 존재가 행동을 할 때, 이 카드에서 토큰 1을 소모합니다. 마지막 토큰을 소모한 행동이 해결된 후, 효과가 종료됩니다.</p><p class='Body-Foundation'>한 번에 한 존재에게만 투명화를 유지할 수 있습니다.</p>"
+                "aIERmFBWCRLVv184": "<p class='Body-Foundation'><strong>주문시전 굴림 (10)</strong>을 굴립니다. 성공 시, <strong>스트레스를 표시</strong>하고 자신 또는 근접 거리 내의 동료를 선택하여 투명화시킵니다. 투명한 존재는 마법 수단을 제외하고는 볼 수 없으며, 그를 향한 명중 굴림은 불리점로 굴립니다. 이 카드에 당신의 주문 시전 수치와 같은 수의 토큰을 놓습니다. 투명한 존재가 행동을 할 때, 이 카드에서 토큰 1을 소모합니다. 마지막 토큰을 소모한 행동이 해결된 후, 효과가 종료됩니다.</p><p class='Body-Foundation'>한 번에 한 존재에게만 투명화를 유지할 수 있습니다.</p>"
             }
         },
         "I Am Your Shield": {
             "name": "내가 그대의 방패",
-            "description": "<p class='Body-Foundation'>매우 가까운 거리 내의 동료가 피해를 입어야 할 때, <strong>스트레스를 표시</strong>하여 그 자리로 뛰어들어 공격의 대상이 될 수 있습니다. 이 공격으로 피해를 입을 때, 원하는 만큼의 방어구 슬롯을 표시할 수 있습니다.</p>",
+            "description": "<p class='Body-Foundation'>매우 가까운 거리 내의 동료가 피해를 입어야 할 때, <strong>스트레스를 표시</strong>하여 그 자리로 뛰어들어 공격의 대상이 될 수 있습니다. 이 공격으로 피해를 입을 때, 원하는 만큼의 방어 슬롯을 표시할 수 있습니다.</p>",
             "actions": {
-                "0rLdATV71dviB2MG": "<p class='Body-Foundation'>매우 가까운 거리 내의 동료가 피해를 입어야 할 때, <strong>스트레스를 표시</strong>하여 그 자리로 뛰어들어 공격의 대상이 될 수 있습니다. 이 공격으로 피해를 입을 때, 원하는 만큼의 방어구 슬롯을 표시할 수 있습니다.</p>"
+                "0rLdATV71dviB2MG": "<p class='Body-Foundation'>매우 가까운 거리 내의 동료가 피해를 입어야 할 때, <strong>스트레스를 표시</strong>하여 그 자리로 뛰어들어 공격의 대상이 될 수 있습니다. 이 공격으로 피해를 입을 때, 원하는 만큼의 방어 슬롯을 표시할 수 있습니다.</p>"
             }
         },
         "I See It Coming": {
@@ -686,10 +686,10 @@
         },
         "Know Thy Enemy": {
             "name": "적대자를 알라",
-            "description": "<p class='Body-Foundation-No-BOLDITALIC'>한 존재를 관찰하면서, 그에게 <strong>본능 굴림</strong>을 굴릴 수 있습니다. 성공 시 희망을 소모하여 GM에게 다음 옵션 중 하나의 정보를 요청할 수 있습니다:</p><ul><li class='vertical-card-list-found'><p>그들의 표시되지 않은 HP와 스트레스.</p></li><li class='vertical-card-list-found'><p>그들의 난이도와 피해 한계치.</p></li><li class='vertical-card-list-found'>그들의 전술과 표준 공격 피해 주사위.</li><li class='vertical-card-list-found'><p>그들의 특성과 경험.</p></li></ul><p class='Body-Foundation-No-BOLDITALIC'>추가로, 성공 시 스트레스를 표시하여 GM의 공포 풀에서 공포를 제거할 수 있습니다.</p>",
+            "description": "<p class='Body-Foundation-No-BOLDITALIC'>한 존재를 관찰하면서, 그에게 <strong>직감 굴림</strong>을 굴릴 수 있습니다. 성공 시 희망을 소모하여 GM에게 다음 옵션 중 하나의 정보를 요청할 수 있습니다:</p><ul><li class='vertical-card-list-found'><p>그들의 표시되지 않은 HP와 스트레스.</p></li><li class='vertical-card-list-found'><p>그들의 난이도와 피해 임계치.</p></li><li class='vertical-card-list-found'>그들의 전술과 표준 공격 피해 주사위.</li><li class='vertical-card-list-found'><p>그들의 특성과 경험.</p></li></ul><p class='Body-Foundation-No-BOLDITALIC'>추가로, 성공 시 스트레스를 표시하여 GM의 공포 풀에서 공포를 제거할 수 있습니다.</p>",
             "actions": {
-                "CTIjJn5xFME0DCWm": "<p class='Body-Foundation-No-BOLDITALIC'>한 존재를 관찰하면서, 그에게 <strong>본능 굴림</strong>을 굴릴 수 있습니다. 성공 시 희망을 소모하여 GM에게 다음 옵션 중 하나의 정보를 요청할 수 있습니다:</p><ul><li class='vertical-card-list-found'><p>그들의 표시되지 않은 HP와 스트레스.</p></li><li class='vertical-card-list-found'><p>그들의 난이도와 피해 한계치.</p></li><li class='vertical-card-list-found'>그들의 전술과 표준 공격 피해 주사위.</li><li class='vertical-card-list-found'><p>그들의 특성과 경험.</p></li></ul><p class='Body-Foundation-No-BOLDITALIC'>추가로, 성공 시 스트레스를 표시하여 GM의 공포 풀에서 공포를 제거할 수 있습니다.</p>",
-                "ADRUe0WJktpHFz1o": "<p class='Body-Foundation-No-BOLDITALIC'>한 존재를 관찰하면서, 그에게 <strong>본능 굴림</strong>을 굴릴 수 있습니다. 성공 시 희망을 소모하여 GM에게 다음 옵션 중 하나의 정보를 요청할 수 있습니다:</p><ul><li class='vertical-card-list-found'><p>그들의 표시되지 않은 HP와 스트레스.</p></li><li class='vertical-card-list-found'><p>그들의 난이도와 피해 한계치.</p></li><li class='vertical-card-list-found'>그들의 전술과 표준 공격 피해 주사위.</li><li class='vertical-card-list-found'><p>그들의 특성과 경험.</p></li></ul><p class='Body-Foundation-No-BOLDITALIC'>추가로, 성공 시 스트레스를 표시하여 GM의 공포 풀에서 공포를 제거할 수 있습니다.</p>"
+                "CTIjJn5xFME0DCWm": "<p class='Body-Foundation-No-BOLDITALIC'>한 존재를 관찰하면서, 그에게 <strong>직감 굴림</strong>을 굴릴 수 있습니다. 성공 시 희망을 소모하여 GM에게 다음 옵션 중 하나의 정보를 요청할 수 있습니다:</p><ul><li class='vertical-card-list-found'><p>그들의 표시되지 않은 HP와 스트레스.</p></li><li class='vertical-card-list-found'><p>그들의 난이도와 피해 임계치.</p></li><li class='vertical-card-list-found'>그들의 전술과 표준 공격 피해 주사위.</li><li class='vertical-card-list-found'><p>그들의 특성과 경험.</p></li></ul><p class='Body-Foundation-No-BOLDITALIC'>추가로, 성공 시 스트레스를 표시하여 GM의 공포 풀에서 공포를 제거할 수 있습니다.</p>",
+                "ADRUe0WJktpHFz1o": "<p class='Body-Foundation-No-BOLDITALIC'>한 존재를 관찰하면서, 그에게 <strong>직감 굴림</strong>을 굴릴 수 있습니다. 성공 시 희망을 소모하여 GM에게 다음 옵션 중 하나의 정보를 요청할 수 있습니다:</p><ul><li class='vertical-card-list-found'><p>그들의 표시되지 않은 HP와 스트레스.</p></li><li class='vertical-card-list-found'><p>그들의 난이도와 피해 임계치.</p></li><li class='vertical-card-list-found'>그들의 전술과 표준 공격 피해 주사위.</li><li class='vertical-card-list-found'><p>그들의 특성과 경험.</p></li></ul><p class='Body-Foundation-No-BOLDITALIC'>추가로, 성공 시 스트레스를 표시하여 GM의 공포 풀에서 공포를 제거할 수 있습니다.</p>"
             }
         },
         "Lead by Example": {
@@ -708,31 +708,31 @@
         },
         "Life Ward": {
             "name": "생명의 가호",
-            "description": "<p class='Body-Foundation'><strong>희망 3을 소모</strong>하여 가까운 거리 내의 동료를 선택합니다. 그는 빛나는 보호의 인장으로 표시됩니다. 이 동료가 죽음의 행동을 할 때, 대신 HP를 비웁니다. </p><p class='Body-Foundation'>이 효과는 그가 죽음의 행동에서 대상을 구하거나, 당신이 다른 대상에 「생명의 가호」를 시전하거나, 긴 휴식을 취할 때 종료됩니다.</p>",
+            "description": "<p class='Body-Foundation'><strong>희망 3을 소모</strong>하여 가까운 거리 내의 동료를 선택합니다. 그는 빛나는 보호의 인장으로 표시됩니다. 이 동료가 죽음 동작을 할 때, 대신 HP를 비웁니다. </p><p class='Body-Foundation'>이 효과는 그가 죽음 동작에서 대상을 구하거나, 당신이 다른 대상에 「생명의 가호」를 시전하거나, 긴 휴식을 취할 때 종료됩니다.</p>",
             "actions": {
-                "i99aNWZqVC8PHAIx": "<p class='Body-Foundation'><strong>희망 3을 소모</strong>하여 가까운 거리 내의 동료를 선택합니다. 그는 빛나는 보호의 인장으로 표시됩니다. 이 동료가 죽음의 행동을 할 때, 대신 HP를 비웁니다. </p><p class='Body-Foundation'>이 효과는 그가 죽음의 행동에서 대상을 구하거나, 당신이 다른 대상에 「생명의 가호」를 시전하거나, 긴 휴식을 취할 때 종료됩니다.</p>"
+                "i99aNWZqVC8PHAIx": "<p class='Body-Foundation'><strong>희망 3을 소모</strong>하여 가까운 거리 내의 동료를 선택합니다. 그는 빛나는 보호의 인장으로 표시됩니다. 이 동료가 죽음 동작을 할 때, 대신 HP를 비웁니다. </p><p class='Body-Foundation'>이 효과는 그가 죽음 동작에서 대상을 구하거나, 당신이 다른 대상에 「생명의 가호」를 시전하거나, 긴 휴식을 취할 때 종료됩니다.</p>"
             }
         },
         "Manifest Wall": {
             "name": "현현의 벽",
-            "description": "<p class='Body-Foundation'><strong>주문 굴림 (15)</strong>을 굴립니다. 휴식당 한 번, 성공 시 <strong>희망을 소모</strong>하여 먼 거리 내의 두 지점 사이에 임시 마법 벽을 만듭니다. 최대 50피트 높이까지 가능하며 어떤 각도로든 형성될 수 있습니다. 그 경로상의 존재나 물체는 당신이 선택한 쪽으로 이동합니다. 벽은 당신의 다음 휴식 또는 당신이 「현현의 벽」을 다시 시전할 때까지 유지됩니다.</p><p>@Template[type:ray|range:f]</p>",
+            "description": "<p class='Body-Foundation'><strong>주문시전 굴림 (15)</strong>을 굴립니다. 휴식당 한 번, 성공 시 <strong>희망을 소모</strong>하여 먼 거리 내의 두 지점 사이에 임시 마법 벽을 만듭니다. 최대 50피트 높이까지 가능하며 어떤 각도로든 형성될 수 있습니다. 그 경로상의 존재나 물체는 당신이 선택한 쪽으로 이동합니다. 벽은 당신의 다음 휴식 또는 당신이 「현현의 벽」을 다시 시전할 때까지 유지됩니다.</p><p>@Template[type:ray|range:f]</p>",
             "actions": {
-                "nFzMCrW7wuXCCmJW": "<p class='Body-Foundation'><strong>주문 굴림 (15)</strong>을 굴립니다. 휴식당 한 번, 성공 시 <strong>희망을 소모</strong>하여 먼 거리 내의 두 지점 사이에 임시 마법 벽을 만듭니다. 최대 50피트 높이까지 가능하며 어떤 각도로든 형성될 수 있습니다. 그 경로상의 존재나 물체는 당신이 선택한 쪽으로 이동합니다. 벽은 당신의 다음 휴식 또는 당신이 「현현의 벽」을 다시 시전할 때까지 유지됩니다.</p><p>@Template[type:ray|range:f]</p>"
+                "nFzMCrW7wuXCCmJW": "<p class='Body-Foundation'><strong>주문시전 굴림 (15)</strong>을 굴립니다. 휴식당 한 번, 성공 시 <strong>희망을 소모</strong>하여 먼 거리 내의 두 지점 사이에 임시 마법 벽을 만듭니다. 최대 50피트 높이까지 가능하며 어떤 각도로든 형성될 수 있습니다. 그 경로상의 존재나 물체는 당신이 선택한 쪽으로 이동합니다. 벽은 당신의 다음 휴식 또는 당신이 「현현의 벽」을 다시 시전할 때까지 유지됩니다.</p><p>@Template[type:ray|range:f]</p>"
             }
         },
         "Mass Disguise": {
             "name": "대규모 변장",
-            "description": "<p class='Body-Foundation'>집중할 수 있는 몇 분의 시간이 있을 때, <strong>스트레스를 표시</strong>하여 가까운 거리 내의 모든 동의하는 존재의 외모를 바꿀 수 있습니다. 그들의 새로운 모습은 공통된 신체 구조와 크기를 가져야 하며, 이전에 본 적이 있는 누군가 또는 무언가이거나 완전히 가상의 것일 수 있습니다. 변장한 존재는 정밀 조사를 피하기 위한 존재감 굴림에 유리를 얻습니다.</p><p class='Body-Foundation'>카운트다운 (8)을 활성화합니다. 이것은 GM이 선택한 결과로 카운트다운됩니다. 발동하면, 변장이 풀립니다.</p>",
+            "description": "<p class='Body-Foundation'>집중할 수 있는 몇 분의 시간이 있을 때, <strong>스트레스를 표시</strong>하여 가까운 거리 내의 모든 동의하는 존재의 외모를 바꿀 수 있습니다. 그들의 새로운 모습은 공통된 신체 구조와 크기를 가져야 하며, 이전에 본 적이 있는 누군가 또는 무언가이거나 완전히 가상의 것일 수 있습니다. 변장한 존재는 정밀 조사를 피하기 위한 매력 굴림에 이점를 얻습니다.</p><p class='Body-Foundation'>카운트다운 (8)을 활성화합니다. 이것은 GM이 선택한 결과로 카운트다운됩니다. 발동하면, 변장이 풀립니다.</p>",
             "actions": {
-                "Gl41dsOBTG2p8qwo": "<p class='Body-Foundation'>집중할 수 있는 몇 분의 시간이 있을 때, <strong>스트레스를 표시</strong>하여 가까운 거리 내의 모든 동의하는 존재의 외모를 바꿀 수 있습니다. 그들의 새로운 모습은 공통된 신체 구조와 크기를 가져야 하며, 이전에 본 적이 있는 누군가 또는 무언가이거나 완전히 가상의 것일 수 있습니다. 변장한 존재는 정밀 조사를 피하기 위한 존재감 굴림에 유리를 얻습니다.</p><p class='Body-Foundation'>카운트다운 (8)을 활성화합니다. 이것은 GM이 선택한 결과로 카운트다운됩니다. 발동하면, 변장이 풀립니다.</p>"
+                "Gl41dsOBTG2p8qwo": "<p class='Body-Foundation'>집중할 수 있는 몇 분의 시간이 있을 때, <strong>스트레스를 표시</strong>하여 가까운 거리 내의 모든 동의하는 존재의 외모를 바꿀 수 있습니다. 그들의 새로운 모습은 공통된 신체 구조와 크기를 가져야 하며, 이전에 본 적이 있는 누군가 또는 무언가이거나 완전히 가상의 것일 수 있습니다. 변장한 존재는 정밀 조사를 피하기 위한 매력 굴림에 이점를 얻습니다.</p><p class='Body-Foundation'>카운트다운 (8)을 활성화합니다. 이것은 GM이 선택한 결과로 카운트다운됩니다. 발동하면, 변장이 풀립니다.</p>"
             }
         },
         "Mass Enrapture": {
             "name": "대규모 매혹",
-            "description": "<p class='Body-Foundation'>먼 거리 내의 모든 대상에게 <strong>주문 굴림</strong>을 굴립니다. 당신이 성공한 대상은 일시적으로 매혹 상태가 됩니다. 매혹된 동안, 대상의 주의는 당신에게 집중되어 시야가 좁아지고 당신의 목소리를 제외한 모든 소리가 묻혀집니다. <strong>스트레스를 표시</strong>하여 매혹된 모든 대상이 스트레스를 표시하게 만들며, 이 주문을 종료합니다.</p><p>@Template[type:emanation|range:f]</p>",
+            "description": "<p class='Body-Foundation'>먼 거리 내의 모든 대상에게 <strong>주문시전 굴림</strong>을 굴립니다. 당신이 성공한 대상은 일시적으로 매혹 상태가 됩니다. 매혹된 동안, 대상의 주의는 당신에게 집중되어 시야가 좁아지고 당신의 목소리를 제외한 모든 소리가 묻혀집니다. <strong>스트레스를 표시</strong>하여 매혹된 모든 대상이 스트레스를 표시하게 만들며, 이 주문을 종료합니다.</p><p>@Template[type:emanation|range:f]</p>",
             "actions": {
-                "r5eA3tAH7EplOQCP": "<p class='Body-Foundation'>먼 거리 내의 모든 대상에게 <strong>주문 굴림</strong>을 굴립니다. 당신이 성공한 대상은 일시적으로 매혹 상태가 됩니다. 매혹된 동안, 대상의 주의는 당신에게 집중되어 시야가 좁아지고 당신의 목소리를 제외한 모든 소리가 묻혀집니다. <strong>스트레스를 표시</strong>하여 매혹된 모든 대상이 스트레스를 표시하게 만들며, 이 주문을 종료합니다.</p><p>@Template[type:emanation|range:f]</p>",
-                "QhBaM0LU9tmSI3IO": "<p class='Body-Foundation'>먼 거리 내의 모든 대상에게 <strong>주문 굴림</strong>을 굴립니다. 당신이 성공한 대상은 일시적으로 매혹 상태가 됩니다. 매혹된 동안, 대상의 주의는 당신에게 집중되어 시야가 좁아지고 당신의 목소리를 제외한 모든 소리가 묻혀집니다. <strong>스트레스를 표시</strong>하여 매혹된 모든 대상이 스트레스를 표시하게 만들며, 이 주문을 종료합니다.</p><p>@Template[type:emanation|range:f]</p>"
+                "r5eA3tAH7EplOQCP": "<p class='Body-Foundation'>먼 거리 내의 모든 대상에게 <strong>주문시전 굴림</strong>을 굴립니다. 당신이 성공한 대상은 일시적으로 매혹 상태가 됩니다. 매혹된 동안, 대상의 주의는 당신에게 집중되어 시야가 좁아지고 당신의 목소리를 제외한 모든 소리가 묻혀집니다. <strong>스트레스를 표시</strong>하여 매혹된 모든 대상이 스트레스를 표시하게 만들며, 이 주문을 종료합니다.</p><p>@Template[type:emanation|range:f]</p>",
+                "QhBaM0LU9tmSI3IO": "<p class='Body-Foundation'>먼 거리 내의 모든 대상에게 <strong>주문시전 굴림</strong>을 굴립니다. 당신이 성공한 대상은 일시적으로 매혹 상태가 됩니다. 매혹된 동안, 대상의 주의는 당신에게 집중되어 시야가 좁아지고 당신의 목소리를 제외한 모든 소리가 묻혀집니다. <strong>스트레스를 표시</strong>하여 매혹된 모든 대상이 스트레스를 표시하게 만들며, 이 주문을 종료합니다.</p><p>@Template[type:emanation|range:f]</p>"
             }
         },
         "Master of the Craft": {
@@ -751,35 +751,35 @@
         },
         "Midnight Spirit": {
             "name": "한밤의 정령",
-            "description": "<p class='Body-Foundation'><strong>희망을 소모</strong>하여 다음 휴식까지 당신을 위해 물건을 옮기거나 운반할 수 있는 사람 크기의 정령을 소환합니다.</p><p class='Body-Foundation'>또한 그를 적대자를 공격하도록 보낼 수 있습니다. 그렇게 할 때, 매우 먼 거리 내의 대상에게 <strong>주문 굴림</strong>을 굴립니다. 성공 시 정령은 그 대상과 근접 거리로 이동합니다. 당신의 주문 시전 수치와 같은 수의 <strong>d6</strong>을 굴려 그만큼의 마법 피해를 대상에게 입힙니다. 그런 다음 정령은 사라집니다. 한 번에 하나의 정령만 가질 수 있습니다.</p>",
+            "description": "<p class='Body-Foundation'><strong>희망을 소모</strong>하여 다음 휴식까지 당신을 위해 물건을 옮기거나 운반할 수 있는 사람 크기의 정령을 소환합니다.</p><p class='Body-Foundation'>또한 그를 적대자를 공격하도록 보낼 수 있습니다. 그렇게 할 때, 매우 먼 거리 내의 대상에게 <strong>주문시전 굴림</strong>을 굴립니다. 성공 시 정령은 그 대상과 근접 거리로 이동합니다. 당신의 주문 시전 수치와 같은 수의 <strong>d6</strong>을 굴려 그만큼의 마법 피해를 대상에게 입힙니다. 그런 다음 정령은 사라집니다. 한 번에 하나의 정령만 가질 수 있습니다.</p>",
             "actions": {
-                "BDKCP4FvntHkYqXp": "<p class='Body-Foundation'><strong>희망을 소모</strong>하여 다음 휴식까지 당신을 위해 물건을 옮기거나 운반할 수 있는 사람 크기의 정령을 소환합니다.</p><p class='Body-Foundation'>또한 그를 적대자를 공격하도록 보낼 수 있습니다. 그렇게 할 때, 매우 먼 거리 내의 대상에게 <strong>주문 굴림</strong>을 굴립니다. 성공 시 정령은 그 대상과 근접 거리로 이동합니다. 당신의 주문 시전 수치와 같은 수의 <strong>d6</strong>을 굴려 그만큼의 마법 피해를 대상에게 입힙니다. 그런 다음 정령은 사라집니다. 한 번에 하나의 정령만 가질 수 있습니다.</p>",
-                "YVSMa2Igxp6DhNpG": "<p class='Body-Foundation'><strong>희망을 소모</strong>하여 다음 휴식까지 당신을 위해 물건을 옮기거나 운반할 수 있는 사람 크기의 정령을 소환합니다.</p><p class='Body-Foundation'>또한 그를 적대자를 공격하도록 보낼 수 있습니다. 그렇게 할 때, 매우 먼 거리 내의 대상에게 <strong>주문 굴림</strong>을 굴립니다. 성공 시 정령은 그 대상과 근접 거리로 이동합니다. 당신의 주문 시전 수치와 같은 수의 <strong>d6</strong>을 굴려 그만큼의 마법 피해를 대상에게 입힙니다. 그런 다음 정령은 사라집니다. 한 번에 하나의 정령만 가질 수 있습니다.</p>"
+                "BDKCP4FvntHkYqXp": "<p class='Body-Foundation'><strong>희망을 소모</strong>하여 다음 휴식까지 당신을 위해 물건을 옮기거나 운반할 수 있는 사람 크기의 정령을 소환합니다.</p><p class='Body-Foundation'>또한 그를 적대자를 공격하도록 보낼 수 있습니다. 그렇게 할 때, 매우 먼 거리 내의 대상에게 <strong>주문시전 굴림</strong>을 굴립니다. 성공 시 정령은 그 대상과 근접 거리로 이동합니다. 당신의 주문 시전 수치와 같은 수의 <strong>d6</strong>을 굴려 그만큼의 마법 피해를 대상에게 입힙니다. 그런 다음 정령은 사라집니다. 한 번에 하나의 정령만 가질 수 있습니다.</p>",
+                "YVSMa2Igxp6DhNpG": "<p class='Body-Foundation'><strong>희망을 소모</strong>하여 다음 휴식까지 당신을 위해 물건을 옮기거나 운반할 수 있는 사람 크기의 정령을 소환합니다.</p><p class='Body-Foundation'>또한 그를 적대자를 공격하도록 보낼 수 있습니다. 그렇게 할 때, 매우 먼 거리 내의 대상에게 <strong>주문시전 굴림</strong>을 굴립니다. 성공 시 정령은 그 대상과 근접 거리로 이동합니다. 당신의 주문 시전 수치와 같은 수의 <strong>d6</strong>을 굴려 그만큼의 마법 피해를 대상에게 입힙니다. 그런 다음 정령은 사라집니다. 한 번에 하나의 정령만 가질 수 있습니다.</p>"
             }
         },
         "Midnight-Touched": {
             "name": "한밤의 가호",
-            "description": "<p class='Body-Foundation'>당신의 장비에 있는 영역 카드 4장 이상이 한밤 영역에 속할 때, 다음 이점을 얻습니다:</p><ul><li class='vertical-card-list-found'><p>휴식당 한 번, 당신의 희망이 0이고 GM이 공포를 얻어야 할 때, 대신 당신이 희망을 얻을 수 있습니다.</p></li><li class='vertical-card-list-found'><p>당신이 성공적인 공격을 가했을 때, <strong>스트레스를 표시</strong>하여 공포 주사위의 결과를 피해 굴림에 더할 수 있습니다.</p></li></ul>",
+            "description": "<p class='Body-Foundation'>당신의 장비에 있는 권역 카드 4장 이상이 한밤 영역에 속할 때, 다음 이점을 얻습니다:</p><ul><li class='vertical-card-list-found'><p>휴식당 한 번, 당신의 희망이 0이고 GM이 공포를 얻어야 할 때, 대신 당신이 희망을 얻을 수 있습니다.</p></li><li class='vertical-card-list-found'><p>당신이 성공적인 공격을 가했을 때, <strong>스트레스를 표시</strong>하여 공포 주사위의 결과를 피해 굴림에 더할 수 있습니다.</p></li></ul>",
             "actions": {
-                "ksl1CcxcuwYxObiS": "<p class='Body-Foundation'>당신의 장비에 있는 영역 카드 4장 이상이 한밤 영역에 속할 때, 다음 이점을 얻습니다:</p><ul><li class='vertical-card-list-found'><p>휴식당 한 번, 당신의 희망이 0이고 GM이 공포를 얻어야 할 때, 대신 당신이 희망을 얻을 수 있습니다.</p></li><li class='vertical-card-list-found'><p>당신이 성공적인 공격을 가했을 때, <strong>스트레스를 표시</strong>하여 공포 주사위의 결과를 피해 굴림에 더할 수 있습니다.</p></li></ul>",
-                "Ky5wcwBqgm5bJCK1": "<p class='Body-Foundation'>당신의 장비에 있는 영역 카드 4장 이상이 한밤 영역에 속할 때, 다음 이점을 얻습니다:</p><ul><li class='vertical-card-list-found'><p>휴식당 한 번, 당신의 희망이 0이고 GM이 공포를 얻어야 할 때, 대신 당신이 희망을 얻을 수 있습니다.</p></li><li class='vertical-card-list-found'><p>당신이 성공적인 공격을 가했을 때, <strong>스트레스를 표시</strong>하여 공포 주사위의 결과를 피해 굴림에 더할 수 있습니다.</p></li></ul>"
+                "ksl1CcxcuwYxObiS": "<p class='Body-Foundation'>당신의 장비에 있는 권역 카드 4장 이상이 한밤 영역에 속할 때, 다음 이점을 얻습니다:</p><ul><li class='vertical-card-list-found'><p>휴식당 한 번, 당신의 희망이 0이고 GM이 공포를 얻어야 할 때, 대신 당신이 희망을 얻을 수 있습니다.</p></li><li class='vertical-card-list-found'><p>당신이 성공적인 공격을 가했을 때, <strong>스트레스를 표시</strong>하여 공포 주사위의 결과를 피해 굴림에 더할 수 있습니다.</p></li></ul>",
+                "Ky5wcwBqgm5bJCK1": "<p class='Body-Foundation'>당신의 장비에 있는 권역 카드 4장 이상이 한밤 영역에 속할 때, 다음 이점을 얻습니다:</p><ul><li class='vertical-card-list-found'><p>휴식당 한 번, 당신의 희망이 0이고 GM이 공포를 얻어야 할 때, 대신 당신이 희망을 얻을 수 있습니다.</p></li><li class='vertical-card-list-found'><p>당신이 성공적인 공격을 가했을 때, <strong>스트레스를 표시</strong>하여 공포 주사위의 결과를 피해 굴림에 더할 수 있습니다.</p></li></ul>"
             }
         },
         "Natural Familiar": {
             "name": "자연의 소환수",
-            "description": "<p class='Body-Foundation'><strong>희망을 소모</strong>하여 다음 휴식까지, 또는 자연의 소환수를 다시 시전할 때까지, 또는 소환수가 공격의 대상이 될 때까지 당신에게 작은 자연의 정령 또는 숲의 동물을 소환합니다. <strong>추가 희망을 소모</strong>하면 비행 소환수를 부를 수 있습니다. 그들과 소통할 수 있으며, <strong>주문 굴림</strong>을 굴려 그들에게 단순한 임무를 수행하도록 명령하고, <strong>스트레스를 표시</strong>하여 그들의 눈을 통해 볼 수 있습니다.</p><p class='Body-Foundation'>소환수의 근접 거리 내에 있는 적대자에게 피해를 입힐 때, 피해 굴림에 <strong>d6</strong>을 더합니다.</p>",
+            "description": "<p class='Body-Foundation'><strong>희망을 소모</strong>하여 다음 휴식까지, 또는 자연의 소환수를 다시 시전할 때까지, 또는 소환수가 공격의 대상이 될 때까지 당신에게 작은 자연의 정령 또는 숲의 동물을 소환합니다. <strong>추가 희망을 소모</strong>하면 비행 소환수를 부를 수 있습니다. 그들과 소통할 수 있으며, <strong>주문시전 굴림</strong>을 굴려 그들에게 단순한 임무를 수행하도록 명령하고, <strong>스트레스를 표시</strong>하여 그들의 눈을 통해 볼 수 있습니다.</p><p class='Body-Foundation'>소환수의 근접 거리 내에 있는 적대자에게 피해를 입힐 때, 피해 굴림에 <strong>d6</strong>을 더합니다.</p>",
             "actions": {
-                "BhVDgty2nqoOhn97": "<p class='Body-Foundation'><strong>희망을 소모</strong>하여 다음 휴식까지, 또는 자연의 소환수를 다시 시전할 때까지, 또는 소환수가 공격의 대상이 될 때까지 당신에게 작은 자연의 정령 또는 숲의 동물을 소환합니다. <strong>추가 희망을 소모</strong>하면 비행 소환수를 부를 수 있습니다. 그들과 소통할 수 있으며, <strong>주문 굴림</strong>을 굴려 그들에게 단순한 임무를 수행하도록 명령하고, <strong>스트레스를 표시</strong>하여 그들의 눈을 통해 볼 수 있습니다.</p><p class='Body-Foundation'>소환수의 근접 거리 내에 있는 적대자에게 피해를 입힐 때, 피해 굴림에 <strong>d6</strong>을 더합니다.</p>",
-                "kHAwq8lfsEPd9Qga": "<p class='Body-Foundation'><strong>희망을 소모</strong>하여 다음 휴식까지, 또는 자연의 소환수를 다시 시전할 때까지, 또는 소환수가 공격의 대상이 될 때까지 당신에게 작은 자연의 정령 또는 숲의 동물을 소환합니다. <strong>추가 희망을 소모</strong>하면 비행 소환수를 부를 수 있습니다. 그들과 소통할 수 있으며, <strong>주문 굴림</strong>을 굴려 그들에게 단순한 임무를 수행하도록 명령하고, <strong>스트레스를 표시</strong>하여 그들의 눈을 통해 볼 수 있습니다.</p><p class='Body-Foundation'>소환수의 근접 거리 내에 있는 적대자에게 피해를 입힐 때, 피해 굴림에 <strong>d6</strong>을 더합니다.</p>",
-                "8Y03LcPgXF30DfzZ": "<p class='Body-Foundation'><strong>희망을 소모</strong>하여 다음 휴식까지, 또는 자연의 소환수를 다시 시전할 때까지, 또는 소환수가 공격의 대상이 될 때까지 당신에게 작은 자연의 정령 또는 숲의 동물을 소환합니다. <strong>추가 희망을 소모</strong>하면 비행 소환수를 부를 수 있습니다. 그들과 소통할 수 있으며, <strong>주문 굴림</strong>을 굴려 그들에게 단순한 임무를 수행하도록 명령하고, <strong>스트레스를 표시</strong>하여 그들의 눈을 통해 볼 수 있습니다.</p><p class='Body-Foundation'>소환수의 근접 거리 내에 있는 적대자에게 피해를 입힐 때, 피해 굴림에 <strong>d6</strong>을 더합니다.</p>"
+                "BhVDgty2nqoOhn97": "<p class='Body-Foundation'><strong>희망을 소모</strong>하여 다음 휴식까지, 또는 자연의 소환수를 다시 시전할 때까지, 또는 소환수가 공격의 대상이 될 때까지 당신에게 작은 자연의 정령 또는 숲의 동물을 소환합니다. <strong>추가 희망을 소모</strong>하면 비행 소환수를 부를 수 있습니다. 그들과 소통할 수 있으며, <strong>주문시전 굴림</strong>을 굴려 그들에게 단순한 임무를 수행하도록 명령하고, <strong>스트레스를 표시</strong>하여 그들의 눈을 통해 볼 수 있습니다.</p><p class='Body-Foundation'>소환수의 근접 거리 내에 있는 적대자에게 피해를 입힐 때, 피해 굴림에 <strong>d6</strong>을 더합니다.</p>",
+                "kHAwq8lfsEPd9Qga": "<p class='Body-Foundation'><strong>희망을 소모</strong>하여 다음 휴식까지, 또는 자연의 소환수를 다시 시전할 때까지, 또는 소환수가 공격의 대상이 될 때까지 당신에게 작은 자연의 정령 또는 숲의 동물을 소환합니다. <strong>추가 희망을 소모</strong>하면 비행 소환수를 부를 수 있습니다. 그들과 소통할 수 있으며, <strong>주문시전 굴림</strong>을 굴려 그들에게 단순한 임무를 수행하도록 명령하고, <strong>스트레스를 표시</strong>하여 그들의 눈을 통해 볼 수 있습니다.</p><p class='Body-Foundation'>소환수의 근접 거리 내에 있는 적대자에게 피해를 입힐 때, 피해 굴림에 <strong>d6</strong>을 더합니다.</p>",
+                "8Y03LcPgXF30DfzZ": "<p class='Body-Foundation'><strong>희망을 소모</strong>하여 다음 휴식까지, 또는 자연의 소환수를 다시 시전할 때까지, 또는 소환수가 공격의 대상이 될 때까지 당신에게 작은 자연의 정령 또는 숲의 동물을 소환합니다. <strong>추가 희망을 소모</strong>하면 비행 소환수를 부를 수 있습니다. 그들과 소통할 수 있으며, <strong>주문시전 굴림</strong>을 굴려 그들에게 단순한 임무를 수행하도록 명령하고, <strong>스트레스를 표시</strong>하여 그들의 눈을 통해 볼 수 있습니다.</p><p class='Body-Foundation'>소환수의 근접 거리 내에 있는 적대자에게 피해를 입힐 때, 피해 굴림에 <strong>d6</strong>을 더합니다.</p>"
             }
         },
         "Nature’s Tongue": {
             "name": "자연의 언어",
-            "description": "<p class='Body-Foundation'>당신은 자연 세계의 언어를 말할 수 있습니다. 주위의 식물과 동물에게 말을 걸고 싶을 때, <strong>본능 굴림 (12)</strong>을 굴립니다. 성공 시 그들은 자신이 아는 정보를 줍니다. 공포와 함께 굴렸을 때, 그들의 지식은 제한적이거나 대가가 있을 수 있습니다.</p><p class='Body-Foundation'>또한, 자연 환경에서 주문 굴림을 굴리기 전에, <strong>희망을 소모</strong>하여 굴림에 +2 보너스를 얻을 수 있습니다.</p>",
+            "description": "<p class='Body-Foundation'>당신은 자연 세계의 언어를 말할 수 있습니다. 주위의 식물과 동물에게 말을 걸고 싶을 때, <strong>직감 굴림 (12)</strong>을 굴립니다. 성공 시 그들은 자신이 아는 정보를 줍니다. 공포와 함께 굴렸을 때, 그들의 지식은 제한적이거나 대가가 있을 수 있습니다.</p><p class='Body-Foundation'>또한, 자연 환경에서 주문시전 굴림을 굴리기 전에, <strong>희망을 소모</strong>하여 굴림에 +2 보너스를 얻을 수 있습니다.</p>",
             "actions": {
-                "qQEeyIGs0wKjW3a1": "<p class='Body-Foundation'>당신은 자연 세계의 언어를 말할 수 있습니다. 주위의 식물과 동물에게 말을 걸고 싶을 때, <strong>본능 굴림 (12)</strong>을 굴립니다. 성공 시 그들은 자신이 아는 정보를 줍니다. 공포와 함께 굴렸을 때, 그들의 지식은 제한적이거나 대가가 있을 수 있습니다.</p><p class='Body-Foundation'>또한, 자연 환경에서 주문 굴림을 굴리기 전에, <strong>희망을 소모</strong>하여 굴림에 +2 보너스를 얻을 수 있습니다.</p>",
-                "IIJC4HGdilVv3YMo": "<p class='Body-Foundation'>당신은 자연 세계의 언어를 말할 수 있습니다. 주위의 식물과 동물에게 말을 걸고 싶을 때, <strong>본능 굴림 (12)</strong>을 굴립니다. 성공 시 그들은 자신이 아는 정보를 줍니다. 공포와 함께 굴렸을 때, 그들의 지식은 제한적이거나 대가가 있을 수 있습니다.</p><p class='Body-Foundation'>또한, 자연 환경에서 주문 굴림을 굴리기 전에, <strong>희망을 소모</strong>하여 굴림에 +2 보너스를 얻을 수 있습니다.</p>"
+                "qQEeyIGs0wKjW3a1": "<p class='Body-Foundation'>당신은 자연 세계의 언어를 말할 수 있습니다. 주위의 식물과 동물에게 말을 걸고 싶을 때, <strong>직감 굴림 (12)</strong>을 굴립니다. 성공 시 그들은 자신이 아는 정보를 줍니다. 공포와 함께 굴렸을 때, 그들의 지식은 제한적이거나 대가가 있을 수 있습니다.</p><p class='Body-Foundation'>또한, 자연 환경에서 주문시전 굴림을 굴리기 전에, <strong>희망을 소모</strong>하여 굴림에 +2 보너스를 얻을 수 있습니다.</p>",
+                "IIJC4HGdilVv3YMo": "<p class='Body-Foundation'>당신은 자연 세계의 언어를 말할 수 있습니다. 주위의 식물과 동물에게 말을 걸고 싶을 때, <strong>직감 굴림 (12)</strong>을 굴립니다. 성공 시 그들은 자신이 아는 정보를 줍니다. 공포와 함께 굴렸을 때, 그들의 지식은 제한적이거나 대가가 있을 수 있습니다.</p><p class='Body-Foundation'>또한, 자연 환경에서 주문시전 굴림을 굴리기 전에, <strong>희망을 소모</strong>하여 굴림에 +2 보너스를 얻을 수 있습니다.</p>"
             }
         },
         "Never Upstaged": {
@@ -794,17 +794,17 @@
         },
         "Night Terror": {
             "name": "야간의 공포",
-            "description": "<p class='Body-Foundation'>긴 휴식당 한 번, 매우 가까운 거리 내의 어떤 대상들이든 당신을 악몽 같은 공포로 인식하도록 선택합니다. 대상은 반응 굴림 (16)에 성공해야 하며, 그렇지 못하면 일시적으로 공포 상태가 됩니다. 공포 상태인 동안 그들은 취약합니다. GM의 풀에 있는 공포 수까지 공포 상태가 된 대상의 수만큼 GM의 공포를 빼앗습니다. 빼앗은 공포 수만큼 <strong>d6</strong>을 굴려, 합계 피해를 모든 공포 상태의 대상에게 입힙니다. 빼앗은 공포를 버립니다.</p><p>@Template[type:emanation|range:vc]</p>",
+            "description": "<p class='Body-Foundation'>긴 휴식당 한 번, 매우 가까운 거리 내의 어떤 대상들이든 당신을 악몽 같은 공포로 인식하도록 선택합니다. 대상은 대응 굴림 (16)에 성공해야 하며, 그렇지 못하면 일시적으로 공포 상태가 됩니다. 공포 상태인 동안 그들은 취약합니다. GM의 풀에 있는 공포 수까지 공포 상태가 된 대상의 수만큼 GM의 공포를 빼앗습니다. 빼앗은 공포 수만큼 <strong>d6</strong>을 굴려, 합계 피해를 모든 공포 상태의 대상에게 입힙니다. 빼앗은 공포를 버립니다.</p><p>@Template[type:emanation|range:vc]</p>",
             "actions": {
-                "e4A6GQERsn08IBby": "<p class='Body-Foundation'>긴 휴식당 한 번, 매우 가까운 거리 내의 어떤 대상들이든 당신을 악몽 같은 공포로 인식하도록 선택합니다. 대상은 반응 굴림 (16)에 성공해야 하며, 그렇지 못하면 일시적으로 공포 상태가 됩니다. 공포 상태인 동안 그들은 취약합니다. GM의 풀에 있는 공포 수까지 공포 상태가 된 대상의 수만큼 GM의 공포를 빼앗습니다. 빼앗은 공포 수만큼 <strong>d6</strong>을 굴려, 합계 피해를 모든 공포 상태의 대상에게 입힙니다. 빼앗은 공포를 버립니다.</p><p>@Template[type:emanation|range:vc]</p>",
-                "ELzQvftGxZigPkBH": "<p class='Body-Foundation'>긴 휴식당 한 번, 매우 가까운 거리 내의 어떤 대상들이든 당신을 악몽 같은 공포로 인식하도록 선택합니다. 대상은 반응 굴림 (16)에 성공해야 하며, 그렇지 못하면 일시적으로 공포 상태가 됩니다. 공포 상태인 동안 그들은 취약합니다. GM의 풀에 있는 공포 수까지 공포 상태가 된 대상의 수만큼 GM의 공포를 빼앗습니다. 빼앗은 공포 수만큼 <strong>d6</strong>을 굴려, 합계 피해를 모든 공포 상태의 대상에게 입힙니다. 빼앗은 공포를 버립니다.</p><p>@Template[type:emanation|range:vc]</p>"
+                "e4A6GQERsn08IBby": "<p class='Body-Foundation'>긴 휴식당 한 번, 매우 가까운 거리 내의 어떤 대상들이든 당신을 악몽 같은 공포로 인식하도록 선택합니다. 대상은 대응 굴림 (16)에 성공해야 하며, 그렇지 못하면 일시적으로 공포 상태가 됩니다. 공포 상태인 동안 그들은 취약합니다. GM의 풀에 있는 공포 수까지 공포 상태가 된 대상의 수만큼 GM의 공포를 빼앗습니다. 빼앗은 공포 수만큼 <strong>d6</strong>을 굴려, 합계 피해를 모든 공포 상태의 대상에게 입힙니다. 빼앗은 공포를 버립니다.</p><p>@Template[type:emanation|range:vc]</p>",
+                "ELzQvftGxZigPkBH": "<p class='Body-Foundation'>긴 휴식당 한 번, 매우 가까운 거리 내의 어떤 대상들이든 당신을 악몽 같은 공포로 인식하도록 선택합니다. 대상은 대응 굴림 (16)에 성공해야 하며, 그렇지 못하면 일시적으로 공포 상태가 됩니다. 공포 상태인 동안 그들은 취약합니다. GM의 풀에 있는 공포 수까지 공포 상태가 된 대상의 수만큼 GM의 공포를 빼앗습니다. 빼앗은 공포 수만큼 <strong>d6</strong>을 굴려, 합계 피해를 모든 공포 상태의 대상에게 입힙니다. 빼앗은 공포를 버립니다.</p><p>@Template[type:emanation|range:vc]</p>"
             }
         },
         "Notorious": {
             "name": "악명",
-            "description": "<p class='Body-Foundation'>사람들은 당신이 누구이고 무엇을 했는지 알며, 그로 인해 당신을 다르게 대합니다. 자신의 명성을 이용해 원하는 것을 얻고자 할 때, 굴림 전에 <strong>스트레스를 표시</strong>하여 결과에 +10 보너스를 받을 수 있습니다. 당신의 음식과 음료는 어디를 가든 항상 무료이며, 다른 모든 구매품의 가격은 금 한 자루만큼 낮아집니다(최소 한 줌까지).</p><p class='Body-Foundation'>이 카드는 당신의 장비 영역 카드 최대 5장에 포함되지 않으며, 보관소에 넣을 수 없습니다.</p>",
+            "description": "<p class='Body-Foundation'>사람들은 당신이 누구이고 무엇을 했는지 알며, 그로 인해 당신을 다르게 대합니다. 자신의 명성을 이용해 원하는 것을 얻고자 할 때, 굴림 전에 <strong>스트레스를 표시</strong>하여 결과에 +10 보너스를 받을 수 있습니다. 당신의 음식과 음료는 어디를 가든 항상 무료이며, 다른 모든 구매품의 가격은 금 한 자루만큼 낮아집니다(최소 한 줌까지).</p><p class='Body-Foundation'>이 카드는 당신의 장비 권역 카드 최대 5장에 포함되지 않으며, 보관소에 넣을 수 없습니다.</p>",
             "actions": {
-                "Cb39VXOUPVWl3ea4": "<p class='Body-Foundation'>사람들은 당신이 누구이고 무엇을 했는지 알며, 그로 인해 당신을 다르게 대합니다. 자신의 명성을 이용해 원하는 것을 얻고자 할 때, 굴림 전에 <strong>스트레스를 표시</strong>하여 결과에 +10 보너스를 받을 수 있습니다. 당신의 음식과 음료는 어디를 가든 항상 무료이며, 다른 모든 구매품의 가격은 금 한 자루만큼 낮아집니다(최소 한 줌까지).</p><p class='Body-Foundation'>이 카드는 당신의 장비 영역 카드 최대 5장에 포함되지 않으며, 보관소에 넣을 수 없습니다.</p>"
+                "Cb39VXOUPVWl3ea4": "<p class='Body-Foundation'>사람들은 당신이 누구이고 무엇을 했는지 알며, 그로 인해 당신을 다르게 대합니다. 자신의 명성을 이용해 원하는 것을 얻고자 할 때, 굴림 전에 <strong>스트레스를 표시</strong>하여 결과에 +10 보너스를 받을 수 있습니다. 당신의 음식과 음료는 어디를 가든 항상 무료이며, 다른 모든 구매품의 가격은 금 한 자루만큼 낮아집니다(최소 한 줌까지).</p><p class='Body-Foundation'>이 카드는 당신의 장비 권역 카드 최대 5장에 포함되지 않으며, 보관소에 넣을 수 없습니다.</p>"
             }
         },
         "Not Good Enough": {
@@ -813,20 +813,20 @@
         },
         "Onslaught": {
             "name": "맹공",
-            "description": "<p class='Body-Foundation'>무기로 성공적인 공격을 했을 때, 절대 대상의 기본 피해 한계치 미만의 피해를 입히지 않습니다(대상은 항상 최소 HP 2을 표시합니다).</p><p class='Body-Foundation'>또한, 당신의 무기 사정거리 내의 한 존재가 당신을 포함하지 않는 공격으로 동료에게 피해를 입혔을 때, <strong>스트레스를 표시</strong>하여 그가 반응 굴림 (15)을 굴리게 할 수 있습니다. 실패 시 대상은 HP를 표시해야 합니다.</p>",
+            "description": "<p class='Body-Foundation'>무기로 성공적인 공격을 했을 때, 절대 대상의 기본 피해 임계치 미만의 피해를 입히지 않습니다(대상은 항상 최소 HP 2을 표시합니다).</p><p class='Body-Foundation'>또한, 당신의 무기 사정거리 내의 한 존재가 당신을 포함하지 않는 공격으로 동료에게 피해를 입혔을 때, <strong>스트레스를 표시</strong>하여 그가 대응 굴림 (15)을 굴리게 할 수 있습니다. 실패 시 대상은 HP를 표시해야 합니다.</p>",
             "actions": {
-                "MxaqNvY9IfWnFe5P": "<p class='Body-Foundation'>무기로 성공적인 공격을 했을 때, 절대 대상의 기본 피해 한계치 미만의 피해를 입히지 않습니다(대상은 항상 최소 HP 2을 표시합니다).</p><p class='Body-Foundation'>또한, 당신의 무기 사정거리 내의 한 존재가 당신을 포함하지 않는 공격으로 동료에게 피해를 입혔을 때, <strong>스트레스를 표시</strong>하여 그가 반응 굴림 (15)을 굴리게 할 수 있습니다. 실패 시 대상은 HP를 표시해야 합니다.</p>"
+                "MxaqNvY9IfWnFe5P": "<p class='Body-Foundation'>무기로 성공적인 공격을 했을 때, 절대 대상의 기본 피해 임계치 미만의 피해를 입히지 않습니다(대상은 항상 최소 HP 2을 표시합니다).</p><p class='Body-Foundation'>또한, 당신의 무기 사정거리 내의 한 존재가 당신을 포함하지 않는 공격으로 동료에게 피해를 입혔을 때, <strong>스트레스를 표시</strong>하여 그가 대응 굴림 (15)을 굴리게 할 수 있습니다. 실패 시 대상은 HP를 표시해야 합니다.</p>"
             }
         },
         "On the Brink": {
             "name": "벼랑 끝",
-            "description": "<p class='Body'>표시되지 않은 HP가 2 이하일 때, 작은 피해를 입지 않습니다.</p>"
+            "description": "<p class='Body'>표시되지 않은 HP가 2 이하일 때, 경미한 피해를 입지 않습니다.</p>"
         },
         "Overwhelming Aura": {
             "name": "압도하는 오라",
-            "description": "<p class='Body-Foundation'><strong>주문 굴림 (15)</strong>을 굴려 자신의 오라를 마법적으로 강화합니다. 성공 시 <strong>희망 2을 소모</strong>하여 다음 긴 휴식까지 당신의 존재감이 주문 시전 수치와 같아지게 합니다.</p><p class='Body-Foundation'>이 주문이 활성화된 동안, 적대자가 당신을 공격할 때 스트레스를 표시해야 합니다.</p>",
+            "description": "<p class='Body-Foundation'><strong>주문시전 굴림 (15)</strong>을 굴려 자신의 오라를 마법적으로 강화합니다. 성공 시 <strong>희망 2을 소모</strong>하여 다음 긴 휴식까지 당신의 매력이 주문 시전 수치와 같아지게 합니다.</p><p class='Body-Foundation'>이 주문이 활성화된 동안, 적대자가 당신을 공격할 때 스트레스를 표시해야 합니다.</p>",
             "actions": {
-                "r2XblKJyZyamOOXq": "<p class='Body-Foundation'><strong>주문 굴림 (15)</strong>을 굴려 자신의 오라를 마법적으로 강화합니다. 성공 시 <strong>희망 2을 소모</strong>하여 다음 긴 휴식까지 당신의 존재감이 주문 시전 수치와 같아지게 합니다.</p><p class='Body-Foundation'>이 주문이 활성화된 동안, 적대자가 당신을 공격할 때 스트레스를 표시해야 합니다.</p>"
+                "r2XblKJyZyamOOXq": "<p class='Body-Foundation'><strong>주문시전 굴림 (15)</strong>을 굴려 자신의 오라를 마법적으로 강화합니다. 성공 시 <strong>희망 2을 소모</strong>하여 다음 긴 휴식까지 당신의 매력이 주문 시전 수치와 같아지게 합니다.</p><p class='Body-Foundation'>이 주문이 활성화된 동안, 적대자가 당신을 공격할 때 스트레스를 표시해야 합니다.</p>"
             }
         },
         "Phantom Retreat": {
@@ -839,13 +839,13 @@
         },
         "Pick and Pull": {
             "name": "따고 빼기",
-            "description": "<p class='Body-Foundation'>마법이 아닌 자물쇠를 따거나, 마법이 아닌 함정을 해제하거나, 대상에게서 물건을 훔치는(은밀하게 또는 강제로) 행동 굴림은 유리로 굴립니다.</p>"
+            "description": "<p class='Body-Foundation'>마법이 아닌 자물쇠를 따거나, 마법이 아닌 함정을 해제하거나, 대상에게서 물건을 훔치는(은밀하게 또는 강제로) 행동 굴림은 이점로 굴립니다.</p>"
         },
         "Plant Dominion": {
             "name": "식물 지배",
-            "description": "<p class='Body-Foundation'><strong>주문 굴림 (18)</strong>을 굴립니다. 긴 휴식당 한 번, 성공 시 당신으로부터 먼 거리 내의 어떤 장소든 자연 세계를 변화시켜 주변 식물을 바꿉니다. 예를 들어, 즉시 나무를 자라게 하거나, 빽빽한 덩굴 사이로 길을 트거나, 뿌리의 벽을 만들 수 있습니다.</p>",
+            "description": "<p class='Body-Foundation'><strong>주문시전 굴림 (18)</strong>을 굴립니다. 긴 휴식당 한 번, 성공 시 당신으로부터 먼 거리 내의 어떤 장소든 자연 세계를 변화시켜 주변 식물을 바꿉니다. 예를 들어, 즉시 나무를 자라게 하거나, 빽빽한 덩굴 사이로 길을 트거나, 뿌리의 벽을 만들 수 있습니다.</p>",
             "actions": {
-                "7yUMXSJVnDBB25jP": "<p class='Body-Foundation'><strong>주문 굴림 (18)</strong>을 굴립니다. 긴 휴식당 한 번, 성공 시 당신으로부터 먼 거리 내의 어떤 장소든 자연 세계를 변화시켜 주변 식물을 바꿉니다. 예를 들어, 즉시 나무를 자라게 하거나, 빽빽한 덩굴 사이로 길을 트거나, 뿌리의 벽을 만들 수 있습니다.</p>"
+                "7yUMXSJVnDBB25jP": "<p class='Body-Foundation'><strong>주문시전 굴림 (18)</strong>을 굴립니다. 긴 휴식당 한 번, 성공 시 당신으로부터 먼 거리 내의 어떤 장소든 자연 세계를 변화시켜 주변 식물을 바꿉니다. 예를 들어, 즉시 나무를 자라게 하거나, 빽빽한 덩굴 사이로 길을 트거나, 뿌리의 벽을 만들 수 있습니다.</p>"
             }
         },
         "Premonition": {
@@ -857,9 +857,9 @@
         },
         "Preservation Blast": {
             "name": "보존의 파동",
-            "description": "<p><p class='Body-Foundation'>가까운 거리 내의 모든 대상에게 <strong>주문 굴림</strong>을 굴립니다. 당신이 성공한 대상은 먼 거리로 밀쳐지며 당신의 주문 시전 수치를 사용해 마법 피해 <strong>d8+3</strong>을 입습니다. </p></p>",
+            "description": "<p><p class='Body-Foundation'>가까운 거리 내의 모든 대상에게 <strong>주문시전 굴림</strong>을 굴립니다. 당신이 성공한 대상은 먼 거리로 밀쳐지며 당신의 주문 시전 수치를 사용해 마법 피해 <strong>d8+3</strong>을 입습니다. </p></p>",
             "actions": {
-                "QiUrqjOnvkzIymzC": "<p><p class='Body-Foundation'>가까운 거리 내의 모든 대상에게 <strong>주문 굴림</strong>을 굴립니다. 당신이 성공한 대상은 먼 거리로 밀쳐지며 당신의 주문 시전 수치를 사용해 마법 피해 <strong>d8+3</strong>을 입습니다. </p></p>"
+                "QiUrqjOnvkzIymzC": "<p><p class='Body-Foundation'>가까운 거리 내의 모든 대상에게 <strong>주문시전 굴림</strong>을 굴립니다. 당신이 성공한 대상은 먼 거리로 밀쳐지며 당신의 주문 시전 수치를 사용해 마법 피해 <strong>d8+3</strong>을 입습니다. </p></p>"
             }
         },
         "Rage Up": {
@@ -872,10 +872,10 @@
         },
         "Rain of Blades": {
             "name": "칼날의 비",
-            "description": "<p class='Body-Foundation'><strong>희망을 소모</strong>하여 <strong>주문 굴림</strong>을 굴리고, 매우 가까운 거리 내의 모든 대상을 맞추는 던지는 칼날을 소환합니다. 당신이 성공한 대상은 당신의 숙련도를 사용해 마법 피해 <strong>d8+2</strong>를 입습니다.</p><p class='Body-Foundation'>당신이 맞춘 대상이 취약하면, 추가 <strong>1d8</strong> 피해를 입습니다.</p>",
+            "description": "<p class='Body-Foundation'><strong>희망을 소모</strong>하여 <strong>주문시전 굴림</strong>을 굴리고, 매우 가까운 거리 내의 모든 대상을 맞추는 던지는 칼날을 소환합니다. 당신이 성공한 대상은 당신의 숙련도를 사용해 마법 피해 <strong>d8+2</strong>를 입습니다.</p><p class='Body-Foundation'>당신이 맞춘 대상이 취약하면, 추가 <strong>1d8</strong> 피해를 입습니다.</p>",
             "actions": {
-                "WTnjKQs2uI1TuF9r": "<p class='Body-Foundation'><strong>희망을 소모</strong>하여 <strong>주문 굴림</strong>을 굴리고, 매우 가까운 거리 내의 모든 대상을 맞추는 던지는 칼날을 소환합니다. 당신이 성공한 대상은 당신의 숙련도를 사용해 마법 피해 <strong>d8+2</strong>를 입습니다.</p><p class='Body-Foundation'>당신이 맞춘 대상이 취약하면, 추가 <strong>1d8</strong> 피해를 입습니다.</p>",
-                "CUKoYyDxQhNc0pLs": "<p class='Body-Foundation'><strong>희망을 소모</strong>하여 <strong>주문 굴림</strong>을 굴리고, 매우 가까운 거리 내의 모든 대상을 맞추는 던지는 칼날을 소환합니다. 당신이 성공한 대상은 당신의 숙련도를 사용해 마법 피해 <strong>d8+2</strong>를 입습니다.</p><p class='Body-Foundation'>당신이 맞춘 대상이 취약하면, 추가 <strong>1d8</strong> 피해를 입습니다.</p>"
+                "WTnjKQs2uI1TuF9r": "<p class='Body-Foundation'><strong>희망을 소모</strong>하여 <strong>주문시전 굴림</strong>을 굴리고, 매우 가까운 거리 내의 모든 대상을 맞추는 던지는 칼날을 소환합니다. 당신이 성공한 대상은 당신의 숙련도를 사용해 마법 피해 <strong>d8+2</strong>를 입습니다.</p><p class='Body-Foundation'>당신이 맞춘 대상이 취약하면, 추가 <strong>1d8</strong> 피해를 입습니다.</p>",
+                "CUKoYyDxQhNc0pLs": "<p class='Body-Foundation'><strong>희망을 소모</strong>하여 <strong>주문시전 굴림</strong>을 굴리고, 매우 가까운 거리 내의 모든 대상을 맞추는 던지는 칼날을 소환합니다. 당신이 성공한 대상은 당신의 숙련도를 사용해 마법 피해 <strong>d8+2</strong>를 입습니다.</p><p class='Body-Foundation'>당신이 맞춘 대상이 취약하면, 추가 <strong>1d8</strong> 피해를 입습니다.</p>"
             }
         },
         "Rapid Riposte": {
@@ -887,9 +887,9 @@
         },
         "Reaper’s Strike": {
             "name": "사신의 일격",
-            "description": "<p class='Body-Foundation'>긴 휴식당 한 번, <strong>희망을 소모</strong>하여 공격 굴림을 굴립니다. GM은 사정거리 내의 어느 대상에게 공격이 성공할지 알려줍니다. 그 대상 중 하나를 선택하여 HP 5을 표시하게 합니다.</p>",
+            "description": "<p class='Body-Foundation'>긴 휴식당 한 번, <strong>희망을 소모</strong>하여 명중 굴림을 굴립니다. GM은 사정거리 내의 어느 대상에게 공격이 성공할지 알려줍니다. 그 대상 중 하나를 선택하여 HP 5을 표시하게 합니다.</p>",
             "actions": {
-                "bFW8Qgv6fUswbA6s": "<p class='Body-Foundation'>긴 휴식당 한 번, <strong>희망을 소모</strong>하여 공격 굴림을 굴립니다. GM은 사정거리 내의 어느 대상에게 공격이 성공할지 알려줍니다. 그 대상 중 하나를 선택하여 HP 5을 표시하게 합니다.</p>"
+                "bFW8Qgv6fUswbA6s": "<p class='Body-Foundation'>긴 휴식당 한 번, <strong>희망을 소모</strong>하여 명중 굴림을 굴립니다. GM은 사정거리 내의 어느 대상에게 공격이 성공할지 알려줍니다. 그 대상 중 하나를 선택하여 HP 5을 표시하게 합니다.</p>"
             }
         },
         "Reassurance": {
@@ -901,9 +901,9 @@
         },
         "Reckless": {
             "name": "무모함",
-            "description": "<p class='Body-Foundation'><strong>스트레스를 표시</strong>하여 공격에 유리를 얻습니다.</p>",
+            "description": "<p class='Body-Foundation'><strong>스트레스를 표시</strong>하여 공격에 이점를 얻습니다.</p>",
             "actions": {
-                "1vOYZjiUbRBmLcVr": "<p class='Body-Foundation'><strong>스트레스를 표시</strong>하여 공격에 유리를 얻습니다.</p>"
+                "1vOYZjiUbRBmLcVr": "<p class='Body-Foundation'><strong>스트레스를 표시</strong>하여 공격에 이점를 얻습니다.</p>"
             }
         },
         "Recovery": {
@@ -915,16 +915,16 @@
         },
         "Redirect": {
             "name": "방향 전환",
-            "description": "<p class='Body-Foundation'>근접 거리 밖에서 당신을 향한 공격이 실패할 때, 당신의 손재주와 같은 수의 <strong>d6</strong>을 굴립니다. 6이 나오면, <strong>스트레스를 표시</strong>하여 공격을 매우 가까운 거리 내의 적대자에게 방향 전환시켜 피해를 입힐 수 있습니다.</p>",
+            "description": "<p class='Body-Foundation'>근접 거리 밖에서 당신을 향한 공격이 실패할 때, 당신의 기교와 같은 수의 <strong>d6</strong>을 굴립니다. 6이 나오면, <strong>스트레스를 표시</strong>하여 공격을 매우 가까운 거리 내의 적대자에게 방향 전환시켜 피해를 입힐 수 있습니다.</p>",
             "actions": {
-                "DRluINMGyhCR84ok": "<p class='Body-Foundation'>근접 거리 밖에서 당신을 향한 공격이 실패할 때, 당신의 손재주와 같은 수의 <strong>d6</strong>을 굴립니다. 6이 나오면, <strong>스트레스를 표시</strong>하여 공격을 매우 가까운 거리 내의 적대자에게 방향 전환시켜 피해를 입힐 수 있습니다.</p>"
+                "DRluINMGyhCR84ok": "<p class='Body-Foundation'>근접 거리 밖에서 당신을 향한 공격이 실패할 때, 당신의 기교와 같은 수의 <strong>d6</strong>을 굴립니다. 6이 나오면, <strong>스트레스를 표시</strong>하여 공격을 매우 가까운 거리 내의 적대자에게 방향 전환시켜 피해를 입힐 수 있습니다.</p>"
             }
         },
         "Rejuvenation Barrier": {
             "name": "재생의 장벽",
-            "description": "<p class='Body-Foundation'><strong>주문 굴림 (15)</strong>을 굴립니다. 휴식당 한 번, 성공 시 매우 가까운 거리에서 당신 주위에 임시 보호 에너지의 장벽을 만듭니다. 이 주문을 시전할 때 장벽 안에 있는 당신과 모든 동료는 HP <strong>1d4</strong>를 회복합니다. 장벽이 활성화된 동안, 장벽 안의 당신과 모든 동료는 장벽 밖에서 오는 물리 피해에 저항을 갖습니다.</p><p class='Body-Foundation'>당신이 이동할 때, 장벽은 당신을 따라갑니다.</p><p>@Template[type:emanation|range:vc]</p>",
+            "description": "<p class='Body-Foundation'><strong>주문시전 굴림 (15)</strong>을 굴립니다. 휴식당 한 번, 성공 시 매우 가까운 거리에서 당신 주위에 임시 보호 에너지의 장벽을 만듭니다. 이 주문을 시전할 때 장벽 안에 있는 당신과 모든 동료는 HP <strong>1d4</strong>를 회복합니다. 장벽이 활성화된 동안, 장벽 안의 당신과 모든 동료는 장벽 밖에서 오는 물리 피해에 저항을 갖습니다.</p><p class='Body-Foundation'>당신이 이동할 때, 장벽은 당신을 따라갑니다.</p><p>@Template[type:emanation|range:vc]</p>",
             "actions": {
-                "XdAwXl2uWNinInFe": "<p class='Body-Foundation'><strong>주문 굴림 (15)</strong>을 굴립니다. 휴식당 한 번, 성공 시 매우 가까운 거리에서 당신 주위에 임시 보호 에너지의 장벽을 만듭니다. 이 주문을 시전할 때 장벽 안에 있는 당신과 모든 동료는 HP <strong>1d4</strong>를 회복합니다. 장벽이 활성화된 동안, 장벽 안의 당신과 모든 동료는 장벽 밖에서 오는 물리 피해에 저항을 갖습니다.</p><p class='Body-Foundation'>당신이 이동할 때, 장벽은 당신을 따라갑니다.</p><p>@Template[type:emanation|range:vc]</p>"
+                "XdAwXl2uWNinInFe": "<p class='Body-Foundation'><strong>주문시전 굴림 (15)</strong>을 굴립니다. 휴식당 한 번, 성공 시 매우 가까운 거리에서 당신 주위에 임시 보호 에너지의 장벽을 만듭니다. 이 주문을 시전할 때 장벽 안에 있는 당신과 모든 동료는 HP <strong>1d4</strong>를 회복합니다. 장벽이 활성화된 동안, 장벽 안의 당신과 모든 동료는 장벽 밖에서 오는 물리 피해에 저항을 갖습니다.</p><p class='Body-Foundation'>당신이 이동할 때, 장벽은 당신을 따라갑니다.</p><p>@Template[type:emanation|range:vc]</p>"
             }
         },
         "Restoration": {
@@ -938,31 +938,31 @@
         },
         "Resurrection": {
             "name": "부활",
-            "description": "<p><p class='Body-Foundation'><strong>주문 굴림</strong><strong> (20)</strong>을 굴립니다. 성공 시 100년 이내에 죽은 한 존재를 완전한 상태로 되살립니다. 그런 다음 <strong>d6</strong>을 굴립니다. 결과가 5 이하면, 이 카드를 영구히 보관소에 놓습니다.</p><p class='Body-Foundation'>실패 시 일주일 동안 부활을 다시 사용할 수 없습니다.</p></p>",
+            "description": "<p><p class='Body-Foundation'><strong>주문시전 굴림</strong><strong> (20)</strong>을 굴립니다. 성공 시 100년 이내에 죽은 한 존재를 완전한 상태로 되살립니다. 그런 다음 <strong>d6</strong>을 굴립니다. 결과가 5 이하면, 이 카드를 영구히 보관소에 놓습니다.</p><p class='Body-Foundation'>실패 시 일주일 동안 부활을 다시 사용할 수 없습니다.</p></p>",
             "actions": {
-                "znSDInMjOlFZn7Vp": "<p><p class='Body-Foundation'><strong>주문 굴림</strong><strong> (20)</strong>을 굴립니다. 성공 시 100년 이내에 죽은 한 존재를 완전한 상태로 되살립니다. 그런 다음 <strong>d6</strong>을 굴립니다. 결과가 5 이하면, 이 카드를 영구히 보관소에 놓습니다.</p><p class='Body-Foundation'>실패 시 일주일 동안 부활을 다시 사용할 수 없습니다.</p></p>",
-                "NurXUfoPDSVptejR": "<p><p class='Body-Foundation'><strong>주문 굴림</strong><strong> (20)</strong>을 굴립니다. 성공 시 100년 이내에 죽은 한 존재를 완전한 상태로 되살립니다. 그런 다음 <strong>d6</strong>을 굴립니다. 결과가 5 이하면, 이 카드를 영구히 보관소에 놓습니다.</p><p class='Body-Foundation'>실패 시 일주일 동안 부활을 다시 사용할 수 없습니다.</p></p>"
+                "znSDInMjOlFZn7Vp": "<p><p class='Body-Foundation'><strong>주문시전 굴림</strong><strong> (20)</strong>을 굴립니다. 성공 시 100년 이내에 죽은 한 존재를 완전한 상태로 되살립니다. 그런 다음 <strong>d6</strong>을 굴립니다. 결과가 5 이하면, 이 카드를 영구히 보관소에 놓습니다.</p><p class='Body-Foundation'>실패 시 일주일 동안 부활을 다시 사용할 수 없습니다.</p></p>",
+                "NurXUfoPDSVptejR": "<p><p class='Body-Foundation'><strong>주문시전 굴림</strong><strong> (20)</strong>을 굴립니다. 성공 시 100년 이내에 죽은 한 존재를 완전한 상태로 되살립니다. 그런 다음 <strong>d6</strong>을 굴립니다. 결과가 5 이하면, 이 카드를 영구히 보관소에 놓습니다.</p><p class='Body-Foundation'>실패 시 일주일 동안 부활을 다시 사용할 수 없습니다.</p></p>"
             }
         },
         "Rift Walker": {
             "name": "균열 보행자",
-            "description": "<p class='Body-Foundation-No-BOLDITALIC'><strong>주문 굴림 (15)</strong>을 굴립니다. 성공 시, 현재 서 있는 땅에 마법적인 표식을 남깁니다. 다음에 균열 보행자를 성공적으로 사용할 때, 공간의 균열이 열려 표식이 남겨진 바로 그 위치로 안전하게 돌아갈 수 있습니다. 이 균열은 당신이 닫기로 정하거나 다른 주문을 사용할 때까지 열린 상태로 유지됩니다.</p><p class='Body-Foundation-No-BOLDITALIC'>언제든 주문을 취소하여 균열 보행자를 다시 사용하고 새로운 장소에 표식을 남길 수 있습니다.</p>",
+            "description": "<p class='Body-Foundation-No-BOLDITALIC'><strong>주문시전 굴림 (15)</strong>을 굴립니다. 성공 시, 현재 서 있는 땅에 마법적인 표식을 남깁니다. 다음에 균열 보행자를 성공적으로 사용할 때, 공간의 균열이 열려 표식이 남겨진 바로 그 위치로 안전하게 돌아갈 수 있습니다. 이 균열은 당신이 닫기로 정하거나 다른 주문을 사용할 때까지 열린 상태로 유지됩니다.</p><p class='Body-Foundation-No-BOLDITALIC'>언제든 주문을 취소하여 균열 보행자를 다시 사용하고 새로운 장소에 표식을 남길 수 있습니다.</p>",
             "actions": {
-                "KV6Vt4prS15q2UV9": "<p class='Body-Foundation-No-BOLDITALIC'><strong>주문 굴림 (15)</strong>을 굴립니다. 성공 시, 현재 서 있는 땅에 마법적인 표식을 남깁니다. 다음에 균열 보행자를 성공적으로 사용할 때, 공간의 균열이 열려 표식이 남겨진 바로 그 위치로 안전하게 돌아갈 수 있습니다. 이 균열은 당신이 닫기로 정하거나 다른 주문을 사용할 때까지 열린 상태로 유지됩니다.</p><p class='Body-Foundation-No-BOLDITALIC'>언제든 주문을 취소하여 균열 보행자를 다시 사용하고 새로운 장소에 표식을 남길 수 있습니다.</p>"
+                "KV6Vt4prS15q2UV9": "<p class='Body-Foundation-No-BOLDITALIC'><strong>주문시전 굴림 (15)</strong>을 굴립니다. 성공 시, 현재 서 있는 땅에 마법적인 표식을 남깁니다. 다음에 균열 보행자를 성공적으로 사용할 때, 공간의 균열이 열려 표식이 남겨진 바로 그 위치로 안전하게 돌아갈 수 있습니다. 이 균열은 당신이 닫기로 정하거나 다른 주문을 사용할 때까지 열린 상태로 유지됩니다.</p><p class='Body-Foundation-No-BOLDITALIC'>언제든 주문을 취소하여 균열 보행자를 다시 사용하고 새로운 장소에 표식을 남길 수 있습니다.</p>"
             }
         },
         "Rise Up": {
             "name": "분기",
-            "description": "<p class='Body-Foundation'>심각 피해 한계치에 당신의 숙련도와 같은 보너스를 얻습니다.</p><p class='Body-Foundation'>당신이 공격으로 HP 1 이상을 표시할 때, 스트레스를 비웁니다.</p>",
+            "description": "<p class='Body-Foundation'>심각한 피해 임계치에 당신의 숙련도와 같은 보너스를 얻습니다.</p><p class='Body-Foundation'>당신이 공격으로 HP 1 이상을 표시할 때, 스트레스를 비웁니다.</p>",
             "actions": {
-                "DAsnjDomrlupo1aw": "<p class='Body-Foundation'>심각 피해 한계치에 당신의 숙련도와 같은 보너스를 얻습니다.</p><p class='Body-Foundation'>당신이 공격으로 HP 1 이상을 표시할 때, 스트레스를 비웁니다.</p>"
+                "DAsnjDomrlupo1aw": "<p class='Body-Foundation'>심각한 피해 임계치에 당신의 숙련도와 같은 보너스를 얻습니다.</p><p class='Body-Foundation'>당신이 공격으로 HP 1 이상을 표시할 때, 스트레스를 비웁니다.</p>"
             }
         },
         "Rousing Strike": {
             "name": "각성의 일격",
-            "description": "<p class='Body-Foundation'>휴식당 한 번, 당신이 결정타로 공격을 가했을 때, 당신과 당신을 볼 수 있거나 들을 수 있는 모든 동료는 HP를 회복하거나 스트레스 <strong>1d4</strong>를 회복할 수 있습니다.</p>",
+            "description": "<p class='Body-Foundation'>휴식당 한 번, 당신이 치명적 성공로 공격을 가했을 때, 당신과 당신을 볼 수 있거나 들을 수 있는 모든 동료는 HP를 회복하거나 스트레스 <strong>1d4</strong>를 회복할 수 있습니다.</p>",
             "actions": {
-                "rnt24R8xyeyBrJS0": "<p class='Body-Foundation'>휴식당 한 번, 당신이 결정타로 공격을 가했을 때, 당신과 당신을 볼 수 있거나 들을 수 있는 모든 동료는 HP를 회복하거나 스트레스 <strong>1d4</strong>를 회복할 수 있습니다.</p>"
+                "rnt24R8xyeyBrJS0": "<p class='Body-Foundation'>휴식당 한 번, 당신이 치명적 성공로 공격을 가했을 때, 당신과 당신을 볼 수 있거나 들을 수 있는 모든 동료는 HP를 회복하거나 스트레스 <strong>1d4</strong>를 회복할 수 있습니다.</p>"
             }
         },
         "Rune Ward": {
@@ -981,17 +981,17 @@
         },
         "Sage-Touched": {
             "name": "현자의 가호",
-            "description": "<p class='Body-Foundation'>당신의 장비에 있는 영역 카드 4장 이상이 현자 영역에 속한다면, 다음 이점을 얻습니다:</p><ul><li class='vertical-card-list'><p>자연 환경에 있는 동안, 주문 굴림에 +2 보너스를 얻습니다.</p></li><li class='vertical-card-list'><p>휴식당 한 번, 민첩 또는 본능을 사용한 굴림을 굴릴 때 그 능력치를 두 배로 할 수 있습니다. 굴리기 전에 선택해야 합니다.</p><p></p></li></ul>",
+            "description": "<p class='Body-Foundation'>당신의 장비에 있는 권역 카드 4장 이상이 현자 영역에 속한다면, 다음 이점을 얻습니다:</p><ul><li class='vertical-card-list'><p>자연 환경에 있는 동안, 주문시전 굴림에 +2 보너스를 얻습니다.</p></li><li class='vertical-card-list'><p>휴식당 한 번, 민첩 또는 직감을 사용한 굴림을 굴릴 때 그 능력치를 두 배로 할 수 있습니다. 굴리기 전에 선택해야 합니다.</p><p></p></li></ul>",
             "actions": {
-                "JVrYhunJ2qr5uOcx": "<p class='Body-Foundation'>당신의 장비에 있는 영역 카드 4장 이상이 현자 영역에 속한다면, 다음 이점을 얻습니다:</p><ul><li class='vertical-card-list'><p>자연 환경에 있는 동안, 주문 굴림에 +2 보너스를 얻습니다.</p></li><li class='vertical-card-list'><p>휴식당 한 번, 민첩 또는 본능을 사용한 굴림을 굴릴 때 그 능력치를 두 배로 할 수 있습니다. 굴리기 전에 선택해야 합니다.</p><p></p></li></ul>",
-                "zdu8GkVWby3nz8Pa": "<p class='Body-Foundation'>당신의 장비에 있는 영역 카드 4장 이상이 현자 영역에 속한다면, 다음 이점을 얻습니다:</p><ul><li class='vertical-card-list'><p>자연 환경에 있는 동안, 주문 굴림에 +2 보너스를 얻습니다.</p></li><li class='vertical-card-list'><p>휴식당 한 번, 민첩 또는 본능을 사용한 굴림을 굴릴 때 그 능력치를 두 배로 할 수 있습니다. 굴리기 전에 선택해야 합니다.</p><p></p></li></ul>"
+                "JVrYhunJ2qr5uOcx": "<p class='Body-Foundation'>당신의 장비에 있는 권역 카드 4장 이상이 현자 영역에 속한다면, 다음 이점을 얻습니다:</p><ul><li class='vertical-card-list'><p>자연 환경에 있는 동안, 주문시전 굴림에 +2 보너스를 얻습니다.</p></li><li class='vertical-card-list'><p>휴식당 한 번, 민첩 또는 직감을 사용한 굴림을 굴릴 때 그 능력치를 두 배로 할 수 있습니다. 굴리기 전에 선택해야 합니다.</p><p></p></li></ul>",
+                "zdu8GkVWby3nz8Pa": "<p class='Body-Foundation'>당신의 장비에 있는 권역 카드 4장 이상이 현자 영역에 속한다면, 다음 이점을 얻습니다:</p><ul><li class='vertical-card-list'><p>자연 환경에 있는 동안, 주문시전 굴림에 +2 보너스를 얻습니다.</p></li><li class='vertical-card-list'><p>휴식당 한 번, 민첩 또는 직감을 사용한 굴림을 굴릴 때 그 능력치를 두 배로 할 수 있습니다. 굴리기 전에 선택해야 합니다.</p><p></p></li></ul>"
             }
         },
         "Salvation Beam": {
             "name": "구원의 광선",
-            "description": "<p class='Body-Foundation'><strong>주문 굴림 (16)</strong>을 굴립니다. 성공 시 <strong>스트레스를 원하는 만큼 표시</strong>하여 먼 거리 내의 동료들의 한 줄을 선택합니다. 표시한 스트레스 수만큼의 HP를 대상들의 HP에서 비울 수 있으며, 원하는 대로 분배할 수 있습니다.</p>",
+            "description": "<p class='Body-Foundation'><strong>주문시전 굴림 (16)</strong>을 굴립니다. 성공 시 <strong>스트레스를 원하는 만큼 표시</strong>하여 먼 거리 내의 동료들의 한 줄을 선택합니다. 표시한 스트레스 수만큼의 HP를 대상들의 HP에서 비울 수 있으며, 원하는 대로 분배할 수 있습니다.</p>",
             "actions": {
-                "dmnB4ZMSk8lsB8Lg": "<p class='Body-Foundation'><strong>주문 굴림 (16)</strong>을 굴립니다. 성공 시 <strong>스트레스를 원하는 만큼 표시</strong>하여 먼 거리 내의 동료들의 한 줄을 선택합니다. 표시한 스트레스 수만큼의 HP를 대상들의 HP에서 비울 수 있으며, 원하는 대로 분배할 수 있습니다.</p>"
+                "dmnB4ZMSk8lsB8Lg": "<p class='Body-Foundation'><strong>주문시전 굴림 (16)</strong>을 굴립니다. 성공 시 <strong>스트레스를 원하는 만큼 표시</strong>하여 먼 거리 내의 동료들의 한 줄을 선택합니다. 표시한 스트레스 수만큼의 HP를 대상들의 HP에서 비울 수 있으며, 원하는 대로 분배할 수 있습니다.</p>"
             }
         },
         "Scramble": {
@@ -1011,21 +1011,21 @@
         },
         "Sensory Projection": {
             "name": "감각 투영",
-            "description": "<p><p class='Body-Foundation'>휴식당 한 번, <strong>주문 굴림</strong><strong> (15)</strong>을 굴립니다. 성공 시 당신이 환상에 빠져, 마치 그 자리에 서 있는 것처럼 이전에 가본 적 있는 어떤 장소든 명확하게 보고 들을 수 있게 됩니다. 이 환상 속에서 자유롭게 이동할 수 있으며, 물리적 신체의 물리 법칙이나 장애물에 제한받지 않습니다. 이 주문은 일반적이거나 마법적인 수단으로 감지될 수 없습니다. 피해를 입거나 다른 주문을 시전하면 이 환상에서 빠져나옵니다.</p></p>",
+            "description": "<p><p class='Body-Foundation'>휴식당 한 번, <strong>주문시전 굴림</strong><strong> (15)</strong>을 굴립니다. 성공 시 당신이 환상에 빠져, 마치 그 자리에 서 있는 것처럼 이전에 가본 적 있는 어떤 장소든 명확하게 보고 들을 수 있게 됩니다. 이 환상 속에서 자유롭게 이동할 수 있으며, 물리적 신체의 물리 법칙이나 장애물에 제한받지 않습니다. 이 주문은 일반적이거나 마법적인 수단으로 감지될 수 없습니다. 피해를 입거나 다른 주문을 시전하면 이 환상에서 빠져나옵니다.</p></p>",
             "actions": {
-                "DAM8Q4vezuUsz8xG": "<p><p class='Body-Foundation'>휴식당 한 번, <strong>주문 굴림</strong><strong> (15)</strong>을 굴립니다. 성공 시 당신이 환상에 빠져, 마치 그 자리에 서 있는 것처럼 이전에 가본 적 있는 어떤 장소든 명확하게 보고 들을 수 있게 됩니다. 이 환상 속에서 자유롭게 이동할 수 있으며, 물리적 신체의 물리 법칙이나 장애물에 제한받지 않습니다. 이 주문은 일반적이거나 마법적인 수단으로 감지될 수 없습니다. 피해를 입거나 다른 주문을 시전하면 이 환상에서 빠져나옵니다.</p></p>"
+                "DAM8Q4vezuUsz8xG": "<p><p class='Body-Foundation'>휴식당 한 번, <strong>주문시전 굴림</strong><strong> (15)</strong>을 굴립니다. 성공 시 당신이 환상에 빠져, 마치 그 자리에 서 있는 것처럼 이전에 가본 적 있는 어떤 장소든 명확하게 보고 들을 수 있게 됩니다. 이 환상 속에서 자유롭게 이동할 수 있으며, 물리적 신체의 물리 법칙이나 장애물에 제한받지 않습니다. 이 주문은 일반적이거나 마법적인 수단으로 감지될 수 없습니다. 피해를 입거나 다른 주문을 시전하면 이 환상에서 빠져나옵니다.</p></p>"
             }
         },
         "Shadowbind": {
             "name": "그림자 결박",
-            "description": "<p class='Body-Foundation'>매우 가까운 거리 내의 모든 적대자에게 <strong>주문 굴림</strong>을 굴립니다. 당신이 성공한 대상은 그림자가 그들을 자리에 묶기에 일시적으로 속박됩니다.</p><p>@Template[type:emanation|range:vc]</p>",
+            "description": "<p class='Body-Foundation'>매우 가까운 거리 내의 모든 적대자에게 <strong>주문시전 굴림</strong>을 굴립니다. 당신이 성공한 대상은 그림자가 그들을 자리에 묶기에 일시적으로 속박됩니다.</p><p>@Template[type:emanation|range:vc]</p>",
             "actions": {
-                "Llr9uIDUCrfsiZNn": "<p class='Body-Foundation'>매우 가까운 거리 내의 모든 적대자에게 <strong>주문 굴림</strong>을 굴립니다. 당신이 성공한 대상은 그림자가 그들을 자리에 묶기에 일시적으로 속박됩니다.</p><p>@Template[type:emanation|range:vc]</p>"
+                "Llr9uIDUCrfsiZNn": "<p class='Body-Foundation'>매우 가까운 거리 내의 모든 적대자에게 <strong>주문시전 굴림</strong>을 굴립니다. 당신이 성공한 대상은 그림자가 그들을 자리에 묶기에 일시적으로 속박됩니다.</p><p>@Template[type:emanation|range:vc]</p>"
             }
         },
         "Shadowhunter": {
             "name": "그림자 사냥꾼",
-            "description": "<p class='Body'>당신의 숙달은 그림자의 장막 아래에서 강화됩니다. 어스름이나 어둠에 휩싸여 있는 동안, 회피에 +1 보너스를 얻고 공격 굴림을 유리로 굴립니다.</p>"
+            "description": "<p class='Body'>당신의 숙달은 그림자의 장막 아래에서 강화됩니다. 어스름이나 어둠에 휩싸여 있는 동안, 회피에 +1 보너스를 얻고 명중 굴림을 이점로 굴립니다.</p>"
         },
         "Shape Material": {
             "name": "재료 변형",
@@ -1043,9 +1043,9 @@
         },
         "Shield Aura": {
             "name": "방패의 오라",
-            "description": "<p><p class='Body-Foundation'><strong>스트레스를 표시</strong>하여 매우 가까운 거리 내의 대상에게 보호의 오라를 덮습니다. 대상이 방어구 슬롯을 표시할 때, 공격의 심각도를 추가 한계치만큼 줄입니다. 이 주문으로 인해 피해를 입었어야 할 존재가 대신 HP를 표시하지 않게 되면, 효과가 종료됩니다.  </p><p class='Body-Foundation'>한 번에 한 존재에게만 방패의 오라를 유지할 수 있습니다.</p></p>",
+            "description": "<p><p class='Body-Foundation'><strong>스트레스를 표시</strong>하여 매우 가까운 거리 내의 대상에게 보호의 오라를 덮습니다. 대상이 방어 슬롯을 표시할 때, 공격의 심각도를 추가 한계치만큼 줄입니다. 이 주문으로 인해 피해를 입었어야 할 존재가 대신 HP를 표시하지 않게 되면, 효과가 종료됩니다.  </p><p class='Body-Foundation'>한 번에 한 존재에게만 방패의 오라를 유지할 수 있습니다.</p></p>",
             "actions": {
-                "vox5fIIFsOnraXgK": "<p><p class='Body-Foundation'><strong>스트레스를 표시</strong>하여 매우 가까운 거리 내의 대상에게 보호의 오라를 덮습니다. 대상이 방어구 슬롯을 표시할 때, 공격의 심각도를 추가 한계치만큼 줄입니다. 이 주문으로 인해 피해를 입었어야 할 존재가 대신 HP를 표시하지 않게 되면, 효과가 종료됩니다.  </p><p class='Body-Foundation'>한 번에 한 존재에게만 방패의 오라를 유지할 수 있습니다.</p></p>"
+                "vox5fIIFsOnraXgK": "<p><p class='Body-Foundation'><strong>스트레스를 표시</strong>하여 매우 가까운 거리 내의 대상에게 보호의 오라를 덮습니다. 대상이 방어 슬롯을 표시할 때, 공격의 심각도를 추가 한계치만큼 줄입니다. 이 주문으로 인해 피해를 입었어야 할 존재가 대신 HP를 표시하지 않게 되면, 효과가 종료됩니다.  </p><p class='Body-Foundation'>한 번에 한 존재에게만 방패의 오라를 유지할 수 있습니다.</p></p>"
             }
         },
         "Shrug It Off": {
@@ -1097,7 +1097,7 @@
         },
         "Splendor-Touched": {
             "name": "광휘의 가호",
-            "description": "<p><p class='Body-Foundation-No-BOLDITALIC'>당신의 장비에 있는 영역 카드 4장 이상이 광휘 영역에 속한다면, 다음 이점을 얻습니다:</p><ul class=''><li class='vertical-card-list'>심각 피해 한계치에 +3</li><li class='vertical-card-list'>긴 휴식당 한 번, 들어오는 피해로 당신이 일정량의 HP를 표시해야 할 때, 대신 그만큼의 스트레스를 표시하거나 그만큼의 희망을 소모할 수 있습니다.</li></ul></p>"
+            "description": "<p><p class='Body-Foundation-No-BOLDITALIC'>당신의 장비에 있는 권역 카드 4장 이상이 광휘 영역에 속한다면, 다음 이점을 얻습니다:</p><ul class=''><li class='vertical-card-list'>심각한 피해 임계치에 +3</li><li class='vertical-card-list'>긴 휴식당 한 번, 들어오는 피해로 당신이 일정량의 HP를 표시해야 할 때, 대신 그만큼의 스트레스를 표시하거나 그만큼의 희망을 소모할 수 있습니다.</li></ul></p>"
         },
         "Splintering Strike": {
             "name": "쪼개는 일격",
@@ -1115,17 +1115,17 @@
         },
         "Strategic Approach": {
             "name": "전략적 접근",
-            "description": "<p class='Body-Foundation'>긴 휴식 후, 이 카드에 당신의 지식(최소 1)과 같은 수의 토큰을 놓습니다. 적대자와 가까운 거리로 이동하여 그를 공격하는 첫 번째 순간, 토큰 1을 소모하여 다음 옵션 중 하나를 선택할 수 있습니다:</p><ul><li class='vertical-card-list-found'><p>공격을 유리로 굴립니다.</p></li><li class='vertical-card-list-found'><p>적대자로부터 근접 거리 내의 동료에게서 스트레스를 비웁니다.</p></li><li class='vertical-card-list-found'><p>피해 굴림에 <strong>d8</strong>을 더합니다.</p></li></ul><p class='Body-Foundation'>긴 휴식을 취할 때, 사용하지 않은 모든 토큰을 제거합니다.</p>",
+            "description": "<p class='Body-Foundation'>긴 휴식 후, 이 카드에 당신의 지식(최소 1)과 같은 수의 토큰을 놓습니다. 적대자와 가까운 거리로 이동하여 그를 공격하는 첫 번째 순간, 토큰 1을 소모하여 다음 옵션 중 하나를 선택할 수 있습니다:</p><ul><li class='vertical-card-list-found'><p>공격을 이점로 굴립니다.</p></li><li class='vertical-card-list-found'><p>적대자로부터 근접 거리 내의 동료에게서 스트레스를 비웁니다.</p></li><li class='vertical-card-list-found'><p>피해 굴림에 <strong>d8</strong>을 더합니다.</p></li></ul><p class='Body-Foundation'>긴 휴식을 취할 때, 사용하지 않은 모든 토큰을 제거합니다.</p>",
             "actions": {
-                "jTC0GbsBpGmaQLi7": "<p class='Body-Foundation'>긴 휴식 후, 이 카드에 당신의 지식(최소 1)과 같은 수의 토큰을 놓습니다. 적대자와 가까운 거리로 이동하여 그를 공격하는 첫 번째 순간, 토큰 1을 소모하여 다음 옵션 중 하나를 선택할 수 있습니다:</p><ul><li class='vertical-card-list-found'><p>공격을 유리로 굴립니다.</p></li><li class='vertical-card-list-found'><p>적대자로부터 근접 거리 내의 동료에게서 스트레스를 비웁니다.</p></li><li class='vertical-card-list-found'><p>피해 굴림에 <strong>d8</strong>을 더합니다.</p></li></ul><p class='Body-Foundation'>긴 휴식을 취할 때, 사용하지 않은 모든 토큰을 제거합니다.</p>"
+                "jTC0GbsBpGmaQLi7": "<p class='Body-Foundation'>긴 휴식 후, 이 카드에 당신의 지식(최소 1)과 같은 수의 토큰을 놓습니다. 적대자와 가까운 거리로 이동하여 그를 공격하는 첫 번째 순간, 토큰 1을 소모하여 다음 옵션 중 하나를 선택할 수 있습니다:</p><ul><li class='vertical-card-list-found'><p>공격을 이점로 굴립니다.</p></li><li class='vertical-card-list-found'><p>적대자로부터 근접 거리 내의 동료에게서 스트레스를 비웁니다.</p></li><li class='vertical-card-list-found'><p>피해 굴림에 <strong>d8</strong>을 더합니다.</p></li></ul><p class='Body-Foundation'>긴 휴식을 취할 때, 사용하지 않은 모든 토큰을 제거합니다.</p>"
             }
         },
         "Stunning Sunlight": {
             "name": "눈부신 햇살",
-            "description": "<p class='Body-Foundation'><strong>주문 굴림</strong>을 굴려 당신 앞 먼 거리 내의 모든 적대자에게 강력한 햇살의 광선을 쏟아붓습니다. 성공 시 <strong>희망을 원하는 만큼 소모</strong>하고, 당신이 성공한 그 수만큼의 대상이 반응 굴림 (14)을 굴리게 합니다.</p><p class='Body-Foundation'>성공한 대상은 마법 피해 <strong>3d20+3</strong>을 입습니다. 실패한 대상은 마법 피해 <strong>4d20+5</strong>를 입고 일시적으로 기절합니다. 기절한 동안 그들은 반응을 사용할 수 없고, 이 상태를 제거하기 전까지 다른 어떤 행동도 할 수 없습니다.</p>",
+            "description": "<p class='Body-Foundation'><strong>주문시전 굴림</strong>을 굴려 당신 앞 먼 거리 내의 모든 적대자에게 강력한 햇살의 광선을 쏟아붓습니다. 성공 시 <strong>희망을 원하는 만큼 소모</strong>하고, 당신이 성공한 그 수만큼의 대상이 대응 굴림 (14)을 굴리게 합니다.</p><p class='Body-Foundation'>성공한 대상은 마법 피해 <strong>3d20+3</strong>을 입습니다. 실패한 대상은 마법 피해 <strong>4d20+5</strong>를 입고 일시적으로 기절합니다. 기절한 동안 그들은 반응을 사용할 수 없고, 이 상태를 제거하기 전까지 다른 어떤 행동도 할 수 없습니다.</p>",
             "actions": {
-                "eiUQZbHvPkEV03c1": "<p class='Body-Foundation'><strong>주문 굴림</strong>을 굴려 당신 앞 먼 거리 내의 모든 적대자에게 강력한 햇살의 광선을 쏟아붓습니다. 성공 시 <strong>희망을 원하는 만큼 소모</strong>하고, 당신이 성공한 그 수만큼의 대상이 반응 굴림 (14)을 굴리게 합니다.</p><p class='Body-Foundation'>성공한 대상은 마법 피해 <strong>3d20+3</strong>을 입습니다. 실패한 대상은 마법 피해 <strong>4d20+5</strong>를 입고 일시적으로 기절합니다. 기절한 동안 그들은 반응을 사용할 수 없고, 이 상태를 제거하기 전까지 다른 어떤 행동도 할 수 없습니다.</p>",
-                "AI8sGbUXLw4gG8mW": "<p class='Body-Foundation'><strong>주문 굴림</strong>을 굴려 당신 앞 먼 거리 내의 모든 적대자에게 강력한 햇살의 광선을 쏟아붓습니다. 성공 시 <strong>희망을 원하는 만큼 소모</strong>하고, 당신이 성공한 그 수만큼의 대상이 반응 굴림 (14)을 굴리게 합니다.</p><p class='Body-Foundation'>성공한 대상은 마법 피해 <strong>3d20+3</strong>을 입습니다. 실패한 대상은 마법 피해 <strong>4d20+5</strong>를 입고 일시적으로 기절합니다. 기절한 동안 그들은 반응을 사용할 수 없고, 이 상태를 제거하기 전까지 다른 어떤 행동도 할 수 없습니다.</p>"
+                "eiUQZbHvPkEV03c1": "<p class='Body-Foundation'><strong>주문시전 굴림</strong>을 굴려 당신 앞 먼 거리 내의 모든 적대자에게 강력한 햇살의 광선을 쏟아붓습니다. 성공 시 <strong>희망을 원하는 만큼 소모</strong>하고, 당신이 성공한 그 수만큼의 대상이 대응 굴림 (14)을 굴리게 합니다.</p><p class='Body-Foundation'>성공한 대상은 마법 피해 <strong>3d20+3</strong>을 입습니다. 실패한 대상은 마법 피해 <strong>4d20+5</strong>를 입고 일시적으로 기절합니다. 기절한 동안 그들은 반응을 사용할 수 없고, 이 상태를 제거하기 전까지 다른 어떤 행동도 할 수 없습니다.</p>",
+                "AI8sGbUXLw4gG8mW": "<p class='Body-Foundation'><strong>주문시전 굴림</strong>을 굴려 당신 앞 먼 거리 내의 모든 적대자에게 강력한 햇살의 광선을 쏟아붓습니다. 성공 시 <strong>희망을 원하는 만큼 소모</strong>하고, 당신이 성공한 그 수만큼의 대상이 대응 굴림 (14)을 굴리게 합니다.</p><p class='Body-Foundation'>성공한 대상은 마법 피해 <strong>3d20+3</strong>을 입습니다. 실패한 대상은 마법 피해 <strong>4d20+5</strong>를 입고 일시적으로 기절합니다. 기절한 동안 그들은 반응을 사용할 수 없고, 이 상태를 제거하기 전까지 다른 어떤 행동도 할 수 없습니다.</p>"
             }
         },
         "Support Tank": {
@@ -1145,37 +1145,37 @@
         },
         "Tactician": {
             "name": "전술가",
-            "description": "<p><p class='Body-Foundation'>당신이 동료를 도울 때, 그는 희망을 소모하여 당신의 유리 주사위와 함께 당신의 경험 중 하나를 자신의 굴림에 더할 수 있습니다. </p><p class='Body-Foundation'>협력 굴림을 수행할 때, 희망 주사위로 <strong>d20</strong>을 굴릴 수 있습니다.</p></p>"
+            "description": "<p><p class='Body-Foundation'>당신이 동료를 도울 때, 그는 희망을 소모하여 당신의 이점 주사위와 함께 당신의 경험 중 하나를 자신의 굴림에 더할 수 있습니다. </p><p class='Body-Foundation'>협력 굴림을 수행할 때, 희망 주사위로 <strong>d20</strong>을 굴릴 수 있습니다.</p></p>"
         },
         "Telekinesis": {
             "name": "염동력",
-            "description": "<p class='Body-Foundation'>먼 거리 내의 대상에게 <strong>주문 굴림</strong>을 굴립니다. 성공 시, 자신의 정신을 사용해 원래 위치로부터 먼 거리 내의 어디든 옮길 수 있습니다. 들어 올린 대상을 공격으로 던질 수 있으며, 공격하려는 두 번째 대상에게 추가 주문 굴림을 굴립니다. 성공 시 자신의 숙련도를 사용해 두 번째 대상에게 물리 피해 <strong>d12+4</strong>를 입힙니다. 그런 다음 이 주문은 종료됩니다.</p>",
+            "description": "<p class='Body-Foundation'>먼 거리 내의 대상에게 <strong>주문시전 굴림</strong>을 굴립니다. 성공 시, 자신의 정신을 사용해 원래 위치로부터 먼 거리 내의 어디든 옮길 수 있습니다. 들어 올린 대상을 공격으로 던질 수 있으며, 공격하려는 두 번째 대상에게 추가 주문시전 굴림을 굴립니다. 성공 시 자신의 숙련도를 사용해 두 번째 대상에게 물리 피해 <strong>d12+4</strong>를 입힙니다. 그런 다음 이 주문은 종료됩니다.</p>",
             "actions": {
-                "IPtULQVFaBoeWDfz": "<p class='Body-Foundation'>먼 거리 내의 대상에게 <strong>주문 굴림</strong>을 굴립니다. 성공 시, 자신의 정신을 사용해 원래 위치로부터 먼 거리 내의 어디든 옮길 수 있습니다. 들어 올린 대상을 공격으로 던질 수 있으며, 공격하려는 두 번째 대상에게 추가 주문 굴림을 굴립니다. 성공 시 자신의 숙련도를 사용해 두 번째 대상에게 물리 피해 <strong>d12+4</strong>를 입힙니다. 그런 다음 이 주문은 종료됩니다.</p>",
-                "rgDZzUg8ivTTctsM": "<p class='Body-Foundation'>먼 거리 내의 대상에게 <strong>주문 굴림</strong>을 굴립니다. 성공 시, 자신의 정신을 사용해 원래 위치로부터 먼 거리 내의 어디든 옮길 수 있습니다. 들어 올린 대상을 공격으로 던질 수 있으며, 공격하려는 두 번째 대상에게 추가 주문 굴림을 굴립니다. 성공 시 자신의 숙련도를 사용해 두 번째 대상에게 물리 피해 <strong>d12+4</strong>를 입힙니다. 그런 다음 이 주문은 종료됩니다.</p>"
+                "IPtULQVFaBoeWDfz": "<p class='Body-Foundation'>먼 거리 내의 대상에게 <strong>주문시전 굴림</strong>을 굴립니다. 성공 시, 자신의 정신을 사용해 원래 위치로부터 먼 거리 내의 어디든 옮길 수 있습니다. 들어 올린 대상을 공격으로 던질 수 있으며, 공격하려는 두 번째 대상에게 추가 주문시전 굴림을 굴립니다. 성공 시 자신의 숙련도를 사용해 두 번째 대상에게 물리 피해 <strong>d12+4</strong>를 입힙니다. 그런 다음 이 주문은 종료됩니다.</p>",
+                "rgDZzUg8ivTTctsM": "<p class='Body-Foundation'>먼 거리 내의 대상에게 <strong>주문시전 굴림</strong>을 굴립니다. 성공 시, 자신의 정신을 사용해 원래 위치로부터 먼 거리 내의 어디든 옮길 수 있습니다. 들어 올린 대상을 공격으로 던질 수 있으며, 공격하려는 두 번째 대상에게 추가 주문시전 굴림을 굴립니다. 성공 시 자신의 숙련도를 사용해 두 번째 대상에게 물리 피해 <strong>d12+4</strong>를 입힙니다. 그런 다음 이 주문은 종료됩니다.</p>"
             }
         },
         "Teleport": {
             "name": "순간이동",
-            "description": "<p class='Body-Foundation'>긴 휴식당 한 번, 가까운 거리 내의 원하는 만큼의 동의하는 대상과 자신을 이전에 가본 적 있는 장소로 즉시 순간이동시킬 수 있습니다. 다음 중 하나를 선택한 후, <strong>주문 굴림 (16)</strong>을 굴립니다:</p><ul><li class='vertical-card-list'>그 장소를 매우 잘 알고 있다면, +3 보너스를 얻습니다.</li><li class='vertical-card-list'>그 장소를 자주 방문했다면, +1 보너스를 얻습니다.</li><li class='vertical-card-list'>그 장소를 가끔 방문했다면, 수정치 없음.</li><li class='vertical-card-list'>그곳에 한 번만 가봤다면, −2 페널티를 받습니다.</li></ul><p class='Body-Foundation'>성공 시 의도한 곳에 나타납니다. 실패 시 경로에서 벗어난 곳에 나타나며, 실패의 정도가 얼마나 벗어났는지를 결정합니다.</p>",
+            "description": "<p class='Body-Foundation'>긴 휴식당 한 번, 가까운 거리 내의 원하는 만큼의 동의하는 대상과 자신을 이전에 가본 적 있는 장소로 즉시 순간이동시킬 수 있습니다. 다음 중 하나를 선택한 후, <strong>주문시전 굴림 (16)</strong>을 굴립니다:</p><ul><li class='vertical-card-list'>그 장소를 매우 잘 알고 있다면, +3 보너스를 얻습니다.</li><li class='vertical-card-list'>그 장소를 자주 방문했다면, +1 보너스를 얻습니다.</li><li class='vertical-card-list'>그 장소를 가끔 방문했다면, 수정치 없음.</li><li class='vertical-card-list'>그곳에 한 번만 가봤다면, −2 페널티를 받습니다.</li></ul><p class='Body-Foundation'>성공 시 의도한 곳에 나타납니다. 실패 시 경로에서 벗어난 곳에 나타나며, 실패의 정도가 얼마나 벗어났는지를 결정합니다.</p>",
             "actions": {
-                "Fc38nN8i4z2VYW2T": "<p class='Body-Foundation'>긴 휴식당 한 번, 가까운 거리 내의 원하는 만큼의 동의하는 대상과 자신을 이전에 가본 적 있는 장소로 즉시 순간이동시킬 수 있습니다. 다음 중 하나를 선택한 후, <strong>주문 굴림 (16)</strong>을 굴립니다:</p><ul><li class='vertical-card-list'>그 장소를 매우 잘 알고 있다면, +3 보너스를 얻습니다.</li><li class='vertical-card-list'>그 장소를 자주 방문했다면, +1 보너스를 얻습니다.</li><li class='vertical-card-list'>그 장소를 가끔 방문했다면, 수정치 없음.</li><li class='vertical-card-list'>그곳에 한 번만 가봤다면, −2 페널티를 받습니다.</li></ul><p class='Body-Foundation'>성공 시 의도한 곳에 나타납니다. 실패 시 경로에서 벗어난 곳에 나타나며, 실패의 정도가 얼마나 벗어났는지를 결정합니다.</p>"
+                "Fc38nN8i4z2VYW2T": "<p class='Body-Foundation'>긴 휴식당 한 번, 가까운 거리 내의 원하는 만큼의 동의하는 대상과 자신을 이전에 가본 적 있는 장소로 즉시 순간이동시킬 수 있습니다. 다음 중 하나를 선택한 후, <strong>주문시전 굴림 (16)</strong>을 굴립니다:</p><ul><li class='vertical-card-list'>그 장소를 매우 잘 알고 있다면, +3 보너스를 얻습니다.</li><li class='vertical-card-list'>그 장소를 자주 방문했다면, +1 보너스를 얻습니다.</li><li class='vertical-card-list'>그 장소를 가끔 방문했다면, 수정치 없음.</li><li class='vertical-card-list'>그곳에 한 번만 가봤다면, −2 페널티를 받습니다.</li></ul><p class='Body-Foundation'>성공 시 의도한 곳에 나타납니다. 실패 시 경로에서 벗어난 곳에 나타나며, 실패의 정도가 얼마나 벗어났는지를 결정합니다.</p>"
             }
         },
         "Tell No Lies": {
             "name": "거짓을 금하라",
-            "description": "<p><p class='Body-Foundation'>매우 가까운 거리 내의 대상에게 <strong>주문 굴림</strong>을 굴립니다. 성공 시 그들은 가까운 거리 내에 있는 동안 당신에게 거짓말을 할 수 없지만, 말하도록 강요되지는 않습니다. 당신이 그들에게 질문을 했을 때 그들이 답을 거부하면, 그들은 스트레스를 표시해야 하며 효과가 종료됩니다. 대상은 보통 이 주문이 자신에게 시전되었다는 것을 진실을 말하게 되기 전까지 모릅니다.</p></p>",
+            "description": "<p><p class='Body-Foundation'>매우 가까운 거리 내의 대상에게 <strong>주문시전 굴림</strong>을 굴립니다. 성공 시 그들은 가까운 거리 내에 있는 동안 당신에게 거짓말을 할 수 없지만, 말하도록 강요되지는 않습니다. 당신이 그들에게 질문을 했을 때 그들이 답을 거부하면, 그들은 스트레스를 표시해야 하며 효과가 종료됩니다. 대상은 보통 이 주문이 자신에게 시전되었다는 것을 진실을 말하게 되기 전까지 모릅니다.</p></p>",
             "actions": {
-                "Et9JXoAULa2EAZfa": "<p><p class='Body-Foundation'>매우 가까운 거리 내의 대상에게 <strong>주문 굴림</strong>을 굴립니다. 성공 시 그들은 가까운 거리 내에 있는 동안 당신에게 거짓말을 할 수 없지만, 말하도록 강요되지는 않습니다. 당신이 그들에게 질문을 했을 때 그들이 답을 거부하면, 그들은 스트레스를 표시해야 하며 효과가 종료됩니다. 대상은 보통 이 주문이 자신에게 시전되었다는 것을 진실을 말하게 되기 전까지 모릅니다.</p></p>"
+                "Et9JXoAULa2EAZfa": "<p><p class='Body-Foundation'>매우 가까운 거리 내의 대상에게 <strong>주문시전 굴림</strong>을 굴립니다. 성공 시 그들은 가까운 거리 내에 있는 동안 당신에게 거짓말을 할 수 없지만, 말하도록 강요되지는 않습니다. 당신이 그들에게 질문을 했을 때 그들이 답을 거부하면, 그들은 스트레스를 표시해야 하며 효과가 종료됩니다. 대상은 보통 이 주문이 자신에게 시전되었다는 것을 진실을 말하게 되기 전까지 모릅니다.</p></p>"
             }
         },
         "Tempest": {
             "name": "폭풍",
-            "description": "<p class='Body-Foundation-No-BOLDITALIC'>다음 폭풍 중 하나를 선택하고 먼 거리 내의 모든 대상에게 <strong>주문 굴림</strong>을 굴립니다. 당신이 성공한 대상은 GM이 자신의 차례에 공포를 소모하여 이 주문을 종료할 때까지 그 효과를 받습니다.</p><ul><li class='vertical-card-list'><p><strong>눈보라:</strong> 마법 피해 2d20+8을 입히고, 대상은 일시적으로 취약해집니다.</p></li><li class='vertical-card-list'><strong>허리케인:</strong> 마법 피해 3d10+10을 입히고, 바람이 부는 방향을 선택합니다. 대상은 바람에 맞서 이동할 수 없습니다.</li><li class='vertical-card-list'><p><strong>모래폭풍:</strong> 마법 피해 5d6+9를 입힙니다. 근접 거리 밖에서 가하는 공격은 불리로 굴립니다.</p><p></p></li></ul>",
+            "description": "<p class='Body-Foundation-No-BOLDITALIC'>다음 폭풍 중 하나를 선택하고 먼 거리 내의 모든 대상에게 <strong>주문시전 굴림</strong>을 굴립니다. 당신이 성공한 대상은 GM이 자신의 차례에 공포를 소모하여 이 주문을 종료할 때까지 그 효과를 받습니다.</p><ul><li class='vertical-card-list'><p><strong>눈보라:</strong> 마법 피해 2d20+8을 입히고, 대상은 일시적으로 취약해집니다.</p></li><li class='vertical-card-list'><strong>허리케인:</strong> 마법 피해 3d10+10을 입히고, 바람이 부는 방향을 선택합니다. 대상은 바람에 맞서 이동할 수 없습니다.</li><li class='vertical-card-list'><p><strong>모래폭풍:</strong> 마법 피해 5d6+9를 입힙니다. 근접 거리 밖에서 가하는 공격은 불리점로 굴립니다.</p><p></p></li></ul>",
             "actions": {
-                "ZqnziDBlh5Re7SKs": "<p class='Body-Foundation-No-BOLDITALIC'>다음 폭풍 중 하나를 선택하고 먼 거리 내의 모든 대상에게 <strong>주문 굴림</strong>을 굴립니다. 당신이 성공한 대상은 GM이 자신의 차례에 공포를 소모하여 이 주문을 종료할 때까지 그 효과를 받습니다.</p><ul><li class='vertical-card-list'><p><strong>눈보라:</strong> 마법 피해 2d20+8을 입히고, 대상은 일시적으로 취약해집니다.</p></li><li class='vertical-card-list'><strong>허리케인:</strong> 마법 피해 3d10+10을 입히고, 바람이 부는 방향을 선택합니다. 대상은 바람에 맞서 이동할 수 없습니다.</li><li class='vertical-card-list'><p><strong>모래폭풍:</strong> 마법 피해 5d6+9를 입힙니다. 근접 거리 밖에서 가하는 공격은 불리로 굴립니다.</p><p></p></li></ul>",
-                "FEPhujGa5lvu5fXr": "<p class='Body-Foundation-No-BOLDITALIC'>다음 폭풍 중 하나를 선택하고 먼 거리 내의 모든 대상에게 <strong>주문 굴림</strong>을 굴립니다. 당신이 성공한 대상은 GM이 자신의 차례에 공포를 소모하여 이 주문을 종료할 때까지 그 효과를 받습니다.</p><ul><li class='vertical-card-list'><p><strong>눈보라:</strong> 마법 피해 2d20+8을 입히고, 대상은 일시적으로 취약해집니다.</p></li><li class='vertical-card-list'><strong>허리케인:</strong> 마법 피해 3d10+10을 입히고, 바람이 부는 방향을 선택합니다. 대상은 바람에 맞서 이동할 수 없습니다.</li><li class='vertical-card-list'><p><strong>모래폭풍:</strong> 마법 피해 5d6+9를 입힙니다. 근접 거리 밖에서 가하는 공격은 불리로 굴립니다.</p><p></p></li></ul>",
-                "CzMlqo91kuTgg1As": "<p class='Body-Foundation-No-BOLDITALIC'>다음 폭풍 중 하나를 선택하고 먼 거리 내의 모든 대상에게 <strong>주문 굴림</strong>을 굴립니다. 당신이 성공한 대상은 GM이 자신의 차례에 공포를 소모하여 이 주문을 종료할 때까지 그 효과를 받습니다.</p><ul><li class='vertical-card-list'><p><strong>눈보라:</strong> 마법 피해 2d20+8을 입히고, 대상은 일시적으로 취약해집니다.</p></li><li class='vertical-card-list'><strong>허리케인:</strong> 마법 피해 3d10+10을 입히고, 바람이 부는 방향을 선택합니다. 대상은 바람에 맞서 이동할 수 없습니다.</li><li class='vertical-card-list'><p><strong>모래폭풍:</strong> 마법 피해 5d6+9를 입힙니다. 근접 거리 밖에서 가하는 공격은 불리로 굴립니다.</p><p></p></li></ul>"
+                "ZqnziDBlh5Re7SKs": "<p class='Body-Foundation-No-BOLDITALIC'>다음 폭풍 중 하나를 선택하고 먼 거리 내의 모든 대상에게 <strong>주문시전 굴림</strong>을 굴립니다. 당신이 성공한 대상은 GM이 자신의 차례에 공포를 소모하여 이 주문을 종료할 때까지 그 효과를 받습니다.</p><ul><li class='vertical-card-list'><p><strong>눈보라:</strong> 마법 피해 2d20+8을 입히고, 대상은 일시적으로 취약해집니다.</p></li><li class='vertical-card-list'><strong>허리케인:</strong> 마법 피해 3d10+10을 입히고, 바람이 부는 방향을 선택합니다. 대상은 바람에 맞서 이동할 수 없습니다.</li><li class='vertical-card-list'><p><strong>모래폭풍:</strong> 마법 피해 5d6+9를 입힙니다. 근접 거리 밖에서 가하는 공격은 불리점로 굴립니다.</p><p></p></li></ul>",
+                "FEPhujGa5lvu5fXr": "<p class='Body-Foundation-No-BOLDITALIC'>다음 폭풍 중 하나를 선택하고 먼 거리 내의 모든 대상에게 <strong>주문시전 굴림</strong>을 굴립니다. 당신이 성공한 대상은 GM이 자신의 차례에 공포를 소모하여 이 주문을 종료할 때까지 그 효과를 받습니다.</p><ul><li class='vertical-card-list'><p><strong>눈보라:</strong> 마법 피해 2d20+8을 입히고, 대상은 일시적으로 취약해집니다.</p></li><li class='vertical-card-list'><strong>허리케인:</strong> 마법 피해 3d10+10을 입히고, 바람이 부는 방향을 선택합니다. 대상은 바람에 맞서 이동할 수 없습니다.</li><li class='vertical-card-list'><p><strong>모래폭풍:</strong> 마법 피해 5d6+9를 입힙니다. 근접 거리 밖에서 가하는 공격은 불리점로 굴립니다.</p><p></p></li></ul>",
+                "CzMlqo91kuTgg1As": "<p class='Body-Foundation-No-BOLDITALIC'>다음 폭풍 중 하나를 선택하고 먼 거리 내의 모든 대상에게 <strong>주문시전 굴림</strong>을 굴립니다. 당신이 성공한 대상은 GM이 자신의 차례에 공포를 소모하여 이 주문을 종료할 때까지 그 효과를 받습니다.</p><ul><li class='vertical-card-list'><p><strong>눈보라:</strong> 마법 피해 2d20+8을 입히고, 대상은 일시적으로 취약해집니다.</p></li><li class='vertical-card-list'><strong>허리케인:</strong> 마법 피해 3d10+10을 입히고, 바람이 부는 방향을 선택합니다. 대상은 바람에 맞서 이동할 수 없습니다.</li><li class='vertical-card-list'><p><strong>모래폭풍:</strong> 마법 피해 5d6+9를 입힙니다. 근접 거리 밖에서 가하는 공격은 불리점로 굴립니다.</p><p></p></li></ul>"
             }
         },
         "Thorn Skin": {
@@ -1188,10 +1188,10 @@
         },
         "Thought Delver": {
             "name": "사념 탐사자",
-            "description": "<p class='Body-Foundation'>당신은 다른 사람의 생각을 엿볼 수 있습니다. <strong>희망을 소모</strong>하여 먼 거리 내의 대상의 흐릿한 표면의 생각을 읽습니다. 더 깊이 숨겨진 생각으로 파고들기 위해, 대상에게 <strong>주문 굴림</strong>을 굴립니다.</p><p class='Body-Foundation'>공포와 함께 굴렸을 때, 대상은 GM의 재량에 따라 당신이 자신의 생각을 읽고 있다는 것을 인식할 수 있습니다.</p>",
+            "description": "<p class='Body-Foundation'>당신은 다른 사람의 생각을 엿볼 수 있습니다. <strong>희망을 소모</strong>하여 먼 거리 내의 대상의 흐릿한 표면의 생각을 읽습니다. 더 깊이 숨겨진 생각으로 파고들기 위해, 대상에게 <strong>주문시전 굴림</strong>을 굴립니다.</p><p class='Body-Foundation'>공포와 함께 굴렸을 때, 대상은 GM의 재량에 따라 당신이 자신의 생각을 읽고 있다는 것을 인식할 수 있습니다.</p>",
             "actions": {
-                "7ilDNYo2nfRZF1cj": "<p class='Body-Foundation'>당신은 다른 사람의 생각을 엿볼 수 있습니다. <strong>희망을 소모</strong>하여 먼 거리 내의 대상의 흐릿한 표면의 생각을 읽습니다. 더 깊이 숨겨진 생각으로 파고들기 위해, 대상에게 <strong>주문 굴림</strong>을 굴립니다.</p><p class='Body-Foundation'>공포와 함께 굴렸을 때, 대상은 GM의 재량에 따라 당신이 자신의 생각을 읽고 있다는 것을 인식할 수 있습니다.</p>",
-                "nuYCkANsYDtZJO6f": "<p class='Body-Foundation'>당신은 다른 사람의 생각을 엿볼 수 있습니다. <strong>희망을 소모</strong>하여 먼 거리 내의 대상의 흐릿한 표면의 생각을 읽습니다. 더 깊이 숨겨진 생각으로 파고들기 위해, 대상에게 <strong>주문 굴림</strong>을 굴립니다.</p><p class='Body-Foundation'>공포와 함께 굴렸을 때, 대상은 GM의 재량에 따라 당신이 자신의 생각을 읽고 있다는 것을 인식할 수 있습니다.</p>"
+                "7ilDNYo2nfRZF1cj": "<p class='Body-Foundation'>당신은 다른 사람의 생각을 엿볼 수 있습니다. <strong>희망을 소모</strong>하여 먼 거리 내의 대상의 흐릿한 표면의 생각을 읽습니다. 더 깊이 숨겨진 생각으로 파고들기 위해, 대상에게 <strong>주문시전 굴림</strong>을 굴립니다.</p><p class='Body-Foundation'>공포와 함께 굴렸을 때, 대상은 GM의 재량에 따라 당신이 자신의 생각을 읽고 있다는 것을 인식할 수 있습니다.</p>",
+                "nuYCkANsYDtZJO6f": "<p class='Body-Foundation'>당신은 다른 사람의 생각을 엿볼 수 있습니다. <strong>희망을 소모</strong>하여 먼 거리 내의 대상의 흐릿한 표면의 생각을 읽습니다. 더 깊이 숨겨진 생각으로 파고들기 위해, 대상에게 <strong>주문시전 굴림</strong>을 굴립니다.</p><p class='Body-Foundation'>공포와 함께 굴렸을 때, 대상은 GM의 재량에 따라 당신이 자신의 생각을 읽고 있다는 것을 인식할 수 있습니다.</p>"
             }
         },
         "Through Your Eyes": {
@@ -1203,10 +1203,10 @@
         },
         "Towering Stalk": {
             "name": "치솟는 줄기",
-            "description": "<p class='Body-Foundation'>휴식당 한 번, 가까운 거리 내에 쉽게 오를 수 있는 두껍고 굽이치는 줄기를 만들 수 있습니다. 그 높이는 먼 거리에 이를 수 있습니다.</p><p class='Body-Foundation'><strong>스트레스를 표시</strong>하여 이 주문을 공격으로 사용합니다. 가까운 거리 내의 적대자 또는 적대자 무리에게 <strong>주문 굴림</strong>을 굴립니다. 솟구치는 줄기는 당신이 성공한 대상을 공중으로 들어 올렸다가 떨어뜨려, 당신의 숙련도를 사용해 물리 피해 <strong>d8</strong>을 입힙니다.</p>",
+            "description": "<p class='Body-Foundation'>휴식당 한 번, 가까운 거리 내에 쉽게 오를 수 있는 두껍고 굽이치는 줄기를 만들 수 있습니다. 그 높이는 먼 거리에 이를 수 있습니다.</p><p class='Body-Foundation'><strong>스트레스를 표시</strong>하여 이 주문을 공격으로 사용합니다. 가까운 거리 내의 적대자 또는 적대자 무리에게 <strong>주문시전 굴림</strong>을 굴립니다. 솟구치는 줄기는 당신이 성공한 대상을 공중으로 들어 올렸다가 떨어뜨려, 당신의 숙련도를 사용해 물리 피해 <strong>d8</strong>을 입힙니다.</p>",
             "actions": {
-                "KzEDeofyjxeg3pV5": "<p class='Body-Foundation'>휴식당 한 번, 가까운 거리 내에 쉽게 오를 수 있는 두껍고 굽이치는 줄기를 만들 수 있습니다. 그 높이는 먼 거리에 이를 수 있습니다.</p><p class='Body-Foundation'><strong>스트레스를 표시</strong>하여 이 주문을 공격으로 사용합니다. 가까운 거리 내의 적대자 또는 적대자 무리에게 <strong>주문 굴림</strong>을 굴립니다. 솟구치는 줄기는 당신이 성공한 대상을 공중으로 들어 올렸다가 떨어뜨려, 당신의 숙련도를 사용해 물리 피해 <strong>d8</strong>을 입힙니다.</p>",
-                "I6eSBTpuYDU1nEgr": "<p class='Body-Foundation'>휴식당 한 번, 가까운 거리 내에 쉽게 오를 수 있는 두껍고 굽이치는 줄기를 만들 수 있습니다. 그 높이는 먼 거리에 이를 수 있습니다.</p><p class='Body-Foundation'><strong>스트레스를 표시</strong>하여 이 주문을 공격으로 사용합니다. 가까운 거리 내의 적대자 또는 적대자 무리에게 <strong>주문 굴림</strong>을 굴립니다. 솟구치는 줄기는 당신이 성공한 대상을 공중으로 들어 올렸다가 떨어뜨려, 당신의 숙련도를 사용해 물리 피해 <strong>d8</strong>을 입힙니다.</p>"
+                "KzEDeofyjxeg3pV5": "<p class='Body-Foundation'>휴식당 한 번, 가까운 거리 내에 쉽게 오를 수 있는 두껍고 굽이치는 줄기를 만들 수 있습니다. 그 높이는 먼 거리에 이를 수 있습니다.</p><p class='Body-Foundation'><strong>스트레스를 표시</strong>하여 이 주문을 공격으로 사용합니다. 가까운 거리 내의 적대자 또는 적대자 무리에게 <strong>주문시전 굴림</strong>을 굴립니다. 솟구치는 줄기는 당신이 성공한 대상을 공중으로 들어 올렸다가 떨어뜨려, 당신의 숙련도를 사용해 물리 피해 <strong>d8</strong>을 입힙니다.</p>",
+                "I6eSBTpuYDU1nEgr": "<p class='Body-Foundation'>휴식당 한 번, 가까운 거리 내에 쉽게 오를 수 있는 두껍고 굽이치는 줄기를 만들 수 있습니다. 그 높이는 먼 거리에 이를 수 있습니다.</p><p class='Body-Foundation'><strong>스트레스를 표시</strong>하여 이 주문을 공격으로 사용합니다. 가까운 거리 내의 적대자 또는 적대자 무리에게 <strong>주문시전 굴림</strong>을 굴립니다. 솟구치는 줄기는 당신이 성공한 대상을 공중으로 들어 올렸다가 떨어뜨려, 당신의 숙련도를 사용해 물리 피해 <strong>d8</strong>을 입힙니다.</p>"
             }
         },
         "Transcendent Union": {
@@ -1218,9 +1218,9 @@
         },
         "Troublemaker": {
             "name": "말썽쟁이",
-            "description": "<p class='Body-Foundation'>먼 거리 내의 대상을 도발하거나 자극할 때, 그에게 <strong>존재감 굴림</strong>을 굴립니다. 휴식당 한 번, 성공 시 당신의 손재주와 같은 수의 <strong>d4</strong>를 굴립니다. 대상은 가장 높은 결과와 같은 스트레스를 표시해야 합니다.</p>",
+            "description": "<p class='Body-Foundation'>먼 거리 내의 대상을 도발하거나 자극할 때, 그에게 <strong>매력 굴림</strong>을 굴립니다. 휴식당 한 번, 성공 시 당신의 기교와 같은 수의 <strong>d4</strong>를 굴립니다. 대상은 가장 높은 결과와 같은 스트레스를 표시해야 합니다.</p>",
             "actions": {
-                "8fv9Rk2Nq6kalkEQ": "<p class='Body-Foundation'>먼 거리 내의 대상을 도발하거나 자극할 때, 그에게 <strong>존재감 굴림</strong>을 굴립니다. 휴식당 한 번, 성공 시 당신의 손재주와 같은 수의 <strong>d4</strong>를 굴립니다. 대상은 가장 높은 결과와 같은 스트레스를 표시해야 합니다.</p>"
+                "8fv9Rk2Nq6kalkEQ": "<p class='Body-Foundation'>먼 거리 내의 대상을 도발하거나 자극할 때, 그에게 <strong>매력 굴림</strong>을 굴립니다. 휴식당 한 번, 성공 시 당신의 기교와 같은 수의 <strong>d4</strong>를 굴립니다. 대상은 가장 높은 결과와 같은 스트레스를 표시해야 합니다.</p>"
             }
         },
         "Twilight Toll": {
@@ -1232,25 +1232,25 @@
         },
         "Unbreakable": {
             "name": "불굴",
-            "description": "<p class='Body-Foundation'>마지막 HP를 표시할 때, 죽음의 행동을 하는 대신, <strong>d6</strong>을 굴려 그 결과와 같은 HP를 회복할 수 있습니다. 그런 다음 이 카드를 보관소에 놓습니다.</p>",
+            "description": "<p class='Body-Foundation'>마지막 HP를 표시할 때, 죽음 동작을 하는 대신, <strong>d6</strong>을 굴려 그 결과와 같은 HP를 회복할 수 있습니다. 그런 다음 이 카드를 보관소에 놓습니다.</p>",
             "actions": {
-                "NXWbijHKKgqgcAMB": "<p class='Body-Foundation'>마지막 HP를 표시할 때, 죽음의 행동을 하는 대신, <strong>d6</strong>을 굴려 그 결과와 같은 HP를 회복할 수 있습니다. 그런 다음 이 카드를 보관소에 놓습니다.</p>"
+                "NXWbijHKKgqgcAMB": "<p class='Body-Foundation'>마지막 HP를 표시할 때, 죽음 동작을 하는 대신, <strong>d6</strong>을 굴려 그 결과와 같은 HP를 회복할 수 있습니다. 그런 다음 이 카드를 보관소에 놓습니다.</p>"
             }
         },
         "Uncanny Disguise": {
             "name": "기묘한 변장",
-            "description": "<p class='Body-Foundation'>준비할 몇 분의 시간이 있을 때, <strong>스트레스를 표시</strong>하여 자신의 마음에 명확하게 떠올릴 수 있는 어떤 인간형의 외모로든 변할 수 있습니다. 변장 중에는 정밀 조사를 피하기 위한 존재감 굴림에 유리를 얻습니다.</p><p class='Body-Foundation'>이 카드에 당신의 주문 시전 수치와 같은 수의 토큰을 놓습니다. 변장 중 행동을 할 때, 이 카드에서 토큰 하나를 소모합니다. 마지막 토큰을 소모한 행동이 해결된 후, 변장이 풀립니다.</p>",
+            "description": "<p class='Body-Foundation'>준비할 몇 분의 시간이 있을 때, <strong>스트레스를 표시</strong>하여 자신의 마음에 명확하게 떠올릴 수 있는 어떤 인간형의 외모로든 변할 수 있습니다. 변장 중에는 정밀 조사를 피하기 위한 매력 굴림에 이점를 얻습니다.</p><p class='Body-Foundation'>이 카드에 당신의 주문 시전 수치와 같은 수의 토큰을 놓습니다. 변장 중 행동을 할 때, 이 카드에서 토큰 하나를 소모합니다. 마지막 토큰을 소모한 행동이 해결된 후, 변장이 풀립니다.</p>",
             "actions": {
-                "Rncq6VD6B9ugC0AO": "<p class='Body-Foundation'>준비할 몇 분의 시간이 있을 때, <strong>스트레스를 표시</strong>하여 자신의 마음에 명확하게 떠올릴 수 있는 어떤 인간형의 외모로든 변할 수 있습니다. 변장 중에는 정밀 조사를 피하기 위한 존재감 굴림에 유리를 얻습니다.</p><p class='Body-Foundation'>이 카드에 당신의 주문 시전 수치와 같은 수의 토큰을 놓습니다. 변장 중 행동을 할 때, 이 카드에서 토큰 하나를 소모합니다. 마지막 토큰을 소모한 행동이 해결된 후, 변장이 풀립니다.</p>",
-                "OoNND7VcWoBQdtFK": "<p class='Body-Foundation'>준비할 몇 분의 시간이 있을 때, <strong>스트레스를 표시</strong>하여 자신의 마음에 명확하게 떠올릴 수 있는 어떤 인간형의 외모로든 변할 수 있습니다. 변장 중에는 정밀 조사를 피하기 위한 존재감 굴림에 유리를 얻습니다.</p><p class='Body-Foundation'>이 카드에 당신의 주문 시전 수치와 같은 수의 토큰을 놓습니다. 변장 중 행동을 할 때, 이 카드에서 토큰 하나를 소모합니다. 마지막 토큰을 소모한 행동이 해결된 후, 변장이 풀립니다.</p>"
+                "Rncq6VD6B9ugC0AO": "<p class='Body-Foundation'>준비할 몇 분의 시간이 있을 때, <strong>스트레스를 표시</strong>하여 자신의 마음에 명확하게 떠올릴 수 있는 어떤 인간형의 외모로든 변할 수 있습니다. 변장 중에는 정밀 조사를 피하기 위한 매력 굴림에 이점를 얻습니다.</p><p class='Body-Foundation'>이 카드에 당신의 주문 시전 수치와 같은 수의 토큰을 놓습니다. 변장 중 행동을 할 때, 이 카드에서 토큰 하나를 소모합니다. 마지막 토큰을 소모한 행동이 해결된 후, 변장이 풀립니다.</p>",
+                "OoNND7VcWoBQdtFK": "<p class='Body-Foundation'>준비할 몇 분의 시간이 있을 때, <strong>스트레스를 표시</strong>하여 자신의 마음에 명확하게 떠올릴 수 있는 어떤 인간형의 외모로든 변할 수 있습니다. 변장 중에는 정밀 조사를 피하기 위한 매력 굴림에 이점를 얻습니다.</p><p class='Body-Foundation'>이 카드에 당신의 주문 시전 수치와 같은 수의 토큰을 놓습니다. 변장 중 행동을 할 때, 이 카드에서 토큰 하나를 소모합니다. 마지막 토큰을 소모한 행동이 해결된 후, 변장이 풀립니다.</p>"
             }
         },
         "Unleash Chaos": {
             "name": "혼돈의 해방",
-            "description": "<p class='Body-Foundation'>세션 시작 시, 이 카드에 당신의 주문 시전 수치와 같은 수의 토큰을 놓습니다.</p><p class='Body-Foundation'>먼 거리 내의 대상에게 <strong>주문 굴림</strong>을 굴리고 원하는 만큼의 토큰을 소모하여 자신 안의 순수한 에너지를 그에게 향하게 합니다. 성공 시 소모한 토큰 수만큼 <strong>d10</strong>을 굴려, 그만큼의 마법 피해를 대상에게 입힙니다. <strong>스트레스를 표시</strong>하여 이 카드의 토큰을 보충합니다(주문 시전 수치까지).</p><p class='Body-Foundation'>각 세션 종료 시, 사용하지 않은 모든 토큰을 제거합니다.</p>",
+            "description": "<p class='Body-Foundation'>세션 시작 시, 이 카드에 당신의 주문 시전 수치와 같은 수의 토큰을 놓습니다.</p><p class='Body-Foundation'>먼 거리 내의 대상에게 <strong>주문시전 굴림</strong>을 굴리고 원하는 만큼의 토큰을 소모하여 자신 안의 순수한 에너지를 그에게 향하게 합니다. 성공 시 소모한 토큰 수만큼 <strong>d10</strong>을 굴려, 그만큼의 마법 피해를 대상에게 입힙니다. <strong>스트레스를 표시</strong>하여 이 카드의 토큰을 보충합니다(주문 시전 수치까지).</p><p class='Body-Foundation'>각 세션 종료 시, 사용하지 않은 모든 토큰을 제거합니다.</p>",
             "actions": {
-                "MWvrKuwejWcQm7N1": "<p class='Body-Foundation'>세션 시작 시, 이 카드에 당신의 주문 시전 수치와 같은 수의 토큰을 놓습니다.</p><p class='Body-Foundation'>먼 거리 내의 대상에게 <strong>주문 굴림</strong>을 굴리고 원하는 만큼의 토큰을 소모하여 자신 안의 순수한 에너지를 그에게 향하게 합니다. 성공 시 소모한 토큰 수만큼 <strong>d10</strong>을 굴려, 그만큼의 마법 피해를 대상에게 입힙니다. <strong>스트레스를 표시</strong>하여 이 카드의 토큰을 보충합니다(주문 시전 수치까지).</p><p class='Body-Foundation'>각 세션 종료 시, 사용하지 않은 모든 토큰을 제거합니다.</p>",
-                "MPBIzxemh61S9xDB": "<p class='Body-Foundation'>세션 시작 시, 이 카드에 당신의 주문 시전 수치와 같은 수의 토큰을 놓습니다.</p><p class='Body-Foundation'>먼 거리 내의 대상에게 <strong>주문 굴림</strong>을 굴리고 원하는 만큼의 토큰을 소모하여 자신 안의 순수한 에너지를 그에게 향하게 합니다. 성공 시 소모한 토큰 수만큼 <strong>d10</strong>을 굴려, 그만큼의 마법 피해를 대상에게 입힙니다. <strong>스트레스를 표시</strong>하여 이 카드의 토큰을 보충합니다(주문 시전 수치까지).</p><p class='Body-Foundation'>각 세션 종료 시, 사용하지 않은 모든 토큰을 제거합니다.</p>"
+                "MWvrKuwejWcQm7N1": "<p class='Body-Foundation'>세션 시작 시, 이 카드에 당신의 주문 시전 수치와 같은 수의 토큰을 놓습니다.</p><p class='Body-Foundation'>먼 거리 내의 대상에게 <strong>주문시전 굴림</strong>을 굴리고 원하는 만큼의 토큰을 소모하여 자신 안의 순수한 에너지를 그에게 향하게 합니다. 성공 시 소모한 토큰 수만큼 <strong>d10</strong>을 굴려, 그만큼의 마법 피해를 대상에게 입힙니다. <strong>스트레스를 표시</strong>하여 이 카드의 토큰을 보충합니다(주문 시전 수치까지).</p><p class='Body-Foundation'>각 세션 종료 시, 사용하지 않은 모든 토큰을 제거합니다.</p>",
+                "MPBIzxemh61S9xDB": "<p class='Body-Foundation'>세션 시작 시, 이 카드에 당신의 주문 시전 수치와 같은 수의 토큰을 놓습니다.</p><p class='Body-Foundation'>먼 거리 내의 대상에게 <strong>주문시전 굴림</strong>을 굴리고 원하는 만큼의 토큰을 소모하여 자신 안의 순수한 에너지를 그에게 향하게 합니다. 성공 시 소모한 토큰 수만큼 <strong>d10</strong>을 굴려, 그만큼의 마법 피해를 대상에게 입힙니다. <strong>스트레스를 표시</strong>하여 이 카드의 토큰을 보충합니다(주문 시전 수치까지).</p><p class='Body-Foundation'>각 세션 종료 시, 사용하지 않은 모든 토큰을 제거합니다.</p>"
             }
         },
         "Untouchable": {
@@ -1259,13 +1259,13 @@
         },
         "Unyielding Armor": {
             "name": "굳건한 갑옷",
-            "description": "<p class='Body-Foundation'>방어구 슬롯을 표시해야 할 때, 당신의 숙련도와 같은 수의 <strong>d6</strong>을 굴립니다. 6이 나오면, 방어구 슬롯을 표시하지 않고 심각도를 한 단계 낮춥니다.</p>"
+            "description": "<p class='Body-Foundation'>방어 슬롯을 표시해야 할 때, 당신의 숙련도와 같은 수의 <strong>d6</strong>을 굴립니다. 6이 나오면, 방어 슬롯을 표시하지 않고 심각도를 한 단계 낮춥니다.</p>"
         },
         "Valor-Touched": {
             "name": "용맹의 가호",
-            "description": "<p class='Body-Foundation'>당신의 장비에 있는 영역 카드 4장 이상이 용맹 영역에 속한다면, 다음 이점을 얻습니다:</p><ul><li class='vertical-card-list-found'><p>갑옷 수치에 +1 보너스</p></li><li class='vertical-card-list-found'><p>방어구 슬롯을 표시하지 않고 HP 1 이상을 표시할 때, 방어구 슬롯을 비웁니다.</p></li></ul>",
+            "description": "<p class='Body-Foundation'>당신의 장비에 있는 권역 카드 4장 이상이 용맹 영역에 속한다면, 다음 이점을 얻습니다:</p><ul><li class='vertical-card-list-found'><p>갑옷 수치에 +1 보너스</p></li><li class='vertical-card-list-found'><p>방어 슬롯을 표시하지 않고 HP 1 이상을 표시할 때, 방어 슬롯을 비웁니다.</p></li></ul>",
             "actions": {
-                "F04596OgMgpnhpQp": "<p class='Body-Foundation'>당신의 장비에 있는 영역 카드 4장 이상이 용맹 영역에 속한다면, 다음 이점을 얻습니다:</p><ul><li class='vertical-card-list-found'><p>갑옷 수치에 +1 보너스</p></li><li class='vertical-card-list-found'><p>방어구 슬롯을 표시하지 않고 HP 1 이상을 표시할 때, 방어구 슬롯을 비웁니다.</p></li></ul>"
+                "F04596OgMgpnhpQp": "<p class='Body-Foundation'>당신의 장비에 있는 권역 카드 4장 이상이 용맹 영역에 속한다면, 다음 이점을 얻습니다:</p><ul><li class='vertical-card-list-found'><p>갑옷 수치에 +1 보너스</p></li><li class='vertical-card-list-found'><p>방어 슬롯을 표시하지 않고 HP 1 이상을 표시할 때, 방어 슬롯을 비웁니다.</p></li></ul>"
             }
         },
         "Vanishing Dodge": {
@@ -1277,9 +1277,9 @@
         },
         "Veil of Night": {
             "name": "밤의 장막",
-            "description": "<p class='Body-Foundation'><strong>주문 굴림</strong><strong> (13)</strong>을 굴립니다. 성공 시 먼 거리 내의 두 지점 사이에 임시 어둠의 장막을 만들 수 있습니다. 오직 당신만이 이 어둠을 꿰뚫어 볼 수 있습니다. 당신은 장막 반대편의 적대자에게 은신 상태로 간주되며, 어둠을 통과해 가하는 공격에 유리를 얻습니다. 장막은 당신이 다른 주문을 시전할 때까지 유지됩니다.</p>",
+            "description": "<p class='Body-Foundation'><strong>주문시전 굴림</strong><strong> (13)</strong>을 굴립니다. 성공 시 먼 거리 내의 두 지점 사이에 임시 어둠의 장막을 만들 수 있습니다. 오직 당신만이 이 어둠을 꿰뚫어 볼 수 있습니다. 당신은 장막 반대편의 적대자에게 은신 상태로 간주되며, 어둠을 통과해 가하는 공격에 이점를 얻습니다. 장막은 당신이 다른 주문을 시전할 때까지 유지됩니다.</p>",
             "actions": {
-                "br6UQ0toK4ZYpP2s": "<p class='Body-Foundation'><strong>주문 굴림</strong><strong> (13)</strong>을 굴립니다. 성공 시 먼 거리 내의 두 지점 사이에 임시 어둠의 장막을 만들 수 있습니다. 오직 당신만이 이 어둠을 꿰뚫어 볼 수 있습니다. 당신은 장막 반대편의 적대자에게 은신 상태로 간주되며, 어둠을 통과해 가하는 공격에 유리를 얻습니다. 장막은 당신이 다른 주문을 시전할 때까지 유지됩니다.</p>"
+                "br6UQ0toK4ZYpP2s": "<p class='Body-Foundation'><strong>주문시전 굴림</strong><strong> (13)</strong>을 굴립니다. 성공 시 먼 거리 내의 두 지점 사이에 임시 어둠의 장막을 만들 수 있습니다. 오직 당신만이 이 어둠을 꿰뚫어 볼 수 있습니다. 당신은 장막 반대편의 적대자에게 은신 상태로 간주되며, 어둠을 통과해 가하는 공격에 이점를 얻습니다. 장막은 당신이 다른 주문을 시전할 때까지 유지됩니다.</p>"
             }
         },
         "Versatile Fighter": {
@@ -1291,22 +1291,22 @@
         },
         "Vicious Entangle": {
             "name": "잔혹한 옭아매기",
-            "description": "<p class='Body-Foundation'>먼 거리 내의 대상에게 <strong>주문 굴림</strong>을 굴립니다. 성공 시 땅에서 뿌리와 덩굴이 솟아나, 물리 피해 <strong>1d8+1</strong>을 입히고 대상을 일시적으로 속박합니다.</p><p class='Body-Foundation'>추가로 성공 시 <strong>희망을 소모</strong>하여 대상으로부터 매우 가까운 거리 내의 다른 적대자를 일시적으로 속박할 수 있습니다.</p>",
+            "description": "<p class='Body-Foundation'>먼 거리 내의 대상에게 <strong>주문시전 굴림</strong>을 굴립니다. 성공 시 땅에서 뿌리와 덩굴이 솟아나, 물리 피해 <strong>1d8+1</strong>을 입히고 대상을 일시적으로 속박합니다.</p><p class='Body-Foundation'>추가로 성공 시 <strong>희망을 소모</strong>하여 대상으로부터 매우 가까운 거리 내의 다른 적대자를 일시적으로 속박할 수 있습니다.</p>",
             "actions": {
-                "lrA95PnD2vOwwmgN": "<p class='Body-Foundation'>먼 거리 내의 대상에게 <strong>주문 굴림</strong>을 굴립니다. 성공 시 땅에서 뿌리와 덩굴이 솟아나, 물리 피해 <strong>1d8+1</strong>을 입히고 대상을 일시적으로 속박합니다.</p><p class='Body-Foundation'>추가로 성공 시 <strong>희망을 소모</strong>하여 대상으로부터 매우 가까운 거리 내의 다른 적대자를 일시적으로 속박할 수 있습니다.</p>",
-                "vh1IKRvsU4w57lBt": "<p class='Body-Foundation'>먼 거리 내의 대상에게 <strong>주문 굴림</strong>을 굴립니다. 성공 시 땅에서 뿌리와 덩굴이 솟아나, 물리 피해 <strong>1d8+1</strong>을 입히고 대상을 일시적으로 속박합니다.</p><p class='Body-Foundation'>추가로 성공 시 <strong>희망을 소모</strong>하여 대상으로부터 매우 가까운 거리 내의 다른 적대자를 일시적으로 속박할 수 있습니다.</p>"
+                "lrA95PnD2vOwwmgN": "<p class='Body-Foundation'>먼 거리 내의 대상에게 <strong>주문시전 굴림</strong>을 굴립니다. 성공 시 땅에서 뿌리와 덩굴이 솟아나, 물리 피해 <strong>1d8+1</strong>을 입히고 대상을 일시적으로 속박합니다.</p><p class='Body-Foundation'>추가로 성공 시 <strong>희망을 소모</strong>하여 대상으로부터 매우 가까운 거리 내의 다른 적대자를 일시적으로 속박할 수 있습니다.</p>",
+                "vh1IKRvsU4w57lBt": "<p class='Body-Foundation'>먼 거리 내의 대상에게 <strong>주문시전 굴림</strong>을 굴립니다. 성공 시 땅에서 뿌리와 덩굴이 솟아나, 물리 피해 <strong>1d8+1</strong>을 입히고 대상을 일시적으로 속박합니다.</p><p class='Body-Foundation'>추가로 성공 시 <strong>희망을 소모</strong>하여 대상으로부터 매우 가까운 거리 내의 다른 적대자를 일시적으로 속박할 수 있습니다.</p>"
             }
         },
         "Vitality": {
             "name": "활력",
-            "description": "<p class='Body-Foundation'>이 카드를 선택할 때, 다음 이점 중 두 가지를 영구히 얻습니다:</p><ul><li class='vertical-card-list-found'><p>스트레스 슬롯 하나</p></li><li class='vertical-card-list-found'><p>HP 슬롯 하나</p></li><li class='vertical-card-list-found'>피해 한계치에 +2</li></ul><p class='Body-Foundation'>그런 다음 이 카드를 영구히 보관소에 놓습니다.</p>",
+            "description": "<p class='Body-Foundation'>이 카드를 선택할 때, 다음 이점 중 두 가지를 영구히 얻습니다:</p><ul><li class='vertical-card-list-found'><p>스트레스 슬롯 하나</p></li><li class='vertical-card-list-found'><p>HP 슬롯 하나</p></li><li class='vertical-card-list-found'>피해 임계치에 +2</li></ul><p class='Body-Foundation'>그런 다음 이 카드를 영구히 보관소에 놓습니다.</p>",
             "actions": {
-                "W8nmboZ41sij2ybT": "<p class='Body-Foundation'>이 카드를 선택할 때, 다음 이점 중 두 가지를 영구히 얻습니다:</p><ul><li class='vertical-card-list-found'><p>스트레스 슬롯 하나</p></li><li class='vertical-card-list-found'><p>HP 슬롯 하나</p></li><li class='vertical-card-list-found'>피해 한계치에 +2</li></ul><p class='Body-Foundation'>그런 다음 이 카드를 영구히 보관소에 놓습니다.</p>"
+                "W8nmboZ41sij2ybT": "<p class='Body-Foundation'>이 카드를 선택할 때, 다음 이점 중 두 가지를 영구히 얻습니다:</p><ul><li class='vertical-card-list-found'><p>스트레스 슬롯 하나</p></li><li class='vertical-card-list-found'><p>HP 슬롯 하나</p></li><li class='vertical-card-list-found'>피해 임계치에 +2</li></ul><p class='Body-Foundation'>그런 다음 이 카드를 영구히 보관소에 놓습니다.</p>"
             }
         },
         "Voice of Reason": {
             "name": "이성의 목소리",
-            "description": "<p class='Body-Foundation'>당신은 비할 데 없는 힘과 권위로 말합니다. 폭력적인 상황을 진정시키거나 누군가가 당신의 모범을 따르도록 설득하기 위한 행동 굴림에 유리를 얻습니다.</p><p class='Body-Foundation'>또한, 스트레스의 순간에 당신은 더 대담해집니다. 당신의 모든 스트레스 슬롯이 표시되었을 때, 피해 굴림을 위한 손재주에 +1 보너스를 얻습니다.</p>"
+            "description": "<p class='Body-Foundation'>당신은 비할 데 없는 힘과 권위로 말합니다. 폭력적인 상황을 진정시키거나 누군가가 당신의 모범을 따르도록 설득하기 위한 행동 굴림에 이점를 얻습니다.</p><p class='Body-Foundation'>또한, 스트레스의 순간에 당신은 더 대담해집니다. 당신의 모든 스트레스 슬롯이 표시되었을 때, 피해 굴림을 위한 기교에 +1 보너스를 얻습니다.</p>"
         },
         "Wall Walk": {
             "name": "벽 보행",
@@ -1324,9 +1324,9 @@
         },
         "Wild Fortress": {
             "name": "야생의 요새",
-            "description": "<p class='Body-Foundation'><strong>주문 굴림 (13)</strong>을 굴립니다. 성공 시 <strong>희망 2을 소모</strong>하여 당신과 동료 한 명이 피난할 수 있는 돔 형태의 자연 바리케이드를 자라게 합니다. 돔 안에 있는 동안 존재는 공격의 대상이 될 수 없으며 공격을 할 수 없습니다. 돔을 향한 공격은 자동으로 성공합니다. 돔의 큰 피해 한계치는 15, 심각 피해 한계치는 30이며, HP 3을 표시할 때까지 존재합니다. 이 카드에 토큰을 놓아 HP를 표시합니다.</p>",
+            "description": "<p class='Body-Foundation'><strong>주문시전 굴림 (13)</strong>을 굴립니다. 성공 시 <strong>희망 2을 소모</strong>하여 당신과 동료 한 명이 피난할 수 있는 돔 형태의 자연 바리케이드를 자라게 합니다. 돔 안에 있는 동안 존재는 공격의 대상이 될 수 없으며 공격을 할 수 없습니다. 돔을 향한 공격은 자동으로 성공합니다. 돔의 중대한 피해 임계치는 15, 심각한 피해 임계치는 30이며, HP 3을 표시할 때까지 존재합니다. 이 카드에 토큰을 놓아 HP를 표시합니다.</p>",
             "actions": {
-                "WlcAj8f6THUudbWp": "<p class='Body-Foundation'><strong>주문 굴림 (13)</strong>을 굴립니다. 성공 시 <strong>희망 2을 소모</strong>하여 당신과 동료 한 명이 피난할 수 있는 돔 형태의 자연 바리케이드를 자라게 합니다. 돔 안에 있는 동안 존재는 공격의 대상이 될 수 없으며 공격을 할 수 없습니다. 돔을 향한 공격은 자동으로 성공합니다. 돔의 큰 피해 한계치는 15, 심각 피해 한계치는 30이며, HP 3을 표시할 때까지 존재합니다. 이 카드에 토큰을 놓아 HP를 표시합니다.</p>"
+                "WlcAj8f6THUudbWp": "<p class='Body-Foundation'><strong>주문시전 굴림 (13)</strong>을 굴립니다. 성공 시 <strong>희망 2을 소모</strong>하여 당신과 동료 한 명이 피난할 수 있는 돔 형태의 자연 바리케이드를 자라게 합니다. 돔 안에 있는 동안 존재는 공격의 대상이 될 수 없으며 공격을 할 수 없습니다. 돔을 향한 공격은 자동으로 성공합니다. 돔의 중대한 피해 임계치는 15, 심각한 피해 임계치는 30이며, HP 3을 표시할 때까지 존재합니다. 이 카드에 토큰을 놓아 HP를 표시합니다.</p>"
             }
         },
         "Wild Surge": {
@@ -1338,9 +1338,9 @@
         },
         "Words of Discord": {
             "name": "불화의 말",
-            "description": "<p class='Body-Foundation'>근접 거리 내의 적대자에게 불화의 말을 속삭이고 <strong>주문 굴림 (13)</strong>을 굴립니다. 성공 시, 대상은 스트레스를 표시하고 당신이나 당신의 동료 대신 다른 적대자를 공격해야 합니다.</p><p class='Body-Foundation'>이 공격이 끝나면, 대상은 무슨 일이 일어났는지 인식합니다. 다음에 그들에게 불화의 말을 사용할 때, 주문 굴림에 −5 페널티를 받습니다.</p>",
+            "description": "<p class='Body-Foundation'>근접 거리 내의 적대자에게 불화의 말을 속삭이고 <strong>주문시전 굴림 (13)</strong>을 굴립니다. 성공 시, 대상은 스트레스를 표시하고 당신이나 당신의 동료 대신 다른 적대자를 공격해야 합니다.</p><p class='Body-Foundation'>이 공격이 끝나면, 대상은 무슨 일이 일어났는지 인식합니다. 다음에 그들에게 불화의 말을 사용할 때, 주문시전 굴림에 −5 페널티를 받습니다.</p>",
             "actions": {
-                "8BKvS2s0IPMA8wF9": "<p class='Body-Foundation'>근접 거리 내의 적대자에게 불화의 말을 속삭이고 <strong>주문 굴림 (13)</strong>을 굴립니다. 성공 시, 대상은 스트레스를 표시하고 당신이나 당신의 동료 대신 다른 적대자를 공격해야 합니다.</p><p class='Body-Foundation'>이 공격이 끝나면, 대상은 무슨 일이 일어났는지 인식합니다. 다음에 그들에게 불화의 말을 사용할 때, 주문 굴림에 −5 페널티를 받습니다.</p>"
+                "8BKvS2s0IPMA8wF9": "<p class='Body-Foundation'>근접 거리 내의 적대자에게 불화의 말을 속삭이고 <strong>주문시전 굴림 (13)</strong>을 굴립니다. 성공 시, 대상은 스트레스를 표시하고 당신이나 당신의 동료 대신 다른 적대자를 공격해야 합니다.</p><p class='Body-Foundation'>이 공격이 끝나면, 대상은 무슨 일이 일어났는지 인식합니다. 다음에 그들에게 불화의 말을 사용할 때, 주문시전 굴림에 −5 페널티를 받습니다.</p>"
             }
         },
         "Wrangle": {
@@ -1352,9 +1352,9 @@
         },
         "Zone of Protection": {
             "name": "보호의 영역",
-            "description": "<p class='Body-Foundation'><strong>주문 굴림 (16)</strong>을 굴립니다. 긴 휴식당 한 번, 성공 시 먼 거리 내의 한 지점을 선택하여 그 지점으로부터 매우 가까운 거리 내의 모든 동료를 위한 보이는 보호 영역을 그곳에 만듭니다. 그렇게 할 때, 이 카드에 <strong>d6</strong>을 값 1이 위로 향하도록 놓습니다. 이 영역 내의 동료가 피해를 입을 때, 주사위 값만큼 피해를 줄입니다. 그런 다음 주사위 값을 1 증가시킵니다. 주사위의 값이 6을 넘으면, 이 효과는 종료됩니다.</p><p>@Template[type:emanation|range:vc]</p>",
+            "description": "<p class='Body-Foundation'><strong>주문시전 굴림 (16)</strong>을 굴립니다. 긴 휴식당 한 번, 성공 시 먼 거리 내의 한 지점을 선택하여 그 지점으로부터 매우 가까운 거리 내의 모든 동료를 위한 보이는 보호 영역을 그곳에 만듭니다. 그렇게 할 때, 이 카드에 <strong>d6</strong>을 값 1이 위로 향하도록 놓습니다. 이 영역 내의 동료가 피해를 입을 때, 주사위 값만큼 피해를 줄입니다. 그런 다음 주사위 값을 1 증가시킵니다. 주사위의 값이 6을 넘으면, 이 효과는 종료됩니다.</p><p>@Template[type:emanation|range:vc]</p>",
             "actions": {
-                "U4faKrfbdN797zJm": "<p class='Body-Foundation'><strong>주문 굴림 (16)</strong>을 굴립니다. 긴 휴식당 한 번, 성공 시 먼 거리 내의 한 지점을 선택하여 그 지점으로부터 매우 가까운 거리 내의 모든 동료를 위한 보이는 보호 영역을 그곳에 만듭니다. 그렇게 할 때, 이 카드에 <strong>d6</strong>을 값 1이 위로 향하도록 놓습니다. 이 영역 내의 동료가 피해를 입을 때, 주사위 값만큼 피해를 줄입니다. 그런 다음 주사위 값을 1 증가시킵니다. 주사위의 값이 6을 넘으면, 이 효과는 종료됩니다.</p><p>@Template[type:emanation|range:vc]</p>"
+                "U4faKrfbdN797zJm": "<p class='Body-Foundation'><strong>주문시전 굴림 (16)</strong>을 굴립니다. 긴 휴식당 한 번, 성공 시 먼 거리 내의 한 지점을 선택하여 그 지점으로부터 매우 가까운 거리 내의 모든 동료를 위한 보이는 보호 영역을 그곳에 만듭니다. 그렇게 할 때, 이 카드에 <strong>d6</strong>을 값 1이 위로 향하도록 놓습니다. 이 영역 내의 동료가 피해를 입을 때, 주사위 값만큼 피해를 줄입니다. 그런 다음 주사위 값을 1 증가시킵니다. 주사위의 값이 6을 넘으면, 이 효과는 종료됩니다.</p><p>@Template[type:emanation|range:vc]</p>"
             }
         }
     }
