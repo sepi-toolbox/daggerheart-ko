@@ -94,7 +94,34 @@ Hooks.once('babele.init', (babele) => {
         "Roll d10": "d10 굴림",
         "Roll d20": "d20 굴림",
         "Roll 2d4": "2d4 굴림",
-        "Roll 2d10": "2d10 굴림"
+        "Roll 2d10": "2d10 굴림",
+        "Roll 1d12": "1d12 굴림",
+        "Roll 2d12": "2d12 굴림",
+        "Roll 3d12": "3d12 굴림",
+        "Start Countdowns": "카운트다운 시작",
+        "Lose Fear": "공포 상실",
+        // ── 고유 연출 액션명 (팩별 1회성, 검수로 보강) ──
+        "Fireball - Explosion": "화염구 - 폭발",
+        "Become Unstoppable": "멈출 수 없게 되기",
+        "Ghostly Form": "유령 형상",
+        "Imbue": "주입",
+        "Influence": "영향",
+        "Summon Demon": "악마 소환",
+        "Spotlight Demons": "악마 강조",
+        "Splash": "끼얹기",
+        "Acid Ground": "산성 지면",
+        "Spit Attack": "뱉기 공격",
+        "Glow": "발광",
+        "Ignited Damage": "점화 피해",
+        "Circle": "원",
+        "Pull Tree": "나무 끌기",
+        "Hidden attack": "은신 공격",
+        "Bees!": "벌떼!",
+        "Apply Venom": "독 적용",
+        "Drop Bomb": "폭탄 투하",
+        "Curse": "저주",
+        "Deathlocked attack": "데스록 공격",
+        "Make Guilty": "죄책감 부여"
     };
 
     // 액션 컬렉션의 name을 표준 사전으로 일괄 치환 (영문명 정확 일치 시에만).
