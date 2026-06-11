@@ -14,13 +14,17 @@
             "beastform": "야수 형태"
         },
         "ActiveEffect": {
-            "beastform": "야수 형태"
+            "beastform": "야수 형태",
+            "base": "표준",
+            "horde": "무리"
         },
         "Actor": {
             "character": "캐릭터",
             "companion": "동반자",
             "adversary": "적대자",
-            "environment": "장소"
+            "environment": "장소",
+            "npc": "NPC",
+            "party": "파티"
         }
     },
     "CONTROLS": {
@@ -39,7 +43,8 @@
                 },
                 "damage": {
                     "name": "피해",
-                    "tooltip": "굴림 없이 직접 가하는 피해."
+                    "tooltip": "굴림 없이 직접 가하는 피해.",
+                    "critical": "피해 (치명타)"
                 },
                 "effect": {
                     "name": "일반",
@@ -55,16 +60,66 @@
                 },
                 "summon": {
                     "name": "소환",
-                    "tooltip": "장면에 토큰을 생성합니다."
+                    "tooltip": "장면에 토큰을 생성합니다.",
+                    "error": "토큰을 소환할 권한이 없거나 활성화된 장면이 없습니다.",
+                    "invalidDrop": "소환하려면 액터 항목만 드롭할 수 있습니다."
+                },
+                "countdown": {
+                    "name": "카운트다운",
+                    "tooltip": "카운트다운 시작"
+                },
+                "transform": {
+                    "name": "변신",
+                    "tooltip": "한 액터를 다른 액터로 변신시킵니다",
+                    "noTransformActor": "변신할 대상 액터가 지정되지 않았습니다",
+                    "transformActorMissing": "변신 대상으로 지정된 액터가 존재하지 않습니다. 삭제되었거나 주제집 안팎으로 이동되었을 수 있습니다",
+                    "canvasError": "활성화된 장면이 없습니다.",
+                    "prototypeError": "변신 동작은 토큰에서만 사용할 수 있습니다",
+                    "actorLinkError": "액터 연결이 켜진 토큰은 변신시킬 수 없습니다"
                 }
             },
             "Config": {
                 "beastform": {
-                    "exact": "최대 야수 형태 등급",
+                    "exact": {
+                        "label": "야수 형태 최대 등급",
+                        "hint": "비워두면 캐릭터의 등급이 사용됩니다"
+                    },
                     "exactHint": "비워두면 캐릭터 등급을 사용합니다",
-                    "label": "야수 형태"
+                    "label": "야수 형태",
+                    "modifications": {
+                        "traitBonuses": {
+                            "label": {
+                                "single": "능력치 보너스",
+                                "plural": "능력치 보너스"
+                            },
+                            "hint": "변신 시 자유롭게 선택한 능력치에 적용할 보너스를 고르세요",
+                            "bonus": "보너스 수치"
+                        }
+                    }
                 },
-                "displayInChat": "채팅에 표시"
+                "displayInChat": "채팅에 표시",
+                "countdown": {
+                    "defaultOwnership": "기본 소유권",
+                    "startCountdown": "카운트다운 시작"
+                },
+                "damage": {
+                    "multiplier": "배수",
+                    "flatMultiplier": "고정 배수"
+                },
+                "general": {
+                    "customFormula": "사용자 지정 공식",
+                    "formula": "공식"
+                },
+                "area": {
+                    "sectionTitle": "범위",
+                    "shape": "모양",
+                    "size": "크기"
+                },
+                "deleteTriggerTitle": "트리거 삭제",
+                "deleteTriggerContent": "{trigger} 트리거를 삭제하시겠습니까?",
+                "advantageState": "이점 상태",
+                "damageOnSave": "내성 성공 시 피해",
+                "useDefaultItemValues": "아이템 기본값 사용"
             },
             "RollField": {
                 "diceRolling": {
@@ -94,6 +149,21 @@
                 },
                 "cost": {
                     "stepTooltip": "단계당 +{step}"
+                },
+                "attackModifier": "공격 수정치",
+                "criticalThreshold": "치명타 기준값",
+                "groupAttack": {
+                    "label": "집단 공격"
+                },
+                "saveHint": "대응 굴림을 활성화하려면 기본 능력치를 설정하세요. 이후 대응 굴림 대화상자에서 변경할 수 있습니다.",
+                "summon": {
+                    "dropSummonsHere": "소환물을 여기에 드롭"
+                },
+                "transform": {
+                    "dropTransformHere": "변신 대상을 여기에 드롭",
+                    "actorIsMissing": "연결된 액터가 없습니다. 이 연결을 삭제해야 합니다.",
+                    "clearHitPoints": "HP 초기화",
+                    "clearStress": "스트레스 초기화"
                 }
             }
         },
@@ -101,12 +171,17 @@
             "Config": {
                 "rangeDependence": {
                     "title": "거리 의존성"
-                }
+                },
+                "stacking": {
+                    "title": "중첩"
+                },
+                "targetDispositions": "영향받는 성향"
             },
             "RangeDependance": {
                 "hint": "이 효과가 발동되어야 하는 선택적 거리 설정",
                 "title": "거리에 따라 달라짐"
-            }
+            },
+            "immuneStatusText": "면역: {status}"
         },
         "ACTORS": {
             "Adversary": {
@@ -183,7 +258,10 @@
                     }
                 },
                 "hordeDamage": "무리 피해",
-                "horderHp": "무리/HP"
+                "horderHp": "무리/HP",
+                "adversaryReactionRoll": {
+                    "headerTitle": "적대자 대응 굴림"
+                }
             },
             "Character": {
                 "advantageSources": {
@@ -233,7 +311,31 @@
                     "confirmText": "지금 동반자 {name}을(를) {levelChange}만큼 레벨업 하시겠습니까? (나중에 직접 할 수도 있습니다)"
                 },
                 "InvalidOldCharacterImportTitle": "구버전 캐릭터 가져오기",
-                "InvalidOldCharacterImportText": "시스템 버전 1.1 이전에 내보낸 캐릭터 데이터로는 완전한 캐릭터를 만들 수 없습니다. 계속하시겠습니까?"
+                "InvalidOldCharacterImportText": "시스템 버전 1.1 이전에 내보낸 캐릭터 데이터로는 완전한 캐릭터를 만들 수 없습니다. 계속하시겠습니까?",
+                "backgroundQuestions": "배경",
+                "burden": {
+                    "ignore": {
+                        "label": "부담: 무시",
+                        "hint": "부담 규칙을 무시합니다"
+                    }
+                },
+                "connections": "관계",
+                "defaultHopeDice": "기본 희망 주사위",
+                "defaultFearDice": "기본 공포 주사위",
+                "defaultAdvantageDice": "기본 이점 주사위",
+                "defaultDisadvantageDice": "기본 불리점 주사위",
+                "roll": {
+                    "guaranteedCritical": {
+                        "label": "치명타 확정",
+                        "hint": "1로 설정하면 항상 치명타를 굴립니다"
+                    }
+                },
+                "viewLevelups": "레벨업 보기",
+                "resetCharacter": "캐릭터 초기화",
+                "viewParty": "파티 보기",
+                "cancelBeastform": "야수 형태 취소",
+                "resetCharacterConfirmationTitle": "캐릭터 초기화",
+                "resetCharacterConfirmationContent": "이름과 초상화를 제외한 모든 캐릭터 데이터를 초기화합니다. 계속하시겠습니까?"
             },
             "Companion": {
                 "FIELDS": {
@@ -285,6 +387,32 @@
                     }
                 },
                 "newAdversary": "새 적대자"
+            },
+            "Base": {
+                "CannotAddType": "{actorType} 액터에 {itemType} 아이템을 추가할 수 없습니다."
+            },
+            "NPC": {
+                "FIELDS": {
+                    "motives": {
+                        "label": "동기"
+                    }
+                }
+            },
+            "Party": {
+                "Subtitle": {
+                    "character": "{community} {ancestry} | {subclass} {class}",
+                    "companion": "{partner}의 동반자"
+                },
+                "RemoveConfirmation": {
+                    "title": "멤버 {name} 제거",
+                    "text": "{name}을(를) 파티에서 제거하시겠습니까?"
+                },
+                "Thresholds": {
+                    "minor": "경미",
+                    "major": "중대",
+                    "severe": "심각"
+                },
+                "triggerRestContent": "플레이어가 휴식 시간 동작을 하도록 대화상자를 띄웁니다. 계속하시겠습니까?"
             }
         },
         "APPLICATIONS": {
@@ -296,7 +424,8 @@
                     "experience": "경험",
                     "traits": "능력치",
                     "domainCards": "권역 카드",
-                    "equipment": "장비"
+                    "equipment": "장비",
+                    "story": "이야기"
                 },
                 "ancestryNamePlaceholder": "혈통 이름",
                 "buttonTitle": "캐릭터 생성",
@@ -323,14 +452,21 @@
                 "suggestedTraits": "추천 능력치",
                 "suggestedWeapons": "추천 무기",
                 "title": "{actor} - 캐릭터 생성",
-                "traitIncreases": "능력치 증가"
+                "traitIncreases": "능력치 증가",
+                "setupSkipTitle": "캐릭터 설정 건너뛰기",
+                "setupSkipContent": "이 항목을 직접 추가하여 캐릭터 설정을 건너뜁니다. 캐릭터 설정은 우측 상단에서 깜빡이는 버튼입니다. 계속하시겠습니까?",
+                "storyExplanation": "캐릭터 배경에 복사할 배경 및 관계 프롬프트를 선택하세요."
             },
             "CombatTracker": {
                 "combatStarted": "진행 중",
                 "giveSpotlight": "강조 주기",
                 "requestingSpotlight": "강조 요청 중",
                 "requestSpotlight": "강조 요청",
-                "openCountdowns": "카운트다운"
+                "openCountdowns": "카운트다운",
+                "adversaryCategories": {
+                    "friendly": "우호적",
+                    "adversaries": "적대자"
+                }
             },
             "ContextMenu": {
                 "disableEffect": "효과 비활성화",
@@ -340,7 +476,8 @@
                 "toLoadout": "장비로 보내기",
                 "toVault": "보관소로 보내기",
                 "unequip": "장비 해제",
-                "useItem": "아이템 사용"
+                "useItem": "아이템 사용",
+                "recall": "회수"
             },
             "Countdown": {
                 "addCountdown": "카운트다운 추가",
@@ -365,7 +502,19 @@
                                     "value": {
                                         "label": "값"
                                     }
+                                },
+                                "looping": {
+                                    "label": "반복"
+                                },
+                                "start": {
+                                    "label": "시작"
+                                },
+                                "startFormula": {
+                                    "label": "시작 공식"
                                 }
+                            },
+                            "type": {
+                                "label": "진행 유형"
                             }
                         }
                     }
@@ -379,6 +528,12 @@
                 "types": {
                     "narrative": "서사",
                     "encounter": "전투"
+                },
+                "loopingTypes": {
+                    "noLooping": "반복 없음",
+                    "looping": "반복",
+                    "increasing": "증가",
+                    "decreasing": "감소"
                 }
             },
             "DeleteConfirmation": {
@@ -393,7 +548,9 @@
                 "stressReduction": "스트레스로 피해 감소",
                 "title": "피해 감소",
                 "unncessaryStress": "스트레스를 소모할 필요가 없습니다",
-                "usedMarks": "사용한 슬롯"
+                "usedMarks": "사용한 슬롯",
+                "maxUseableArmor": "사용 가능한 방어 슬롯",
+                "reduceSeverity": "심각도 {nr}만큼 감소"
             },
             "DeathMove": {
                 "selectMove": "행동 선택",
@@ -423,6 +580,10 @@
                     "workOnAProject": {
                         "description": "프로젝트를 시작하거나 이어서 작업하세요.",
                         "name": "프로젝트 작업"
+                    },
+                    "prepareWithFriends": {
+                        "description": "파티원 한 명 이상과 함께 준비하며, 각자 희망 2를 얻습니다.",
+                        "name": "준비 (함께)"
                     }
                 },
                 "shortRest": {
@@ -443,6 +604,10 @@
                     "prepare": {
                         "name": "준비",
                         "description": "앞으로의 여정을 어떻게 준비하는지 묘사한 뒤 희망을 얻으세요. 일행 한 명 이상과 함께 준비한다면 각자 희망 2를 얻습니다."
+                    },
+                    "prepareWithFriends": {
+                        "name": "준비 (함께)",
+                        "description": "파티원 한 명 이상과 함께 준비하며, 각자 희망 2를 얻습니다."
                     }
                 },
                 "refreshable": {
@@ -452,7 +617,11 @@
             },
             "HUD": {
                 "tokenHUD": {
-                    "genericEffects": "Foundry 효과"
+                    "genericEffects": "Foundry 효과",
+                    "depositPartyTokens": "파티 토큰 보관",
+                    "retrievePartyTokens": "파티 토큰 꺼내기",
+                    "depositCompanionTokens": "동반자 토큰 보관",
+                    "retrieveCompanionTokens": "동반자 토큰 꺼내기"
                 }
             },
             "Levelup": {
@@ -539,21 +708,26 @@
                     "label": "레벨 2-4",
                     "infoLabel": "레벨 2에서 +2 값의 추가 경험과 숙련도에 +1 보너스를 얻습니다.",
                     "pretext": "아래 목록에서 두 가지 옵션을 선택하세요",
-                    "posttext": "당신이 사용 가능한 영역에서 자신의 레벨 이하의 권역 카드를 하나 추가로 가져오세요."
+                    "posttext": "당신이 사용 가능한 영역에서 자신의 레벨 이하의 권역 카드를 하나 추가로 가져오세요.",
+                    "name": "2등급"
                 },
                 "tier3": {
                     "label": "레벨 5-7",
                     "infoLabel": "레벨 5에서 추가 경험을 얻고 능력치의 모든 표시를 제거합니다.",
                     "pretext": "레벨업할 때 캐릭터 시트에 기록한 뒤, 아래 목록에서 두 가지 옵션을 선택하거나 이전 등급에서 표시되지 않은 옵션을 고르세요.",
-                    "posttext": "당신이 사용 가능한 영역에서 자신의 레벨 이하의 권역 카드를 하나 추가로 가져오세요."
+                    "posttext": "당신이 사용 가능한 영역에서 자신의 레벨 이하의 권역 카드를 하나 추가로 가져오세요.",
+                    "name": "3등급"
                 },
                 "tier4": {
                     "label": "레벨 8-10",
                     "infoLabel": "레벨 8에서 추가 경험을 얻고 능력치의 모든 표시를 제거합니다.",
                     "pretext": "레벨업할 때 캐릭터 시트에 기록한 뒤, 아래 목록에서 두 가지 옵션을 선택하거나 이전 등급에서 표시되지 않은 옵션을 고르세요.",
-                    "posttext": "당신이 사용 가능한 영역에서 자신의 레벨 이하의 권역 카드를 하나 추가로 가져오세요."
+                    "posttext": "당신이 사용 가능한 영역에서 자신의 레벨 이하의 권역 카드를 하나 추가로 가져오세요.",
+                    "name": "4등급"
                 },
-                "title": "{actor} 레벨업"
+                "title": "{actor} 레벨업",
+                "finishLevelup": "레벨업 완료",
+                "viewModeTitle": "{actor} 레벨업 (보기 모드)"
             },
             "MulticlassChoice": {
                 "title": "다중클래스 - {actor}",
@@ -562,7 +736,8 @@
             },
             "OwnershipSelection": {
                 "title": "소유자 선택 - {name}",
-                "default": "기본 소유권"
+                "default": "기본 소유권",
+                "noPlayers": "소유권을 부여할 플레이어가 없습니다"
             },
             "ReactionRoll": {
                 "title": "대응 굴림: {trait}"
@@ -575,6 +750,126 @@
             "ResourceDice": {
                 "title": "자원 {name}",
                 "rerollDice": "주사위 재굴림"
+            },
+            "Attribution": {
+                "title": "출처 표기"
+            },
+            "CharacterReset": {
+                "title": "캐릭터 초기화",
+                "alwaysDeleteSection": "삭제될 데이터",
+                "optionalDeleteSection": "선택적 데이터",
+                "headerTitle": "유지할 데이터를 선택하세요"
+            },
+            "CompendiumBrowserSettings": {
+                "title": "주제집 활성화",
+                "enableSource": "출처 활성화",
+                "disableSource": "출처 비활성화",
+                "worldCompendiums": "월드 주제집"
+            },
+            "CountdownEdit": {
+                "title": "카운트다운 편집",
+                "viewTitle": "카운트다운",
+                "editTitle": "카운트다운 편집",
+                "newCountdown": "새 카운트다운",
+                "removeCountdownTitle": "카운트다운 제거",
+                "removeCountdownText": "카운트다운 {name}을(를) 제거하시겠습니까?",
+                "current": "현재 값",
+                "start": "시작 값",
+                "startFormula": "무작위 시작 값 공식",
+                "currentCountdownCurrent": "현재: {value}",
+                "currentCountdownStart": "시작: {value}",
+                "category": "분류",
+                "progressionType": "진행",
+                "decreasing": "감소",
+                "looping": "반복",
+                "defaultOwnershipTooltip": "카운트다운의 기본 플레이어 소유권",
+                "hideNewCountdowns": "새 카운트다운 숨기기"
+            },
+            "CreateItemDialog": {
+                "createItem": "아이템 생성",
+                "browseCompendium": "주제집 탐색"
+            },
+            "DaggerheartMenu": {
+                "title": "GM 도구",
+                "refreshFeatures": "특성 새로고침",
+                "fallingAndCollision": "낙하 및 충돌 피해"
+            },
+            "ImageSelect": {
+                "title": "이미지 선택",
+                "selectImage": "이미지 선택"
+            },
+            "ItemTransfer": {
+                "transfer": "이전"
+            },
+            "PendingReactionsDialog": {
+                "title": "대기 중인 대응 굴림 발견",
+                "unfinishedRolls": "일부 토큰이 대응 굴림을 끝내지 않았습니다.",
+                "warning": "끝내지 않은 대응 굴림은 실패로 간주됩니다.",
+                "confirmation": "계속하시겠습니까?"
+            },
+            "RiskItAllDialog": {
+                "title": "{name} - 모든 것을 걸기",
+                "subtitle": "스트레스와 HP 초기화",
+                "remainingTitle": "남은 점수",
+                "clearResource": "{resource} 초기화",
+                "finalTitle": "최종 캐릭터 자원"
+            },
+            "TagTeamSelect": {
+                "title": "태그 팀 굴림",
+                "FIELDS": {
+                    "initiator": {
+                        "memberId": {
+                            "label": "시작 캐릭터"
+                        },
+                        "cost": {
+                            "label": "희망 비용"
+                        }
+                    }
+                },
+                "leaderTitle": "시작 캐릭터",
+                "membersTitle": "참가자",
+                "partyTeam": "파티 팀",
+                "hopeCost": "희망 비용",
+                "initiatingCharacter": "시작 캐릭터",
+                "selectParticipants": "참가자 두 명을 선택하세요",
+                "startTagTeamRoll": "태그 팀 굴림 시작",
+                "openDialogForAll": "모두에게 대화상자 열기",
+                "rollType": "굴림 유형",
+                "makeYourRoll": "굴림을 하세요",
+                "cancelTagTeamRoll": "태그 팀 굴림 취소",
+                "finishTagTeamRoll": "태그 팀 굴림 완료",
+                "linkMessageHint": "캐릭터 시트에서 굴림을 하여 태그 팀 굴림에 연결하세요",
+                "damageNotRolled": "채팅 메시지에서 아직 피해를 굴리지 않았습니다",
+                "insufficientHope": "시작 캐릭터의 희망이 부족합니다",
+                "createTagTeam": "태그 팀 굴림 생성",
+                "chatMessageRollTitle": "굴림",
+                "cancelConfirmTitle": "태그 팀 굴림 취소",
+                "cancelConfirmText": "태그 팀 굴림을 취소하시겠습니까? 다른 모든 플레이어에게도 닫힙니다.",
+                "hints": {
+                    "completeRolls": "캐릭터들의 굴림을 설정하고 완료하세요",
+                    "selectRoll": "태그 팀에 사용할 굴림 값을 선택하세요"
+                }
+            },
+            "GroupRollSelect": {
+                "cancelConfirmText": "집단 굴림을 취소하시겠습니까? 다른 모든 플레이어에게도 닫힙니다.",
+                "cancelConfirmTitle": "집단 굴림 취소",
+                "initializationTitle": "캐릭터 선택",
+                "finishGroupRoll": "집단 굴림 완료",
+                "leader": "리더",
+                "leaderRoll": "리더 굴림",
+                "members": "멤버",
+                "openDialogForAll": "모두에게 대화상자 열기",
+                "removeRoll": "굴림 제거",
+                "resultsHint": "캐릭터가 굴리면 결과가 표시됩니다",
+                "selectLeaderHint": "리더가 될 캐릭터 한 명을 선택하세요",
+                "selectParticipantsHint": "리더가 될 캐릭터 한 명을 선택하세요",
+                "startGroupRoll": "집단 굴림 시작",
+                "title": "집단 굴림"
+            },
+            "TokenConfig": {
+                "actorSizeUsed": "액터 크기가 설정되어 치수를 결정합니다",
+                "tokenSize": "토큰 크기",
+                "sizeCategory": "크기 분류"
             }
         },
         "CLASS": {
@@ -902,13 +1197,21 @@
                 },
                 "vulnerable": {
                     "name": "취약",
-                    "description": "취약한 존재에 대한 모든 굴림은 이점로 이루어집니다.\n이미 취약한 존재는 다시 이 상태를 받을 수 없습니다."
+                    "description": "취약한 존재에 대한 모든 굴림은 이점로 이루어집니다.\n이미 취약한 존재는 다시 이 상태를 받을 수 없습니다.",
+                    "autoAppliedByLabel": "최대 스트레스"
+                },
+                "deathMove": {
+                    "name": "죽음 동작",
+                    "description": "캐릭터가 죽음 동작을 하려고 합니다"
                 }
             },
             "CountdownType": {
                 "spotlight": "강조됨",
                 "custom": "사용자 정의",
-                "characterAttack": "캐릭터 공격"
+                "characterAttack": "캐릭터 공격",
+                "actionRoll": "행동 굴림",
+                "characterSpotlight": "캐릭터 강조",
+                "fear": "공포"
             },
             "DamageType": {
                 "physical": {
@@ -918,6 +1221,11 @@
                 "magical": {
                     "name": "마법",
                     "abbreviation": "마"
+                },
+                "direct": {
+                    "name": "직접 피해",
+                    "short": "직접",
+                    "abbreviation": "직접"
                 }
             },
             "DeathMoves": {
@@ -967,23 +1275,28 @@
             "HealingType": {
                 "hitPoints": {
                     "name": "HP",
-                    "abbreviation": "HP"
+                    "abbreviation": "HP",
+                    "inChatRoll": "피해"
                 },
                 "stress": {
                     "name": "스트레스",
-                    "abbreviation": "스트"
+                    "abbreviation": "스트",
+                    "inChatRoll": "스트레스"
                 },
                 "hope": {
                     "name": "희망",
-                    "abbreviation": "희망"
+                    "abbreviation": "희망",
+                    "inChatRoll": "희망"
                 },
                 "armor": {
                     "name": "방어 슬롯",
-                    "abbreviation": "방슬"
+                    "abbreviation": "방슬",
+                    "inChatRoll": "방어 슬롯"
                 },
                 "fear": {
                     "name": "공포",
-                    "abbreviation": "공포"
+                    "abbreviation": "공포",
+                    "inChatRoll": "공포"
                 }
             },
             "ItemResourceProgression": {
@@ -992,7 +1305,8 @@
             },
             "ItemResourceType": {
                 "simple": "단순",
-                "diceValue": "주사위 값"
+                "diceValue": "주사위 값",
+                "die": "주사위"
             },
             "Range": {
                 "self": {
@@ -1056,7 +1370,9 @@
                 "emanation": "방출",
                 "inFront": "앞쪽",
                 "rect": "직사각형",
-                "ray": "선"
+                "ray": "선",
+                "rectangle": "직사각형",
+                "line": "직선"
             },
             "Traits": {
                 "agility": {
@@ -1625,6 +1941,144 @@
                         }
                     }
                 }
+            },
+            "ActiveEffectDuration": {
+                "temporary": "일시적",
+                "act": "다음 강조",
+                "scene": "다음 장면",
+                "shortRest": "다음 휴식",
+                "longRest": "다음 긴 휴식",
+                "session": "다음 세션",
+                "custom": "사용자 지정"
+            },
+            "ActionAutomationChoices": {
+                "never": "안 함",
+                "showDialog": "대화상자만 표시",
+                "always": "항상"
+            },
+            "AdversaryTypeCost": {
+                "minion": "파티 규모와 같은 수의 졸개 무리마다.",
+                "support": "사회형 또는 지원형 적대자마다.",
+                "standard": "무리, 사격형, 매복형, 또는 일반형 적대자마다.",
+                "leader": "지휘관 적대자마다.",
+                "bruiser": "돌격형 적대자마다.",
+                "solo": "단독형 적대자마다."
+            },
+            "ArmorInteraction": {
+                "none": {
+                    "label": "방어구 무시"
+                },
+                "active": {
+                    "label": "방어구 착용 시 활성"
+                },
+                "inactive": {
+                    "label": "방어구 착용 시 비활성"
+                }
+            },
+            "BPModifiers": {
+                "increaseDamage": {
+                    "description": "전투를 길게 늘이지 않고 난이도를 높이려면 모든 적대자의 피해 굴림에 +1d4(또는 고정 +2)를 더하는 경우",
+                    "effect": {
+                        "name": "피해 증가",
+                        "description": "피해에 1d4 추가"
+                    }
+                },
+                "lessDifficult": {
+                    "description": "전투가 덜 어렵거나 짧아야 하는 경우."
+                },
+                "lowerTier": {
+                    "description": "더 낮은 등급의 적대자를 선택하는 경우."
+                },
+                "manySolos": {
+                    "description": "단독형 적대자를 2명 이상 사용하는 경우."
+                },
+                "moreDangerous": {
+                    "description": "전투가 더 위험하거나 길게 지속되어야 하는 경우"
+                },
+                "noToughies": {
+                    "description": "돌격형, 무리, 지휘관, 단독형을 전혀 포함하지 않는 경우"
+                }
+            },
+            "DaggerheartDiceAnimationEvents": {
+                "critical": {
+                    "name": "치명타"
+                },
+                "higher": {
+                    "name": "최고 굴림"
+                }
+            },
+            "fallAndCollision": {
+                "veryClose": {
+                    "label": "매우 가까움",
+                    "chatTitle": "낙하 피해: 매우 가까움"
+                },
+                "close": {
+                    "label": "가까움",
+                    "chatTitle": "낙하 피해: 가까움"
+                },
+                "far": {
+                    "label": "멂",
+                    "chatTitle": "낙하 피해: 멂"
+                },
+                "collision": {
+                    "label": "충돌",
+                    "chatTitle": "위험한 충돌"
+                }
+            },
+            "FeatureForm": {
+                "label": "특성 형식",
+                "passive": "지속형",
+                "action": "행동",
+                "reaction": "대응"
+            },
+            "SceneRangeMeasurementTypes": {
+                "disable": "Daggerheart 거리 측정 비활성화",
+                "default": "기본",
+                "custom": "사용자 지정"
+            },
+            "TagTeamRollTypes": {
+                "trait": "능력치",
+                "ability": "능력",
+                "damageAbility": "피해 능력"
+            },
+            "TargetTypes": {
+                "any": "모두",
+                "friendly": "우호적",
+                "hostile": "적대적",
+                "self": "자신",
+                "other": "기타"
+            },
+            "TokenSize": {
+                "tiny": "초소형",
+                "small": "소형",
+                "medium": "중형",
+                "large": "대형",
+                "huge": "초대형",
+                "gargantuan": "거대형"
+            },
+            "Triggers": {
+                "postDamageReduction": {
+                    "label": "피해 감소 후"
+                },
+                "preDamageReduction": {
+                    "label": "피해 감소 전"
+                },
+                "dualityRoll": {
+                    "label": "이중성 굴림"
+                },
+                "fearRoll": {
+                    "label": "공포 굴림"
+                },
+                "triggerTexts": {
+                    "strangePatternsContentTitle": "{nr}회 일치했습니다.",
+                    "strangePatternsContentSubTitle": "희망과 스트레스를 합계 {nr}까지 올리세요.",
+                    "strangePatternsActionExplanation": "왼쪽 클릭으로 증가, 오른쪽 클릭으로 감소",
+                    "ferocityContent": "희망 2를 소모하여 다음 공격이 끝날 때까지 회피 {bonus}를 얻으시겠습니까?",
+                    "ferocityEffectDescription": "회피가 {bonus}만큼 증가합니다. 이 보너스는 당신에게 가해지는 다음 공격이 끝날 때까지 지속됩니다."
+                },
+                "triggerType": "트리거 유형",
+                "triggeringActorType": "트리거 발동 액터 유형",
+                "triggerError": "{actor}의 {trigger} 트리거가 실패했습니다. 잘못 설정되었을 수 있습니다."
             }
         },
         "EFFECTS": {
@@ -1660,6 +2114,17 @@
             "Attachments": {
                 "attachHint": "여기로 아이템을 끌어다 놓아 부착하세요",
                 "transferHint": "체크하면 이 효과는 효과의 상위 아이템을 소유한 모든 캐릭터에게 적용됩니다. 이 아이템이 다른 아이템에 부착되어 있는 경우에는 효과가 항상 적용됩니다."
+            },
+            "ChangeTypes": {
+                "armor": {
+                    "newArmorEffect": "방어구 효과",
+                    "FIELDS": {
+                        "interaction": {
+                            "label": "방어구 상호작용",
+                            "hint": "방어구를 착용한 캐릭터에게 이 효과가 억제되나요?"
+                        }
+                    }
+                }
             }
         },
         "GENERAL": {
@@ -1698,7 +2163,9 @@
                             "label": "긴 휴식: 추가 긴 휴식 행동",
                             "hint": "캐릭터가 긴 휴식 동안 추가로 할 수 있는 긴 휴식 행동의 수."
                         }
-                    }
+                    },
+                    "target": "대상",
+                    "targetSelf": "자신"
                 },
                 "maxLoadout": {
                     "label": "최대 장비 카드 수 보너스"
@@ -1721,7 +2188,8 @@
                 "physicalDamage": "물리 피해",
                 "magicalDamage": "마법 피해",
                 "primaryWeapon": "주 무기 피해",
-                "secondaryWeapon": "보조 무기 피해"
+                "secondaryWeapon": "보조 무기 피해",
+                "massive": "대량"
             },
             "DamageResistance": {
                 "none": "없음",
@@ -1884,6 +2352,33 @@
                             "label": "스트레스로 피해 감소: 작은",
                             "hint": "경미한 피해를 0으로 줄이기 위해 지불할 수 있는 스트레스 비용."
                         }
+                    },
+                    "disabledArmor": {
+                        "label": "비활성 방어 슬롯"
+                    },
+                    "magical": {
+                        "label": "피해 감소: 마법 피해만",
+                        "hint": "방어구로 마법 피해만 감소시킬 수 있습니다"
+                    },
+                    "reduceSeverity": {
+                        "magical": {
+                            "label": "피해 심각도 감소: 마법",
+                            "hint": "받는 모든 마법 피해의 심각도를 설정한 단계만큼 낮춥니다"
+                        },
+                        "physical": {
+                            "label": "피해 심각도 감소: 물리",
+                            "hint": "받는 모든 물리 피해의 심각도를 설정한 단계만큼 낮춥니다"
+                        }
+                    },
+                    "physical": {
+                        "label": "피해 감소: 물리 피해만",
+                        "hint": "방어구로 물리 피해만 감소시킬 수 있습니다"
+                    },
+                    "thresholdImmunities": {
+                        "minor": {
+                            "label": "임계치 면역: 경미",
+                            "hint": "1로 설정하면 경미한 피해를 자동으로 무시합니다"
+                        }
                     }
                 },
                 "attack": {
@@ -1901,6 +2396,11 @@
                             "label": "기본 공격: 능력치"
                         }
                     }
+                },
+                "conditionImmunities": {
+                    "hidden": "상태 면역: 은신",
+                    "restrained": "상태 면역: 속박",
+                    "vulnerable": "상태 면역: 취약"
                 }
             },
             "Tabs": {
@@ -1942,14 +2442,27 @@
                 "tier4": "등급 4",
                 "domains": "영역",
                 "downtime": "휴식 시간",
-                "rules": "규칙"
+                "rules": "규칙",
+                "itemFeatures": "아이템 특성",
+                "resources": "자원",
+                "roll": "굴림",
+                "partyMembers": "파티원",
+                "projects": "프로젝트",
+                "types": "유형",
+                "questions": "질문",
+                "configuration": "설정",
+                "base": "기본",
+                "triggers": "트리거",
+                "deathMoves": "죽음 동작",
+                "sources": "출처",
+                "packs": "팩"
             },
             "Tiers": {
-                "singular": "등급",
                 "1": "등급 1",
                 "2": "등급 2",
                 "3": "등급 3",
-                "4": "등급 4"
+                "4": "등급 4",
+                "singular": "등급"
             },
             "Trait": {
                 "single": "능력치",
@@ -2062,7 +2575,77 @@
             "used": "사용함",
             "uses": "사용 횟수",
             "value": "값",
-            "withThing": "{thing} 포함"
+            "withThing": "{thing} 포함",
+            "Ability": {
+                "single": "능력",
+                "plural": "능력"
+            },
+            "Attack": {
+                "hpDamageMultiplier": {
+                    "label": "HP 피해 배수",
+                    "hint": "가하는 모든 피해에 이 수를 곱합니다"
+                },
+                "hpDamageTakenMultiplier": {
+                    "label": "받는 HP 피해 배수",
+                    "hint": "당신에게 가해지는 모든 피해에 이 수를 곱합니다"
+                }
+            },
+            "Battlepoints": {
+                "full": "전투 점수",
+                "short": "BP"
+            },
+            "SpotlightRequests": {
+                "singular": "강조 요청",
+                "plural": "강조 요청"
+            },
+            "armorFeatures": "방어구 특성",
+            "artistAttribution": "삽화: {artist}",
+            "automation": "자동화",
+            "condition": "상태",
+            "currentLevel": "현재 레벨",
+            "custom": "사용자 지정",
+            "dualityDice": "이중성 주사위",
+            "effect": "효과",
+            "fate": "운명",
+            "fateRoll": "운명 굴림",
+            "general": "일반",
+            "gm": "GM",
+            "guaranteedCriticalSuccess": "치명적 성공 확정",
+            "icon": "아이콘",
+            "initial": "초기",
+            "itemQuantity": "아이템 수량",
+            "missingX": "{x} 없음",
+            "name": "이름",
+            "newThing": "새 {thing}",
+            "next": "다음",
+            "optionalThing": "선택 {thing}",
+            "player": {
+                "single": "플레이어",
+                "plurial": "플레이어"
+            },
+            "portrait": "초상화",
+            "preview": "미리보기",
+            "refresh": "새로고침",
+            "rerolled": "재굴림됨",
+            "result": {
+                "single": "결과",
+                "plural": "결과"
+            },
+            "saveSettings": "설정 저장",
+            "scars": "상흔",
+            "searchPlaceholder": "검색...",
+            "spent": "소모됨",
+            "step": "단계",
+            "summon": {
+                "single": "소환물",
+                "plural": "소환물"
+            },
+            "thingsAndThing": "{things} 및 {thing}",
+            "tokenSize": "토큰 크기",
+            "traitModifier": "능력치 수정치",
+            "typeSheet": "시스템 {type} 시트",
+            "weaponFeatures": "무기 특성",
+            "weapons": "무기"
         },
         "ITEMS": {
             "FIELDS": {
@@ -2091,11 +2674,26 @@
                     "value": {
                         "label": "값"
                     }
+                },
+                "attribution": {
+                    "source": {
+                        "label": "출처"
+                    },
+                    "page": {
+                        "label": "쪽"
+                    },
+                    "artist": {
+                        "label": "삽화가"
+                    }
+                },
+                "identifier": {
+                    "label": "식별자"
                 }
             },
             "Ancestry": {
                 "primaryFeature": "주 특성",
-                "secondaryFeature": "보조 특성"
+                "secondaryFeature": "보조 특성",
+                "featuresLabel": "혈통 특성"
             },
             "Armor": {
                 "baseScore": "기본 점수",
@@ -2135,6 +2733,13 @@
                         },
                         "width": {
                             "label": "너비"
+                        },
+                        "disabledPlaceholder": "토큰 크기",
+                        "depth": {
+                            "label": "깊이"
+                        },
+                        "scale": {
+                            "label": "토큰 배율"
                         }
                     },
                     "evolved": {
@@ -2167,7 +2772,11 @@
                 "evolvedDrag": "여기에 형태를 드래그하여 진화시키세요.",
                 "hybridize": "혼합화",
                 "hybridizeFeatureTitle": "혼합 특성",
-                "hybridizeDrag": "여기에 형태를 드래그하여 혼합화하세요."
+                "hybridizeDrag": "여기에 형태를 드래그하여 혼합화하세요.",
+                "mainTrait": "주요 능력치",
+                "traitBonus": "능력치 보너스",
+                "evolvedTokenHint": "진화한 야수 형태의 토큰은 진화 대상이 된 형태의 토큰을 기반으로 합니다",
+                "evolvedImagePlaceholder": "진화를 위해 선택한 형태의 이미지가 사용됩니다"
             },
             "Class": {
                 "hopeFeatures": "희망 특성",
@@ -2181,7 +2790,12 @@
                         "thenChoose": "그 다음 중에서 선택",
                         "andEither": "그리고 다음 중 하나"
                     }
-                }
+                },
+                "startingEvasionScore": "초기 회피 점수",
+                "startingHitPoints": "초기 HP",
+                "classItems": "클래스 아이템",
+                "hopeFeatureLabel": "{class}의 희망 기능",
+                "classFeature": "클래스 기능"
             },
             "Consumable": {
                 "consumeOnUse": "사용 시 소모"
@@ -2191,15 +2805,31 @@
                 "recallCost": "회상 비용",
                 "foundationTitle": "기초",
                 "specializationTitle": "특화",
-                "masteryTitle": "숙련"
+                "masteryTitle": "숙련",
+                "vaultActive": "보관소에서 활성",
+                "loadoutIgnore": "장비 제한 무시",
+                "domainTouched": "권역의 가호"
             },
             "Subclass": {
-                "spellcastingTrait": "주문 시전 능력치"
+                "spellcastingTrait": "주문 시전 능력치",
+                "spellcastTrait": "주문시전 능력치",
+                "foundationFeatures": "기초 기능",
+                "specializationFeature": "전문화 기능",
+                "masteryFeature": "숙련 기능"
             },
             "Weapon": {
                 "weaponType": "무기 종류",
-                "primaryWeapon": "주 무기",
-                "secondaryWeapon": "보조 무기"
+                "primaryWeapon": {
+                    "full": "주 무기",
+                    "short": "주"
+                },
+                "secondaryWeapon": {
+                    "full": "보조 무기",
+                    "short": "보조"
+                }
+            },
+            "Community": {
+                "featuresLabel": "공동체 특성"
             }
         },
         "SETTINGS": {
@@ -2226,6 +2856,38 @@
                     },
                     "extendItemDescriptions": {
                         "label": "아이템"
+                    },
+                    "displayCountdownUI": {
+                        "label": "카운트다운 UI 표시"
+                    },
+                    "hideAttribution": {
+                        "label": "출처 표기 숨기기"
+                    },
+                    "showTokenDistance": {
+                        "label": "마우스 올릴 때 토큰 거리 표시",
+                        "choices": {
+                            "always": "항상",
+                            "encounters": "전투 중",
+                            "never": "안 함"
+                        }
+                    },
+                    "expandRollMessage": {
+                        "title": "메시지 단락 자동 펼치기",
+                        "desc": {
+                            "label": "설명"
+                        },
+                        "roll": {
+                            "label": "공식"
+                        },
+                        "damage": {
+                            "label": "피해/치유"
+                        },
+                        "target": {
+                            "label": "대상"
+                        }
+                    },
+                    "useResourcePips": {
+                        "label": "자원을 점으로 표시"
                     }
                 },
                 "fearDisplay": {
@@ -2259,6 +2921,18 @@
                         },
                         "companionDefault": {
                             "label": "기본 동반자 패배 상태"
+                        },
+                        "deathMove": {
+                            "label": "죽음 동작"
+                        },
+                        "dead": {
+                            "label": "사망"
+                        },
+                        "defeated": {
+                            "label": "패배"
+                        },
+                        "unconscious": {
+                            "label": "기절"
                         }
                     },
                     "hopeFear": {
@@ -2295,10 +2969,59 @@
                     "playerCanEditSheet": {
                         "label": "플레이어가 캐릭터 설정을 수동 편집 가능",
                         "hint": "플레이어가 캐릭터 수동 설정에 접근하여 규칙을 우회해 능력치를 변경할 수 있도록 허용합니다."
+                    },
+                    "autoExpireActiveEffects": {
+                        "label": "활성 효과 자동 만료",
+                        "hint": "지속 시간이 설정된 활성 효과는 지속 시간이 끝나면 자동으로 제거됩니다"
+                    },
+                    "vulnerableAutomation": {
+                        "label": "취약 자동화",
+                        "hint": "액터가 최대 스트레스에 도달하면 취약 상태를 자동으로 적용합니다"
+                    },
+                    "countdownAutomation": {
+                        "label": "카운트다운 자동화",
+                        "hint": "진행 설정에 따라 카운트다운을 자동으로 진행합니다"
+                    },
+                    "roll": {
+                        "roll": {
+                            "label": "굴림",
+                            "hint": "공격, 주문시전 등 굴림의 자동 동작"
+                        },
+                        "damage": {
+                            "label": "피해/치유 굴림",
+                            "hint": "공격/주문시전 이후 피해 및 치유 굴림의 자동 동작."
+                        },
+                        "save": {
+                            "label": "대응 굴림",
+                            "hint": "대응 굴림이 필요할 때의 자동 동작. 동작 실행 전에 대상을 선택해야 합니다"
+                        },
+                        "damageApply": {
+                            "label": "피해/치유 적용",
+                            "hint": "피해 및 치유를 자동으로 적용합니다. 동작 실행 전에 대상을 선택해야 하며 대응 굴림 자동화가 '안 함'이 아니어야 합니다. 사용자 권한을 우회합니다."
+                        },
+                        "effect": {
+                            "label": "효과 적용",
+                            "hint": "효과를 자동으로 적용합니다. 동작 실행 전에 대상을 선택해야 하며 대응 굴림 자동화가 '안 함'이 아니어야 합니다. 사용자 권한을 우회합니다."
+                        }
+                    },
+                    "triggers": {
+                        "enabled": {
+                            "label": "활성화",
+                            "hint": "위저드의 기묘한 패턴 팝업 트리거 같은 고급 자동화"
+                        }
+                    },
+                    "summaryMessages": {
+                        "label": "요약 메시지"
                     }
                 },
                 "defeated": {
                     "title": "패배 처리"
+                },
+                "roll": {
+                    "title": "행동"
+                },
+                "trigger": {
+                    "title": "트리거"
                 }
             },
             "Homebrew": {
@@ -2321,6 +3044,22 @@
                     "maxDomains": {
                         "label": "클래스 최대 영역 수",
                         "hint": "클래스에 설정할 수 있는 최대 영역 수"
+                    },
+                    "maxHope": {
+                        "label": "최대 희망"
+                    },
+                    "resources": {
+                        "resources": {
+                            "value": {
+                                "label": "아이콘"
+                            },
+                            "isIcon": {
+                                "label": "Font Awesome 아이콘"
+                            },
+                            "noColorFilter": {
+                                "label": "색상 필터 비활성화"
+                            }
+                        }
                     }
                 },
                 "currency": {
@@ -2330,7 +3069,10 @@
                     "coinName": "동전 이름",
                     "handfulName": "한 줌 이름",
                     "bagName": "주머니 이름",
-                    "chestName": "상자 이름"
+                    "chestName": "상자 이름",
+                    "changeIcon": "화폐 아이콘 변경",
+                    "iconName": "아이콘 이름",
+                    "iconNameHint": "아이콘은 Font Awesome에서 가져옵니다"
                 },
                 "domains": {
                     "domainsTitle": "기본 영역",
@@ -2343,6 +3085,27 @@
                     "deleteDomain": "영역 삭제",
                     "deleteDomainText": "영역 {name}을(를) 정말 삭제하시겠습니까? 이 월드에서 해당 영역을 사용하는 모든 캐릭터에게서 즉시 제거됩니다. 컴펜디움에는 영향을 주지 않습니다.",
                     "duplicateDomain": "동일한 식별자의 영역이 이미 존재합니다."
+                },
+                "downtimeMove": "휴식 시간 동작",
+                "armorFeature": "방어구 특성",
+                "weaponFeature": "무기 특성",
+                "newFeature": "새 아이템 특성",
+                "itemFeatures": "아이템 특성",
+                "resetItemFeaturesTitle": "{type} 초기화",
+                "deleteItemTitle": "홈브루 아이템 삭제",
+                "deleteItemText": "이 아이템을 삭제하시겠습니까?",
+                "deleteResourceTitle": "홈브루 자원 삭제",
+                "deleteResourceText": "이 자원을 삭제하시겠습니까?",
+                "adversaryType": {
+                    "title": "사용자 지정 적대자 유형",
+                    "newType": "적대자 유형"
+                },
+                "resources": {
+                    "typeTitle": "{type} 자원",
+                    "filledIcon": "채워진 아이콘",
+                    "emptyIcon": "빈 아이콘",
+                    "resourceIdentifier": "자원 식별자",
+                    "setResourceIdentifier": "자원 식별자 설정"
                 }
             },
             "Menu": {
@@ -2378,7 +3141,14 @@
                         "texture": "텍스처",
                         "colorset": "테마",
                         "material": "재질",
-                        "system": "주사위 세트"
+                        "system": "주사위 세트",
+                        "font": "글꼴",
+                        "critical": "이중성 치명타 애니메이션",
+                        "muted": "음소거",
+                        "diceAppearance": "주사위 외형",
+                        "animations": "애니메이션",
+                        "defaultAnimations": "애니메이션을 플레이어 기본값으로 설정",
+                        "previewAnimation": "애니메이션 미리보기"
                     }
                 },
                 "variantRules": {
@@ -2387,6 +3157,16 @@
                     "hint": "Daggerheart 시스템의 선택 규칙 적용",
                     "name": "선택 규칙",
                     "actionTokens": "행동 토큰"
+                },
+                "metagaming": {
+                    "name": "메타게이밍 설정",
+                    "label": "메타게이밍 설정",
+                    "hint": "플레이어에게 전달되는 정보 흐름을 제어하는 여러 설정"
+                },
+                "SpotlightRequestQueue": {
+                    "name": "강조 요청 대기열",
+                    "label": "강조 요청 대기열",
+                    "hint": "강조 요청을 오래된 순서대로 정렬하여 더 체계적으로 만듭니다"
                 }
             },
             "Resources": {
@@ -2404,12 +3184,58 @@
                         "tokens": {
                             "label": "토큰"
                         }
+                    },
+                    "massiveDamage": {
+                        "title": "대량 피해",
+                        "enabled": {
+                            "label": "활성화"
+                        }
                     }
                 }
             },
             "ResetSettings": {
                 "resetConfirmationTitle": "설정 초기화",
                 "resetConfirmationText": "{settings}을(를) 정말 초기화하시겠습니까?"
+            },
+            "Metagaming": {
+                "FIELDS": {
+                    "hideObserverPermissionInChat": {
+                        "label": "플레이어에게 채팅 정보 숨기기",
+                        "hint": "적대자에 대한 공격 굴림의 명중/빗나감 같은 정보가 숨겨집니다"
+                    },
+                    "hidePartyStats": {
+                        "label": "파티 스탯 숨기기",
+                        "hint": "같은 파티 소속이더라도 파티 시트 멤버 목록의 자원과 스탯이 다음 사용자에게 숨겨집니다",
+                        "choices": {
+                            "never": "안 함, 항상 표시",
+                            "players": "플레이어에게 숨김",
+                            "always": "모두에게 숨김"
+                        }
+                    }
+                }
+            },
+            "Keybindings": {
+                "partySheet": {
+                    "name": "파티 시트 토글",
+                    "hint": "활성 파티의 시트를 열거나 닫습니다"
+                },
+                "spotlight": {
+                    "name": "전투원 강조",
+                    "hint": "활성 전투에 참여 중인, 마우스를 올렸거나 선택한 토큰으로 강조를 옮깁니다"
+                }
+            },
+            "Scene": {
+                "FIELDS": {
+                    "rangeMeasurement": {
+                        "setting": {
+                            "label": "설정"
+                        }
+                    }
+                },
+                "disabledText": "Daggerheart 측정이 시스템 설정 - 변형 규칙에서 비활성화되어 있습니다",
+                "rangeMeasurement": "거리 측정",
+                "sceneEnvironments": "장면 환경",
+                "dragEnvironmentHere": "환경을 여기로 드래그하세요"
             }
         },
         "UI": {
@@ -2436,7 +3262,16 @@
                     "currentTarget": "현재"
                 },
                 "deathMove": {
-                    "title": "죽음 동작"
+                    "title": "죽음 동작",
+                    "gainScar": "상흔을 얻었습니다.",
+                    "avoidScar": "새 상흔을 피했습니다.",
+                    "journeysEnd": "당신은 상흔 {scars}개를 가졌고 마지막 희망 슬롯을 지웠습니다. 캐릭터의 여정이 끝납니다.",
+                    "riskItAllCritical": "치명타가 나와, 표시된 모든 스트레스와 HP를 지웁니다.",
+                    "riskItAllFailure": "공포 주사위가 더 높게 나왔습니다. 당신은 죽음의 장막을 넘었습니다.",
+                    "blazeOfGlory": "영광의 불꽃 효과가 추가되었습니다!",
+                    "riskItAllDialogButton": "스트레스와 HP 초기화.",
+                    "riskItAllSuccessWithEnoughHope": "희망 값이 표시된 스트레스와 HP보다 큽니다. 둘 다 완전히 지워집니다.",
+                    "riskItAllSuccess": "희망 주사위가 더 높게 나와, 스트레스와 HP를 최대 {hope}까지 지웁니다."
                 },
                 "dicePool": {
                     "title": "주사위 풀"
@@ -2459,6 +3294,28 @@
                 },
                 "resourceRoll": {
                     "playerMessage": "{user}이(가) 자신의 {name}을(를) 다시 굴렸습니다"
+                },
+                "appliedTo": "적용 대상",
+                "clearResource": "{quantity} {resource} 초기화",
+                "damageSummary": {
+                    "title": "적용된 피해",
+                    "healingTitle": "적용된 치유"
+                },
+                "effectSummary": {
+                    "title": "적용된 효과",
+                    "immunityTo": "면역: {immunities}"
+                },
+                "markResource": "{quantity} {resource} 표시",
+                "refreshMessage": {
+                    "title": "특성 새로고침",
+                    "header": "새로고침됨"
+                },
+                "saveRoll": {
+                    "reactionRollAllTargets": "모든 대상 대응 굴림"
+                },
+                "tagTeam": {
+                    "title": "태그 팀",
+                    "membersTitle": "멤버"
                 }
             },
             "Notifications": {
@@ -2524,7 +3381,25 @@
                 "multiclassAlreadyPresent": "이미 클래스과 다중클래스을 가지고 있습니다",
                 "subclassesAlreadyPresent": "이미 클래스과 다중클래스의 서브클래스을 가지고 있습니다",
                 "noDiceSystem": "선택한 주사위 세트 {system}에는 {faces}면 주사위가 없습니다",
-                "subclassAlreadyLinked": "{name}은(는) 이미 클래스 {class}의 서브클래스입니다. 이 클래스의 서브클래스으로 만들고 싶다면 그쪽에서 제거하세요."
+                "subclassAlreadyLinked": "{name}은(는) 이미 클래스 {class}의 서브클래스입니다. 이 클래스의 서브클래스으로 만들고 싶다면 그쪽에서 제거하세요.",
+                "noTargetsSelectedOrPerm": "선택된 대상이 없거나 업데이트 권한이 없습니다.",
+                "fateParsing": "운명 굴림 형식이 올바르지 않습니다",
+                "fateTypeParsing": "운명 굴림 형식이 올바르지 않습니다. 운명 유형이 잘못되었습니다. 유효한 유형은 '희망'과 '공포'입니다",
+                "duplicateCharacter": "이 액터는 이미 파티원 목록에 등록되어 있습니다.",
+                "onlyCharactersInPartySheet": "파티 시트에는 캐릭터, 동반자, 적대자만 드래그할 수 있습니다.",
+                "actionNoUsesRemaining": "그 행동은 남은 사용 횟수가 없습니다.",
+                "gmMenuRefresh": "모든 행동과 자원을 새로고침했습니다 {types}",
+                "gmRequired": "이 행동에는 온라인 GM이 필요합니다",
+                "gmOnly": "이것은 GM만 접근할 수 있습니다",
+                "noActorOwnership": "이 캐릭터에 대한 권한이 없습니다",
+                "documentIsMissing": "{documentType}이(가) 월드에 없습니다.",
+                "tokenActorMissing": "{name}에 액터가 없습니다",
+                "tokenActorsMissing": "[{names}]에 액터가 없습니다",
+                "domainTouchRequirement": "이 권역 카드를 사용하려면 장비에 {domain} 카드가 {nr}장 필요합니다",
+                "knowTheTide": "흐름을 읽다가 토큰을 얻었습니다",
+                "lackingItemTransferPermission": "사용자 {user}에게 {target}(으)로 아이템을 이전하는 데 필요한 소유자 권한이 없습니다",
+                "noTokenTargeted": "지정된 토큰이 없습니다",
+                "behaviorRegionRequiresGM": "동작이 연결된 영역을 생성하려면 온라인 GM이 필요합니다"
             },
             "Tooltip": {
                 "disableEffect": "효과 비활성화",
@@ -2551,7 +3426,124 @@
                 "rulesOff": "규칙 끔",
                 "remainingUses": "{type} 시 사용 횟수가 회복됩니다",
                 "rightClickExtand": "마우스 오른쪽 클릭으로 펼치기",
-                "companionPartnerLevelBlock": "동반자가 레벨업하려면 지정된 파트너가 필요합니다."
+                "companionPartnerLevelBlock": "동반자가 레벨업하려면 지정된 파트너가 필요합니다.",
+                "edit": "편집",
+                "rightClickExtend": "오른쪽 클릭으로 연장",
+                "configureAttribution": "출처 표기 설정",
+                "deleteItem": "아이템 삭제",
+                "immune": "면역",
+                "middleClick": "[가운데 클릭] 툴팁 보기 유지",
+                "tokenSize": "캔버스에서 사용되는 토큰 크기",
+                "previewTokenHelp": "왼쪽 클릭으로 배치, 오른쪽 클릭으로 취소"
+            },
+            "ChatLog": {
+                "rerollActionRoll": "행동 재굴림",
+                "rerollDamage": "피해 재굴림",
+                "assignTagRoll": "태그 굴림으로 지정"
+            },
+            "ConsoleLogs": {
+                "triggerRun": "DH TRIGGER | Item '{item}' on actor '{actor}' ran a '{trigger}' trigger."
+            },
+            "Countdowns": {
+                "title": "카운트다운",
+                "toggleIconMode": "아이콘만 표시 토글",
+                "noPlayerAccess": "이 카운트다운은 어떤 플레이어에게도 보이지 않습니다",
+                "loop": "반복",
+                "decreasingLoop": "감소 반복",
+                "increasingLoop": "증가 반복"
+            },
+            "EffectsDisplay": {
+                "removeThing": "[오른쪽 클릭] {thing} 제거",
+                "increaseStacks": "[왼쪽 클릭] 중첩 증가",
+                "decreaseStacks": "[오른쪽 클릭] 중첩 감소",
+                "appliedBy": "적용자: {by}"
+            },
+            "ItemBrowser": {
+                "title": "Daggerheart 주제집 탐색기",
+                "windowTitle": "주제집 탐색기",
+                "hint": "주제집을 탐색하려면 사이드바에서 폴더를 선택하세요",
+                "browserSettings": "탐색기 설정",
+                "columnName": "이름",
+                "tooltipFilters": "필터",
+                "tooltipErase": "지우기",
+                "difficultyMin": "난이도 (최소)",
+                "difficultyMax": "난이도 (최대)",
+                "hitPointsMin": "HP (최소)",
+                "hitPointsMax": "HP (최대)",
+                "stressMin": "스트레스 (최소)",
+                "stressMax": "스트레스 (최대)",
+                "armorScoreMin": "방어도 (최소)",
+                "armorScoreMax": "방어도 (최대)",
+                "levelMin": "레벨 (최소)",
+                "levelMax": "레벨 (최대)",
+                "recallCostMin": "회수 비용 (최소)",
+                "recallCostMax": "회수 비용 (최대)",
+                "evasionMin": "회피 (최소)",
+                "evasionMax": "회피 (최대)",
+                "subtype": "하위 유형",
+                "missing": "<i>없음</i>",
+                "folders": {
+                    "characters": "캐릭터",
+                    "adversaries": "적대자",
+                    "ancestries": "혈통",
+                    "equipment": "장비",
+                    "classes": "클래스",
+                    "subclasses": "서브클래스",
+                    "domainCards": "권역 카드",
+                    "communities": "공동체",
+                    "environments": "환경",
+                    "beastforms": "야수 형태",
+                    "features": "특성",
+                    "items": "아이템",
+                    "weapons": "무기",
+                    "armors": "방어구",
+                    "consumables": "소모품",
+                    "loots": "전리품"
+                }
+            },
+            "Progress": {
+                "migrationLabel": "시스템 마이그레이션을 수행 중입니다. 기다려 주시고 Foundry를 닫지 마세요."
+            },
+            "Sidebar": {
+                "actorDirectory": {
+                    "tier": "{tier}등급 {type}",
+                    "character": "레벨 {level} 캐릭터",
+                    "companion": "레벨 {level} - {partner}",
+                    "companionNoPartner": "파트너 없음",
+                    "duplicateToNewTier": "새 등급으로 복제",
+                    "activateParty": "활성 파티로 설정",
+                    "partyIsActive": "활성",
+                    "createAdversary": "적대자 생성",
+                    "pickTierTitle": "이 적대자의 새 등급을 선택하세요"
+                },
+                "daggerheartMenu": {
+                    "title": "Daggerheart 메뉴",
+                    "startSession": "세션 시작",
+                    "startScene": "장면 시작"
+                }
+            }
+        },
+        "CharacterSheet": "캐릭터 시트",
+        "MACROS": {
+            "Spotlight": {
+                "errors": {
+                    "noTokenSelected": "강조하려면 캔버스의 토큰을 선택하거나 마우스를 올려야 합니다"
+                }
+            }
+        },
+        "ROLLTABLES": {
+            "FIELDS": {
+                "formulaName": {
+                    "label": "공식 이름"
+                }
+            },
+            "formula": "공식"
+        }
+    },
+    "SCENE": {
+        "TABS": {
+            "SHEET": {
+                "dh": "Daggerheart"
             }
         }
     }
