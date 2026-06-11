@@ -183,6 +183,23 @@ Hooks.once('babele.init', (babele) => {
                 }
             }
             return origActions;
+        },
+        "toExperiences": (origExp, transExp) => {
+            // 경험(system.experiences)은 {<id>:{name,description,value}} 구조.
+            // 직접 매핑은 객체를 병합 못 해 번역이 안 먹으므로, ID 기준으로 name/description만
+            // 덮어쓰고 value(수정치)는 보존한다.
+            if (!transExp || typeof origExp !== "object") return origExp;
+            for (const id in origExp) {
+                const t = transExp[id];
+                if (t == null) continue;
+                if (typeof t === "string") {
+                    origExp[id].name = t;
+                } else {
+                    if (t.name != null) origExp[id].name = t.name;
+                    if (t.description != null) origExp[id].description = t.description;
+                }
+            }
+            return origExp;
         }
 
     });

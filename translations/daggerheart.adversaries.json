@@ -2,7 +2,10 @@
     "label": "적대자",
     "mapping": {
         "description": "system.description",
-        "experiences": "system.experiences",
+        "experiences": {
+            "path": "system.experiences",
+            "converter": "toExperiences"
+        },
         "motivesAndTactics": "system.motivesAndTactics",
         "attack": "system.attack.name",
         "items": {
