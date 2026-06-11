@@ -20,11 +20,11 @@
         },
         "Arcana-Touched": {
             "name": "비전의 가호",
-            "description": "<p class=\"Body-Foundation\">당신의 장비에 있는 권역 카드 4장 이상이 비전 영역에 속한다면, 다음 이점을 얻습니다:</p><ul><li class=\"vertical-card-list-found\"><p>주문시전 굴림에 +1 보너스</p></li><li class=\"vertical-card-list-found\"><p>휴식당 한 번, 희망 주사위와 공포 주사위의 결과를 서로 맞바꿀 수 있습니다.</p></li></ul>",
+            "description": "<p class=\"Body-Foundation\">당신의 장비에 있는 권역 카드 4장 이상이 비전 권역에 속한다면, 다음 이점을 얻습니다:</p><ul><li class=\"vertical-card-list-found\"><p>주문시전 굴림에 +1 보너스</p></li><li class=\"vertical-card-list-found\"><p>휴식당 한 번, 희망 주사위와 공포 주사위의 결과를 서로 맞바꿀 수 있습니다.</p></li></ul>",
             "actions": {
                 "hBh4Lt0Bdd9CtJY7": {
                     "name": "듀얼리티 결과 전환",
-                    "description": "<p class=\"Body-Foundation\">당신의 장비에 있는 권역 카드 4장 이상이 비전 영역에 속한다면, 다음 이점을 얻습니다:</p><ul><li class=\"vertical-card-list-found\"><p>주문시전 굴림에 +1 보너스</p></li><li class=\"vertical-card-list-found\"><p>휴식당 한 번, 희망 주사위와 공포 주사위의 결과를 서로 맞바꿀 수 있습니다.</p></li></ul>"
+                    "description": "<p class=\"Body-Foundation\">당신의 장비에 있는 권역 카드 4장 이상이 비전 권역에 속한다면, 다음 이점을 얻습니다:</p><ul><li class=\"vertical-card-list-found\"><p>주문시전 굴림에 +1 보너스</p></li><li class=\"vertical-card-list-found\"><p>휴식당 한 번, 희망 주사위와 공포 주사위의 결과를 서로 맞바꿀 수 있습니다.</p></li></ul>"
                 }
             }
         },
@@ -113,8 +113,8 @@
             }
         },
         "Blade-Touched": {
-            "name": "검의 가호",
-            "description": "<p class=\"Body-Foundation-No-BOLDITALIC\">당신의 장비에 있는 권역 카드 4장 이상이 검 영역에 속할 때, 다음 이점을 얻습니다:</p><ul><li class=\"vertical-card-list-found\"><p>명중 굴림에 +2 보너스</p></li><li class=\"vertical-card-list-found\"><p>심각한 피해 임계치에 +4 보너스</p></li></ul>"
+            "name": "칼날의 가호",
+            "description": "<p class=\"Body-Foundation-No-BOLDITALIC\">당신의 장비에 있는 권역 카드 4장 이상이 칼날 권역에 속할 때, 다음 이점을 얻습니다:</p><ul><li class=\"vertical-card-list-found\"><p>명중 굴림에 +2 보너스</p></li><li class=\"vertical-card-list-found\"><p>심각한 피해 임계치에 +4 보너스</p></li></ul>"
         },
         "Blink Out": {
             "name": "점멸 이동",
@@ -156,11 +156,11 @@
         },
         "Bone-Touched": {
             "name": "뼈의 가호",
-            "description": "<p class='Body-Foundation-No-BOLDITALIC'>당신의 장비에 있는 권역 카드 4장 이상이 뼈 영역에 속한다면, 다음 이점을 얻습니다:</p><ul><li class='vertical-card-list-found'><p>민첩에 +1 보너스</p></li><li class='vertical-card-list-found'><p>휴식당 한 번, <strong>희망 3을 소모</strong>하여 당신을 성공적으로 맞춘 공격을 대신 실패하게 만들 수 있습니다.</p></li></ul>",
+            "description": "<p class='Body-Foundation-No-BOLDITALIC'>당신의 장비에 있는 권역 카드 4장 이상이 뼈 권역에 속한다면, 다음 이점을 얻습니다:</p><ul><li class='vertical-card-list-found'><p>민첩에 +1 보너스</p></li><li class='vertical-card-list-found'><p>휴식당 한 번, <strong>희망 3을 소모</strong>하여 당신을 성공적으로 맞춘 공격을 대신 실패하게 만들 수 있습니다.</p></li></ul>",
             "actions": {
                 "pRSiIoh4Bzk5I9ej": {
                     "name": "희망 소모",
-                    "description": "<p class='Body-Foundation-No-BOLDITALIC'>당신의 장비에 있는 권역 카드 4장 이상이 뼈 영역에 속한다면, 다음 이점을 얻습니다:</p><ul><li class='vertical-card-list-found'><p>민첩에 +1 보너스</p></li><li class='vertical-card-list-found'><p>휴식당 한 번, <strong>희망 3을 소모</strong>하여 당신을 성공적으로 맞춘 공격을 대신 실패하게 만들 수 있습니다.</p></li></ul>"
+                    "description": "<p class='Body-Foundation-No-BOLDITALIC'>당신의 장비에 있는 권역 카드 4장 이상이 뼈 권역에 속한다면, 다음 이점을 얻습니다:</p><ul><li class='vertical-card-list-found'><p>민첩에 +1 보너스</p></li><li class='vertical-card-list-found'><p>휴식당 한 번, <strong>희망 3을 소모</strong>하여 당신을 성공적으로 맞춘 공격을 대신 실패하게 만들 수 있습니다.</p></li></ul>"
                 }
             }
         },
@@ -477,8 +477,8 @@
             }
         },
         "Codex-Touched": {
-            "name": "기록의 가호",
-            "description": "<p><p class='Body-Foundation'>당신의 장비에 있는 권역 카드 4장 이상이 기록 영역에 속할 때, 다음 이점을 얻습니다:</p><ul class=''><li class='vertical-card-list'><strong>스트레스를 표시</strong>하여 주문시전 굴림에 자신의 숙련도를 더할 수 있습니다.   </li><li class='vertical-card-list'>휴식당 한 번, 회상 비용을 지불하지 않고 이 카드를 보관소의 어떤 카드와도 교체할 수 있습니다.</li></ul></p>",
+            "name": "고서의 가호",
+            "description": "<p><p class='Body-Foundation'>당신의 장비에 있는 권역 카드 4장 이상이 고서 권역에 속할 때, 다음 이점을 얻습니다:</p><ul class=''><li class='vertical-card-list'><strong>스트레스를 표시</strong>하여 주문시전 굴림에 자신의 숙련도를 더할 수 있습니다.   </li><li class='vertical-card-list'>휴식당 한 번, 회상 비용을 지불하지 않고 이 카드를 보관소의 어떤 카드와도 교체할 수 있습니다.</li></ul></p>",
             "actions": {
                 "OV23p0uWuzmrQsZi": {
                     "name": "스트레스 표시",
@@ -738,7 +738,7 @@
         },
         "Fane of the Wilds": {
             "name": "야생의 신전",
-            "description": "<p class='Body-Foundation'>긴 휴식 후, 당신의 장비와 보관소에 있는 현자 권역 카드 수와 같은 만큼의 토큰을 이 카드에 놓습니다.</p><p class='Body-Foundation'>당신이 주문시전 굴림을 굴릴 때, 굴림 후 원하는 만큼의 토큰을 소모하여 소모한 토큰 하나당 +1 보너스를 얻을 수 있습니다.</p><p class='Body-Foundation'>현자 영역 주문에 대한 주문시전 굴림에서 치명적 성공로 성공할 때, 토큰을 1 얻습니다.</p><p class='Body-Foundation'>긴 휴식을 취할 때, 사용하지 않은 모든 토큰을 제거합니다.</p>"
+            "description": "<p class='Body-Foundation'>긴 휴식 후, 당신의 장비와 보관소에 있는 현자 권역 카드 수와 같은 만큼의 토큰을 이 카드에 놓습니다.</p><p class='Body-Foundation'>당신이 주문시전 굴림을 굴릴 때, 굴림 후 원하는 만큼의 토큰을 소모하여 소모한 토큰 하나당 +1 보너스를 얻을 수 있습니다.</p><p class='Body-Foundation'>현자 권역 주문에 대한 주문시전 굴림에서 치명적 성공로 성공할 때, 토큰을 1 얻습니다.</p><p class='Body-Foundation'>긴 휴식을 취할 때, 사용하지 않은 모든 토큰을 제거합니다.</p>"
         },
         "Ferocity": {
             "name": "흉포함",
@@ -923,16 +923,16 @@
             }
         },
         "Grace-Touched": {
-            "name": "우아함의 가호",
-            "description": "<p class='Body-Foundation'>당신의 장비에 있는 권역 카드 4장 이상이 우아함 영역에 속한다면, 다음 이점을 얻습니다:</p><ul><li class='vertical-card-list-found'><p>스트레스를 표시하는 대신 <strong>방어 슬롯을 표시</strong>할 수 있습니다.</p></li><li class='vertical-card-list-found'><p>대상에게 일정량의 HP를 표시하게 만들 때, 대신 같은 양의 스트레스를 표시하게 만들 수 있습니다.</p></li></ul>",
+            "name": "은총의 가호",
+            "description": "<p class='Body-Foundation'>당신의 장비에 있는 권역 카드 4장 이상이 은총 권역에 속한다면, 다음 이점을 얻습니다:</p><ul><li class='vertical-card-list-found'><p>스트레스를 표시하는 대신 <strong>방어 슬롯을 표시</strong>할 수 있습니다.</p></li><li class='vertical-card-list-found'><p>대상에게 일정량의 HP를 표시하게 만들 때, 대신 같은 양의 스트레스를 표시하게 만들 수 있습니다.</p></li></ul>",
             "actions": {
                 "VkPMSuoowd7hnsR5": {
                     "name": "갑옷 슬롯 표시",
-                    "description": "<p class='Body-Foundation'>당신의 장비에 있는 권역 카드 4장 이상이 우아함 영역에 속한다면, 다음 이점을 얻습니다:</p><ul><li class='vertical-card-list-found'><p>스트레스를 표시하는 대신 <strong>방어 슬롯을 표시</strong>할 수 있습니다.</p></li><li class='vertical-card-list-found'><p>대상에게 일정량의 HP를 표시하게 만들 때, 대신 같은 양의 스트레스를 표시하게 만들 수 있습니다.</p></li></ul>"
+                    "description": "<p class='Body-Foundation'>당신의 장비에 있는 권역 카드 4장 이상이 은총 권역에 속한다면, 다음 이점을 얻습니다:</p><ul><li class='vertical-card-list-found'><p>스트레스를 표시하는 대신 <strong>방어 슬롯을 표시</strong>할 수 있습니다.</p></li><li class='vertical-card-list-found'><p>대상에게 일정량의 HP를 표시하게 만들 때, 대신 같은 양의 스트레스를 표시하게 만들 수 있습니다.</p></li></ul>"
                 },
                 "YzrQmUhNZoDYawo0": {
                     "name": "스트레스 1 표시",
-                    "description": "<p class='Body-Foundation'>당신의 장비에 있는 권역 카드 4장 이상이 우아함 영역에 속한다면, 다음 이점을 얻습니다:</p><ul><li class='vertical-card-list-found'><p>스트레스를 표시하는 대신 <strong>방어 슬롯을 표시</strong>할 수 있습니다.</p></li><li class='vertical-card-list-found'><p>대상에게 일정량의 HP를 표시하게 만들 때, 대신 같은 양의 스트레스를 표시하게 만들 수 있습니다.</p></li></ul>"
+                    "description": "<p class='Body-Foundation'>당신의 장비에 있는 권역 카드 4장 이상이 은총 권역에 속한다면, 다음 이점을 얻습니다:</p><ul><li class='vertical-card-list-found'><p>스트레스를 표시하는 대신 <strong>방어 슬롯을 표시</strong>할 수 있습니다.</p></li><li class='vertical-card-list-found'><p>대상에게 일정량의 HP를 표시하게 만들 때, 대신 같은 양의 스트레스를 표시하게 만들 수 있습니다.</p></li></ul>"
                 }
             }
         },
@@ -1211,8 +1211,8 @@
             }
         },
         "Midnight-Touched": {
-            "name": "한밤의 가호",
-            "description": "<p class='Body-Foundation'>당신의 장비에 있는 권역 카드 4장 이상이 한밤 영역에 속할 때, 다음 이점을 얻습니다:</p><ul><li class='vertical-card-list-found'><p>휴식당 한 번, 당신의 희망이 0이고 GM이 공포를 얻어야 할 때, 대신 당신이 희망을 얻을 수 있습니다.</p></li><li class='vertical-card-list-found'><p>당신이 성공적인 공격을 가했을 때, <strong>스트레스를 표시</strong>하여 공포 주사위의 결과를 피해 굴림에 더할 수 있습니다.</p></li></ul>",
+            "name": "밤의 가호",
+            "description": "<p class='Body-Foundation'>당신의 장비에 있는 권역 카드 4장 이상이 밤 권역에 속할 때, 다음 이점을 얻습니다:</p><ul><li class='vertical-card-list-found'><p>휴식당 한 번, 당신의 희망이 0이고 GM이 공포를 얻어야 할 때, 대신 당신이 희망을 얻을 수 있습니다.</p></li><li class='vertical-card-list-found'><p>당신이 성공적인 공격을 가했을 때, <strong>스트레스를 표시</strong>하여 공포 주사위의 결과를 피해 굴림에 더할 수 있습니다.</p></li></ul>",
             "actions": {
                 "ksl1CcxcuwYxObiS": {
                     "name": "희망 획득",
@@ -1558,7 +1558,7 @@
         },
         "Sage-Touched": {
             "name": "현자의 가호",
-            "description": "<p class='Body-Foundation'>당신의 장비에 있는 권역 카드 4장 이상이 현자 영역에 속한다면, 다음 이점을 얻습니다:</p><ul><li class='vertical-card-list'><p>자연 환경에 있는 동안, 주문시전 굴림에 +2 보너스를 얻습니다.</p></li><li class='vertical-card-list'><p>휴식당 한 번, 민첩 또는 직감을 사용한 굴림을 굴릴 때 그 능력치를 두 배로 할 수 있습니다. 굴리기 전에 선택해야 합니다.</p><p></p></li></ul>",
+            "description": "<p class='Body-Foundation'>당신의 장비에 있는 권역 카드 4장 이상이 현자 권역에 속한다면, 다음 이점을 얻습니다:</p><ul><li class='vertical-card-list'><p>자연 환경에 있는 동안, 주문시전 굴림에 +2 보너스를 얻습니다.</p></li><li class='vertical-card-list'><p>휴식당 한 번, 민첩 또는 직감을 사용한 굴림을 굴릴 때 그 능력치를 두 배로 할 수 있습니다. 굴리기 전에 선택해야 합니다.</p><p></p></li></ul>",
             "actions": {
                 "JVrYhunJ2qr5uOcx": {
                     "name": "민첩 2배",
@@ -1728,7 +1728,7 @@
         },
         "Splendor-Touched": {
             "name": "광휘의 가호",
-            "description": "<p><p class='Body-Foundation-No-BOLDITALIC'>당신의 장비에 있는 권역 카드 4장 이상이 광휘 영역에 속한다면, 다음 이점을 얻습니다:</p><ul class=''><li class='vertical-card-list'>심각한 피해 임계치에 +3</li><li class='vertical-card-list'>긴 휴식당 한 번, 들어오는 피해로 당신이 일정량의 HP를 표시해야 할 때, 대신 그만큼의 스트레스를 표시하거나 그만큼의 희망을 소모할 수 있습니다.</li></ul></p>"
+            "description": "<p><p class='Body-Foundation-No-BOLDITALIC'>당신의 장비에 있는 권역 카드 4장 이상이 광휘 권역에 속한다면, 다음 이점을 얻습니다:</p><ul class=''><li class='vertical-card-list'>심각한 피해 임계치에 +3</li><li class='vertical-card-list'>긴 휴식당 한 번, 들어오는 피해로 당신이 일정량의 HP를 표시해야 할 때, 대신 그만큼의 스트레스를 표시하거나 그만큼의 희망을 소모할 수 있습니다.</li></ul></p>"
         },
         "Splintering Strike": {
             "name": "쪼개는 일격",
@@ -1984,11 +1984,11 @@
         },
         "Valor-Touched": {
             "name": "용맹의 가호",
-            "description": "<p class='Body-Foundation'>당신의 장비에 있는 권역 카드 4장 이상이 용맹 영역에 속한다면, 다음 이점을 얻습니다:</p><ul><li class='vertical-card-list-found'><p>갑옷 수치에 +1 보너스</p></li><li class='vertical-card-list-found'><p>방어 슬롯을 표시하지 않고 HP 1 이상을 표시할 때, 방어 슬롯을 비웁니다.</p></li></ul>",
+            "description": "<p class='Body-Foundation'>당신의 장비에 있는 권역 카드 4장 이상이 용맹 권역에 속한다면, 다음 이점을 얻습니다:</p><ul><li class='vertical-card-list-found'><p>갑옷 수치에 +1 보너스</p></li><li class='vertical-card-list-found'><p>방어 슬롯을 표시하지 않고 HP 1 이상을 표시할 때, 방어 슬롯을 비웁니다.</p></li></ul>",
             "actions": {
                 "F04596OgMgpnhpQp": {
                     "name": "갑옷 슬롯 비우기",
-                    "description": "<p class='Body-Foundation'>당신의 장비에 있는 권역 카드 4장 이상이 용맹 영역에 속한다면, 다음 이점을 얻습니다:</p><ul><li class='vertical-card-list-found'><p>갑옷 수치에 +1 보너스</p></li><li class='vertical-card-list-found'><p>방어 슬롯을 표시하지 않고 HP 1 이상을 표시할 때, 방어 슬롯을 비웁니다.</p></li></ul>"
+                    "description": "<p class='Body-Foundation'>당신의 장비에 있는 권역 카드 4장 이상이 용맹 권역에 속한다면, 다음 이점을 얻습니다:</p><ul><li class='vertical-card-list-found'><p>갑옷 수치에 +1 보너스</p></li><li class='vertical-card-list-found'><p>방어 슬롯을 표시하지 않고 HP 1 이상을 표시할 때, 방어 슬롯을 비웁니다.</p></li></ul>"
                 }
             }
         },
