@@ -5,244 +5,244 @@
   },
   "entries": {
     "Acidpaste": {
-      "name": "산성 풀",
-      "description": "<p>이 풀은 벽과 기타 표면을 밝은 섬광과 함께 부식시킵니다.</p>"
+      "name": "산성 연고",
+      "description": "<p>바르면 벽이나 표면을 밝게 녹여버립니다.</p>"
     },
     "Armor Stitcher": {
-      "name": "방어구 봉합기",
-      "description": "<p>이 봉합 기계를 사용해 희망을 임의의 수만큼 소모하여 같은 수의 방어 슬롯을 해제할 수 있습니다.</p>"
+      "name": "갑옷 수선 바늘",
+      "description": "<p>희망을 원하는 만큼 소모해, 그 수만큼 방어 슬롯을 회복합니다.</p>"
     },
     "Attune Potion": {
-      "name": "조율의 물약",
-      "description": "<p>다음 직감 굴림에 +1 보너스를 받습니다.</p>"
+      "name": "조화의 물약",
+      "description": "<p>다음 직감 굴림에 +1 보너스를 얻습니다.</p>"
     },
     "Blinding Orb": {
-      "name": "실명의 구체",
-      "description": "<p>이 구체를 활성화하여 밝은 섬광을 만듭니다. 가까운 거리 내의 모든 대상은 HP를 표시할 때까지 취약 상태가 됩니다.</p><p>@Template[type:emanation|range:c]</p>"
+      "name": "섬광 구체",
+      "description": "<p>발동 시 강한 빛을 내뿜습니다. 가까운 거리의 모든 대상은 HP를 표시하기 전까지 취약 상태가 됩니다.</p><p>@Template[type:emanation|range:c]</p>"
     },
     "Blood of the Yorgi": {
       "name": "요르기의 피",
-      "description": "<p>이 피를 마셔서 현재 위치에서 사라지고, 매우 먼 거리 내에 볼 수 있는 지점으로 즉시 나타날 수 있습니다.</p>"
+      "description": "<p>마시면 현재 위치에서 사라져, 매우 먼 거리 내 보이는 지점으로 순간이동합니다.</p>"
     },
     "Bolster Potion": {
-      "name": "강화의 물약",
-      "description": "<p>다음 근력 굴림에 +1 보너스를 받습니다.</p>"
+      "name": "보강의 물약",
+      "description": "<p>다음 근력 굴림에 +1 보너스를 얻습니다.</p>"
     },
     "Bonding Honey": {
-      "name": "접합 꿀",
-      "description": "<p>이 꿀은 두 물체를 견고하게 붙이는 데 사용할 수 있습니다.</p>"
+      "name": "결속 벌꿀",
+      "description": "<p>두 물체를 영구히 접착할 수 있습니다.</p>"
     },
     "Bridge Seed": {
       "name": "다리 씨앗",
-      "description": "<p>당신의 위치에서 먼 거리 내의 임의 지점까지 두꺼운 덩굴이 자라나, 그 위를 기어오르거나 건너갈 수 있습니다. 덩굴은 다음 짧은 휴식 때 사라집니다.</p>"
+      "description": "<p>두꺼운 덩굴이 먼 거리까지 뻗어 길을 만듭니다. 짧은 휴식이 끝나면 사라집니다.</p>"
     },
     "Channelstone": {
-      "name": "전도석",
-      "description": "<p>이 돌로 보관소에서 주문이나 마법서를 꺼내 한 번 사용한 뒤 보관소로 되돌릴 수 있습니다.</p>"
+      "name": "집중석",
+      "description": "<p>보관소의 주문이나 마도서를 꺼내 한 번 사용한 뒤 다시 돌려놓을 수 있습니다.</p>"
     },
     "Charm Potion": {
       "name": "매혹의 물약",
-      "description": "<p>다음 매력 굴림에 +1 보너스를 받습니다.</p>"
+      "description": "<p>다음 매력 굴림에 +1 보너스를 얻습니다.</p>"
     },
     "Circle of the Void": {
-      "name": "공허의 원",
-      "description": "<p>스트레스를 표시하여 먼 거리까지 뻗는 공허를 만듭니다. 공허 안에서는 마법을 사용할 수 없으며, 공허 안의 존재는 마법 피해에 면역입니다.</p>"
+      "name": "공허의 고리",
+      "description": "<p><strong>스트레스를 표시</strong>해 먼 거리까지 퍼지는 공허를 생성합니다. 그 안에서는 마법이 시전되지 않으며, 생물은 마법 피해에 면역입니다.</p>"
     },
     "Control Potion": {
       "name": "제어의 물약",
-      "description": "<p>다음 기교 굴림에 +1 보너스를 받습니다.</p>"
+      "description": "<p>다음 기교 굴림에 +1 보너스를 얻습니다.</p>"
     },
     "Death Tea": {
-      "name": "죽음의 차",
-      "description": "<p>이 차를 마시면 치명적 성공 공격이 성공할 경우 대상을 즉사시킵니다. 다음 긴 휴식 전까지 치명적 성공 공격이 성공하지 못하면 당신은 죽습니다.</p>"
+      "name": "죽음 차",
+      "description": "<p>마시면, 치명적 공격에 성공할 경우 대상은 즉사합니다. 그러나 다음 긴 휴식 전까지 치명적 성공을 내지 못하면 본인이 사망합니다.</p>"
     },
     "Dragonbloom Tea": {
-      "name": "드래곤블룸 차",
-      "description": "<p>이 차를 마시면 화염의 숨결을 사용할 수 있습니다. 당신 앞에 있는 가까운 거리 내의 모든 적대자에 대해 직감 굴림을 합니다. 성공한 대상은 당신의 숙련도를 사용한 d20의 물리 피해를 받습니다.</p>"
+      "name": "용꽃 차",
+      "description": "<p>마시면 불꽃 숨결을 내뿜을 수 있습니다. 가까운 거리의 적들에게 직감 굴림을 하며, 성공한 대상에게 숙련을 사용해 <strong>d20</strong> 물리 피해를 줍니다.</p>"
     },
     "Dripfang Poison": {
       "name": "드립팽 독",
-      "description": "<p>이 독을 섭취한 존재는 8d10의 직접 마법 피해를 받습니다.</p>"
+      "description": "<p>이 독을 먹은 생물은 <strong>8d10</strong> 마법 피해를 직접 피해로 받습니다.</p>"
     },
     "Enlighten Potion": {
-      "name": "깨달음의 물약",
-      "description": "<p>다음 지식 굴림에 +1 보너스를 받습니다.</p>"
+      "name": "계몽의 물약",
+      "description": "<p>다음 지식 굴림에 +1 보너스를 얻습니다.</p>"
     },
     "Feast of Xuria": {
       "name": "수리아의 만찬",
-      "description": "<p>이 음식을 먹으면 모든 HP와 모든 스트레스를 해제하고, 1d4의 희망을 얻습니다.</p>"
+      "description": "<p>먹으면 HP와 스트레스가 모두 회복되며, 희망 <strong>1d4</strong>를 얻습니다.</p>"
     },
     "Featherbone": {
       "name": "깃털뼈",
-      "description": "<p>이 뼈를 사용해 당신의 레벨과 같은 수의 분 동안 낙하 속도를 조절할 수 있습니다.</p>"
+      "description": "<p>레벨만큼 분 동안 낙하 속도를 조절할 수 있습니다.</p>"
     },
     "Gill Salve": {
       "name": "아가미 연고",
-      "description": "<p>이 연고를 목에 발라 당신의 레벨과 같은 수의 분 동안 수중에서 호흡할 수 있습니다.</p>"
+      "description": "<p>목에 바르면, 레벨만큼 분 동안 수중 호흡이 가능합니다.</p>"
     },
     "Grindletooth Venom": {
-      "name": "그라인들투스 독액",
-      "description": "<p>이 독액을 물리 피해 무기에 발라 그 무기의 다음 피해 굴림에 d6을 추가할 수 있습니다.</p>"
+      "name": "그라인들투스 맹독",
+      "description": "<p>물리 피해를 주는 무기에 바르면, 다음 피해 굴림에 <strong>d6</strong>을 추가합니다.</p>"
     },
     "Growing Potion": {
       "name": "성장의 물약",
-      "description": "<p>이 물약을 마시면 이 형태를 떠나기로 결정하거나 다음 휴식을 시작할 때까지 두 배로 커집니다. 이 형태에서 근력 +2, 숙련도 +1 보너스를 받습니다.</p>"
+      "description": "<p>크기가 두 배로 커집니다. 근력 +2, 숙련 +1. 다음 휴식 전까지 지속되거나 원할 때 해제합니다.</p>"
     },
     "Health Potion": {
-      "name": "치유의 물약",
-      "description": "<p>1d4+1 HP를 해제합니다.</p>"
+      "name": "치유 물약",
+      "description": "<p>HP를 <strong>1d4+1</strong> 회복합니다.</p>"
     },
     "Homet’s Secret Potion": {
-      "name": "호메트의 비밀 물약",
-      "description": "<p>이 물약을 마신 뒤, 다음에 성공한 공격은 치명적 성공가 됩니다.</p>"
+      "name": "호멧의 비밀 물약",
+      "description": "<p>마신 뒤, 다음에 성공하는 공격은 자동으로 치명적 성공이 됩니다.</p>"
     },
     "Hopehold Flare": {
-      "name": "호프홀드 신호탄",
-      "description": "<p>이 신호탄을 사용하면 가까운 거리 내의 동료들이 희망을 소모할 때 d6을 굴립니다. 6이 나오면 희망을 소모하지 않고 그 희망의 효과를 받습니다. 신호탄은 장면이 끝날 때까지 유지됩니다.</p><p>@Template[type:emanation|range:c]</p>"
+      "name": "희망불꽃 신호탄",
+      "description": "<p>사용 시 가까운 거리의 아군이 희망을 쓸 때 <strong>d6</strong>을 굴려, 6이 나오면 희망을 소모하지 않고 효과를 얻습니다. 장면이 끝날 때까지 지속됩니다.</p><p>@Template[type:emanation|range:c]</p>"
     },
     "Improved Arcane Shard": {
-      "name": "개량 비전 파편",
-      "description": "<p>기교 굴림을 하여 이 파편을 먼 거리 내의 적대자 무리에게 던질 수 있습니다. 성공한 대상은 2d20의 마법 피해를 받습니다.</p>"
+      "name": "개선된 비전 파편",
+      "description": "<p>기교 굴림으로 먼 거리의 적대자 무리에 던질 수 있습니다. 성공한 대상은 <strong>2d20</strong> 마법 피해를 받습니다.</p>"
     },
     "Improved Grindletooth Venom": {
-      "name": "개량 그라인들투스 독액",
-      "description": "<p>이 독액을 물리 피해 무기에 발라 그 무기의 다음 피해 굴림에 d8을 추가할 수 있습니다.</p>"
+      "name": "개선된 그라인들투스 맹독",
+      "description": "<p>물리 피해를 주는 무기에 바르면, 다음 피해 굴림에 <strong>d8</strong>을 추가합니다.</p>"
     },
     "Jar of Lost Voices": {
-      "name": "잃어버린 목소리의 항아리",
-      "description": "<p>이 항아리를 열어 당신의 직감과 같은 수의 분 동안 귀를 멍하게 하는 목소리의 메아리를 풀어놓을 수 있습니다. 먼 거리 내의 존재 중 이 소리에 대비하지 않은 자들은 6d8의 마법 피해를 받습니다.</p><p>@Template[type:emanation|range:f]</p>"
+      "name": "잃어버린 목소리 항아리",
+      "description": "<p>직감 수치만큼 분 동안 귀청이 찢어지는 메아리를 방출합니다. 준비하지 못한 먼 거리의 생물은 <strong>6d8</strong> 마법 피해를 받습니다.</p><p>@Template[type:emanation|range:f]</p>"
     },
     "Jumping Root": {
-      "name": "도약의 뿌리",
-      "description": "<p>이 뿌리를 먹어 굴림 없이 먼 거리 높이로 한 번 도약할 수 있습니다.</p>"
+      "name": "도약 뿌리",
+      "description": "<p>먹으면 한 번, 굴림 없이 먼 거리까지 도약할 수 있습니다.</p>"
     },
     "Knowledge Stone": {
       "name": "지식의 돌",
-      "description": "<p>이 돌을 들고 죽으면, 동료가 당신의 카드 세트에서 카드를 가져가 자기 세트나 보관소에 넣을 수 있습니다. 그 지식을 받은 후 돌은 부서집니다.</p>"
+      "description": "<p>이 돌을 쥔 상태에서 죽으면, 동료가 당신의 카드 하나를 가져와 자신의 장비나 보관소에 넣을 수 있습니다. 이후 돌은 부서집니다.</p>"
     },
     "Major Arcane Shard": {
-      "name": "강력한 비전 파편",
-      "description": "<p>기교 굴림을 하여 이 파편을 먼 거리 내의 적대자 무리에게 던질 수 있습니다. 성공한 대상은 4d20의 마법 피해를 받습니다.</p>"
+      "name": "강화된 비전 파편",
+      "description": "<p>기교 굴림으로 먼 거리의 적대자 무리에 던질 수 있습니다. 성공한 대상은 <strong>4d20</strong> 마법 피해를 받습니다.</p>"
     },
     "Major Attune Potion": {
-      "name": "강력한 조율의 물약",
-      "description": "<p>다음 휴식까지 직감에 +1 보너스를 받습니다.</p>"
+      "name": "상급 조율의 물약",
+      "description": "<p>다음 휴식 전까지 직감 +1을 얻습니다.</p>"
     },
     "Major Bolster Potion": {
-      "name": "강력한 강화의 물약",
-      "description": "<p>다음 휴식까지 근력에 +1 보너스를 받습니다.</p>"
+      "name": "상급 보강의 물약",
+      "description": "<p>다음 휴식 전까지 근력 +1을 얻습니다.</p>"
     },
     "Major Charm Potion": {
-      "name": "강력한 매혹의 물약",
-      "description": "<p>다음 휴식까지 매력에 +1 보너스를 받습니다.</p>"
+      "name": "상급 매혹의 물약",
+      "description": "<p>다음 휴식 전까지 매력 +1을 얻습니다.</p>"
     },
     "Major Control Potion": {
-      "name": "강력한 제어의 물약",
-      "description": "<p>다음 휴식까지 기교에 +1 보너스를 받습니다.</p>"
+      "name": "상급 제어의 물약",
+      "description": "<p>다음 휴식 전까지 기교 +1을 얻습니다.</p>"
     },
     "Major Enlighten Potion": {
-      "name": "강력한 깨달음의 물약",
-      "description": "<p>다음 휴식까지 지식에 +1 보너스를 받습니다.</p>"
+      "name": "상급 계몽의 물약",
+      "description": "<p>다음 휴식 전까지 지식 +1을 얻습니다.</p>"
     },
     "Major Health Potion": {
-      "name": "강력한 치유의 물약",
-      "description": "<p>1d4+2 HP를 해제합니다.</p>"
+      "name": "상급 치유 물약",
+      "description": "<p>HP를 <strong>1d4+2</strong> 회복합니다.</p>"
     },
     "Major Stamina Potion": {
-      "name": "강력한 지구력의 물약",
-      "description": "<p>1d4+2 스트레스를 해제합니다.</p>"
+      "name": "상급 활력 물약",
+      "description": "<p>스트레스를 <strong>1d4+2</strong> 회복합니다.</p>"
     },
     "Major Stride Potion": {
-      "name": "강력한 보폭의 물약",
-      "description": "<p>다음 휴식까지 민첩에 +1 보너스를 받습니다.</p>"
+      "name": "상급 활보의 물약",
+      "description": "<p>다음 휴식 전까지 민첩 +1을 얻습니다.</p>"
     },
     "Minor Health Potion": {
-      "name": "약한 치유의 물약",
-      "description": "<p>1d4 HP를 해제합니다.</p>"
+      "name": "하급 치유 물약",
+      "description": "<p>HP를 <strong>1d4</strong> 회복합니다.</p>"
     },
     "Minor Stamina Potion": {
-      "name": "약한 지구력의 물약",
-      "description": "<p>1d4 스트레스를 해제합니다.</p>"
+      "name": "하급 활력 물약",
+      "description": "<p>스트레스를 <strong>1d4</strong> 회복합니다.</p>"
     },
     "Mirror of Marigold": {
-      "name": "메리골드의 거울",
-      "description": "<p>피해를 받을 때, 희망을 소모하여 그 피해를 무효화할 수 있으며, 그 후 거울은 깨집니다.</p>"
+      "name": "금잔화 거울",
+      "description": "<p>피해를 받을 때 희망을 소모해 피해를 무효화할 수 있습니다. 사용 후 거울은 산산이 부서집니다.</p>"
     },
     "Morphing Clay": {
       "name": "변형 점토",
-      "description": "<p>희망을 소모하여 이 점토를 사용해 얼굴을 알아볼 수 없을 만큼 변형시킬 수 있으며, 다음 휴식까지 유지됩니다.</p>"
+      "description": "<p>희망을 소모해 얼굴을 바꿔, 다음 휴식 전까지 알아볼 수 없게 됩니다.</p>"
     },
     "Mythic Dust": {
-      "name": "신화의 가루",
-      "description": "<p>이 가루를 마법 피해 무기에 발라 그 무기의 다음 피해 굴림에 d12를 추가할 수 있습니다.</p>"
+      "name": "신화 가루",
+      "description": "<p>마법 피해 무기에 바르면, 다음 피해 굴림에 <strong>d12</strong>를 추가합니다.</p>"
     },
     "Ogre Musk": {
-      "name": "오우거 사향",
-      "description": "<p>이 사향을 사용해 다음 휴식까지 일반적이거나 마법적인 수단으로 당신을 추적하는 것을 막을 수 있습니다.</p>"
+      "name": "오우거 향수",
+      "description": "<p>다음 휴식 전까지, 어떤 수단으로도 추적당하지 않습니다.</p>"
     },
     "Potion of Stability": {
       "name": "안정의 물약",
-      "description": "<p>이 물약을 마셔 휴식 시간 중 추가 행동 한 번을 선택할 수 있습니다.</p>"
+      "description": "<p>마시면 추가로 휴식 동작 하나를 선택할 수 있습니다.</p>"
     },
     "Redthorn Saliva": {
-      "name": "레드손 침",
-      "description": "<p>이 침을 물리 피해 무기에 발라 그 무기의 다음 피해 굴림에 d12를 추가할 수 있습니다.</p>"
+      "name": "붉은가시 침",
+      "description": "<p>물리 피해 무기에 바르면, 다음 피해 굴림에 <strong>d12</strong>를 추가합니다.</p>"
     },
     "Replication Parchment": {
       "name": "복제 양피지",
-      "description": "<p>이 양피지를 다른 종이에 대면 그 내용을 정확히 복사할 수 있습니다. 사용 후 이 양피지는 일반 종이가 됩니다.</p>"
+      "description": "<p>다른 양피지에 대면 내용을 그대로 복제합니다. 사용 후 일반 종이가 됩니다.</p>"
     },
     "Shrinking Potion": {
-      "name": "축소의 물약",
-      "description": "<p>이 물약을 마시면 이 형태를 떠나기로 결정하거나 다음 휴식에 도달할 때까지 절반 크기로 줄어듭니다. 이 형태에서 민첩 +2 보너스, 숙련도 -1 페널티를 받습니다.</p>"
+      "name": "축소 물약",
+      "description": "<p>크기가 절반으로 줄어듭니다. 민첩 +2, 숙련 -1. 다음 휴식 전까지 지속되거나 원할 때 해제합니다.</p>"
     },
     "Sleeping Sap": {
-      "name": "잠의 수액",
-      "description": "<p>이 물약을 마셔 잠들고 완전히 휴식할 수 있습니다. 깨어나면 모든 스트레스가 해제됩니다.</p>"
+      "name": "수면 수액",
+      "description": "<p>마시면 깊은 잠에 들어, 완전한 밤과 같은 휴식을 취합니다. 깨어나면 스트레스가 모두 회복됩니다.</p>"
     },
     "Snap Powder": {
-      "name": "스냅 가루",
-      "description": "<p>스트레스를 표시하고 HP를 해제합니다.</p>"
+      "name": "파열 가루",
+      "description": "<p><strong>스트레스를 표시</strong>하고 HP를 1 회복합니다.</p>"
     },
     "Stamina Potion": {
-      "name": "지구력의 물약",
-      "description": "<p>1d4+1 스트레스를 해제합니다.</p>"
+      "name": "활력 물약",
+      "description": "<p>스트레스를 <strong>1d4+1</strong> 회복합니다.</p>"
     },
     "Stardrop": {
-      "name": "별의 방울",
-      "description": "<p>이 별의 방울을 사용해 매우 먼 거리 내의 모든 대상에게 8d20의 물리 피해를 입히는 혜성 비를 소환할 수 있습니다.</p><p>@Template[type:emanation|range:vf]</p>"
+      "name": "별방울",
+      "description": "<p>매우 먼 거리에 운석 폭우를 불러, 모든 대상에게 <strong>8d20</strong> 물리 피해를 줍니다.</p><p>@Template[type:emanation|range:vf]</p>"
     },
     "Stride Potion": {
-      "name": "보폭의 물약",
-      "description": "<p>다음 민첩 굴림에 +1 보너스를 받습니다.</p>"
+      "name": "활보의 물약",
+      "description": "<p>다음 민첩 굴림에 +1 보너스를 얻습니다.</p>"
     },
     "Sun Tree Sap": {
       "name": "태양나무 수액",
-      "description": "<p>이 수액을 마셔 [[/r d6]]을 굴립니다. 5–6이 나오면 2 HP를 해제합니다. 2–4가 나오면 3 스트레스를 해제합니다. 1이 나오면 죽음의 장막을 보고 변화한 채 돌아오며 흉터 하나를 받습니다.</p>"
+      "description": "<p>마시면 [[/r d6]]을 굴립니다. <strong>5-6:</strong> HP 2 회복, <strong>2-4:</strong> 스트레스 3 회복, <strong>1:</strong> 죽음의 장막을 보고 흉터를 얻습니다.</p>"
     },
     "Sweet Moss": {
-      "name": "달콤한 이끼",
-      "description": "<p>휴식 중 이 이끼를 먹어 1d10 HP 또는 1d10 스트레스를 해제할 수 있습니다.</p>"
+      "name": "단이끼",
+      "description": "<p>휴식 중 먹으면 HP <strong>1d10</strong> 또는 스트레스 <strong>1d10</strong>을 회복합니다.</p>"
     },
     "Unstable Arcane Shard": {
       "name": "불안정한 비전 파편",
-      "description": "<p>기교 굴림을 하여 이 파편을 먼 거리 내의 적대자 무리에게 던질 수 있습니다. 성공한 대상은 1d20의 마법 피해를 받습니다.</p>"
+      "description": "<p>기교 굴림으로 먼 거리에 있는 적 무리에 던질 수 있습니다. 성공한 대상은 <strong>1d20</strong> 마법 피해를 받습니다.</p>"
     },
     "Varik Leaves": {
-      "name": "바릭의 잎",
-      "description": "<p>이 한 쌍의 잎을 먹으면 즉시 2 희망을 얻습니다.</p>"
+      "name": "바릭 잎",
+      "description": "<p>잎을 먹으면 즉시 희망 2를 얻습니다.</p>"
     },
     "Vial of Darksmoke": {
-      "name": "어둠연기의 약병",
-      "description": "<p>적대자가 당신을 공격할 때, 이 약병을 사용해 민첩과 같은 수의 d6을 굴립니다. 가장 높은 결과를 그 공격에 대한 회피에 더합니다.</p>"
+      "name": "암흑연기 병",
+      "description": "<p>적이 공격할 때 사용합니다. 민첩 수치만큼 <strong>d6</strong>을 굴려, 가장 높은 값을 회피에 더합니다.</p>"
     },
     "Vial of Moondrip": {
-      "name": "달방울의 약병",
-      "description": "<p>이 약병의 내용물을 마셔 다음 휴식까지 완전한 어둠 속에서 볼 수 있습니다.</p>"
+      "name": "달방울 병",
+      "description": "<p>마시면 다음 휴식 전까지 완전한 어둠 속에서도 볼 수 있습니다.</p>"
     },
     "Wingsprout": {
       "name": "날개싹",
-      "description": "<p>마법의 날개를 얻어 당신의 레벨과 같은 수의 분 동안 비행할 수 있습니다.</p>"
+      "description": "<p>레벨만큼 분 동안 마법의 날개가 돋아 하늘을 날 수 있습니다.</p>"
     }
   }
 }

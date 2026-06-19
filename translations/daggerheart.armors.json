@@ -5,74 +5,74 @@
   },
   "entries": {
     "Advanced Chainmail Armor": {
-      "name": "고급 사슬 갑옷"
+      "name": "강화된 사슬 갑옷"
     },
     "Advanced Full Plate Armor": {
-      "name": "고급 전신 판금 갑옷",
+      "name": "강화된 전신 판금 갑옷",
       "description": "<p><strong>매우 무거움</strong>: 회피 -2; 민첩 -1</p>"
     },
     "Advanced Gambeson Armor": {
-      "name": "고급 갬비슨"
+      "name": "강화된 누비 갑옷"
     },
     "Advanced Leather Armor": {
-      "name": "고급 가죽 갑옷"
+      "name": "강화된 가죽 갑옷"
     },
     "Bare Bones": {
       "name": "맨몸",
       "description": "<p></p><p class=\"Body-Foundation\">방어구를 착용하지 않기로 선택했을 때, 당신의 기본 방어도는 3 + 힘이며, 다음을 기본 피해 임계치로 사용합니다:</p><ul><li class=\"vertical-card-list-found\"><em><strong>등급 1:</strong></em> 9/19</li><li class=\"vertical-card-list-found\"><em><strong>등급 2:</strong></em> 11/24</li><li class=\"vertical-card-list-found\"><em><strong>등급 3:</strong></em> 13/31</li><li class=\"vertical-card-list-found\"><em><strong>등급 4:</strong></em> 15/38</li></ul>"
     },
     "Bellamoi Fine Armor": {
-      "name": "벨라모이의 고급 갑옷"
+      "name": "벨라모이 정장 갑옷"
     },
     "Bladefare Armor": {
-      "name": "블레이드페어 갑옷"
+      "name": "검투 갑옷"
     },
     "Chainmail Armor": {
       "name": "사슬 갑옷"
     },
     "Channeling Armor": {
-      "name": "전도성 갑옷"
+      "name": "집중의 갑옷"
     },
     "Dragonscale Armor": {
-      "name": "용비늘 갑옷"
+      "name": "드래곤 비늘 갑옷"
     },
     "Dunamis Silkchain": {
-      "name": "두나미스의 비단사슬"
+      "name": "듀나미스 비단 사슬"
     },
     "Elundrian Chain Armor": {
-      "name": "엘런드리안 사슬 갑옷"
+      "name": "엘룬드리안 사슬 갑옷"
     },
     "Emberwoven Armor": {
-      "name": "잔불 직조 갑옷"
+      "name": "불꽃직조 갑옷"
     },
     "Full Fortified Armor": {
-      "name": "완전 강화 갑옷"
+      "name": "완전 요새화 갑옷"
     },
     "Full Plate Armor": {
       "name": "전신 판금 갑옷",
       "description": "<p><strong>매우 무거움</strong>: 회피 -2; 민첩 -1</p>"
     },
     "Gambeson Armor": {
-      "name": "갬비슨"
+      "name": "누비 갑옷"
     },
     "Harrowbone Armor": {
       "name": "해로우본 갑옷"
     },
     "Improved Chainmail Armor": {
-      "name": "개량 사슬 갑옷"
+      "name": "개선된 사슬 갑옷"
     },
     "Improved Full Plate Armor": {
-      "name": "개량 전신 판금 갑옷",
+      "name": "개선된 전신 판금 갑옷",
       "description": "<p><strong>매우 무거움</strong>: 회피 -2; 민첩 -1</p>"
     },
     "Improved Gambeson Armor": {
-      "name": "개량 갬비슨"
+      "name": "개선된 누비 갑옷"
     },
     "Improved Leather Armor": {
-      "name": "개량 가죽 갑옷"
+      "name": "개선된 가죽 갑옷"
     },
     "Irontree Breastplate Armor": {
-      "name": "아이언트리 흉갑"
+      "name": "강철나무 흉갑"
     },
     "Leather Armor": {
       "name": "가죽 갑옷"
@@ -85,31 +85,31 @@
       "description": "<p><strong>매우 무거움</strong>: 회피 -2; 민첩 -1</p>"
     },
     "Legendary Gambeson Armor": {
-      "name": "전설의 갬비슨"
+      "name": "전설의 누비 갑옷"
     },
     "Legendary Leather Armor": {
       "name": "전설의 가죽 갑옷"
     },
     "Monett's Cloak": {
-      "name": "모네트의 망토"
+      "name": "모넷의 망토"
     },
     "Rosewild Armor": {
-      "name": "장미야생 갑옷"
+      "name": "로즈와일드 갑옷"
     },
     "Runes of Fortification": {
-      "name": "강화의 룬"
+      "name": "수호의 룬"
     },
     "Runetan Floating Armor": {
       "name": "룬탄 부유 갑옷"
     },
     "Savior Chainmail": {
-      "name": "구원자의 사슬 갑옷"
+      "name": "구원의 사슬 갑옷"
     },
     "Spiked Plate Armor": {
       "name": "가시 판금 갑옷"
     },
     "Tyris Soft Armor": {
-      "name": "티리스의 부드러운 갑옷"
+      "name": "티리스 연갑"
     },
     "Veritas Opal Armor": {
       "name": "베리타스 오팔 갑옷"

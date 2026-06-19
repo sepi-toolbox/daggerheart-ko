@@ -5,120 +5,119 @@
   },
   "entries": {
     "Black Powder Revolver": {
-      "name": "흑색 화약 리볼버"
+      "name": "흑연 리볼버"
     },
     "Aantari Bow": {
-      "name": "아안타리 활"
+      "name": "안타리 활"
     },
     "Advanced Arcane-Frame Wheelchair": {
-      "name": "고급 비전 프레임 휠체어"
+      "name": "강화된 마법 프레임 휠체어"
     },
     "Advanced Arcane Gauntlets": {
-      "name": "고급 비전 건틀릿"
+      "name": "강화된 비전 건틀릿"
     },
     "Advanced Battleaxe": {
-      "name": "고급 전투 도끼"
+      "name": "강화된 전투도끼"
     },
     "Advanced Broadsword": {
-      "name": "고급 브로드소드"
+      "name": "강화된 브로드소드"
     },
     "Advanced Crossbow": {
-      "name": "고급 석궁"
+      "name": "강화된 쇠뇌"
     },
     "Advanced Cutlass": {
-      "name": "고급 커틀러스"
+      "name": "강화된 커틀러스"
     },
     "Advanced Dagger": {
-      "name": "고급 단검"
+      "name": "강화된 단검"
     },
     "Advanced Dualstaff": {
-      "name": "고급 이중 지팡이"
+      "name": "강화된 듀얼스태프"
     },
     "Advanced Glowing Rings": {
-      "name": "고급 빛나는 반지"
+      "name": "강화된 빛나는 반지"
     },
     "Advanced Grappler": {
-      "name": "고급 그래플러"
+      "name": "강화된 갈고리 사슬"
     },
     "Advanced Greatstaff": {
-      "name": "고급 큰 지팡이"
+      "name": "강화된 장지팡이"
     },
     "Advanced Greatsword": {
-      "name": "고급 그레이트소드"
+      "name": "강화된 대검"
     },
     "Advanced Halberd": {
-      "name": "고급 미늘창"
+      "name": "강화된 할버드"
     },
     "Advanced Hallowed Axe": {
-      "name": "고급 신성 도끼"
+      "name": "강화된 신성한 도끼"
     },
     "Advanced Hand Crossbow": {
-      "name": "고급 손석궁"
+      "name": "강화된 손쇠뇌"
     },
     "Advanced Hand Runes": {
-      "name": "고급 손 룬"
+      "name": "강화된 휴대용 룬"
     },
     "Advanced Heavy-Frame Wheelchair": {
-      "name": "고급 중량 프레임 휠체어"
+      "name": "강화된 중량 프레임 휠체어"
     },
     "Advanced Light-Frame Wheelchair": {
-      "name": "고급 경량 프레임 휠체어"
+      "name": "강화된 경량 프레임 휠체어"
     },
     "Advanced Longbow": {
-      "name": "고급 장궁"
+      "name": "강화된 롱보우"
     },
     "Advanced Longsword": {
-      "name": "고급 롱소드"
+      "name": "강화된 롱소드"
     },
     "Advanced Mace": {
-      "name": "고급 메이스"
+      "name": "강화된 메이스"
     },
     "Advanced Quarterstaff": {
-      "name": "고급 봉"
+      "name": "강화된 쿼터스태프"
     },
     "Advanced Rapier": {
-      "name": "고급 레이피어"
+      "name": "강화된 레이피어"
     },
     "Advanced Returning Blade": {
-      "name": "고급 회귀 칼날"
+      "name": "강화된 돌아오는 검"
     },
     "Advanced Round Shield": {
-      "name": "고급 원형 방패"
+      "name": "강화된 라운드 실드"
     },
     "Advanced Scepter": {
-      "name": "고급 홀",
+      "name": "강화된 셉터",
       "description": "<p><strong>만능</strong>: 이 무기는 다음 능력치로도 사용할 수 있습니다: 매력, 근접, d8+4</p>"
     },
     "Advanced Shortbow": {
-      "name": "고급 단궁"
+      "name": "강화된 숏보우"
     },
     "Advanced Shortstaff": {
-      "name": "고급 짧은 지팡이"
+      "name": "강화된 단지팡이"
     },
     "Advanced Shortsword": {
-      "name": "고급 숏소드"
+      "name": "강화된 숏소드"
     },
     "Advanced Small Dagger": {
-      "name": "고급 작은 단검"
+      "name": "강화된 소형 단검"
     },
     "Advanced Spear": {
-      "name": "고급 창",
-      "description": "<p><strong>거추장스러움</strong>: 기교 -1</p>"
+      "name": "강화된 창"
     },
     "Advanced Tower Shield": {
-      "name": "고급 타워 실드"
+      "name": "강화된 타워 실드"
     },
     "Advanced Wand": {
-      "name": "고급 마법봉"
+      "name": "강화된 마법봉"
     },
     "Advanced Warhammer": {
-      "name": "고급 워해머"
+      "name": "강화된 전쟁망치"
     },
     "Advanced Whip": {
-      "name": "고급 채찍"
+      "name": "강화된 채찍"
     },
     "Arcane-Frame Wheelchair": {
-      "name": "비전 프레임 휠체어"
+      "name": "마법 프레임 휠체어"
     },
     "Arcane Gauntlets": {
       "name": "비전 건틀릿"
@@ -127,19 +126,19 @@
       "name": "포르투니스의 도끼"
     },
     "Battleaxe": {
-      "name": "전투 도끼"
+      "name": "전투도끼"
     },
     "Bladed Whip": {
       "name": "칼날 채찍"
     },
     "Blessed Anlace": {
-      "name": "축복받은 안레이스"
+      "name": "축복받은 엔레이스"
     },
     "Bloodstaff": {
-      "name": "피의 지팡이"
+      "name": "혈지팡이"
     },
     "Blunderbuss": {
-      "name": "블런더버스"
+      "name": "산탄총"
     },
     "Braveshield": {
       "name": "용기의 방패"
@@ -154,14 +153,14 @@
       "name": "버클러"
     },
     "Casting Sword": {
-      "name": "캐스팅 검",
+      "name": "주문검",
       "description": "<p><strong>만능</strong>: 이 무기는 다음 능력치로도 사용할 수 있습니다: 지식, 먼 거리, d6+3</p>"
     },
     "Crossbow": {
-      "name": "석궁"
+      "name": "쇠뇌"
     },
     "Curved Dagger": {
-      "name": "곡선 단검"
+      "name": "휘어진 단검"
     },
     "Cutlass": {
       "name": "커틀러스"
@@ -170,70 +169,70 @@
       "name": "단검"
     },
     "Devouring Dagger": {
-      "name": "탐식의 단검"
+      "name": "포식의 단검"
     },
     "Double Flail": {
-      "name": "이중 도리깨"
+      "name": "쌍두 도리깨"
     },
     "Dualstaff": {
-      "name": "이중 지팡이"
+      "name": "듀얼스태프"
     },
     "Dual-Ended Sword": {
-      "name": "양날 검"
+      "name": "쌍끝검"
     },
     "Ego Blade": {
-      "name": "에고 검"
+      "name": "에고 블레이드"
     },
     "Elder Bow": {
-      "name": "장로의 활"
+      "name": "태고의 활"
     },
     "Extended Polearm": {
       "name": "연장된 폴암"
     },
     "Finehair Bow": {
-      "name": "고운 머리카락 활"
+      "name": "파인헤어 보우"
     },
     "Firestaff": {
-      "name": "화염 지팡이"
+      "name": "화염지팡이"
     },
     "Flickerfly Blade": {
-      "name": "깜빡이 나방 칼날"
+      "name": "플리커플라이 날개검"
     },
     "Floating Bladeshards": {
-      "name": "부유 칼날 파편"
+      "name": "부유하는 칼날"
     },
     "Fusion Gloves": {
       "name": "융합 장갑"
     },
     "Ghostblade": {
-      "name": "유령 칼날"
+      "name": "유령검"
     },
     "Gilded Bow": {
-      "name": "도금 활"
+      "name": "금도금 활"
     },
     "Gilded Falchion": {
-      "name": "도금 팔시온"
+      "name": "금도금 펄션"
     },
     "Glowing Rings": {
       "name": "빛나는 반지"
     },
     "Grappler": {
-      "name": "그래플러"
+      "name": "갈고리 사슬"
     },
     "Greatbow": {
-      "name": "큰 활"
+      "name": "대궁"
     },
     "Greatstaff": {
-      "name": "큰 지팡이"
+      "name": "장지팡이"
     },
     "Greatsword": {
-      "name": "그레이트소드"
+      "name": "대검"
     },
     "Halberd": {
-      "name": "미늘창"
+      "name": "할버드"
     },
     "Hallowed Axe": {
-      "name": "신성 도끼"
+      "name": "신성한 도끼"
     },
     "Hammer of Exota": {
       "name": "엑소타의 망치"
@@ -245,158 +244,157 @@
       "name": "핸드 캐논"
     },
     "Hand Crossbow": {
-      "name": "손석궁"
+      "name": "손쇠뇌"
     },
     "Hand Runes": {
-      "name": "손 룬"
+      "name": "휴대용 룬"
     },
     "Hand Sling": {
-      "name": "손 투석기",
+      "name": "슬링",
       "description": "<p><strong>만능</strong>: 이 무기는 다음 능력치로도 사용할 수 있습니다: 기교, 가까운 거리, d8+4</p>"
     },
     "Heavy-Frame Wheelchair": {
       "name": "중량 프레임 휠체어"
     },
     "Ilmari's Rifle": {
-      "name": "일마리의 소총"
+      "name": "일마리의 장총"
     },
     "Impact Gauntlet": {
       "name": "충격 건틀릿"
     },
     "Improved Arcane-Frame Wheelchair": {
-      "name": "개량 비전 프레임 휠체어"
+      "name": "개선된 마법 프레임 휠체어"
     },
     "Improved Arcane Gauntlets": {
-      "name": "개량 비전 건틀릿"
+      "name": "개선된 비전 건틀릿"
     },
     "Improved Battleaxe": {
-      "name": "개량 전투 도끼"
+      "name": "개선된 전투도끼"
     },
     "Improved Broadsword": {
-      "name": "개량 브로드소드"
+      "name": "개선된 브로드소드"
     },
     "Improved Crossbow": {
-      "name": "개량 석궁"
+      "name": "개선된 쇠뇌"
     },
     "Improved Cutlass": {
-      "name": "개량 커틀러스"
+      "name": "개선된 커틀러스"
     },
     "Improved Dagger": {
-      "name": "개량 단검"
+      "name": "개선된 단검"
     },
     "Improved Dualstaff": {
-      "name": "개량 이중 지팡이"
+      "name": "개선된 듀얼스태프"
     },
     "Improved Glowing Rings": {
-      "name": "개량 빛나는 반지"
+      "name": "개선된 빛나는 반지"
     },
     "Improved Grappler": {
-      "name": "개량 그래플러"
+      "name": "개선된 갈고리 사슬"
     },
     "Improved Greatstaff": {
-      "name": "개량 큰 지팡이"
+      "name": "개선된 장지팡이"
     },
     "Improved Greatsword": {
-      "name": "개량 그레이트소드"
+      "name": "개선된 대검"
     },
     "Improved Halberd": {
-      "name": "개량 미늘창"
+      "name": "개선된 할버드"
     },
     "Improved Hallowed Axe": {
-      "name": "개량 신성 도끼"
+      "name": "개선된 신성한 도끼"
     },
     "Improved Hand Crossbow": {
-      "name": "개량 손석궁"
+      "name": "개선된 손쇠뇌"
     },
     "Improved Hand Runes": {
-      "name": "개량 손 룬"
+      "name": "개선된 휴대용 룬"
     },
     "Improved Heavy-Frame Wheelchair": {
-      "name": "개량 중량 프레임 휠체어"
+      "name": "개선된 중량 프레임 휠체어"
     },
     "Improved Light-Frame Wheelchair": {
-      "name": "개량 경량 프레임 휠체어"
+      "name": "개선된 경량 프레임 휠체어"
     },
     "Improved Longbow": {
-      "name": "개량 장궁"
+      "name": "개선된 롱보우"
     },
     "Improved Longsword": {
-      "name": "개량 롱소드"
+      "name": "개선된 롱소드"
     },
     "Improved Mace": {
-      "name": "개량 메이스"
+      "name": "개선된 메이스"
     },
     "Improved Quarterstaff": {
-      "name": "개량 봉"
+      "name": "개선된 쿼터스태프"
     },
     "Improved Rapier": {
-      "name": "개량 레이피어"
+      "name": "개선된 레이피어"
     },
     "Improved Returning Blade": {
-      "name": "개량 회귀 칼날"
+      "name": "개선된 돌아오는 검"
     },
     "Improved Round Shield": {
-      "name": "개량 원형 방패"
+      "name": "개선된 라운드 실드"
     },
     "Improved Scepter": {
-      "name": "개량 홀",
+      "name": "개선된 셉터",
       "description": "<p><strong>만능</strong>: 이 무기는 다음 능력치로도 사용할 수 있습니다: 매력, 근접, d8+3</p>"
     },
     "Improved Shortbow": {
-      "name": "개량 단궁"
+      "name": "개선된 숏보우"
     },
     "Improved Shortstaff": {
-      "name": "개량 짧은 지팡이"
+      "name": "개선된 단지팡이"
     },
     "Improved Shortsword": {
-      "name": "개량 숏소드"
+      "name": "개선된 숏소드"
     },
     "Improved Small Dagger": {
-      "name": "개량 작은 단검"
+      "name": "개선된 소형 단검"
     },
     "Improved Spear": {
-      "name": "개량 창",
-      "description": "<p><strong>거추장스러움</strong>: 기교 -1</p>"
+      "name": "개선된 창"
     },
     "Improved Tower Shield": {
-      "name": "개량 타워 실드"
+      "name": "개선된 타워 실드"
     },
     "Improved Wand": {
-      "name": "개량 마법봉"
+      "name": "개선된 마법봉"
     },
     "Improved Warhammer": {
-      "name": "개량 워해머"
+      "name": "개선된 전쟁망치"
     },
     "Improved Whip": {
-      "name": "개량 채찍"
+      "name": "개선된 채찍"
     },
     "Keeper's Staff": {
       "name": "수호자의 지팡이"
     },
     "Knuckle Blades": {
-      "name": "너클 칼날"
+      "name": "너클 블레이드"
     },
     "Knuckle Claws": {
-      "name": "너클 발톱"
+      "name": "너클 클로"
     },
     "Labrys Axe": {
       "name": "라브리스 도끼",
-      "description": "<p><strong>방호</strong>: 캐릭터 등급을 방어도에 추가합니다.</p>"
+      "description": "<p><strong>방어</strong>: 방어도 +1</p>"
     },
     "Legendary Arcane-Frame Wheelchair": {
-      "name": "전설의 비전 프레임 휠체어"
+      "name": "전설의 마법 프레임 휠체어"
     },
     "Legendary Arcane Gauntlets": {
       "name": "전설의 비전 건틀릿"
     },
     "Legendary Battleaxe": {
-      "name": "전설의 전투 도끼"
+      "name": "전설의 전투도끼"
     },
     "Legendary Broadsword": {
       "name": "전설의 브로드소드"
     },
     "Legendary Crossbow": {
-      "name": "전설의 석궁"
+      "name": "전설의 쇠뇌"
     },
     "Legendary Cutlass": {
       "name": "전설의 커틀러스"
@@ -405,31 +403,31 @@
       "name": "전설의 단검"
     },
     "Legendary Dualstaff": {
-      "name": "전설의 이중 지팡이"
+      "name": "전설의 듀얼스태프"
     },
     "Legendary Glowing Rings": {
       "name": "전설의 빛나는 반지"
     },
     "Legendary Grappler": {
-      "name": "전설의 그래플러"
+      "name": "전설의 갈고리 사슬"
     },
     "Legendary Greatstaff": {
-      "name": "전설의 큰 지팡이"
+      "name": "전설의 장지팡이"
     },
     "Legendary Greatsword": {
-      "name": "전설의 그레이트소드"
+      "name": "전설의 대검"
     },
     "Legendary Halberd": {
-      "name": "전설의 미늘창"
+      "name": "전설의 할버드"
     },
     "Legendary Hallowed Axe": {
-      "name": "전설의 신성 도끼"
+      "name": "전설의 신성한 도끼"
     },
     "Legendary Hand Crossbow": {
-      "name": "전설의 손석궁"
+      "name": "전설의 손쇠뇌"
     },
     "Legendary Hand Runes": {
-      "name": "전설의 손 룬"
+      "name": "전설의 휴대용 룬"
     },
     "Legendary Heavy-Frame Wheelchair": {
       "name": "전설의 중량 프레임 휠체어"
@@ -438,7 +436,7 @@
       "name": "전설의 경량 프레임 휠체어"
     },
     "Legendary Longbow": {
-      "name": "전설의 장궁"
+      "name": "전설의 롱보우"
     },
     "Legendary Longsword": {
       "name": "전설의 롱소드"
@@ -447,36 +445,35 @@
       "name": "전설의 메이스"
     },
     "Legendary Quarterstaff": {
-      "name": "전설의 봉"
+      "name": "전설의 쿼터스태프"
     },
     "Legendary Rapier": {
       "name": "전설의 레이피어"
     },
     "Legendary Returning Blade": {
-      "name": "전설의 회귀 칼날"
+      "name": "전설의 돌아오는 검"
     },
     "Legendary Round Shield": {
-      "name": "전설의 원형 방패"
+      "name": "전설의 라운드 실드"
     },
     "Legendary Scepter": {
-      "name": "전설의 홀",
+      "name": "전설의 셉터",
       "description": "<p><strong>만능</strong>: 이 무기는 다음 능력치로도 사용할 수 있습니다: 매력, 근접, d8+6</p>"
     },
     "Legendary Shortbow": {
-      "name": "전설의 단궁"
+      "name": "전설의 숏보우"
     },
     "Legendary Shortstaff": {
-      "name": "전설의 짧은 지팡이"
+      "name": "전설의 단지팡이"
     },
     "Legendary Shortsword": {
       "name": "전설의 숏소드"
     },
     "Legendary Small Dagger": {
-      "name": "전설의 작은 단검"
+      "name": "전설의 소형 단검"
     },
     "Legendary Spear": {
-      "name": "전설의 창",
-      "description": "<p><strong>거추장스러움</strong>: 기교 -1</p>"
+      "name": "전설의 창"
     },
     "Legendary Tower Shield": {
       "name": "전설의 타워 실드"
@@ -485,7 +482,7 @@
       "name": "전설의 마법봉"
     },
     "Legendary Warhammer": {
-      "name": "전설의 워해머"
+      "name": "전설의 전쟁망치"
     },
     "Legendary Whip": {
       "name": "전설의 채찍"
@@ -494,7 +491,7 @@
       "name": "경량 프레임 휠체어"
     },
     "Longbow": {
-      "name": "장궁"
+      "name": "롱보우"
     },
     "Longsword": {
       "name": "롱소드"
@@ -503,97 +500,96 @@
       "name": "메이스"
     },
     "Mage Orb": {
-      "name": "마법사의 구체"
+      "name": "마법 수정구"
     },
     "Magus Revolver": {
-      "name": "마구스 리볼버"
+      "name": "마탄의 리볼버"
     },
     "Meridian Cutlass": {
-      "name": "메리디언 커틀러스"
+      "name": "메리디안 커틀러스"
     },
     "Midas Scythe": {
       "name": "미다스의 낫"
     },
     "Parrying Dagger": {
-      "name": "패링 단검"
+      "name": "패링 대거"
     },
     "Powered Gauntlet": {
-      "name": "동력 건틀릿"
+      "name": "충전형 건틀릿"
     },
     "Primer Shard": {
-      "name": "프라이머 파편"
+      "name": "부착식 파편"
     },
     "Quarterstaff": {
-      "name": "봉"
+      "name": "쿼터스태프"
     },
     "Rapier": {
       "name": "레이피어"
     },
     "Retractable Saber": {
-      "name": "접이식 세이버"
+      "name": "수납형 세이버"
     },
     "Returning Axe": {
-      "name": "회귀 도끼"
+      "name": "돌아오는 도끼"
     },
     "Returning Blade": {
-      "name": "회귀 칼날"
+      "name": "돌아오는 검"
     },
     "Ricochet Axes": {
-      "name": "도탄 도끼"
+      "name": "튕기는 도끼"
     },
     "Round Shield": {
-      "name": "원형 방패"
+      "name": "라운드 실드"
     },
     "Runes of Ruination": {
       "name": "파멸의 룬"
     },
     "Scepter": {
-      "name": "홀",
+      "name": "셉터",
       "description": "<p><strong>만능</strong>: 이 무기는 다음 능력치로도 사용할 수 있습니다: 매력, 근접, d8+6</p>"
     },
     "Scepter of Elias": {
       "name": "엘리아스의 홀"
     },
     "Shortbow": {
-      "name": "단궁"
+      "name": "숏보우"
     },
     "Shortstaff": {
-      "name": "짧은 지팡이"
+      "name": "단지팡이"
     },
     "Shortsword": {
       "name": "숏소드"
     },
     "Siphoning Gauntlets": {
-      "name": "흡수 건틀릿"
+      "name": "흡수의 건틀릿"
     },
     "Sledge Axe": {
-      "name": "큰망치 도끼"
+      "name": "슬래지 액스"
     },
     "Small Dagger": {
-      "name": "작은 단검"
+      "name": "소형 단검"
     },
     "Spear": {
-      "name": "창",
-      "description": "<p><strong>거추장스러움</strong>: 기교 -1</p>"
+      "name": "창"
     },
     "Spiked Bow": {
-      "name": "가시 활",
+      "name": "가시궁",
       "description": "<p><strong>만능</strong>: 이 무기는 다음 능력치로도 사용할 수 있습니다: 민첩, 근접, d10+5</p>"
     },
     "Spiked Shield": {
       "name": "가시 방패"
     },
     "Steelforged Halberd": {
-      "name": "강철 단조 미늘창"
+      "name": "강철단조 할버드"
     },
     "Swinging Ropeblade": {
-      "name": "흔드는 밧줄 칼날"
+      "name": "밧줄칼"
     },
     "Sword of Light & Flame": {
-      "name": "빛과 화염의 검"
+      "name": "빛의 검과 불꽃"
     },
     "Talon Blades": {
-      "name": "발톱 칼날"
+      "name": "발톱 검"
     },
     "Thistlebow": {
       "name": "엉겅퀴 활"
@@ -602,19 +598,19 @@
       "name": "타워 실드"
     },
     "Urok Broadsword": {
-      "name": "우록 브로드소드"
+      "name": "우르크 브로드소드"
     },
     "Wand": {
       "name": "마법봉"
     },
     "Wand of Enthrallment": {
-      "name": "매혹의 마법봉"
+      "name": "현혹의 마법봉"
     },
     "Wand of Essek": {
-      "name": "에세크의 마법봉"
+      "name": "에섹의 마법봉"
     },
     "Warhammer": {
-      "name": "워해머"
+      "name": "전쟁망치"
     },
     "War Scythe": {
       "name": "전쟁 낫"
@@ -623,10 +619,10 @@
       "name": "채찍"
     },
     "Widogast Pendant": {
-      "name": "위도가스트 펜던트"
+      "name": "위도가스트 부적"
     },
     "Yutari Bloodbow": {
-      "name": "유타리 핏빛 활"
+      "name": "유타리 혈궁"
     }
   }
 }
