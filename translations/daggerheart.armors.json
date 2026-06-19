@@ -5,16 +5,14 @@
   },
   "entries": {
     "Advanced Chainmail Armor": {
-      "name": "고급 사슬 갑옷",
-      "description": "<p><strong>무거움</strong>: 회피 -1</p>"
+      "name": "고급 사슬 갑옷"
     },
     "Advanced Full Plate Armor": {
       "name": "고급 전신 판금 갑옷",
       "description": "<p><strong>매우 무거움</strong>: 회피 -2; 민첩 -1</p>"
     },
     "Advanced Gambeson Armor": {
-      "name": "고급 갬비슨",
-      "description": "<p><strong>유연함</strong>: 회피 +1</p>"
+      "name": "고급 갬비슨"
     },
     "Advanced Leather Armor": {
       "name": "고급 가죽 갑옷"
@@ -24,121 +22,97 @@
       "description": "<p></p><p class=\"Body-Foundation\">방어구를 착용하지 않기로 선택했을 때, 당신의 기본 방어도는 3 + 힘이며, 다음을 기본 피해 임계치로 사용합니다:</p><ul><li class=\"vertical-card-list-found\"><em><strong>등급 1:</strong></em> 9/19</li><li class=\"vertical-card-list-found\"><em><strong>등급 2:</strong></em> 11/24</li><li class=\"vertical-card-list-found\"><em><strong>등급 3:</strong></em> 13/31</li><li class=\"vertical-card-list-found\"><em><strong>등급 4:</strong></em> 15/38</li></ul>"
     },
     "Bellamoi Fine Armor": {
-      "name": "벨라모이의 고급 갑옷",
-      "description": "<p><strong>도금</strong>: 매력 +1</p>"
+      "name": "벨라모이의 고급 갑옷"
     },
     "Bladefare Armor": {
-      "name": "블레이드페어 갑옷",
-      "description": "<p><strong>물리</strong>: 마법 피해를 줄이기 위해 방어 슬롯을 표시할 수 없습니다.</p>"
+      "name": "블레이드페어 갑옷"
     },
     "Chainmail Armor": {
-      "name": "사슬 갑옷",
-      "description": "<p><strong>무거움</strong>: 회피 -1</p>"
+      "name": "사슬 갑옷"
     },
     "Channeling Armor": {
-      "name": "전도성 갑옷",
-      "description": "<p><strong>전도</strong>: 주문시전 굴림 +1</p>"
+      "name": "전도성 갑옷"
     },
     "Dragonscale Armor": {
-      "name": "용비늘 갑옷",
-      "description": "<p><strong>불침투</strong>: 짧은 휴식당 한 번, 마지막 HP를 표시하게 될 때 대신 스트레스를 표시할 수 있습니다.</p>"
+      "name": "용비늘 갑옷"
     },
     "Dunamis Silkchain": {
-      "name": "두나미스의 비단사슬",
-      "description": "<p><strong>시간 지연</strong>: 방어 슬롯을 표시하여 d4를 굴려 그 결과를 들어오는 공격에 대한 회피 보너스로 추가합니다.</p>"
+      "name": "두나미스의 비단사슬"
     },
-    "Elundrian Chain Mail": {
-      "name": "엘런드리안 사슬 갑옷",
-      "description": "<p><strong>방호</strong>: 들어오는 마법 피해를 피해 임계치에 적용하기 전에 방어도만큼 감소시킵니다.</p>"
+    "Elundrian Chain Armor": {
+      "name": "엘런드리안 사슬 갑옷"
     },
     "Emberwoven Armor": {
-      "name": "잔불 직조 갑옷",
-      "description": "<p><strong>점화</strong>: 적대자가 근접 거리 안에서 당신을 공격할 때, 그 적대자는 스트레스를 표시합니다.</p>"
+      "name": "잔불 직조 갑옷"
     },
     "Full Fortified Armor": {
-      "name": "완전 강화 갑옷",
-      "description": "<p><strong>강화</strong>: 방어 슬롯을 표시할 때 공격의 심각도를 한 단계가 아닌 두 단계 감소시킵니다.</p>"
+      "name": "완전 강화 갑옷"
     },
     "Full Plate Armor": {
       "name": "전신 판금 갑옷",
       "description": "<p><strong>매우 무거움</strong>: 회피 -2; 민첩 -1</p>"
     },
     "Gambeson Armor": {
-      "name": "갬비슨",
-      "description": "<p><strong>유연함</strong>: 회피 +1</p>"
+      "name": "갬비슨"
     },
     "Harrowbone Armor": {
-      "name": "해로우본 갑옷",
-      "description": "<p><strong>저항</strong>: 마지막 방어 슬롯을 표시하기 전에 d6를 굴립니다. 6이 나오면 방어 슬롯을 표시하지 않고 심각도를 한 단계 감소시킵니다.</p>"
+      "name": "해로우본 갑옷"
     },
     "Improved Chainmail Armor": {
-      "name": "개량 사슬 갑옷",
-      "description": "<p><strong>무거움</strong>: 회피 -1</p>"
+      "name": "개량 사슬 갑옷"
     },
     "Improved Full Plate Armor": {
       "name": "개량 전신 판금 갑옷",
       "description": "<p><strong>매우 무거움</strong>: 회피 -2; 민첩 -1</p>"
     },
     "Improved Gambeson Armor": {
-      "name": "개량 갬비슨",
-      "description": "<p><strong>유연함</strong>: 회피 +1</p>"
+      "name": "개량 갬비슨"
     },
     "Improved Leather Armor": {
       "name": "개량 가죽 갑옷"
     },
     "Irontree Breastplate Armor": {
-      "name": "아이언트리 흉갑",
-      "description": "<p><strong>강화</strong>: <p>마지막 방어 슬롯을 표시할 때, 방어 슬롯을 최소 1개 해제할 때까지 피해 임계치를 +2 증가시킵니다.</p></p>"
+      "name": "아이언트리 흉갑"
     },
     "Leather Armor": {
       "name": "가죽 갑옷"
     },
     "Legendary Chainmail Armor": {
-      "name": "전설의 사슬 갑옷",
-      "description": "<p><strong>무거움</strong>: 회피 -1</p>"
+      "name": "전설의 사슬 갑옷"
     },
     "Legendary Full Plate Armor": {
       "name": "전설의 전신 판금 갑옷",
       "description": "<p><strong>매우 무거움</strong>: 회피 -2; 민첩 -1</p>"
     },
     "Legendary Gambeson Armor": {
-      "name": "전설의 갬비슨",
-      "description": "<p><strong>유연함</strong>: 회피 +1</p>"
+      "name": "전설의 갬비슨"
     },
     "Legendary Leather Armor": {
       "name": "전설의 가죽 갑옷"
     },
     "Monett's Cloak": {
-      "name": "모네트의 망토",
-      "description": "<p><strong>마법</strong>: 물리 피해를 줄이기 위해 방어 슬롯을 표시할 수 없습니다.</p>"
+      "name": "모네트의 망토"
     },
     "Rosewild Armor": {
-      "name": "장미야생 갑옷",
-      "description": "<p><strong>희망</strong>: 희망을 소모하려 할 때 대신 방어 슬롯을 표시할 수 있습니다.</p>"
+      "name": "장미야생 갑옷"
     },
     "Runes of Fortification": {
-      "name": "강화의 룬",
-      "description": "<p><strong>고통</strong>: 방어 슬롯을 표시할 때마다 스트레스를 표시해야 합니다.</p>"
+      "name": "강화의 룬"
     },
     "Runetan Floating Armor": {
-      "name": "룬탄 부유 갑옷",
-      "description": "<p><strong>이동</strong>: 공격의 표적이 될 때, 방어 슬롯을 표시하여 공격자의 굴림에 불리점를 부여할 수 있습니다.</p>"
+      "name": "룬탄 부유 갑옷"
     },
     "Savior Chainmail": {
-      "name": "구원자의 사슬 갑옷",
-      "description": "<p><strong>까다로움</strong>: 모든 캐릭터 능력치와 회피에 -1</p>"
+      "name": "구원자의 사슬 갑옷"
     },
     "Spiked Plate Armor": {
-      "name": "가시 판금 갑옷",
-      "description": "<p><strong>날카로움</strong>: 근접 거리 안의 대상에 대한 공격이 성공하면 피해 굴림에 d4를 추가합니다.</p>"
+      "name": "가시 판금 갑옷"
     },
     "Tyris Soft Armor": {
-      "name": "티리스의 부드러운 갑옷",
-      "description": "<p><strong>조용함</strong>: 소리 없이 움직이기 위한 굴림에 +2 보너스를 받습니다.</p>"
+      "name": "티리스의 부드러운 갑옷"
     },
     "Veritas Opal Armor": {
-      "name": "베리타스 오팔 갑옷",
-      "description": "<p><strong>진실 추구자</strong>: 가까운 거리 내의 다른 존재가 거짓말을 하면 이 갑옷이 빛납니다.</p>"
+      "name": "베리타스 오팔 갑옷"
     }
   }
 }

@@ -5,16 +5,13 @@
   },
   "entries": {
     "Black Powder Revolver": {
-      "name": "흑색 화약 리볼버",
-      "description": "<p><strong>재장전</strong>: 공격 후 d6을 굴립니다. 1이 나오면 다시 발사하기 전에 스트레스를 표시하여 무기를 재장전해야 합니다.</p>"
+      "name": "흑색 화약 리볼버"
     },
     "Aantari Bow": {
-      "name": "아안타리 활",
-      "description": "<p><strong>정확함</strong>: 명중 굴림에 +1</p>"
+      "name": "아안타리 활"
     },
     "Advanced Arcane-Frame Wheelchair": {
-      "name": "고급 비전 프레임 휠체어",
-      "description": "<p><strong>정확함</strong>: 명중 굴림에 +1</p>"
+      "name": "고급 비전 프레임 휠체어"
     },
     "Advanced Arcane Gauntlets": {
       "name": "고급 비전 건틀릿"
@@ -23,8 +20,7 @@
       "name": "고급 전투 도끼"
     },
     "Advanced Broadsword": {
-      "name": "고급 브로드소드",
-      "description": "<p><strong>정확함</strong>: 명중 굴림에 +1</p>"
+      "name": "고급 브로드소드"
     },
     "Advanced Crossbow": {
       "name": "고급 석궁"
@@ -42,20 +38,16 @@
       "name": "고급 빛나는 반지"
     },
     "Advanced Grappler": {
-      "name": "고급 그래플러",
-      "description": "<p><strong>포획</strong>: 공격 성공 시 대상을 근접 거리로 끌어당길 수 있습니다.</p>"
+      "name": "고급 그래플러"
     },
     "Advanced Greatstaff": {
-      "name": "고급 큰 지팡이",
-      "description": "<p><strong>강력함</strong>: 공격 성공 시 추가 피해 주사위를 굴리고 가장 낮은 결과를 버립니다.</p>"
+      "name": "고급 큰 지팡이"
     },
     "Advanced Greatsword": {
-      "name": "고급 그레이트소드",
-      "description": "<p><strong>거대함</strong>: 회피 -1; 공격 성공 시 추가 피해 주사위를 굴리고 가장 낮은 결과를 버립니다.</p>"
+      "name": "고급 그레이트소드"
     },
     "Advanced Halberd": {
-      "name": "고급 미늘창",
-      "description": "<p><strong>거추장스러움</strong>: 기교 -1</p>"
+      "name": "고급 미늘창"
     },
     "Advanced Hallowed Axe": {
       "name": "고급 신성 도끼"
@@ -67,16 +59,13 @@
       "name": "고급 손 룬"
     },
     "Advanced Heavy-Frame Wheelchair": {
-      "name": "고급 중량 프레임 휠체어",
-      "description": "<p><strong>무거움</strong>: 회피 -1</p>"
+      "name": "고급 중량 프레임 휠체어"
     },
     "Advanced Light-Frame Wheelchair": {
-      "name": "고급 경량 프레임 휠체어",
-      "description": "<p><strong>빠름</strong>: 공격할 때 스트레스를 표시하여 사정거리 내 다른 존재를 목표로 삼을 수 있습니다.</p>"
+      "name": "고급 경량 프레임 휠체어"
     },
     "Advanced Longbow": {
-      "name": "고급 장궁",
-      "description": "<p><strong>거추장스러움</strong>: 기교 -1</p>"
+      "name": "고급 장궁"
     },
     "Advanced Longsword": {
       "name": "고급 롱소드"
@@ -88,16 +77,13 @@
       "name": "고급 봉"
     },
     "Advanced Rapier": {
-      "name": "고급 레이피어",
-      "description": "<p><strong>빠름</strong>: 공격할 때 스트레스를 표시하여 사정거리 내 다른 존재를 목표로 삼을 수 있습니다.</p>"
+      "name": "고급 레이피어"
     },
     "Advanced Returning Blade": {
-      "name": "고급 회귀 칼날",
-      "description": "<p><strong>회귀</strong>: 이 무기를 사정거리 내로 던지면 공격 직후 손에 다시 나타납니다.</p>"
+      "name": "고급 회귀 칼날"
     },
     "Advanced Round Shield": {
-      "name": "고급 원형 방패",
-      "description": "<p><strong>방호</strong>: 캐릭터 등급을 방어도에 추가합니다.</p>"
+      "name": "고급 원형 방패"
     },
     "Advanced Scepter": {
       "name": "고급 홀",
@@ -110,77 +96,62 @@
       "name": "고급 짧은 지팡이"
     },
     "Advanced Shortsword": {
-      "name": "고급 숏소드",
-      "description": "<p><strong>페어</strong>: 근접 거리 내 대상에 대해 주 무기 피해 +4</p>"
+      "name": "고급 숏소드"
     },
     "Advanced Small Dagger": {
-      "name": "고급 작은 단검",
-      "description": "<p><strong>페어</strong>: 근접 거리 내 대상에 대해 주 무기 피해 +4</p>"
+      "name": "고급 작은 단검"
     },
     "Advanced Spear": {
       "name": "고급 창",
       "description": "<p><strong>거추장스러움</strong>: 기교 -1</p>"
     },
     "Advanced Tower Shield": {
-      "name": "고급 타워 실드",
-      "description": "<p><strong>장벽</strong>: 방어도에 무기 등급 +1; 회피 -1</p>"
+      "name": "고급 타워 실드"
     },
     "Advanced Wand": {
       "name": "고급 마법봉"
     },
     "Advanced Warhammer": {
-      "name": "고급 워해머",
-      "description": "<p><strong>무거움</strong>: 회피 -1</p>"
+      "name": "고급 워해머"
     },
     "Advanced Whip": {
-      "name": "고급 채찍",
-      "description": "<p><strong>위협</strong>: 스트레스를 표시하여 채찍을 휘둘러 근접 거리 내 모든 적대자를 가까운 거리로 물러나게 합니다.</p>"
+      "name": "고급 채찍"
     },
     "Arcane-Frame Wheelchair": {
-      "name": "비전 프레임 휠체어",
-      "description": "<p><strong>정확함</strong>: 명중 굴림에 +1</p>"
+      "name": "비전 프레임 휠체어"
     },
     "Arcane Gauntlets": {
       "name": "비전 건틀릿"
     },
     "Axe of Fortunis": {
-      "name": "포르투니스의 도끼",
-      "description": "<p><strong>행운</strong>: 공격 실패 시 스트레스를 표시하여 공격을 다시 굴릴 수 있습니다.</p>"
+      "name": "포르투니스의 도끼"
     },
     "Battleaxe": {
       "name": "전투 도끼"
     },
     "Bladed Whip": {
-      "name": "칼날 채찍",
-      "description": "<p><strong>빠름</strong>: 공격할 때 스트레스를 표시하여 사정거리 내 다른 존재를 목표로 삼을 수 있습니다.</p>"
+      "name": "칼날 채찍"
     },
     "Blessed Anlace": {
-      "name": "축복받은 안레이스",
-      "description": "<p><strong>치유</strong>: 휴식 시간에 자동으로 1 HP를 해제합니다.</p>"
+      "name": "축복받은 안레이스"
     },
     "Bloodstaff": {
-      "name": "피의 지팡이",
-      "description": "<p><strong>고통</strong>: 공격에 성공할 때마다 스트레스를 표시해야 합니다.</p>"
+      "name": "피의 지팡이"
     },
     "Blunderbuss": {
-      "name": "블런더버스",
-      "description": "<p><strong>재장전</strong>: 공격 후 d6을 굴립니다. 1이 나오면 다시 발사하기 전에 스트레스를 표시하여 무기를 재장전해야 합니다.</p>"
+      "name": "블런더버스"
     },
     "Braveshield": {
-      "name": "용기의 방패",
-      "description": "<p><strong>보호</strong>: 방어 슬롯을 표시할 때, 그 슬롯은 같은 피해를 받은 자신과 근접 거리 내 모든 동료에게도 피해를 감소시킵니다.</p>"
+      "name": "용기의 방패"
     },
     "Bravesword": {
-      "name": "용기의 검",
-      "description": "<p><strong>용감함</strong>: 회피 -1; 중대한 피해 임계치에 무기 등급 추가</p>"
+      "name": "용기의 검"
     },
     "Broadsword": {
-      "name": "브로드소드",
-      "description": "<p><strong>정확함</strong>: 명중 굴림에 +1</p>"
+      "name": "브로드소드"
     },
     "Buckler": {
-      "name": "버클러",
-      "description": "<p><strong>편향</strong>: 공격받을 때 방어 슬롯을 표시하여 그 공격에 대한 방어도와 같은 회피 보너스를 받을 수 있습니다.</p>"
+      "name": "버클러"
     },
     "Casting Sword": {
       "name": "캐스팅 검",
@@ -190,8 +161,7 @@
       "name": "석궁"
     },
     "Curved Dagger": {
-      "name": "곡선 단검",
-      "description": "<p><strong>톱니</strong>: 피해 주사위에서 1이 나오면 대신 8의 피해를 입힙니다.</p>"
+      "name": "곡선 단검"
     },
     "Cutlass": {
       "name": "커틀러스"
@@ -200,100 +170,79 @@
       "name": "단검"
     },
     "Devouring Dagger": {
-      "name": "탐식의 단검",
-      "description": "<p><strong>위협</strong>: 공격 성공 시 대상은 스트레스를 표시해야 합니다.</p>"
+      "name": "탐식의 단검"
     },
     "Double Flail": {
-      "name": "이중 도리깨",
-      "description": "<p><strong>강력함</strong>: 공격 성공 시 추가 피해 주사위를 굴리고 가장 낮은 결과를 버립니다.</p>"
+      "name": "이중 도리깨"
     },
     "Dualstaff": {
       "name": "이중 지팡이"
     },
     "Dual-Ended Sword": {
-      "name": "양날 검",
-      "description": "<p><strong>빠름</strong>: 공격할 때 스트레스를 표시하여 사정거리 내 다른 존재를 목표로 삼을 수 있습니다.</p>"
+      "name": "양날 검"
     },
     "Ego Blade": {
-      "name": "에고 검",
-      "description": "<p><strong>거만함</strong>: 이 무기를 사용하려면 매력이 0 이하여야 합니다.</p>"
+      "name": "에고 검"
     },
     "Elder Bow": {
-      "name": "장로의 활",
-      "description": "<p><strong>강력함</strong>: 공격 성공 시 추가 피해 주사위를 굴리고 가장 낮은 결과를 버립니다.</p>"
+      "name": "장로의 활"
     },
     "Extended Polearm": {
-      "name": "연장된 폴암",
-      "description": "<p><strong>길이</strong>: 이 무기의 공격은 사정거리 내 직선상의 모든 적대자를 대상으로 합니다.</p>"
+      "name": "연장된 폴암"
     },
     "Finehair Bow": {
-      "name": "고운 머리카락 활",
-      "description": "<p><strong>정확함</strong>: 명중 굴림에 +1</p>"
+      "name": "고운 머리카락 활"
     },
     "Firestaff": {
-      "name": "화염 지팡이",
-      "description": "<p><strong>점화</strong>: 피해 주사위에서 6이 나오면 대상은 스트레스를 표시해야 합니다.</p>"
+      "name": "화염 지팡이"
     },
     "Flickerfly Blade": {
-      "name": "깜빡이 나방 칼날",
-      "description": "<p><strong>깜빡임</strong>: 민첩과 같은 피해 굴림 보너스를 받습니다.</p>"
+      "name": "깜빡이 나방 칼날"
     },
     "Floating Bladeshards": {
-      "name": "부유 칼날 파편",
-      "description": "<p><strong>강력함</strong>: 공격 성공 시 추가 피해 주사위를 굴리고 가장 낮은 결과를 버립니다.</p>"
+      "name": "부유 칼날 파편"
     },
     "Fusion Gloves": {
-      "name": "융합 장갑",
-      "description": "<p><strong>무기 결속</strong>: 레벨과 같은 피해 굴림 보너스를 받습니다.</p>"
+      "name": "융합 장갑"
     },
     "Ghostblade": {
       "name": "유령 칼날"
     },
     "Gilded Bow": {
-      "name": "도금 활",
-      "description": "<p><strong>자동 보정</strong>: 피해 주사위에서 1이 나오면 대신 6의 피해를 입힙니다.</p>"
+      "name": "도금 활"
     },
     "Gilded Falchion": {
-      "name": "도금 팔시온",
-      "description": "<p><strong>강력함</strong>: 공격 성공 시 추가 피해 주사위를 굴리고 가장 낮은 결과를 버립니다.</p>"
+      "name": "도금 팔시온"
     },
     "Glowing Rings": {
       "name": "빛나는 반지"
     },
     "Grappler": {
-      "name": "그래플러",
-      "description": "<p><strong>포획</strong>: 공격 성공 시 대상을 근접 거리로 끌어당길 수 있습니다.</p>"
+      "name": "그래플러"
     },
     "Greatbow": {
-      "name": "큰 활",
-      "description": "<p><strong>강력함</strong>: 공격 성공 시 추가 피해 주사위를 굴리고 가장 낮은 결과를 버립니다.</p>"
+      "name": "큰 활"
     },
     "Greatstaff": {
-      "name": "큰 지팡이",
-      "description": "<p><strong>강력함</strong>: 공격 성공 시 추가 피해 주사위를 굴리고 가장 낮은 결과를 버립니다.</p>"
+      "name": "큰 지팡이"
     },
     "Greatsword": {
-      "name": "그레이트소드",
-      "description": "<p><strong>거대함</strong>: 회피 -1; 공격 성공 시 추가 피해 주사위를 굴리고 가장 낮은 결과를 버립니다.</p>"
+      "name": "그레이트소드"
     },
     "Halberd": {
-      "name": "미늘창",
-      "description": "<p><strong>거추장스러움</strong>: 기교 -1</p>"
+      "name": "미늘창"
     },
     "Hallowed Axe": {
       "name": "신성 도끼"
     },
     "Hammer of Exota": {
-      "name": "엑소타의 망치",
-      "description": "<p><strong>분출</strong>: 근접 거리 내 대상에 대한 공격이 성공하면, 매우 가까운 거리 내의 다른 모든 적대자는 대응 굴림(14)에 성공해야 하며 실패 시 피해의 절반을 받습니다.</p>"
+      "name": "엑소타의 망치"
     },
     "Hammer of Wrath": {
-      "name": "분노의 망치",
-      "description": "<p><strong>황폐</strong>: 명중 굴림을 하기 전에 스트레스를 표시하여 d20을 피해 주사위로 사용할 수 있습니다.</p>"
+      "name": "분노의 망치"
     },
     "Hand Cannon": {
-      "name": "핸드 캐논",
-      "description": "<p><strong>재장전</strong>: 공격 후 d6을 굴립니다. 1이 나오면 다시 발사하기 전에 스트레스를 표시하여 무기를 재장전해야 합니다.</p>"
+      "name": "핸드 캐논"
     },
     "Hand Crossbow": {
       "name": "손석궁"
@@ -306,20 +255,16 @@
       "description": "<p><strong>만능</strong>: 이 무기는 다음 능력치로도 사용할 수 있습니다: 기교, 가까운 거리, d8+4</p>"
     },
     "Heavy-Frame Wheelchair": {
-      "name": "중량 프레임 휠체어",
-      "description": "<p><strong>무거움</strong>: 회피 -1</p>"
+      "name": "중량 프레임 휠체어"
     },
     "Ilmari's Rifle": {
-      "name": "일마리의 소총",
-      "description": "<p><strong>재장전</strong>: 공격 후 d6을 굴립니다. 1이 나오면 다시 발사하기 전에 스트레스를 표시하여 무기를 재장전해야 합니다.</p>"
+      "name": "일마리의 소총"
     },
     "Impact Gauntlet": {
-      "name": "충격 건틀릿",
-      "description": "<p><strong>충격</strong>: 공격 성공 시 희망을 소모하여 대상을 먼 거리로 밀어낼 수 있습니다.</p>"
+      "name": "충격 건틀릿"
     },
     "Improved Arcane-Frame Wheelchair": {
-      "name": "개량 비전 프레임 휠체어",
-      "description": "<p><strong>정확함</strong>: 명중 굴림에 +1</p>"
+      "name": "개량 비전 프레임 휠체어"
     },
     "Improved Arcane Gauntlets": {
       "name": "개량 비전 건틀릿"
@@ -328,8 +273,7 @@
       "name": "개량 전투 도끼"
     },
     "Improved Broadsword": {
-      "name": "개량 브로드소드",
-      "description": "<p><strong>정확함</strong>: 명중 굴림에 +1</p>"
+      "name": "개량 브로드소드"
     },
     "Improved Crossbow": {
       "name": "개량 석궁"
@@ -347,20 +291,16 @@
       "name": "개량 빛나는 반지"
     },
     "Improved Grappler": {
-      "name": "개량 그래플러",
-      "description": "<p><strong>포획</strong>: 공격 성공 시 대상을 근접 거리로 끌어당길 수 있습니다.</p>"
+      "name": "개량 그래플러"
     },
     "Improved Greatstaff": {
-      "name": "개량 큰 지팡이",
-      "description": "<p><strong>강력함</strong>: 공격 성공 시 추가 피해 주사위를 굴리고 가장 낮은 결과를 버립니다.</p>"
+      "name": "개량 큰 지팡이"
     },
     "Improved Greatsword": {
-      "name": "개량 그레이트소드",
-      "description": "<p><strong>거대함</strong>: 회피 -1; 공격 성공 시 추가 피해 주사위를 굴리고 가장 낮은 결과를 버립니다.</p>"
+      "name": "개량 그레이트소드"
     },
     "Improved Halberd": {
-      "name": "개량 미늘창",
-      "description": "<p><strong>거추장스러움</strong>: 기교 -1</p>"
+      "name": "개량 미늘창"
     },
     "Improved Hallowed Axe": {
       "name": "개량 신성 도끼"
@@ -372,16 +312,13 @@
       "name": "개량 손 룬"
     },
     "Improved Heavy-Frame Wheelchair": {
-      "name": "개량 중량 프레임 휠체어",
-      "description": "<p><strong>무거움</strong>: 회피 -1</p>"
+      "name": "개량 중량 프레임 휠체어"
     },
     "Improved Light-Frame Wheelchair": {
-      "name": "개량 경량 프레임 휠체어",
-      "description": "<p><strong>빠름</strong>: 공격할 때 스트레스를 표시하여 사정거리 내 다른 존재를 목표로 삼을 수 있습니다.</p>"
+      "name": "개량 경량 프레임 휠체어"
     },
     "Improved Longbow": {
-      "name": "개량 장궁",
-      "description": "<p><strong>거추장스러움</strong>: 기교 -1</p>"
+      "name": "개량 장궁"
     },
     "Improved Longsword": {
       "name": "개량 롱소드"
@@ -393,16 +330,13 @@
       "name": "개량 봉"
     },
     "Improved Rapier": {
-      "name": "개량 레이피어",
-      "description": "<p><strong>빠름</strong>: 공격할 때 스트레스를 표시하여 사정거리 내 다른 존재를 목표로 삼을 수 있습니다.</p>"
+      "name": "개량 레이피어"
     },
     "Improved Returning Blade": {
-      "name": "개량 회귀 칼날",
-      "description": "<p><strong>회귀</strong>: 이 무기를 사정거리 내로 던지면 공격 직후 손에 다시 나타납니다.</p>"
+      "name": "개량 회귀 칼날"
     },
     "Improved Round Shield": {
-      "name": "개량 원형 방패",
-      "description": "<p><strong>방호</strong>: 캐릭터 등급을 방어도에 추가합니다.</p>"
+      "name": "개량 원형 방패"
     },
     "Improved Scepter": {
       "name": "개량 홀",
@@ -415,51 +349,42 @@
       "name": "개량 짧은 지팡이"
     },
     "Improved Shortsword": {
-      "name": "개량 숏소드",
-      "description": "<p><strong>페어</strong>: 근접 거리 내 대상에 대해 주 무기 피해 +3</p>"
+      "name": "개량 숏소드"
     },
     "Improved Small Dagger": {
-      "name": "개량 작은 단검",
-      "description": "<p><strong>페어</strong>: 근접 거리 내 대상에 대해 주 무기 피해 +3</p>"
+      "name": "개량 작은 단검"
     },
     "Improved Spear": {
       "name": "개량 창",
       "description": "<p><strong>거추장스러움</strong>: 기교 -1</p>"
     },
     "Improved Tower Shield": {
-      "name": "개량 타워 실드",
-      "description": "<p><strong>장벽</strong>: 방어도에 무기 등급 +1; 회피 -1</p>"
+      "name": "개량 타워 실드"
     },
     "Improved Wand": {
       "name": "개량 마법봉"
     },
     "Improved Warhammer": {
-      "name": "개량 워해머",
-      "description": "<p><strong>무거움</strong>: 회피 -1</p>"
+      "name": "개량 워해머"
     },
     "Improved Whip": {
-      "name": "개량 채찍",
-      "description": "<p><strong>위협</strong>: 스트레스를 표시하여 채찍을 휘둘러 근접 거리 내 모든 적대자를 가까운 거리로 물러나게 합니다.</p>"
+      "name": "개량 채찍"
     },
     "Keeper's Staff": {
-      "name": "수호자의 지팡이",
-      "description": "<p><strong>정확함</strong>: 명중 굴림에 +1</p>"
+      "name": "수호자의 지팡이"
     },
     "Knuckle Blades": {
-      "name": "너클 칼날",
-      "description": "<p><strong>잔혹</strong>: 피해 주사위에서 최댓값이 나오면 추가 주사위를 굴립니다.</p>"
+      "name": "너클 칼날"
     },
     "Knuckle Claws": {
-      "name": "너클 발톱",
-      "description": "<p><strong>이중 타격</strong>: 주 무기로 공격할 때 근접 거리 내의 다른 대상에게도 피해를 입힐 수 있습니다.</p>"
+      "name": "너클 발톱"
     },
     "Labrys Axe": {
       "name": "라브리스 도끼",
       "description": "<p><strong>방호</strong>: 캐릭터 등급을 방어도에 추가합니다.</p>"
     },
     "Legendary Arcane-Frame Wheelchair": {
-      "name": "전설의 비전 프레임 휠체어",
-      "description": "<p><strong>정확함</strong>: 명중 굴림에 +1</p>"
+      "name": "전설의 비전 프레임 휠체어"
     },
     "Legendary Arcane Gauntlets": {
       "name": "전설의 비전 건틀릿"
@@ -468,8 +393,7 @@
       "name": "전설의 전투 도끼"
     },
     "Legendary Broadsword": {
-      "name": "전설의 브로드소드",
-      "description": "<p><strong>정확함</strong>: 명중 굴림에 +1</p>"
+      "name": "전설의 브로드소드"
     },
     "Legendary Crossbow": {
       "name": "전설의 석궁"
@@ -487,20 +411,16 @@
       "name": "전설의 빛나는 반지"
     },
     "Legendary Grappler": {
-      "name": "전설의 그래플러",
-      "description": "<p><strong>포획</strong>: 공격 성공 시 대상을 근접 거리로 끌어당길 수 있습니다.</p>"
+      "name": "전설의 그래플러"
     },
     "Legendary Greatstaff": {
-      "name": "전설의 큰 지팡이",
-      "description": "<p><strong>강력함</strong>: 공격 성공 시 추가 피해 주사위를 굴리고 가장 낮은 결과를 버립니다.</p>"
+      "name": "전설의 큰 지팡이"
     },
     "Legendary Greatsword": {
-      "name": "전설의 그레이트소드",
-      "description": "<p><strong>거대함</strong>: 회피 -1; 공격 성공 시 추가 피해 주사위를 굴리고 가장 낮은 결과를 버립니다.</p>"
+      "name": "전설의 그레이트소드"
     },
     "Legendary Halberd": {
-      "name": "전설의 미늘창",
-      "description": "<p><strong>거추장스러움</strong>: 기교 -1</p>"
+      "name": "전설의 미늘창"
     },
     "Legendary Hallowed Axe": {
       "name": "전설의 신성 도끼"
@@ -512,16 +432,13 @@
       "name": "전설의 손 룬"
     },
     "Legendary Heavy-Frame Wheelchair": {
-      "name": "전설의 중량 프레임 휠체어",
-      "description": "<p><strong>무거움</strong>: 회피 -1</p>"
+      "name": "전설의 중량 프레임 휠체어"
     },
     "Legendary Light-Frame Wheelchair": {
-      "name": "전설의 경량 프레임 휠체어",
-      "description": "<p><strong>빠름</strong>: 공격할 때 스트레스를 표시하여 사정거리 내 다른 존재를 목표로 삼을 수 있습니다.</p>"
+      "name": "전설의 경량 프레임 휠체어"
     },
     "Legendary Longbow": {
-      "name": "전설의 장궁",
-      "description": "<p><strong>거추장스러움</strong>: 기교 -1</p>"
+      "name": "전설의 장궁"
     },
     "Legendary Longsword": {
       "name": "전설의 롱소드"
@@ -533,16 +450,13 @@
       "name": "전설의 봉"
     },
     "Legendary Rapier": {
-      "name": "전설의 레이피어",
-      "description": "<p><strong>빠름</strong>: 공격할 때 스트레스를 표시하여 사정거리 내 다른 존재를 목표로 삼을 수 있습니다.</p>"
+      "name": "전설의 레이피어"
     },
     "Legendary Returning Blade": {
-      "name": "전설의 회귀 칼날",
-      "description": "<p><strong>회귀</strong>: 이 무기를 사정거리 내로 던지면 공격 직후 손에 다시 나타납니다.</p>"
+      "name": "전설의 회귀 칼날"
     },
     "Legendary Round Shield": {
-      "name": "전설의 원형 방패",
-      "description": "<p><strong>방호</strong>: 캐릭터 등급을 방어도에 추가합니다.</p>"
+      "name": "전설의 원형 방패"
     },
     "Legendary Scepter": {
       "name": "전설의 홀",
@@ -555,39 +469,32 @@
       "name": "전설의 짧은 지팡이"
     },
     "Legendary Shortsword": {
-      "name": "전설의 숏소드",
-      "description": "<p><strong>페어</strong>: 근접 거리 내 대상에 대해 주 무기 피해 +5</p>"
+      "name": "전설의 숏소드"
     },
     "Legendary Small Dagger": {
-      "name": "전설의 작은 단검",
-      "description": "<p><strong>페어</strong>: 근접 거리 내 대상에 대해 주 무기 피해 +5</p>"
+      "name": "전설의 작은 단검"
     },
     "Legendary Spear": {
       "name": "전설의 창",
       "description": "<p><strong>거추장스러움</strong>: 기교 -1</p>"
     },
     "Legendary Tower Shield": {
-      "name": "전설의 타워 실드",
-      "description": "<p><strong>장벽</strong>: 방어도에 무기 등급 +1; 회피 -1</p>"
+      "name": "전설의 타워 실드"
     },
     "Legendary Wand": {
       "name": "전설의 마법봉"
     },
     "Legendary Warhammer": {
-      "name": "전설의 워해머",
-      "description": "<p><strong>무거움</strong>: 회피 -1</p>"
+      "name": "전설의 워해머"
     },
     "Legendary Whip": {
-      "name": "전설의 채찍",
-      "description": "<p><strong>위협</strong>: 스트레스를 표시하여 채찍을 휘둘러 근접 거리 내 모든 적대자를 가까운 거리로 물러나게 합니다.</p>"
+      "name": "전설의 채찍"
     },
     "Light-Frame Wheelchair": {
-      "name": "경량 프레임 휠체어",
-      "description": "<p><strong>빠름</strong>: 공격할 때 스트레스를 표시하여 사정거리 내 다른 존재를 목표로 삼을 수 있습니다.</p>"
+      "name": "경량 프레임 휠체어"
     },
     "Longbow": {
-      "name": "장궁",
-      "description": "<p><strong>거추장스러움</strong>: 기교 -1</p>"
+      "name": "장궁"
     },
     "Longsword": {
       "name": "롱소드"
@@ -596,71 +503,56 @@
       "name": "메이스"
     },
     "Mage Orb": {
-      "name": "마법사의 구체",
-      "description": "<p><strong>강력함</strong>: 공격 성공 시 추가 피해 주사위를 굴리고 가장 낮은 결과를 버립니다.</p>"
+      "name": "마법사의 구체"
     },
     "Magus Revolver": {
-      "name": "마구스 리볼버",
-      "description": "<p><strong>재장전</strong>: 공격 후 d6을 굴립니다. 1이 나오면 다시 발사하기 전에 스트레스를 표시하여 무기를 재장전해야 합니다.</p>"
+      "name": "마구스 리볼버"
     },
     "Meridian Cutlass": {
-      "name": "메리디언 커틀러스",
-      "description": "<p><strong>결투</strong>: 대상의 가까운 거리 내에 다른 존재가 없으면, 그 대상에 대한 공격에 이점를 받습니다.</p>"
+      "name": "메리디언 커틀러스"
     },
     "Midas Scythe": {
-      "name": "미다스의 낫",
-      "description": "<p><strong>탐욕</strong>: 약간의 금을 소모하여 피해 굴림에 숙련도 +1 보너스를 받습니다.</p>"
+      "name": "미다스의 낫"
     },
     "Parrying Dagger": {
-      "name": "패링 단검",
-      "description": "<p><strong>패링</strong>: 공격을 받을 때, 이 무기의 피해 주사위를 굴립니다. 공격자의 피해 주사위 중 하나라도 당신의 주사위와 같은 값이 나오면, 받는 피해를 계산하기 전에 공격자의 피해 주사위에서 일치한 결과들이 버려집니다.</p>"
+      "name": "패링 단검"
     },
     "Powered Gauntlet": {
-      "name": "동력 건틀릿",
-      "description": "<p><strong>충전</strong>: 스트레스를 표시하여 주 무기 공격의 숙련도에 +1 보너스를 받습니다.</p>"
+      "name": "동력 건틀릿"
     },
     "Primer Shard": {
-      "name": "프라이머 파편",
-      "description": "<p><strong>고정</strong>: 공격이 성공하면 같은 대상에 대한 주 무기의 다음 공격은 자동으로 성공합니다.</p>"
+      "name": "프라이머 파편"
     },
     "Quarterstaff": {
       "name": "봉"
     },
     "Rapier": {
-      "name": "레이피어",
-      "description": "<p><strong>빠름</strong>: 공격할 때 스트레스를 표시하여 사정거리 내 다른 존재를 목표로 삼을 수 있습니다.</p>"
+      "name": "레이피어"
     },
     "Retractable Saber": {
-      "name": "접이식 세이버",
-      "description": "<p><strong>수납</strong>: 칼날을 손잡이에 감춰 발각을 피할 수 있습니다.</p>"
+      "name": "접이식 세이버"
     },
     "Returning Axe": {
-      "name": "회귀 도끼",
-      "description": "<p><strong>회귀</strong>: 이 무기를 사정거리 내로 던지면 공격 직후 손에 다시 나타납니다.</p>"
+      "name": "회귀 도끼"
     },
     "Returning Blade": {
-      "name": "회귀 칼날",
-      "description": "<p><strong>회귀</strong>: 이 무기를 사정거리 내로 던지면 공격 직후 손에 다시 나타납니다.</p>"
+      "name": "회귀 칼날"
     },
     "Ricochet Axes": {
-      "name": "도탄 도끼",
-      "description": "<p><strong>도탄</strong>: 스트레스를 1개 이상 표시하여 공격 사정거리 내에서 지정한 수의 대상을 가격합니다.</p>"
+      "name": "도탄 도끼"
     },
     "Round Shield": {
-      "name": "원형 방패",
-      "description": "<p><strong>방호</strong>: 캐릭터 등급을 방어도에 추가합니다.</p>"
+      "name": "원형 방패"
     },
     "Runes of Ruination": {
-      "name": "파멸의 룬",
-      "description": "<p><strong>고통</strong>: 공격에 성공할 때마다 스트레스를 표시해야 합니다.</p>"
+      "name": "파멸의 룬"
     },
     "Scepter": {
       "name": "홀",
       "description": "<p><strong>만능</strong>: 이 무기는 다음 능력치로도 사용할 수 있습니다: 매력, 근접, d8+6</p>"
     },
     "Scepter of Elias": {
-      "name": "엘리아스의 홀",
-      "description": "<p><strong>활력</strong>: 공격 성공 시 d4를 굴립니다. 4가 나오면 스트레스를 해제합니다.</p>"
+      "name": "엘리아스의 홀"
     },
     "Shortbow": {
       "name": "단궁"
@@ -669,20 +561,16 @@
       "name": "짧은 지팡이"
     },
     "Shortsword": {
-      "name": "숏소드",
-      "description": "<p><strong>페어</strong>: 근접 거리 내 대상에 대해 주 무기 피해 +2</p>"
+      "name": "숏소드"
     },
     "Siphoning Gauntlets": {
-      "name": "흡수 건틀릿",
-      "description": "<p><strong>흡혈</strong>: 공격 성공 시 d6을 굴립니다. 6이 나오면 HP나 스트레스를 해제합니다.</p>"
+      "name": "흡수 건틀릿"
     },
     "Sledge Axe": {
-      "name": "큰망치 도끼",
-      "description": "<p><strong>파괴</strong>: 민첩 -1; 공격 성공 시 매우 가까운 거리의 모든 적대자는 스트레스를 표시해야 합니다.</p>"
+      "name": "큰망치 도끼"
     },
     "Small Dagger": {
-      "name": "작은 단검",
-      "description": "<p><strong>페어</strong>: 근접 거리 내 대상에 대해 주 무기 피해 +2</p>"
+      "name": "작은 단검"
     },
     "Spear": {
       "name": "창",
@@ -693,67 +581,52 @@
       "description": "<p><strong>만능</strong>: 이 무기는 다음 능력치로도 사용할 수 있습니다: 민첩, 근접, d10+5</p>"
     },
     "Spiked Shield": {
-      "name": "가시 방패",
-      "description": "<p><strong>이중 역할</strong>: 방어도 +1; 근접 거리 내 대상에 대한 주 무기 피해 +1</p>"
+      "name": "가시 방패"
     },
     "Steelforged Halberd": {
-      "name": "강철 단조 미늘창",
-      "description": "<p><strong>위협</strong>: 공격 성공 시 대상은 스트레스를 표시해야 합니다.</p>"
+      "name": "강철 단조 미늘창"
     },
     "Swinging Ropeblade": {
-      "name": "흔드는 밧줄 칼날",
-      "description": "<p><strong>포획</strong>: 공격 성공 시 희망을 소모하여 대상을 속박하거나 자신의 근접 거리로 끌어당길 수 있습니다.</p>"
+      "name": "흔드는 밧줄 칼날"
     },
     "Sword of Light & Flame": {
-      "name": "빛과 화염의 검",
-      "description": "<p><strong>뜨거움</strong>: 이 무기는 단단한 물질을 가릅니다.</p>"
+      "name": "빛과 화염의 검"
     },
     "Talon Blades": {
-      "name": "발톱 칼날",
-      "description": "<p><strong>잔혹</strong>: 피해 주사위에서 최댓값이 나오면 추가 주사위를 굴립니다.</p>"
+      "name": "발톱 칼날"
     },
     "Thistlebow": {
-      "name": "엉겅퀴 활",
-      "description": "<p><strong>정확함</strong>: 명중 굴림에 +1</p>"
+      "name": "엉겅퀴 활"
     },
     "Tower Shield": {
-      "name": "타워 실드",
-      "description": "<p><strong>장벽</strong>: 방어도에 무기 등급 +1; 회피 -1</p>"
+      "name": "타워 실드"
     },
     "Urok Broadsword": {
-      "name": "우록 브로드소드",
-      "description": "<p><strong>치명</strong>: 중대한 피해를 입힐 때 대상은 추가로 1 HP를 표시해야 합니다.</p>"
+      "name": "우록 브로드소드"
     },
     "Wand": {
       "name": "마법봉"
     },
     "Wand of Enthrallment": {
-      "name": "매혹의 마법봉",
-      "description": "<p><strong>설득</strong>: 매력 굴림에 +2 보너스를 받습니다.</p>"
+      "name": "매혹의 마법봉"
     },
     "Wand of Essek": {
-      "name": "에세크의 마법봉",
-      "description": "<p><strong>시간 굴절</strong>: 명중 굴림 이후에 공격 대상을 선택합니다.</p>"
+      "name": "에세크의 마법봉"
     },
     "Warhammer": {
-      "name": "워해머",
-      "description": "<p><strong>무거움</strong>: 회피 -1</p>"
+      "name": "워해머"
     },
     "War Scythe": {
-      "name": "전쟁 낫",
-      "description": "<p><strong>정확함</strong>: 명중 굴림에 +1</p>"
+      "name": "전쟁 낫"
     },
     "Whip": {
-      "name": "채찍",
-      "description": "<p><strong>위협</strong>: 스트레스를 표시하여 채찍을 휘둘러 근접 거리 내 모든 적대자를 가까운 거리로 물러나게 합니다.</p>"
+      "name": "채찍"
     },
     "Widogast Pendant": {
-      "name": "위도가스트 펜던트",
-      "description": "<p><strong>시간 굴절</strong>: 명중 굴림 이후에 공격 대상을 선택합니다.</p>"
+      "name": "위도가스트 펜던트"
     },
     "Yutari Bloodbow": {
-      "name": "유타리 핏빛 활",
-      "description": "<p><strong>잔혹</strong>: 피해 주사위에서 최댓값이 나오면 추가 주사위를 굴립니다.</p>"
+      "name": "유타리 핏빛 활"
     }
   }
 }
