@@ -19,95 +19,219 @@
  "entries": {
   "Striking Serpent": {
    "name": "일격의 뱀",
-   "examples": "코브라, 방울뱀, 독사 등"
+   "examples": "코브라, 방울뱀, 독사 등",
+   "effects": {
+    "qGhLojWa5430zRd1": {
+     "name": "야수 형태 변신"
+    }
+   }
   },
   "Pouncing Predator": {
    "name": "도약하는 포식자",
-   "examples": "치타, 사자, 표범 등"
+   "examples": "치타, 사자, 표범 등",
+   "effects": {
+    "GSmW6nJ3kyIoEK2H": {
+     "name": "야수 형태 변신"
+    }
+   }
   },
   "Terrible Lizard": {
    "name": "공포스러운 도마뱀",
-   "examples": "브라키오사우루스, 티라노사우루스 등"
+   "examples": "브라키오사우루스, 티라노사우루스 등",
+   "effects": {
+    "qPtjZIkRVm68TGHN": {
+     "name": "야수 형태 변신"
+    }
+   }
   },
   "Armored Sentry": {
    "name": "장갑 감시자",
-   "examples": "아르마딜로, 천산갑, 거북 등"
+   "examples": "아르마딜로, 천산갑, 거북 등",
+   "effects": {
+    "hd0uVl6ZZeyPJn9O": {
+     "name": "야수 형태 변신"
+    }
+   }
   },
   "Mighty Lizard": {
    "name": "강력한 도마뱀",
-   "examples": "악어, 크로커다일, 독 도마뱀 등"
+   "examples": "악어, 크로커다일, 독 도마뱀 등",
+   "effects": {
+    "d13EzuP8Co04Jk8K": {
+     "name": "야수 형태 변신"
+    }
+   }
   },
   "Stalking Arachnid": {
    "name": "잠복자 거미",
-   "examples": "타란튤라, 늑대거미 등"
+   "examples": "타란튤라, 늑대거미 등",
+   "effects": {
+    "YkZX2yc2X0QDFPBG": {
+     "name": "야수 형태 변신"
+    }
+   }
   },
   "Nimble Grazer": {
    "name": "기민한 초식동물",
-   "examples": "사슴, 가젤, 염소 등"
+   "examples": "사슴, 가젤, 염소 등",
+   "effects": {
+    "lIbJFb5XQ98Eaauu": {
+     "name": "야수 형태 변신"
+    }
+   }
   },
   "Aquatic Predator": {
    "name": "수중 포식자",
-   "examples": "돌고래, 범고래, 상어 등"
+   "examples": "돌고래, 범고래, 상어 등",
+   "effects": {
+    "7OTbmhQNtKhRAl59": {
+     "name": "야수 형태 변신"
+    }
+   }
   },
   "Mythic Hybrid": {
-   "name": "신화 복합체"
+   "name": "신화 복합체",
+   "effects": {
+    "HutJQ9HGtr1Eoibp": {
+     "name": "야수 형태 변신",
+     "description": "<p>이 생물로 변신하려면 <strong>스트레스 2를 추가로 표시</strong>해야 합니다. 티어 1~3 야수 형태 중 임의의 세 개를 선택하십시오. 그 옵션들에서 총 다섯 가지 이점과 세 가지 기능을 선택하십시오.</p>"
+    }
+   }
   },
   "Pack Predator": {
    "name": "무리 포식자",
-   "examples": "코요테, 하이에나, 늑대 등"
+   "examples": "코요테, 하이에나, 늑대 등",
+   "effects": {
+    "amuFS9LlEnzZnaIN": {
+     "name": "야수 형태 변신"
+    }
+   }
   },
   "Agile Scout": {
    "name": "민첩한 정찰자",
-   "examples": "여우, 쥐, 족제비 등"
+   "examples": "여우, 쥐, 족제비 등",
+   "effects": {
+    "ehfx2SUKMiM6f5Pd": {
+     "name": "야수 형태 변신"
+    }
+   }
   },
   "Great Predator": {
    "name": "위대한 포식자",
-   "examples": "다이어 울프, 벨로시랩터, 검치호 등"
+   "examples": "다이어 울프, 벨로시랩터, 검치호 등",
+   "effects": {
+    "TFzvHClwIAQUFxyP": {
+     "name": "야수 형태 변신"
+    }
+   }
   },
   "Great Winged Beast": {
    "name": "위대한 비행 야수",
-   "examples": "거대 독수리, 매 등"
+   "examples": "거대 독수리, 매 등",
+   "effects": {
+    "qGSm1QpICpxRZxLn": {
+     "name": "야수 형태 변신"
+    }
+   }
   },
   "Household Friend": {
    "name": "가정의 친구",
-   "examples": "고양이, 개, 토끼 등"
+   "examples": "고양이, 개, 토끼 등",
+   "effects": {
+    "CzMAMg2q5gL15JrZ": {
+     "name": "야수 형태 변신"
+    }
+   }
   },
   "Mythic Aerial Hunter": {
    "name": "신화 비행 사냥꾼",
-   "examples": "드래곤, 프테로닥틸, 로크, 와이번 등"
+   "examples": "드래곤, 프테로닥틸, 로크, 와이번 등",
+   "effects": {
+    "hnKnaOaswWJdaYmf": {
+     "name": "야수 형태 변신"
+    }
+   }
   },
   "Mythic Beast": {
-   "name": "신화 야수"
+   "name": "신화 야수",
+   "effects": {
+    "vhwbPQ2YT64qD1t1": {
+     "name": "야수 형태 변신",
+     "description": "<p>티어 1 또는 티어 2 야수 형태 중 하나를 선택하여 그 생물의 더 크고 강력한 버전이 되십시오. 이 형태에 있는 동안, 원래 형태의 모든 능력치와 기능을 유지하며 다음과 같은 보너스를 추가로 얻습니다:</p><ul><li>피해 굴림에 +9 보너스</li><li>이 형태가 사용하는 능력치에 +2 보너스</li><li>회피에 +3 보너스</li><li>피해 주사위가 한 단계 상승합니다. (d6 → d8, d8 → d10 등)</li></ul>"
+    }
+   }
   },
   "Powerful Beast": {
    "name": "괴력의 야수",
-   "examples": "곰, 황소, 무스 등"
+   "examples": "곰, 황소, 무스 등",
+   "effects": {
+    "AZGTvqzFVHa4wS1a": {
+     "name": "야수 형태 변신"
+    }
+   }
   },
   "Winged Beast": {
    "name": "비행 야수",
-   "examples": "매, 올빼미, 까마귀 등"
+   "examples": "매, 올빼미, 까마귀 등",
+   "effects": {
+    "Ln3atrxiqtPA0Wi6": {
+     "name": "야수 형태 변신"
+    }
+   }
   },
   "Legendary Beast": {
-   "name": "전설적인 야수"
+   "name": "전설적인 야수",
+   "effects": {
+    "cL4kH57pf2nGIxaK": {
+     "name": "야수 형태 변신",
+     "description": "<p>티어 1 야수 형태 중 하나를 선택하여 그 생물의 더 크고 강력한 버전이 되십시오. 이 형태에 있는 동안, 원래 형태의 모든 능력치와 기능을 유지하며 다음과 같은 보너스를 추가로 얻습니다:</p><ul><li>피해 굴림에 +6 보너스</li><li>이 형태가 사용하는 능력치에 +1 보너스</li><li>회피에 +2 보너스</li></ul>"
+    }
+   }
   },
   "Massive Behemoth": {
    "name": "거대 괴수",
-   "examples": "코끼리, 매머드, 코뿔소 등"
+   "examples": "코끼리, 매머드, 코뿔소 등",
+   "effects": {
+    "RR6ySJU5zaC7ws6A": {
+     "name": "야수 형태 변신"
+    }
+   }
   },
   "Aquatic Scout": {
    "name": "수중 정찰자",
-   "examples": "뱀장어, 물고기, 문어 등"
+   "examples": "뱀장어, 물고기, 문어 등",
+   "effects": {
+    "TsXyfEOCk0ma5tp9": {
+     "name": "야수 형태 변신"
+    }
+   }
   },
   "Legendary Hybrid": {
-   "name": "전설적인 복합체"
+   "name": "전설적인 복합체",
+   "effects": {
+    "RbZKFWATkfLZm67j": {
+     "name": "야수 형태 변신",
+     "description": "<p>이 생물로 변신하려면 <strong>스트레스를 추가로 표시</strong>해야 합니다. 티어 1~2 야수 형태 중 임의의 두 개를 선택하십시오. 그 옵션들에서 총 네 가지 이점과 두 가지 기능을 선택하십시오.</p>"
+    }
+   }
   },
   "Epic Aquatic Beast": {
    "name": "장대한 수중 야수",
-   "examples": "대왕 오징어, 고래 등"
+   "examples": "대왕 오징어, 고래 등",
+   "effects": {
+    "zYUexUr2e3k4kzhw": {
+     "name": "야수 형태 변신"
+    }
+   }
   },
   "Mighty Strider": {
    "name": "강력한 탈것",
-   "examples": "낙타, 말, 얼룩말 등"
+   "examples": "낙타, 말, 얼룩말 등",
+   "effects": {
+    "IWg2cWUdvucUOLAL": {
+     "name": "야수 형태 변신"
+    }
+   }
   },
   "Takedown": {
    "name": "제압",
@@ -119,7 +243,8 @@
    },
    "effects": {
     "hE6ciIusvKEtUQ8U": {
-     "name": "제압"
+     "name": "제압",
+     "description": "<p>해당 공격에 대해 숙련에 +2 보너스를 얻으며, 대상은 스트레스를 표시해야 합니다.</p>"
     }
    }
   },
@@ -133,7 +258,8 @@
    },
    "effects": {
     "TTyAKKoUCoYXSMs4": {
-     "name": "중독"
+     "name": "중독",
+     "description": "<p>중독된 생물은 행동할 때마다 <strong>1d10</strong> 직접 물리 피해를 받습니다.</p>"
     }
    }
   },
@@ -161,7 +287,8 @@
    },
    "effects": {
     "A7l4JEBC1FFQajsN": {
-     "name": "광란"
+     "name": "광란",
+     "description": "<p>공격 굴림을 하기 전에 스트레스를 표시하여 해당 공격에 대해 숙련에 +1 보너스를 얻을 수 있습니다.</p>"
     }
    }
   },
@@ -261,7 +388,8 @@
    "description": "<p>당신은 모든 피해 임계치에 +2 보너스를 얻습니다.</p>",
    "effects": {
     "wVoUVQJ2Ik7CiUuV": {
-     "name": "불굴"
+     "name": "불굴",
+     "description": "<p>당신은 모든 피해 임계치에 +2 보너스를 얻습니다.</p>"
     }
    }
   },
@@ -278,7 +406,8 @@
    "description": "<p>당신은 피해 임계치에 +3 보너스를 얻습니다.</p>",
    "effects": {
     "hs9vWE92QQQx15ET": {
-     "name": "물리 방어"
+     "name": "물리 방어",
+     "description": "<p>당신은 피해 임계치에 +3 보너스를 얻습니다.</p>"
     }
    }
   },
@@ -287,7 +416,8 @@
    "description": "<p>당신은 피해 임계치에 +2 보너스를 얻습니다.</p>",
    "effects": {
     "ZoUJy8EOm9mVXuAw": {
-     "name": "두꺼운 가죽"
+     "name": "두꺼운 가죽",
+     "description": "<p>당신은 피해 임계치에 +2 보너스를 얻습니다.</p>"
     }
    }
   },
@@ -357,10 +487,12 @@
    },
    "effects": {
     "OY3lEB3vuDKNLzxv": {
-     "name": "움츠림"
+     "name": "움츠림",
+     "description": "<p>껍질 속에 있는 동안, 물리 피해는 방어도만큼(저항을 적용한 후) 감소되지만, 이 형태에서 벗어나지 않는 한 다른 행동은 수행할 수 없습니다.</p>"
     },
     "XFmEC0kDQJNrGbtr": {
-     "name": "갑각"
+     "name": "갑각",
+     "description": "<p>당신의 단단한 외피는 물리 피해에 대한 저항을 제공합니다.</p>"
     }
    }
   },
@@ -388,7 +520,8 @@
    },
    "effects": {
     "1iQPj96LqUNkRaxE": {
-     "name": "중독"
+     "name": "중독",
+     "description": "<p>중독된 생물은 행동할 때마다 <strong>1d10</strong> 직접 물리 피해를 받습니다.</p>"
     }
    }
   },
@@ -415,7 +548,8 @@
    "description": "<p>당신은 피해 임계치에 -2 불이익을 받습니다.</p>",
    "effects": {
     "RM8wHu5GIF6zfF7V": {
-     "name": "속이 빈 뼈"
+     "name": "속이 빈 뼈",
+     "description": "<p>당신은 피해 임계치에 -2 불이익을 받습니다.</p>"
     }
    }
   }
