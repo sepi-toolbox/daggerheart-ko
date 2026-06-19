@@ -5,7 +5,7 @@
             "community": "공동체",
             "class": "클래스",
             "subclass": "서브클래스",
-            "feature": "특성",
+            "feature": "기능",
             "domainCard": "권역 카드",
             "consumable": "소모품",
             "loot": "전리품",
@@ -269,7 +269,7 @@
                     "hint": "캐릭터가 어떤 상황에서 이점를 갖는지에 대한 단어나 짧은 메모를 추가하세요."
                 },
                 "age": "나이",
-                "companionFeatures": "동반자 특성",
+                "companionFeatures": "동반자 기능",
                 "contextMenu": {
                     "consume": "아이템 소비",
                     "equip": "장비 장착",
@@ -701,7 +701,7 @@
                     "vicious": "흉포함",
                     "damageIncreased": "피해 증가: {damage}",
                     "rangeIncreased": "거리 증가: {range}",
-                    "simpleFeature": "특성: {feature}"
+                    "simpleFeature": "기능: {feature}"
                 },
                 "takeLevelUp": "레벨업 완료",
                 "tier2": {
@@ -791,7 +791,7 @@
             },
             "DaggerheartMenu": {
                 "title": "GM 도구",
-                "refreshFeatures": "특성 새로고침",
+                "refreshFeatures": "기능 새로고침",
                 "fallingAndCollision": "낙하 및 충돌 피해"
             },
             "ImageSelect": {
@@ -880,7 +880,7 @@
         },
         "CONFIG": {
             "ActionType": {
-                "passive": "지속형",
+                "passive": "상시",
                 "action": "행동",
                 "reaction": "반응"
             },
@@ -2026,8 +2026,8 @@
                 }
             },
             "FeatureForm": {
-                "label": "특성 형식",
-                "passive": "지속형",
+                "label": "기능 형식",
+                "passive": "상시",
                 "action": "행동",
                 "reaction": "대응"
             },
@@ -2094,7 +2094,7 @@
                 }
             },
             "Duration": {
-                "passive": "지속형",
+                "passive": "상시",
                 "temporary": "일시적"
             },
             "Types": {
@@ -2407,7 +2407,7 @@
                 "details": "세부",
                 "attack": "공격",
                 "experiences": "경험",
-                "features": "특성",
+                "features": "기능",
                 "actions": "행동",
                 "potentialAdversaries": "잠재적 적대자",
                 "adversaries": "적대자",
@@ -2443,7 +2443,7 @@
                 "domains": "영역",
                 "downtime": "휴식 시간",
                 "rules": "규칙",
-                "itemFeatures": "아이템 특성",
+                "itemFeatures": "아이템 기능",
                 "resources": "자원",
                 "roll": "굴림",
                 "partyMembers": "파티원",
@@ -2491,7 +2491,7 @@
             "difficulty": "난이도",
             "downtime": "휴식 시간",
             "dropActorsHere": "여기에 캐릭터를 드래그하세요",
-            "dropFeaturesHere": "여기에 특성을 드래그하세요",
+            "dropFeaturesHere": "여기에 기능을 드래그하세요",
             "duality": "양면",
             "dualityRoll": "양면 굴림",
             "enabled": "활성화",
@@ -2503,7 +2503,7 @@
             },
             "failure": "실패",
             "fear": "공포",
-            "features": "특성",
+            "features": "기능",
             "formula": "공식",
             "healing": "치유",
             "healingRoll": "치유 굴림",
@@ -2598,7 +2598,7 @@
                 "singular": "강조 요청",
                 "plural": "강조 요청"
             },
-            "armorFeatures": "방어구 특성",
+            "armorFeatures": "방어구 기능",
             "artistAttribution": "삽화: {artist}",
             "automation": "자동화",
             "condition": "상태",
@@ -2644,7 +2644,7 @@
             "tokenSize": "토큰 크기",
             "traitModifier": "능력치 수정치",
             "typeSheet": "시스템 {type} 시트",
-            "weaponFeatures": "무기 특성",
+            "weaponFeatures": "무기 기능",
             "weapons": "무기"
         },
         "ITEMS": {
@@ -2691,9 +2691,9 @@
                 }
             },
             "Ancestry": {
-                "primaryFeature": "주 특성",
-                "secondaryFeature": "보조 특성",
-                "featuresLabel": "혈통 특성"
+                "primaryFeature": "주 기능",
+                "secondaryFeature": "보조 기능",
+                "featuresLabel": "혈통 기능"
             },
             "Armor": {
                 "baseScore": "기본 점수",
@@ -2758,7 +2758,7 @@
                             "label": "이점 수"
                         },
                         "features": {
-                            "label": "특성 수"
+                            "label": "기능 수"
                         }
                     }
                 },
@@ -2771,7 +2771,7 @@
                 "evolvedFeatureTitle": "진화됨",
                 "evolvedDrag": "여기에 형태를 드래그하여 진화시키세요.",
                 "hybridize": "혼합화",
-                "hybridizeFeatureTitle": "혼합 특성",
+                "hybridizeFeatureTitle": "혼합 기능",
                 "hybridizeDrag": "여기에 형태를 드래그하여 혼합화하세요.",
                 "mainTrait": "주요 능력치",
                 "traitBonus": "능력치 보너스",
@@ -2779,7 +2779,7 @@
                 "evolvedImagePlaceholder": "진화를 위해 선택한 형태의 이미지가 사용됩니다"
             },
             "Class": {
-                "hopeFeatures": "희망 특성",
+                "hopeFeatures": "희망 기능",
                 "classFeatures": "클래스 기능",
                 "guide": {
                     "suggestedEquipment": "추천 장비",
@@ -2829,7 +2829,7 @@
                 }
             },
             "Community": {
-                "featuresLabel": "공동체 특성"
+                "featuresLabel": "공동체 기능"
             }
         },
         "SETTINGS": {
@@ -3087,10 +3087,10 @@
                     "duplicateDomain": "동일한 식별자의 영역이 이미 존재합니다."
                 },
                 "downtimeMove": "휴식 시간 동작",
-                "armorFeature": "방어구 특성",
-                "weaponFeature": "무기 특성",
-                "newFeature": "새 아이템 특성",
-                "itemFeatures": "아이템 특성",
+                "armorFeature": "방어구 기능",
+                "weaponFeature": "무기 기능",
+                "newFeature": "새 아이템 기능",
+                "itemFeatures": "아이템 기능",
                 "resetItemFeaturesTitle": "{type} 초기화",
                 "deleteItemTitle": "홈브루 아이템 삭제",
                 "deleteItemText": "이 아이템을 삭제하시겠습니까?",
@@ -3307,7 +3307,7 @@
                 },
                 "markResource": "{quantity} {resource} 표시",
                 "refreshMessage": {
-                    "title": "특성 새로고침",
+                    "title": "기능 새로고침",
                     "header": "새로고침됨"
                 },
                 "saveRoll": {
@@ -3359,21 +3359,21 @@
                 "noAvailableArmorMarks": "사용 가능한 방어 슬롯이 더 없습니다.",
                 "notEnoughStress": "스트레스가 부족합니다.",
                 "damageIgnore": "{character}이(가) 피해를 받지 않았습니다.",
-                "featureIsMissing": "특성이 없습니다.",
+                "featureIsMissing": "기능이 없습니다.",
                 "actionIsMissing": "행동이 없습니다.",
                 "attackIsMissing": "공격이 없습니다.",
                 "unownedActionMacro": "캐릭터가 가지고 있지 않은 행동에 대한 매크로는 만들 수 없습니다",
                 "unownedAttackMacro": "본인의 캐릭터에 속하지 않은 공격에 대한 매크로는 만들 수 없습니다",
-                "featureNotHope": "이 특성은 희망 특성으로 사용되지 않으므로 여기에 적용할 수 없습니다.",
-                "featureNotClass": "이 특성은 클래스 기능으로 사용되지 않으므로 여기에 적용할 수 없습니다.",
-                "featureNotPrimary": "이 특성은 주 특성으로 사용되지 않으므로 여기에 적용할 수 없습니다.",
-                "featureNotSecondary": "이 특성은 보조 특성으로 사용되지 않으므로 여기에 적용할 수 없습니다.",
-                "featureNotFoundation": "이 특성은 기초 특성으로 사용되지 않으므로 여기에 적용할 수 없습니다.",
-                "featureNotSpecialization": "이 특성은 특화 특성으로 사용되지 않으므로 여기에 적용할 수 없습니다.",
-                "featureNotMastery": "이 특성은 숙련 특성으로 사용되지 않으므로 여기에 적용할 수 없습니다.",
+                "featureNotHope": "이 기능은 희망 기능으로 사용되지 않으므로 여기에 적용할 수 없습니다.",
+                "featureNotClass": "이 기능은 클래스 기능으로 사용되지 않으므로 여기에 적용할 수 없습니다.",
+                "featureNotPrimary": "이 기능은 주 기능으로 사용되지 않으므로 여기에 적용할 수 없습니다.",
+                "featureNotSecondary": "이 기능은 보조 기능으로 사용되지 않으므로 여기에 적용할 수 없습니다.",
+                "featureNotFoundation": "이 기능은 기초 기능으로 사용되지 않으므로 여기에 적용할 수 없습니다.",
+                "featureNotSpecialization": "이 기능은 특화 기능으로 사용되지 않으므로 여기에 적용할 수 없습니다.",
+                "featureNotMastery": "이 기능은 숙련 기능으로 사용되지 않으므로 여기에 적용할 수 없습니다.",
                 "beastformMissingEffect": "야수 형태에 야수 형태 효과가 없습니다. 사용할 수 없습니다.",
                 "beastformToManyAdvantages": "더 이상 이점를 선택할 수 없습니다.",
-                "beastformToManyFeatures": "더 이상 특성을 선택할 수 없습니다.",
+                "beastformToManyFeatures": "더 이상 기능을 선택할 수 없습니다.",
                 "beastformEquipWeapon": "야수 형태에서는 무기를 장착할 수 없습니다.",
                 "loadoutMaxReached": "최대 장비치에 도달했습니다. 권역 카드 한 장 이상을 보관소로 옮기거나, 원한다면 홈브루 설정에서 한도를 늘리세요.",
                 "domainMaxReached": "이 클래스의 최대 영역 수에 도달했습니다. 원한다면 홈브루 설정에서 한도를 늘리세요.",
@@ -3493,7 +3493,7 @@
                     "communities": "공동체",
                     "environments": "환경",
                     "beastforms": "야수 형태",
-                    "features": "특성",
+                    "features": "기능",
                     "items": "아이템",
                     "weapons": "무기",
                     "armors": "방어구",
