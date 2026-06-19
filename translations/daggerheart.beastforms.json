@@ -1,205 +1,423 @@
 {
  "label": "야수 형태",
  "mapping": {
-  "description": "system.description"
+  "description": "system.description",
+  "examples": "system.examples",
+  "advantageOn": {
+   "path": "system.advantageOn",
+   "converter": "toAdvantageOn"
+  },
+  "actions": {
+   "path": "system.actions",
+   "converter": "toActions"
+  },
+  "effects": {
+   "path": "effects",
+   "converter": "toEffects"
+  }
  },
  "entries": {
-  "Agile Scout": {
-   "name": "민첩한 정찰병"
-  },
-  "Aquatic Predator": {
-   "name": "수중 포식자"
-  },
-  "Aquatic Scout": {
-   "name": "수중 정찰병"
-  },
-  "Armored Sentry": {
-   "name": "장갑 파수꾼"
-  },
-  "Epic Aquatic Beast": {
-   "name": "서사적 수중 야수"
-  },
-  "Great Predator": {
-   "name": "위대한 포식자"
-  },
-  "Great Winged Beast": {
-   "name": "위대한 날개 야수"
-  },
-  "Household Friend": {
-   "name": "가정의 친구"
-  },
-  "Legendary Beast": {
-   "name": "전설의 야수",
-   "description": "<p>1등급 야수 형태를 선택하고, 그 존재의 더 크고 강력한 버전이 됩니다. 이 형태에 있는 동안 원래 형태의 모든 능력치와 기능을 유지하며 다음 보너스를 받습니다:</p><ul><li>피해 +6 보너스</li><li>이 형태가 사용하는 능력치에 +1 보너스</li><li>방어 +2 보너스</li></ul>"
-  },
-  "Legendary Hybrid": {
-   "name": "전설의 혼종"
-  },
-  "Massive Behemoth": {
-   "name": "거대 베헤모스"
-  },
-  "Mighty Lizard": {
-   "name": "강력한 도마뱀"
-  },
-  "Mighty Strider": {
-   "name": "강력한 보행자"
-  },
-  "Mythic Aerial Hunter": {
-   "name": "신화적 공중 사냥꾼"
-  },
-  "Mythic Beast": {
-   "name": "신화적 야수"
-  },
-  "Mythic Hybrid": {
-   "name": "신화적 혼종"
-  },
-  "Nimble Grazer": {
-   "name": "날렵한 초식동물"
-  },
-  "Pack Predator": {
-   "name": "무리 포식자"
+  "Striking Serpent": {
+   "name": "일격의 뱀",
+   "examples": "코브라, 방울뱀, 독사 등"
   },
   "Pouncing Predator": {
-   "name": "도약 포식자"
-  },
-  "Powerful Beast": {
-   "name": "강력한 야수"
-  },
-  "Stalking Arachnid": {
-   "name": "추적하는 거미"
-  },
-  "Striking Serpent": {
-   "name": "강타하는 뱀"
+   "name": "도약하는 포식자",
+   "examples": "치타, 사자, 표범 등"
   },
   "Terrible Lizard": {
-   "name": "끔찍한 도마뱀"
+   "name": "공포스러운 도마뱀",
+   "examples": "브라키오사우루스, 티라노사우루스 등"
+  },
+  "Armored Sentry": {
+   "name": "장갑 감시자",
+   "examples": "아르마딜로, 천산갑, 거북 등"
+  },
+  "Mighty Lizard": {
+   "name": "강력한 도마뱀",
+   "examples": "악어, 크로커다일, 독 도마뱀 등"
+  },
+  "Stalking Arachnid": {
+   "name": "잠복자 거미",
+   "examples": "타란튤라, 늑대거미 등"
+  },
+  "Nimble Grazer": {
+   "name": "기민한 초식동물",
+   "examples": "사슴, 가젤, 염소 등"
+  },
+  "Aquatic Predator": {
+   "name": "수중 포식자",
+   "examples": "돌고래, 범고래, 상어 등"
+  },
+  "Mythic Hybrid": {
+   "name": "신화 복합체"
+  },
+  "Pack Predator": {
+   "name": "무리 포식자",
+   "examples": "코요테, 하이에나, 늑대 등"
+  },
+  "Agile Scout": {
+   "name": "민첩한 정찰자",
+   "examples": "여우, 쥐, 족제비 등"
+  },
+  "Great Predator": {
+   "name": "위대한 포식자",
+   "examples": "다이어 울프, 벨로시랩터, 검치호 등"
+  },
+  "Great Winged Beast": {
+   "name": "위대한 비행 야수",
+   "examples": "거대 독수리, 매 등"
+  },
+  "Household Friend": {
+   "name": "가정의 친구",
+   "examples": "고양이, 개, 토끼 등"
+  },
+  "Mythic Aerial Hunter": {
+   "name": "신화 비행 사냥꾼",
+   "examples": "드래곤, 프테로닥틸, 로크, 와이번 등"
+  },
+  "Mythic Beast": {
+   "name": "신화 야수"
+  },
+  "Powerful Beast": {
+   "name": "괴력의 야수",
+   "examples": "곰, 황소, 무스 등"
   },
   "Winged Beast": {
-   "name": "날개 야수"
+   "name": "비행 야수",
+   "examples": "매, 올빼미, 까마귀 등"
   },
-  "Agile": {
-   "name": "민첩함",
-   "description": "<p>당신의 움직임은 소리가 없으며, <strong>희망 점수 1개를 소모</strong>하여 굴림 없이 먼 거리까지 이동할 수 있습니다.</p>"
+  "Legendary Beast": {
+   "name": "전설적인 야수"
   },
-  "Aquatic": {
-   "name": "수중",
-   "description": "<p>당신은 수중에서 자연스럽게 숨쉬고 움직일 수 있습니다.</p>"
+  "Massive Behemoth": {
+   "name": "거대 괴수",
+   "examples": "코끼리, 매머드, 코뿔소 등"
   },
-  "Armored Shell": {
-   "name": "장갑 껍질",
-   "description": "<p>당신의 단단해진 외피는 물리 피해에 대한 저항을 제공합니다. 또한 <strong>방어 슬롯을 표시</strong>하여 껍질 속으로 움츠릴 수 있습니다. 껍질 안에 있는 동안 물리 피해는 당신의 방어도와 같은 수치만큼 감소합니다(저항 적용 이후). 단, 이 형태에서 벗어나지 않고서는 다른 행동을 할 수 없습니다.</p>"
+  "Aquatic Scout": {
+   "name": "수중 정찰자",
+   "examples": "뱀장어, 물고기, 문어 등"
   },
-  "Bird's-Eye View": {
-   "name": "조감(鳥瞰)",
-   "description": "<p>당신은 자유롭게 날 수 있습니다. 휴식당 한 번, 공중에 있을 때 굴림 없이 GM에게 아래 장면에 대한 질문을 할 수 있습니다. 캐릭터가 이 정보를 바탕으로 처음 행동 굴림을 할 때 그 굴림에 이점를 받습니다.</p>"
+  "Legendary Hybrid": {
+   "name": "전설적인 복합체"
   },
-  "Cannonball": {
-   "name": "포탄",
-   "description": "<p><strong>스트레스를 표시</strong>하여 동료가 당신을 적에게 던지거나 발사하게 합니다. 이를 위해 동료는 민첩 또는 근력(선택)을 사용해 가까운 거리 안의 대상에게 명중 굴림을 합니다. 성공 시 적대자는 던진 자의 숙련도를 사용한 <strong>d12+2</strong>의 물리 피해를 입습니다. <strong>희망 점수 1개를 소모</strong>하여 첫 대상으로부터 매우 가까운 거리 안의 추가 적대자를 목표로 삼을 수 있습니다. 두 번째 대상은 첫 대상이 입은 피해의 절반을 받습니다.</p>"
+  "Epic Aquatic Beast": {
+   "name": "장대한 수중 야수",
+   "examples": "대왕 오징어, 고래 등"
   },
-  "Carrier": {
-   "name": "운반자",
-   "description": "<p>당신은 이동할 때 동의한 동료 최대 두 명을 함께 운반할 수 있습니다.</p>"
+  "Mighty Strider": {
+   "name": "강력한 탈것",
+   "examples": "낙타, 말, 얼룩말 등"
   },
-  "Companion": {
-   "name": "동반자",
-   "description": "<p>동료를 도울 때 이점 주사위로 <strong>d8</strong>을 굴릴 수 있습니다.</p>"
+  "Takedown": {
+   "name": "제압",
+   "description": "<p><strong>스트레스를 표시</strong>하여 대상의 근접 거리로 이동하고, 그 대상에 대한 공격 굴림을 하십시오. 성공 시, 해당 공격에 대해 숙련에 +2 보너스를 얻으며, 대상은 스트레스를 표시해야 합니다.</p>",
+   "actions": {
+    "DKorr1QzvtBz7d9y": {
+     "description": "<p><strong>스트레스를 표시</strong>하여 대상의 근접 거리로 이동하고, 그 대상에 대한 공격 굴림을 하십시오. 성공 시, 해당 공격에 대해 숙련에 +2 보너스를 얻으며, 대상은 스트레스를 표시해야 합니다.</p>"
+    }
+   },
+   "effects": {
+    "hE6ciIusvKEtUQ8U": {
+     "name": "제압"
+    }
+   }
   },
-  "Deadly Raptor": {
-   "name": "치명적인 맹금류",
-   "description": "<p>당신은 자유롭게 날 수 있으며 자신의 행동으로 먼 거리까지 이동할 수 있습니다. 가까운 거리 이상 떨어진 대상까지 직선으로 근접 거리까지 이동한 후 같은 행동에서 그 대상을 공격할 때, 숙련도 미만으로 나온 피해 주사위 전부를 다시 굴릴 수 있습니다.</p>"
-  },
-  "Demolish": {
-   "name": "파괴",
-   "description": "<p><strong>희망 점수 1개를 소모</strong>하여 먼 거리만큼 직선으로 이동하고, 그 선의 근접 거리 안의 모든 대상에 대해 공격을 시도합니다. 성공한 대상은 당신의 숙련도를 사용한 <strong>d8+10</strong>의 물리 피해를 입고 일시적으로 <em>취약</em> 상태가 됩니다.@Template[type:ray|range:f]"
-  },
-  "Devastating Strikes": {
-   "name": "파괴적인 일격",
-   "description": "<p>근접 거리 안의 대상에게 중대한 피해를 줄 때, <strong>스트레스를 표시</strong>하여 대상이 추가 HP를 표시하게 할 수 있습니다.</p>"
-  },
-  "Elusive Prey": {
-   "name": "교묘한 사냥감",
-   "description": "<p>당신에 대한 명중 굴림이 성공할 때, <strong>스트레스를 표시</strong>하고 <strong>d4</strong>를 굴릴 수 있습니다. 그 결과를 이 공격에 대한 회피에 더합니다.</p>"
-  },
-  "Fleet": {
-   "name": "신속",
-   "description": "<p><strong>희망을 소모</strong>하여 굴림 없이 먼 거리까지 이동합니다.</p>"
-  },
-  "Fragile": {
-   "name": "취약함",
-   "description": "<p>중대한 피해 이상을 받으면 야수 형태에서 벗어납니다.</p>"
+  "Venomous Bite": {
+   "name": "맹독의 이빨",
+   "description": "<p>근접 거리 내의 대상에 대한 공격에 성공했을 때, 그 대상은 일시적으로 중독 상태가 됩니다. 중독된 생물은 행동할 때마다 <strong>1d10</strong> 직접 물리 피해를 받습니다.</p>",
+   "actions": {
+    "eow90DYK6cUWOk7g": {
+     "description": "<p>근접 거리 내의 대상에 대한 공격에 성공했을 때, 그 대상은 일시적으로 중독 상태가 됩니다. 중독된 생물은 행동할 때마다 <strong>1d10</strong> 직접 물리 피해를 받습니다.</p>"
+    }
+   },
+   "effects": {
+    "TTyAKKoUCoYXSMs4": {
+     "name": "중독"
+    }
+   }
   },
   "Hobbling Strike": {
-   "name": "절뚝거리게 하는 일격",
-   "description": "<p>근접 거리 안의 대상에 대한 공격이 성공할 때, <strong>스트레스를 표시</strong>하여 대상을 일시적으로 <em>취약</em> 상태로 만들 수 있습니다.</p>"
-  },
-  "Hollow Bones": {
-   "name": "텅 빈 뼈",
-   "description": "<p>피해 임계치에 −2 페널티를 받습니다.</p>"
-  },
-  "Massive Stride": {
-   "name": "거대한 발걸음",
-   "description": "<p>굴림 없이 먼 거리까지 이동할 수 있습니다. 크기 덕분에 험지(GM 판단)를 무시합니다.</p>"
-  },
-  "Ocean Master": {
-   "name": "바다의 지배자",
-   "description": "<p>수중에서 자연스럽게 숨쉬고 움직일 수 있습니다. 근접 거리 안의 대상에 대한 공격이 성공하면 일시적으로 그 대상을 <em>속박</em>할 수 있습니다.</p>"
-  },
-  "Pack Hunting": {
-   "name": "무리 사냥",
-   "description": "<p>당신 직전에 행동한 동료와 같은 대상을 공격하여 성공할 때, 피해 굴림에 <strong>d8</strong>을 추가합니다.</p>"
-  },
-  "Physical Defense": {
-   "name": "물리 방어",
-   "description": "<p>피해 임계치에 +3 보너스를 받습니다.</p>"
+   "name": "다리 물기",
+   "description": "<p>근접 거리 내의 대상에 대한 공격에 성공했을 때, <strong>스트레스를 표시</strong>하여 그 대상을 일시적으로 <em>취약</em> 상태로 만들 수 있습니다.</p>",
+   "actions": {
+    "p8DESOMGA6dLwEMz": {
+     "description": "<p>근접 거리 내의 대상에 대한 공격에 성공했을 때, <strong>스트레스를 표시</strong>하여 그 대상을 일시적으로 <em>취약</em> 상태로 만들 수 있습니다.</p>"
+    }
+   },
+   "effects": {
+    "2kKkV9zhfvqA2vlt": {
+     "name": "다리 물기"
+    }
+   }
   },
   "Rampage": {
    "name": "광란",
-   "description": "<p>피해 주사위에서 1이 나오면 d10을 굴려 그 결과를 피해 굴림에 더할 수 있습니다. 또한 명중 굴림을 하기 전에 <strong>스트레스를 표시</strong>하여 이 공격의 명중에 +1 보너스를 받을 수 있습니다.</p>"
+   "description": "<p>피해 주사위에서 1이 나오면 d10을 굴려 그 결과를 피해 굴림에 더할 수 있습니다. 추가로, 공격 굴림을 하기 전에 <strong>스트레스를 표시</strong>하여 해당 공격에 대해 숙련에 +1 보너스를 얻을 수 있습니다.</p>",
+   "actions": {
+    "N7IoOHpqcvcJNsJQ": {
+     "description": "<p>피해 주사위에서 1이 나오면 d10을 굴려 그 결과를 피해 굴림에 더할 수 있습니다. 추가로, 공격 굴림을 하기 전에 <strong>스트레스를 표시</strong>하여 해당 공격에 대해 숙련에 +1 보너스를 얻을 수 있습니다.</p>"
+    }
+   },
+   "effects": {
+    "A7l4JEBC1FFQajsN": {
+     "name": "광란"
+    }
+   }
   },
-  "Snapping Strike": {
-   "name": "물어채는 일격",
-   "description": "<p>근접 거리 안의 대상에 대한 공격이 성공할 때, <strong>희망을 소모</strong>하여 적대자를 턱으로 붙잡아 일시적으로 <em>속박</em>되고 <em>취약</em>한 상태로 만들 수 있습니다.</p>"
-  },
-  "Takedown": {
-   "name": "쓰러뜨림",
-   "description": "<p><strong>스트레스를 표시</strong>하여 대상까지 근접 거리로 이동하고 명중 굴림을 합니다. 성공 시 이 공격의 명중에 +2 보너스를 받고, 대상은 스트레스를 표시해야 합니다.</p>"
-  },
-  "Thick Hide": {
-   "name": "두꺼운 가죽",
-   "description": "<p>피해 임계치에 +2 보너스를 받습니다.</p>"
+  "Massive Stride": {
+   "name": "거대한 보폭",
+   "description": "<p>굴림 없이 먼 거리까지 이동할 수 있습니다. 또한, 당신의 크기 때문에(GM의 재량에 따라) 험난한 지형을 무시합니다.</p>"
   },
   "Trample": {
    "name": "짓밟기",
-   "description": "<p><strong>스트레스를 표시</strong>하여 가까운 거리만큼 직선으로 이동하고, 그 선의 근접 거리 안의 모든 대상을 공격합니다. 성공한 대상은 당신의 명중을 사용한 <strong>d8+1</strong>의 물리 피해를 입고 일시적으로 <em>취약</em>해집니다.</p><p>@Template[type:ray|range:close]</p>"
-  },
-  "Undaunted": {
-   "name": "굴하지 않는",
-   "description": "<p>모든 피해 임계치에 +2 보너스를 받습니다.</p>"
-  },
-  "Unyielding": {
-   "name": "굴복하지 않는",
-   "description": "<p>방어 슬롯을 표시해야 할 때, <strong>d6</strong>을 굴립니다. 5 이상이 나오면 방어 슬롯을 표시하지 않고 심각도를 한 단계 감소시킵니다.</p>"
-  },
-  "Venomous Bite": {
-   "name": "독성 깨물기",
-   "description": "<p>근접 거리 안의 대상에 대한 공격이 성공하면 대상은 일시적으로 중독됩니다. 중독된 존재는 행동할 때마다 1d10의 직접 물리 피해를 받습니다.</p>"
-  },
-  "Venomous Strike": {
-   "name": "독성 강타",
-   "description": "<p>매우 가까운 거리 안의 임의 수의 대상을 공격합니다. 성공 시 대상은 일시적으로 중독됩니다. 중독된 존재는 행동할 때마다 1d10의 직접 물리 피해를 받습니다.</p>"
-  },
-  "Vicious Maul": {
-   "name": "흉포한 강타",
-   "description": "<p>대상에 대한 공격이 성공할 때, 희망 점수를 소모하여 대상을 일시적으로 취약하게 만들고 이 공격의 숙련도에 +1 보너스를 받을 수 있습니다.</p>"
-  },
-  "Warning Hiss": {
-   "name": "경고 쉭쉭거림",
-   "description": "<p>스트레스를 표시하여 근접 거리 안의 임의 수의 대상을 매우 가까운 거리로 물러나게 합니다.</p>"
+   "description": "<p><strong>스트레스를 표시</strong>하여 직선으로 가까움 거리까지 이동하고, 그 직선 내 근접 거리에 있는 모든 대상에게 공격을 가하십시오. 성공한 대상은 숙련을 사용하여 <strong>d8+1</strong> 물리 피해를 입고, 일시적으로 <em>취약</em> 상태가 됩니다.</p>",
+   "actions": {
+    "YCOTIv9IVEKpumbJ": {
+     "description": "<p><strong>스트레스를 표시</strong>하여 직선으로 가까움 거리까지 이동하고, 그 직선 내 근접 거리에 있는 모든 대상에게 공격을 가하십시오. 성공한 대상은 숙련을 사용하여 <strong>d8+1</strong> 물리 피해를 입고, 일시적으로 <em>취약</em> 상태가 됩니다.</p>"
+    }
+   },
+   "effects": {
+    "LkekG4IngVW9rFjI": {
+     "name": "짓밟힘"
+    }
+   }
   },
   "Webslinger": {
    "name": "거미줄 사수",
-   "description": "<p>모험과 전투 모두에 유용한 강한 거미줄 물질을 만들 수 있습니다. 거미줄은 한 존재를 지탱할 수 있을 만큼 강합니다. 가까운 거리 안의 대상에게 민첩 굴림에 성공하여 일시적으로 속박할 수 있습니다.</p>"
+   "description": "<p>당신은 모험과 전투 모두에 유용한 강력한 거미줄을 생성할 수 있습니다. 이 거미줄은 생물 한 명을 지탱할 정도로 튼튼합니다. 가까움 거리 내의 대상을 대상으로 기교 굴림에 성공하면, 그 대상을 일시적으로 <em>포박</em>할 수 있습니다.</p>",
+   "actions": {
+    "vRU6xutkp3VYxZ0i": {
+     "description": "<p>당신은 모험과 전투 모두에 유용한 강력한 거미줄을 생성할 수 있습니다. 이 거미줄은 생물 한 명을 지탱할 정도로 튼튼합니다. 가까움 거리 내의 대상을 대상으로 기교 굴림에 성공하면, 그 대상을 일시적으로 <em>포박</em>할 수 있습니다.</p>"
+    }
+   },
+   "effects": {
+    "cBJueH89gNvvDKfQ": {
+     "name": "거미줄 사수"
+    }
+   }
+  },
+  "Demolish": {
+   "name": "파괴",
+   "description": "<p><strong>희망을 소모</strong>하여 직선으로 먼 거리까지 이동하고, 그 직선 내에서 근접 거리에 있는 모든 대상에게 공격을 가합니다. 성공한 대상은 숙련을 사용하여 <strong>d8+10</strong> 물리 피해를 입고, 일시적으로 <em>취약</em> 상태가 됩니다.</p>",
+   "actions": {
+    "5SXMT39vrZoK7GBM": {
+     "description": "<p><strong>희망을 소모</strong>하여 직선으로 먼 거리까지 이동하고, 그 직선 내에서 근접 거리에 있는 모든 대상에게 공격을 가합니다. 성공한 대상은 숙련을 사용하여 <strong>d8+10</strong> 물리 피해를 입고, 일시적으로 <em>취약</em> 상태가 됩니다.</p>"
+    }
+   },
+   "effects": {
+    "FXdFgEgqVl5gIWJS": {
+     "name": "파괴됨"
+    }
+   }
+  },
+  "Carrier": {
+   "name": "운반자",
+   "description": "<p>당신이 이동할 때, 동의한 아군 최대 두 명을 함께 데리고 갈 수 있습니다.</p>"
+  },
+  "Bird's-Eye View": {
+   "name": "조감도",
+   "description": "<p>당신은 의지대로 비행할 수 있습니다. 휴식마다 한 번, 공중에 있을 때 아래 장면에 대해 GM에게 굴림 없이 질문할 수 있습니다. 이 정보를 바탕으로 캐릭터가 처음으로 굴림을 할 때, 그 굴림에 이점을 얻습니다.</p>",
+   "actions": {
+    "JRCE5826Yhh09aaI": {
+     "description": "<p>당신은 의지대로 비행할 수 있습니다. 휴식마다 한 번, 공중에 있을 때 아래 장면에 대해 GM에게 굴림 없이 질문할 수 있습니다. 이 정보를 바탕으로 캐릭터가 처음으로 굴림을 할 때, 그 굴림에 이점을 얻습니다.</p>"
+    }
+   }
+  },
+  "Fleet": {
+   "name": "신속",
+   "description": "<p><strong>희망을 소모</strong>하여 굴림 없이 먼 거리까지 이동할 수 있습니다.</p>",
+   "actions": {
+    "pn5p2ocVvVPzDyAX": {
+     "description": "<p><strong>희망을 소모</strong>하여 굴림 없이 먼 거리까지 이동할 수 있습니다.</p>"
+    }
+   }
+  },
+  "Devastating Strikes": {
+   "name": "파괴적인 일격",
+   "description": "<p>근접 거리 내의 대상에게 심각 피해를 입혔을 때, <strong>스트레스를 표시</strong>하여 대상에게 추가로 HP 1을 더 표시하게 만들 수 있습니다.</p>",
+   "actions": {
+    "Il2C9zALU6a1gGrg": {
+     "description": "<p>근접 거리 내의 대상에게 심각 피해를 입혔을 때, <strong>스트레스를 표시</strong>하여 대상에게 추가로 HP 1을 더 표시하게 만들 수 있습니다.</p>"
+    }
+   }
+  },
+  "Snapping Strike": {
+   "name": "물기 강타",
+   "description": "<p>근접 거리 내의 대상에 대한 공격에 성공했을 때, <strong>희망을 소모</strong>하여 상대를 턱으로 물어 고정시켜, 그들을 일시적으로 <em>포박</em> 및 <em>취약</em> 상태로 만듭니다.</p>",
+   "actions": {
+    "ib94yYJ1HA0dm0VC": {
+     "description": "<p>근접 거리 내의 대상에 대한 공격에 성공했을 때, <strong>희망을 소모</strong>하여 상대를 턱으로 물어 고정시켜, 그들을 일시적으로 <em>포박</em> 및 <em>취약</em> 상태로 만듭니다.</p>"
+    }
+   },
+   "effects": {
+    "y3EsJuInxE7juNXT": {
+     "name": "물기 강타"
+    }
+   }
+  },
+  "Undaunted": {
+   "name": "불굴",
+   "description": "<p>당신은 모든 피해 임계치에 +2 보너스를 얻습니다.</p>",
+   "effects": {
+    "wVoUVQJ2Ik7CiUuV": {
+     "name": "불굴"
+    }
+   }
+  },
+  "Fragile": {
+   "name": "연약",
+   "description": "<p>당신이 중상 이상의 피해를 입으면, 야수 형태가 해제됩니다.</p>"
+  },
+  "Deadly Raptor": {
+   "name": "치명적인 맹금",
+   "description": "<p>당신은 의지대로 비행할 수 있습니다. 행동의 일부로 먼 거리까지 이동할 수 있습니다. 당신이 직선으로 이동하여 최소 가까움 거리 이상에서 근접 거리의 대상에게 돌진해 같은 행동 안에서 공격을 가할 때, 숙련보다 낮은 결과가 나온 모든 피해 주사위를 다시 굴릴 수 있습니다.</p>"
+  },
+  "Physical Defense": {
+   "name": "물리 방어",
+   "description": "<p>당신은 피해 임계치에 +3 보너스를 얻습니다.</p>",
+   "effects": {
+    "hs9vWE92QQQx15ET": {
+     "name": "물리 방어"
+    }
+   }
+  },
+  "Thick Hide": {
+   "name": "두꺼운 가죽",
+   "description": "<p>당신은 피해 임계치에 +2 보너스를 얻습니다.</p>",
+   "effects": {
+    "ZoUJy8EOm9mVXuAw": {
+     "name": "두꺼운 가죽"
+    }
+   }
+  },
+  "Elusive Prey": {
+   "name": "도망치는 먹잇감",
+   "description": "<p>당신을 향한 공격 굴림이 성공했을 때, <strong>스트레스를 표시</strong>하고 <strong>d4</strong>를 굴릴 수 있습니다. 그 결과를 이번 공격에 대한 당신의 회피에 더하십시오.</p>",
+   "actions": {
+    "9lvrqQKTEB3NRwvM": {
+     "description": "<p>당신을 향한 공격 굴림이 성공했을 때, <strong>스트레스를 표시</strong>하고 <strong>d4</strong>를 굴릴 수 있습니다. 그 결과를 이번 공격에 대한 당신의 회피에 더하십시오.</p>"
+    }
+   }
+  },
+  "Warning Hiss": {
+   "name": "경고의 쉭쉭거림",
+   "description": "<p><strong>스트레스를 표시</strong>하여 근접 거리 내의 원하는 수의 대상을 강제로 밀어내어, 매우 가까움 거리로 이동시킬 수 있습니다.</p>",
+   "actions": {
+    "D9YmUP1aeiCzNxcC": {
+     "description": "<p><strong>스트레스를 표시</strong>하여 근접 거리 내의 원하는 수의 대상을 강제로 밀어내어, 매우 가까움 거리로 이동시킬 수 있습니다.</p>"
+    }
+   }
+  },
+  "Pack Hunting": {
+   "name": "무리 사냥",
+   "description": "<p>바로 직전에 행동한 아군과 같은 대상을 공격에 성공했을 경우, 피해 굴림에 <strong>d8</strong>을 추가합니다.</p>"
+  },
+  "Vicious Maul": {
+   "name": "잔혹한 물기",
+   "description": "<p>당신이 대상에 대한 공격에 성공했을 때, <strong>희망을 소모</strong>하여 대상을 일시적으로 <em>취약</em> 상태로 만들고, 해당 공격에 대해 +1의 숙련 보너스를 얻을 수 있습니다.</p>",
+   "actions": {
+    "Cc53vyYz5ggKdIbx": {
+     "description": "<p>당신이 대상에 대한 공격에 성공했을 때, <strong>희망을 소모</strong>하여 대상을 일시적으로 <em>취약</em> 상태로 만들고, 해당 공격에 대해 +1의 숙련 보너스를 얻을 수 있습니다.</p>"
+    }
+   },
+   "effects": {
+    "MIAh9XNwDXGDktCm": {
+     "name": "으스러짐"
+    }
+   }
+  },
+  "Companion": {
+   "name": "동반자",
+   "description": "<p>당신이 아군을 도울 때, 이점 주사위로 <strong>d8</strong>을 굴릴 수 있습니다.</p>"
+  },
+  "Cannonball": {
+   "name": "포탄",
+   "description": "<p><strong>스트레스를 표시</strong>하여 아군이 당신을 적대자에게 던지거나 발사하도록 할 수 있습니다. 그렇게 하기 위해, 아군은 민첩이나 근력(선택)을 사용하여 가까움 거리 내의 대상에게 공격 굴림을 합니다. 성공 시, 적대자는 던진 이의 숙련을 사용한 <strong>d12+2</strong> 물리 피해를 입습니다. 당신은 <strong>희망을 소모하여</strong> 첫 번째 대상의 매우 가까움 거리에 있는 추가 적대자를 지정할 수 있습니다. 두 번째 대상은 첫 번째 대상이 받은 피해의 절반을 받습니다.</p>",
+   "actions": {
+    "5Vxm8LyBHE1GYbsv": {
+     "description": "<p><strong>스트레스를 표시</strong>하여 아군이 당신을 적대자에게 던지거나 발사하도록 할 수 있습니다. 그렇게 하기 위해, 아군은 민첩이나 근력(선택)을 사용하여 가까움 거리 내의 대상에게 공격 굴림을 합니다. 성공 시, 적대자는 던진 이의 숙련을 사용한 <strong>d12+2</strong> 물리 피해를 입습니다. 당신은 <strong>희망을 소모하여</strong> 첫 번째 대상의 매우 가까움 거리에 있는 추가 적대자를 지정할 수 있습니다. 두 번째 대상은 첫 번째 대상이 받은 피해의 절반을 받습니다.</p>"
+    },
+    "QCQzArBrajYi2D2I": {
+     "description": "<p><strong>스트레스를 표시</strong>하여 아군이 당신을 적대자에게 던지거나 발사하도록 할 수 있습니다. 그렇게 하기 위해, 아군은 민첩이나 근력(선택)을 사용하여 가까움 거리 내의 대상에게 공격 굴림을 합니다. 성공 시, 적대자는 던진 이의 숙련을 사용한 <strong>d12+2</strong> 물리 피해를 입습니다. 당신은 <strong>희망을 소모하여</strong> 첫 번째 대상의 매우 가까움 거리에 있는 추가 적대자를 지정할 수 있습니다. 두 번째 대상은 첫 번째 대상이 받은 피해의 절반을 받습니다.</p>"
+    }
+   }
+  },
+  "Aquatic": {
+   "name": "수생",
+   "description": "<p>당신은 물속에서 숨을 쉬고 자연스럽게 움직일 수 있습니다.</p>"
+  },
+  "Armored Shell": {
+   "name": "갑각",
+   "description": "<p>당신의 단단한 외피는 물리 피해에 대한 저항을 제공합니다. 추가로, <strong>방어 슬롯을 표시</strong>하여 껍질 속으로 몸을 숨길 수 있습니다. 껍질 속에 있는 동안, 물리 피해는 방어도만큼(저항을 적용한 후) 감소되지만, 이 형태에서 벗어나지 않는 한 다른 행동은 수행할 수 없습니다.</p>",
+   "actions": {
+    "15XSCpCAZ2JLspmN": {
+     "description": "<p>당신의 단단한 외피는 물리 피해에 대한 저항을 제공합니다. 추가로, <strong>방어 슬롯을 표시</strong>하여 껍질 속으로 몸을 숨길 수 있습니다. 껍질 속에 있는 동안, 물리 피해는 방어도만큼(저항을 적용한 후) 감소되지만, 이 형태에서 벗어나지 않는 한 다른 행동은 수행할 수 없습니다.</p>"
+    }
+   },
+   "effects": {
+    "OY3lEB3vuDKNLzxv": {
+     "name": "움츠림"
+    },
+    "XFmEC0kDQJNrGbtr": {
+     "name": "갑각"
+    }
+   }
+  },
+  "Ocean Master": {
+   "name": "바다의 지배자",
+   "description": "<p>당신은 물속에서 숨을 쉬고 자연스럽게 움직일 수 있습니다. 근접 거리 내의 대상에 대한 공격에 성공했을 때, 대상을 일시적으로 <em>포박</em>할 수 있습니다.</p>",
+   "actions": {
+    "ge2koBRj4snhIzDA": {
+     "description": "<p>당신은 물속에서 숨을 쉬고 자연스럽게 움직일 수 있습니다. 근접 거리 내의 대상에 대한 공격에 성공했을 때, 대상을 일시적으로 <em>포박</em>할 수 있습니다.</p>"
+    }
+   },
+   "effects": {
+    "6GBczj8REkDmgX2Q": {
+     "name": "바다의 지배자"
+    }
+   }
+  },
+  "Venomous Strike": {
+   "name": "맹독의 일격",
+   "description": "<p>매우 가까움 거리 내의 원하는 수의 대상에게 공격을 가합니다. 성공 시 대상은 일시적으로 중독 상태가 됩니다. 중독된 생물은 행동할 때마다 <strong>1d10</strong> 직접 물리 피해를 받습니다.</p>",
+   "actions": {
+    "igRoXxgaTT9tBQS7": {
+     "description": "<p>매우 가까움 거리 내의 원하는 수의 대상에게 공격을 가합니다. 성공 시 대상은 일시적으로 중독 상태가 됩니다. 중독된 생물은 행동할 때마다 <strong>1d10</strong> 직접 물리 피해를 받습니다.</p>"
+    }
+   },
+   "effects": {
+    "1iQPj96LqUNkRaxE": {
+     "name": "중독"
+    }
+   }
+  },
+  "Unyielding": {
+   "name": "불굴",
+   "description": "<p>당신이 방어 슬롯을 표시해야 할 때, <strong>d6</strong>을 굴리십시오. 5 이상이 나오면 방어 슬롯을 표시하지 않고 피해의 심각도를 한 단계 낮춥니다.</p>",
+   "actions": {
+    "hiGZCQpdTVqE5W4B": {
+     "description": "<p>당신이 방어 슬롯을 표시해야 할 때, <strong>d6</strong>을 굴리십시오. 5 이상이 나오면 방어 슬롯을 표시하지 않고 피해의 심각도를 한 단계 낮춥니다.</p>"
+    }
+   }
+  },
+  "Agile": {
+   "name": "민첩함",
+   "description": "<p>당신의 움직임은 소리 없이 이루어지며, <strong>희망을 소모</strong>하여 굴림 없이 먼 거리까지 이동할 수 있습니다.</p>",
+   "actions": {
+    "4yQ56hSL5LBkzrV6": {
+     "description": "<p>당신의 움직임은 소리 없이 이루어지며, <strong>희망을 소모</strong>하여 굴림 없이 먼 거리까지 이동할 수 있습니다.</p>"
+    }
+   }
+  },
+  "Hollow Bones": {
+   "name": "속이 빈 뼈",
+   "description": "<p>당신은 피해 임계치에 -2 불이익을 받습니다.</p>",
+   "effects": {
+    "RM8wHu5GIF6zfF7V": {
+     "name": "속이 빈 뼈"
+    }
+   }
   }
  }
 }

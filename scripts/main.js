@@ -100,6 +100,13 @@ Hooks.once('babele.init', (babele) => {
         "Roll 3d12": "3d12 굴림",
         "Start Countdowns": "카운트다운 시작",
         "Lose Fear": "공포 상실",
+        // ── 야수 형태(beastform) 기능 액션명 ──
+        "Move": "이동",
+        "Poison": "중독",
+        "Restrain": "포박",
+        "Retract": "움츠리기",
+        "Cannonball": "포탄",
+        "Ask Question": "질문하기",
         // ── 고유 연출 액션명 (팩별 1회성, 검수로 보강) ──
         "Fireball - Explosion": "화염구 - 폭발",
         "Become Unstoppable": "멈출 수 없게 되기",
@@ -122,6 +129,26 @@ Hooks.once('babele.init', (babele) => {
         "Curse": "저주",
         "Deathlocked attack": "데스록 공격",
         "Make Guilty": "죄책감 부여"
+    };
+
+    // ── 야수 형태(beastform) 이점 스킬 사전 ────────────────────────────
+    // beastform의 system.advantageOn = {<id>:{value:"Climb"}} 구조. value는 표준 스킬명
+    // 14종이 반복되므로 영문 value 정확 일치 시 한국어로 일괄 치환(toAdvantageOn).
+    const ADVANTAGE_MAP = {
+        "Attack": "공격",
+        "Climb": "등반",
+        "Deceive": "기만",
+        "Dig": "굴착",
+        "Distract": "교란",
+        "Leap": "도약",
+        "Locate": "탐색",
+        "Navigate": "길찾기",
+        "Protect": "보호",
+        "Scare": "위협",
+        "Sneak": "잠입",
+        "Sprint": "전력질주",
+        "Swim": "수영",
+        "Track": "추적"
     };
 
     // 액션 컬렉션의 name을 표준 사전으로 일괄 치환 (영문명 정확 일치 시에만).
@@ -238,6 +265,17 @@ Hooks.once('babele.init', (babele) => {
                 if (t.description != null) eff.description = t.description;
             }
             return origEffects;
+        },
+        "toAdvantageOn": (origAdv) => {
+            // 야수 형태의 system.advantageOn = {<id>:{value:"Climb"}}. value를 표준 스킬
+            // 사전(ADVANTAGE_MAP)으로 일괄 치환한다. 항목별 번역 데이터 없이 사전 기반으로만
+            // 동작하므로 두 번째 인자(translation)는 사용하지 않는다.
+            if (!origAdv || typeof origAdv !== "object") return origAdv;
+            for (const id in origAdv) {
+                const v = origAdv[id]?.value;
+                if (v != null && ADVANTAGE_MAP[v] != null) origAdv[id].value = ADVANTAGE_MAP[v];
+            }
+            return origAdv;
         }
 
     });
