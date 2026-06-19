@@ -211,6 +211,21 @@ Hooks.once('babele.init', (babele) => {
                 const t = transArr[i];
                 return (typeof t === "string" && t.length > 0) ? t : orig;
             });
+        },
+        "toEffects": (origEffects, transEffects) => {
+            // 임베디드 활성 효과(effects 배열) 번역. 각 효과는 {_id, name, description, changes, ...} 구조.
+            // Babele 기본 effects 매핑(document 컨버터)을 이 함수로 대체하고, 효과 _id 기준으로
+            // name/description만 덮어쓰며 changes(기계 수정치)·duration 등 나머지 필드는 보존한다.
+            // 번역에 없는 효과는 원문 보존(가드).
+            if (!Array.isArray(origEffects) || !transEffects) return origEffects;
+            for (const eff of origEffects) {
+                const t = transEffects[eff._id];
+                if (t == null) continue;
+                if (typeof t === "string") { eff.name = t; continue; }
+                if (t.name != null) eff.name = t.name;
+                if (t.description != null) eff.description = t.description;
+            }
+            return origEffects;
         }
 
     });
