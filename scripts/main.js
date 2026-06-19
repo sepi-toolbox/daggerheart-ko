@@ -200,6 +200,17 @@ Hooks.once('babele.init', (babele) => {
                 }
             }
             return origExp;
+        },
+        "toStringArray": (origArr, transArr) => {
+            // 문자열 배열 필드(클래스의 system.backgroundQuestions / system.connections) 번역.
+            // 직접 매핑은 배열을 병합 못 하므로, 인덱스 기준으로 번역 문자열이 있으면 덮어쓰고
+            // 없으면 원문을 보존한다. 길이/순서는 원본 그대로 유지한다.
+            if (!Array.isArray(origArr)) return origArr;
+            if (!Array.isArray(transArr)) return origArr;
+            return origArr.map((orig, i) => {
+                const t = transArr[i];
+                return (typeof t === "string" && t.length > 0) ? t : orig;
+            });
         }
 
     });
