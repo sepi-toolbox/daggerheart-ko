@@ -355,22 +355,22 @@
             "name": "기본 물자"
         },
         "Broken Compass": {
-            "name": "부서진 나침반"
+            "name": "고장 난 것처럼 보이는 나침반"
         },
         "Bundle of Offerings": {
-            "name": "제물 묶음"
+            "name": "제물 꾸러미"
         },
         "Drawing Of A Lover": {
-            "name": "연인의 그림"
+            "name": "연인의 초상화"
         },
         "Family Heirloom": {
             "name": "가보"
         },
         "Grappling Hook": {
-            "name": "갈고리"
+            "name": "갈고리 밧줄"
         },
         "Letter(Never Opened)": {
-            "name": "편지 (개봉되지 않은)"
+            "name": "한 번도 열어보지 않은 편지"
         },
         "Secret Key": {
             "name": "비밀 열쇠"
@@ -379,17 +379,17 @@
             "name": "위조 도구 세트"
         },
         "Sigil of Your God": {
-            "name": "당신 신의 인장"
+            "name": "당신의 신을 나타내는 인장"
         },
         "Small Bag (Rocks & Bones)": {
-            "name": "작은 가방 (돌과 뼈)"
+            "name": "작은 돌과 뼈가 든 자루"
         },
         "Strange Dirty Penant": {
-            "name": "기묘한 더러운 부적"
+            "name": "흙 속에서 발견한 기이한 부적"
         },
         "Tiny Elemental Pet": {
-            "name": "작은 원소 반려동물",
-            "description": "<p>작은 원소 반려동물</p>"
+            "name": "작고 해가 없는 마법적인 반려 동물",
+            "description": "<p>작고 해가 없는 마법적인 반려 동물.</p>"
         },
         "Torch": {
             "name": "횃불"
@@ -398,14 +398,14 @@
             "name": "스승에게서 받은 토템"
         },
         "Trophy from your First Kill": {
-            "name": "첫 사냥 트로피"
+            "name": "첫 사냥에서 얻은 전리품"
         },
         "Untranslated Book": {
-            "name": "번역되지 않은 책",
-            "description": "<p>번역하려고 하는 책.</p>"
+            "name": "당신이 번역하려고 하는 책",
+            "description": "<p>당신이 번역하려고 하는 책.</p>"
         },
         "Whispering Orb": {
-            "name": "속삭이는 구체"
+            "name": "속삭이는 구슬"
         }
     }
 }
