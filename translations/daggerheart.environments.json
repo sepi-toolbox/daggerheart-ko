@@ -1,5 +1,5 @@
 {
-    "label": "장소",
+    "label": "환경",
     "mapping": {
         "description": "system.description",
         "impulses": "system.impulses",
@@ -11,587 +11,671 @@
     "entries": {
         "Abandoned Grove": {
             "name": "버려진 숲",
-            "description": "<p>한때 드루이드의 숲이었으나 버려져 자연에 완전히 잠식된 곳.</p>",
-            "impulses": "호기심 끌기, 과거 비추기",
+            "description": "<p>한때 드루이드의 숲터였으나 지금은 휴경지처럼 방치되어 완전히 자연에 되돌려진 장소입니다.</p>",
+            "impulses": "호기심 많은 자를 끌어들이기, 과거의 메아리",
             "items": {
+                "3kkkbnWEvXk5TPK8": {
+                    "name": "모독자",
+                    "description": "<p><strong>공포를 소모</strong>하여 폭력과 불화의 메아리에 이끌린 @UUID[Compendium.daggerheart.adversaries.Actor.sRn4bqerfARvhgSV]{하급 혼돈 정령}을 소환합니다. 그들은 선택된 PC로부터 먼 거리 내에 나타나며 즉시 주목을 받습니다.</p><section id=\"secret-ChOafrgiTeYqsqoe\" class=\"secret\"><p><em>정령이 나타날 때 풀밭은 무슨 색으로 변할까요? 혼돈이 숲 안의 곤충과 작은 야생동물을 어떻게 뒤틀어버릴까요?</em></p></section>",
+                    "actions": {
+                        "p6V4k4yMwJ1UPZMz": {
+                            "description": "<p><strong>공포를 소모</strong>하여 폭력과 불화의 메아리에 이끌린 @UUID[Compendium.daggerheart.adversaries.Actor.sRn4bqerfARvhgSV]{하급 혼돈 정령}을 소환합니다. 그들은 선택된 PC로부터 먼 거리 내에 나타나며 즉시 주목을 받습니다.</p><section id=\"secret-iCbXJnMeqDXXOc8n\" class=\"secret\"><p><em>정령이 나타날 때 풀밭은 무슨 색으로 변할까요? 혼돈이 숲 안의 곤충과 작은 야생동물을 어떻게 뒤틀어버릴까요?</em></p></section>"
+                        }
+                    }
+                },
                 "MX4q2xxuWts9gBfT": {
-                    "name": "수풀에 덮인 전장",
-                    "description": "<p>여기서 전투가 벌어졌습니다. 플레이어는 직감 굴림을 하여 이 전투의 증거를 찾을 수 있습니다. 희망과 함께 성공하면 아래 정보 세 가지를 모두 알아냅니다. 공포와 함께 성공하면 두 가지를 알아냅니다. 실패하면 플레이어는 스트레스를 표시하여 하나를 알아내고 이 환경을 조사하는 다음 행동 굴림에 이점를 얻을 수 있습니다. 관련된 배경이나 경험을 가진 플레이어는 추가 세부 정보를 알아낼 수 있으며, 장면에 대한 명확화 질문을 하여 진실한(항상 완전하지는 않더라도) 답변을 받을 수 있습니다.</p><ul><li><p>전투의 흔적(부서진 무기와 가지, 땅의 패인 자국)이 땅에 흩어져 있습니다.</p></li><li><p>이끼로 덮인 나무 몸통은 사실 나무지기의 시체입니다.</p></li><li><p>여전히 서 있는 나무들은 강력한 마법의 영향을 받은 듯 기이하게 뒤틀려 있습니다.</p></li></ul><section id='secret-eSdgCltFm45vLh9H' class='secret'><p><em>왜 이 무리들은 싸움에 들어섰는가? 왜 이 숲은 지금 사용되지 않는가?</em></p></section>"
+                    "name": "우거진 전장",
+                    "description": "<p>이곳에서 전투가 있었습니다. PC는 이 전투의 흔적을 파악하기 위해 직감 굴림을 할 수 있습니다. 희망으로 성공하면 아래의 세 가지 정보를 모두 알 수 있습니다. 공포로 성공하면 두 가지를 알 수 있습니다. 실패할 경우, PC는 <strong>스트레스를 표시</strong>하여 한 가지를 알 수 있고, 이 환경을 조사하기 위한 다음 행동 굴림에 이점을 얻을 수 있습니다. 적절한 배경이나 경험을 가진 PC는 추가적인 세부 사항을 알 수 있으며, 장면에 대한 후속 질문을 던져 진실된(항상 완전하진 않은) 답을 얻을 수 있습니다.</p><ul><li><p>전투의 흔적(부서진 무기와 가지들, 땅의 패임)이 땅을 뒤덮고 있습니다.</p></li><li><p>이끼로 덮인 나무 줄기는 사실 트렌트의 시체입니다.</p></li><li><p>여전히 서 있는 나무들이 강력한 마법에 의해 비틀린 듯 이상한 모양을 하고 있습니다.</p></li></ul><section id=\"secret-eSdgCltFm45vLh9H\" class=\"secret\"><p><em>왜 이 집단들은 충돌했는가? 왜 이 숲터는 지금 사용되지 않는가?</em></p></section>"
                 },
                 "maK5OyfrOxcjCoPt": {
-                    "name": "가시 덩굴",
-                    "description": "<p>숲 안의 한 지점을 선택합니다. 그 지점에서 매우 가까운 거리 내의 모든 대상은 민첩 대응 굴림에 성공해야 하며, 실패하면 <strong>1d8+3</strong> 물리 피해를 받고 가시 덩굴에 속박됩니다. 기교나 근력 굴림에 성공해 풀려나거나 덩굴에 6 이상의 피해를 입히기 전까지 속박이 지속됩니다.</p><section id='secret-WVGl1YkqOicSEwlf' class='secret'><p><em>덩굴이 얼마나 많은가? 어디를 붙잡는가? 아래로 끌어내리는가, 땅 위로 들어 올리는가?</em></p></section>",
-                    "actions": {
-                        "47fcdhe1FDdm9rQU": "<p>숲 안의 한 지점을 선택합니다. 그 지점에서 매우 가까운 거리 내의 모든 대상은 민첩 대응 굴림에 성공해야 하며, 실패하면 <strong>1d8+3</strong> 물리 피해를 받고 가시 덩굴에 속박됩니다. 기교나 근력 굴림에 성공해 풀려나거나 덩굴에 6 이상의 피해를 입히기 전까지 속박이 지속됩니다.</p><section id='secret-WVGl1YkqOicSEwlf' class='secret'><p><em>덩굴이 얼마나 많은가? 어디를 붙잡는가? 아래로 끌어내리는가, 땅 위로 들어 올리는가?</em></p></section>"
+                    "name": "가시덩굴",
+                    "description": "<p>숲 안의 한 지점을 선택합니다. 그 지점으로부터 매우 가까운 거리 내에 있는 모든 대상은 민첩 대응 굴림에 성공해야 하며, 실패할 경우 <strong>1d8+3</strong>의 물리 피해를 받고 가시덩굴에 <em>포박</em>됩니다. <em>포박</em>은 기교 또는 근력 굴림에 성공하거나 덩굴에 최소 6의 피해를 입히면 해제됩니다.</p><section id=\"secret-WVGl1YkqOicSEwlf\" class=\"secret\"><p><em>덩굴은 몇 개나 있을까요? 어디를 붙잡을까요? 땅으로 끌어내릴까요, 아니면 공중으로 들어 올릴까요?</em></p></section>",
+                    "effects": {
+                        "LSeftEwgBbXXkLw3": {
+                            "name": "가시덩굴",
+                            "description": "<p><em>포박</em>은 기교 또는 근력 굴림에 성공하거나 덩굴에 최소 6의 피해를 입히면 해제됩니다.</p>"
+                        }
                     }
                 },
                 "uG5A2XQuUcPsXzgP": {
-                    "name": "환영받지 못한 손님",
-                    "description": "<p>@UUID[Compendium.daggerheart.adversaries.Actor.8yUj2Mzvnifhxegm]{어린 드라이어드}, @UUID[Compendium.daggerheart.adversaries.Actor.VtFBt9XBE0WrGGxP]{숲 전사} 둘, 그리고 플레이어 수만큼의 @UUID[Compendium.daggerheart.adversaries.Actor.G62k4oSkhkoXEs2D]{작은 나무지기}들이 일행의 침입에 맞서기 위해 나타납니다.</p><section id='secret-01hkXuVJc5Kei4QW' class='secret'><p><em>숲의 수호자들은 무엇을 숨기고 있는가? 드라이어드를 달래기 위해 플레이어들은 어떤 숲의 위협에 맞설 수 있을까?</em></p></section>"
-                },
-                "3kkkbnWEvXk5TPK8": {
-                    "name": "오염자",
-                    "description": "<p><strong>공포를 소비</strong>하여 폭력과 분쟁의 여운에 이끌린 @UUID[Compendium.daggerheart.adversaries.Actor.sRn4bqerfARvhgSV]{작은 혼돈 정령}을 소환합니다. 선택한 플레이어로부터 먼 거리 내에 나타나며 즉시 강조됩니다.</p><section id='secret-ChOafrgiTeYqsqoe' class='secret'><p><em>정령이 나타나면 풀은 어떤 색이 되는가? 혼돈은 숲의 곤충과 작은 동물들을 어떻게 비틀어 놓는가?</em></p></section>",
-                    "actions": {
-                        "p6V4k4yMwJ1UPZMz": "<p><strong>공포를 소비</strong>하여 폭력과 분쟁의 여운에 이끌린 @UUID[Compendium.daggerheart.adversaries.Actor.sRn4bqerfARvhgSV]{작은 혼돈 정령}을 소환합니다. 선택한 플레이어로부터 먼 거리 내에 나타나며 즉시 강조됩니다.</p><section id='secret-ChOafrgiTeYqsqoe' class='secret'><p><em>정령이 나타나면 풀은 어떤 색이 되는가? 혼돈은 숲의 곤충과 작은 동물들을 어떻게 비틀어 놓는가?</em></p></section>"
-                    }
+                    "name": "너희는 환영받지 못한다",
+                    "description": "<p>@UUID[Compendium.daggerheart.adversaries.Actor.8yUj2Mzvnifhxegm]{어린 드라이어드}, @UUID[Compendium.daggerheart.adversaries.Actor.VtFBt9XBE0WrGGxP]{숲의 병사} 둘, 그리고 PC 수만큼의 @UUID[Compendium.daggerheart.adversaries.Actor.G62k4oSkhkoXEs2D]{하급 트렌트}가 파티의 침입을 막기 위해 나타납니다.</p><section id=\"secret-01hkXuVJc5Kei4QW\" class=\"secret\"><p><em>숲 수호자들이 숨기고 있는 것은 무엇일까요? 드라이어드를 달래기 위해 PC가 마주해야 할 숲의 위협은 무엇일까요?</em></p></section>"
                 }
             }
         },
         "Ambushed": {
-            "name": "매복 공격",
-            "description": "<p>아무것도 모르는 일행을 기습하기 위해 설치된 매복.</p>",
-            "impulses": "제압, 분산, 포위",
+            "name": "매복",
+            "description": "<p>매복은 방심한 파티를 기습하기 위해 준비되어 있습니다.</p>",
+            "impulses": "압도, 흩어놓기, 포위",
             "items": {
-                "NMErq9B4NS3NSiMy": {
-                    "name": "상대적인 힘",
-                    "description": "<p>이 환경의 난이도는 적대자들 중 가장 높은 난이도를 가진 적대자의 난이도와 같습니다.</p><section class='secret' id='secret-FZokhR7CFr2tXkGn'><p><em>누가 매복 신호를 보내는가? 무엇이 그들이 우두머리임을 알려주는가?</em></p></section>"
-                },
                 "HfuVxgVidIVsapvI": {
-                    "name": "기습",
-                    "description": "<p>매복자들이 일행에게 모습을 드러내고, 당신은 공포 2점을 얻으며, 잠복 중인 적대자 한 명이 즉시 강조됩니다.</p><section id='secret-LcyhfZXPS4MD9dMC' class='secret'><p><em>매복자들은 일행에게 무엇을 원하는가? 그들의 매복 전술에 그것이 어떻게 반영되는가?</em> </p></section>",
+                    "name": "기습!",
+                    "description": "<p>매복자는 자신들을 파티에게 드러내며, 당신은 공포 2를 얻고, 주목은 즉시 매복한 적대자 중 한 명에게 넘어갑니다.</p><section id=\"secret-LcyhfZXPS4MD9dMC\" class=\"secret\"><p><em>매복자들이 파티에게 원하는 것은 무엇인가요? 그들의 매복 전술은 그것을 어떻게 드러내고 있나요?</em></p></section>",
                     "actions": {
-                        "TRSiqdwc1mYTHv4d": "<p>매복자들이 일행에게 모습을 드러내고, 당신은 공포 2점을 얻으며, 잠복 중인 적대자 한 명이 즉시 강조됩니다.</p><section id='secret-LcyhfZXPS4MD9dMC' class='secret'><p><em>매복자들은 일행에게 무엇을 원하는가? 그들의 매복 전술에 그것이 어떻게 반영되는가?</em> </p></section>"
+                        "TRSiqdwc1mYTHv4d": {
+                            "description": "<p>매복자는 자신들을 파티에게 드러내며, 당신은 공포 2를 얻고, 주목은 즉시 매복한 적대자 중 한 명에게 넘어갑니다.</p><section class=\"secret\" id=\"secret-HTrPBtn99ANW7ON7\"><p><em>매복자들이 파티에게 원하는 것은 무엇인가요? 그들의 매복 전술은 그것을 어떻게 드러내고 있나요?</em></p></section>"
+                        }
                     }
+                },
+                "NMErq9B4NS3NSiMy": {
+                    "name": "상대적 전력",
+                    "description": "<p>이 환경의 난이도는 가장 높은 난이도를 가진 적대자의 난이도와 같습니다.</p><section class=\"secret\" id=\"secret-FZokhR7CFr2tXkGn\"><p><em>누가 매복을 신호하나요? 무엇이 그들이 지휘하고 있다는 것을 분명히 보여주나요?</em></p></section>"
                 }
             }
         },
         "Ambushers": {
             "name": "매복자들",
-            "description": "<p>PC가 아무것도 모르는 적대자들을 기습하기 위해 매복을 설치합니다.</p>",
-            "impulses": "도주, 결집, 가장 약한 자 보호",
+            "description": "<p>매복은 PC가 준비하여 방심한 적대자를 기습하기 위해 설정됩니다.</p>",
+            "impulses": "도주, 집결, 가장 취약한 자 보호",
             "items": {
-                "hAGzlRjI3lpadVs7": {
-                    "name": "매복자들",
-                    "description": "<p>이 환경의 난이도는 적대자들 중 가장 높은 난이도를 가진 적대자의 난이도와 같습니다.</p><section class='secret' id='secret-zPYO0951x4IKM5FN'><p><em>가장 준비가 덜 된 적대자는 누구인가? 가장 잘 준비된 적대자는 누구인가?</em></p></section>"
-                },
                 "b6Qviz1ANG8OrAYq": {
-                    "name": "어디서 나타났는가?",
-                    "description": "<p>PC가 아무것도 모르는 적대자들에 대한 매복을 개시할 때, 당신은 공포 2점을 잃고 PC가 행하는 첫 명중 굴림에 이점를 얻습니다.</p><section class='secret' id='secret-0BW2MHYrwlL7iHiR'><p><em>매복이 시작되었을 때 적대자들은 무엇을 하고 있었는가? 이것이 그들의 전투 접근법에 어떻게 영향을 주는가?</em></p></section>",
+                    "name": "저들은 어디서 나타난 거지?",
+                    "description": "<p>PC가 방심한 적대자에게 매복을 시작하면, 당신은 공포 2를 잃고 PC가 시도하는 첫 번째 공격 굴림에 이점을 가집니다.</p><section class=\"secret\" id=\"secret-0BW2MHYrwlL7iHiR\"><p><em>매복이 시작될 때 적대자들은 무엇을 하고 있었나요? 그것이 그들의 전투 접근 방식에 어떤 영향을 미치나요?</em></p></section>",
                     "actions": {
-                        "6DKa1Pm605HpChPd": "<p>PC가 아무것도 모르는 적대자들에 대한 매복을 개시할 때, 당신은 공포 2점을 잃고 PC가 행하는 첫 명중 굴림에 이점를 얻습니다.</p><section class='secret' id='secret-0BW2MHYrwlL7iHiR'><p><em>매복이 시작되었을 때 적대자들은 무엇을 하고 있었는가? 이것이 그들의 전투 접근법에 어떻게 영향을 주는가?</em></p></section>"
+                        "6DKa1Pm605HpChPd": {
+                            "description": "<p>PC가 방심한 적대자에게 매복을 시작하면, 당신은 공포 2를 잃고 PC가 시도하는 첫 번째 공격 굴림에 이점을 가집니다.</p><section class=\"secret\" id=\"secret-WV3oLdq2IoLoSZqe\"><p><em>매복이 시작될 때 적대자들은 무엇을 하고 있었나요? 그것이 그들의 전투 접근 방식에 어떤 영향을 미치나요?</em></p></section>"
+                        }
                     }
+                },
+                "hAGzlRjI3lpadVs7": {
+                    "name": "상대적 전력",
+                    "description": "<p>이 환경의 난이도는 가장 높은 난이도를 가진 적대자의 난이도와 같습니다.</p><section class=\"secret\" id=\"secret-zPYO0951x4IKM5FN\"><p><em>어떤 적대자가 가장 준비가 덜 되었나요? 어떤 적대자가 가장 잘 준비되었나요?</em></p></section>"
                 }
             }
         },
         "Burning Heart of the Woods": {
-            "name": "불타는 숲의 심장",
-            "description": "<p>짙은 남빛 재가 우뚝 솟은 이끼 덮인 나무 주위의 공기를 가득 채우고, 그 나무는 영원히 병적인 푸른빛 불꽃에 휩싸여 있습니다.</p>",
-            "impulses": "모두가 따라야 할 섬뜩한 박자 두드리기, 숲을 타락시키기",
+            "name": "숲의 불타는 심장",
+            "description": "<p>거대한 이끼 덮인 나무를 둘러싼 공기에는 짙은 남색 재가 가득하며, 그 나무는 병든 빛깔의 푸른 불꽃에 의해 영원히 타오르고 있습니다.</p>",
+            "impulses": "모두가 따라야 할 기묘한 리듬을 울려 퍼뜨리기, 숲을 타락시키기",
             "items": {
-                "hU32a8QZy62gdLGc": {
-                    "name": "혼돈 마법의 화원",
-                    "description": "<p>PC가 주문시전 굴림을 할 때, 공포 주사위를 두 개 굴려 더 큰 결과를 취해야 합니다. </p><section id='secret-oR4iWlNQoOg4IXMr' class='secret'><p><em>혼돈에 닿은 이 장소에서 마법을 부리는 것은 어떤 느낌인가? 주문 통제력을 잃으면 무엇이 두려운가?</em></p></section>"
-                },
-                "nrwEMjdl5F86oES9": {
-                    "name": "남빛 불꽃",
-                    "description": "<p>중심 나무에 다가가는 PC는 지식 굴림을 시도하여 이 환경을 잠식한 마법의 정체를 파악할 수 있습니다. </p><ul><li><p><strong>성공 시:</strong> 아래 세부 정보 중 세 가지를 알아냅니다. 공포와 함께 성공하면 두 가지를 알아냅니다. </p></li><li><p><strong>실패 시:</strong> 스트레스를 표시하여 하나를 알아내고, 이 환경을 조사하는 다음 행동 굴림에 이점를 얻을 수 있습니다. </p></li><li><p><strong>세부 정보:</strong> 이것은 타락한 자들의 마법의 결과입니다. 부패는 잿빛 이끼를 통해 퍼집니다. 자연 마법 의식의 진행 카운트다운 (8)을 통해서만 정화할 수 있습니다.</p></li></ul><section id='secret-SkDRzA8454MaIFU3' class='secret'><p><em>어느 타락한 자들의 사교 집단이 이 숲을 망쳤는가? 그들은 이 저주받은 나무와 그 수액으로 이미 무엇을 했는가?</em></p></section>"
-                },
                 "1aOeMMX0XuDtZbbB": {
-                    "name": "움켜잡는 덩굴",
-                    "description": "<p>가시가 박힌 살아난 덩굴이 덤불에서 솟아나 PC를 속박합니다. 표적은 민첩 대응 굴림에 성공해야 하며, 그렇지 않으면 속박과 취약 상태가 되어, 기교나 근력 굴림에 성공해 두 상태를 모두 해제하거나 덩굴에 10 피해를 입히기 전까지 풀려나지 못합니다. 표적이 탈출 굴림을 할 때, <strong>1d8+4</strong> 물리 피해를 받고 희망을 잃습니다. </p><section id='secret-ysaK5Lw0DGsZsgxO' class='secret'><p><em>덩굴이 살을 꿰뚫을 때 어떤 고통스러운 기억이 떠오르는가?</em></p></section>",
+                    "name": "휘감는 덩굴",
+                    "description": "<p>가시로 뒤덮인 살아 있는 덩굴이 덤불에서 튀어나와 PC를 옭아맵니다. 대상은 민첩 대응 굴림에 성공해야 하며, 실패할 경우 <em>포박</em> 및 <em>취약</em> 상태가 되어, 기교 또는 근력 굴림에 성공하거나 덩굴에 10의 피해를 입혀야 두 상태를 모두 해제할 수 있습니다. 탈출 굴림을 시도할 때마다 대상은 <strong>1d8+4</strong>의 물리 피해를 입고 희망을 1 잃습니다.</p><section id=\"secret-ysaK5Lw0DGsZsgxO\" class=\"secret\"><p><em>덩굴이 살을 꿰뚫을 때 어떤 고통스러운 기억이 떠오르나요?</em></p></section>",
                     "actions": {
-                        "SfUlV5CL2kWJvXQX": "<p>가시가 박힌 살아난 덩굴이 덤불에서 솟아나 PC를 속박합니다. 표적은 민첩 대응 굴림에 성공해야 하며, 그렇지 않으면 속박과 취약 상태가 되어, 기교나 근력 굴림에 성공해 두 상태를 모두 해제하거나 덩굴에 10 피해를 입히기 전까지 풀려나지 못합니다. 표적이 탈출 굴림을 할 때, <strong>1d8+4</strong> 물리 피해를 받고 희망을 잃습니다. </p><section id='secret-ysaK5Lw0DGsZsgxO' class='secret'><p><em>덩굴이 살을 꿰뚫을 때 어떤 고통스러운 기억이 떠오르는가?</em></p></section>"
+                        "SfUlV5CL2kWJvXQX": {
+                            "description": "<p>가시로 뒤덮인 살아 있는 덩굴이 덤불에서 튀어나와 PC를 옭아맵니다. 대상은 민첩 대응 굴림에 성공해야 하며, 실패할 경우 <em>포박</em> 및 <em>취약</em> 상태가 되어, 기교 또는 근력 굴림에 성공하거나 덩굴에 10의 피해를 입혀야 두 상태를 모두 해제할 수 있습니다. 탈출 굴림을 시도할 때마다 대상은 <strong>1d8+4</strong>의 물리 피해를 입고 희망을 1 잃습니다.</p><section class=\"secret\" id=\"secret-MEwPtrJUdIHjgb1k\"><p><em>덩굴이 살을 꿰뚫을 때 어떤 고통스러운 기억이 떠오르나요?</em></p></section>"
+                        }
+                    },
+                    "effects": {
+                        "gCkqvBUljsOsYacB": {
+                            "name": "휘감는 덩굴",
+                            "description": "<p>기교 또는 근력 굴림에 성공하거나 덩굴에 10의 피해를 입혀야 두 상태를 모두 해제하기 전까지 <em>포박</em> 및 <em>취약</em> 상태가 됩니다. 탈출 굴림을 시도할 때마다 대상은 <strong>1d8+4</strong>의 물리 피해를 입고 희망을 1 잃습니다.</p><section id=\"secret-Eui1zx8GKoUhEXq6\" class=\"secret\"><p><em>덩굴이 살을 꿰뚫을 때 어떤 고통스러운 기억이 떠오르나요?</em></p></section>"
+                        }
                     }
                 },
                 "JKFkDvwUOP35Tsr1": {
-                    "name": "숯의 구조물",
-                    "description": "<p>남빛 불꽃에 휩싸인 일그러진 동물들이 당신이 선택한 지점을 짓밟습니다. 그 지점에서 가까운 거리 내의 모든 대상은 민첩 대응 굴림을 해야 합니다. 굴림에 실패한 대상은 <strong>3d12+3</strong> 물리 피해를 받습니다. 굴림에 성공한 대상은 절반의 피해를 받습니다.</p><p>@Template[type:emanation|range:c]</p><section class='secret' id='secret-696PMvOPzHmkdtYc'><p><em>이것들은 불꽃에 잠식된 진짜 동물인가, 아니면 부패한 마법의 구조물에 불과한가?</em></p></section>",
-                    "actions": {
-                        "gbXIaKr8em134IZC": "<p>남빛 불꽃에 휩싸인 일그러진 동물들이 당신이 선택한 지점을 짓밟습니다. 그 지점에서 가까운 거리 내의 모든 대상은 민첩 대응 굴림을 해야 합니다. 굴림에 실패한 대상은 <strong>3d12+3</strong> 물리 피해를 받습니다. 굴림에 성공한 대상은 절반의 피해를 받습니다.</p><p>@Template[type:emanation|range:c]</p><section class='secret' id='secret-696PMvOPzHmkdtYc'><p><em>이것들은 불꽃에 잠식된 진짜 동물인가, 아니면 부패한 마법의 구조물에 불과한가?</em></p></section>"
-                    }
+                    "name": "숯으로 된 피조물",
+                    "description": "<p>남색 불꽃에 뒤덮인 뒤틀린 동물들이 선택한 지점을 짓밟으며 지나갑니다. 그 지점으로부터 가까운 거리 내의 모든 대상은 민첩 대응 굴림을 해야 합니다. 실패 시 <strong>3d12+3</strong>의 물리 피해를 입으며, 성공 시 절반의 피해만 입습니다.</p><section id=\"secret-696PMvOPzHmkdtYc\" class=\"secret\"><p><em>이것들이 불꽃에 휩싸인 진짜 동물들인가요, 아니면 단지 타락한 마법이 만들어낸 피조물일까요?</em></p></section>"
+                },
+                "hU32a8QZy62gdLGc": {
+                    "name": "혼돈 마법의 중심지",
+                    "description": "<p>PC가 주문시전 굴림을 할 때, 공포 주사위 두 개를 굴리고 그 중 높은 결과를 취해야 합니다.</p><section id=\"secret-oR4iWlNQoOg4IXMr\" class=\"secret\"><p><em>혼돈에 물든 이곳에서 마법을 다루는 것은 어떤 기분일까요? 주문의 통제를 잃으면 무엇이 일어날까 두려워하시나요?</em></p></section>"
                 },
                 "kYxuTZjH7HDUGeWh": {
-                    "name": "질식의 재",
-                    "description": "<p>카운트다운 (주기 6). 캐릭터들이 불타는 숲의 심장에 들어올 때 카운트다운을 활성화합니다. 카운트다운이 발동되면 모든 캐릭터는 근력 또는 직감 대응 굴림을 해야 합니다. 굴림에 실패한 대상은 <strong>4d6+5</strong> 직접 물리 피해를 받습니다. 굴림에 성공한 대상은 절반의 피해를 받습니다. 보호 마스크나 옷은 대응 굴림에 이점를 줍니다. </p><section id='secret-qQq9TrwyjdayheMk' class='secret'><p><em>재는 어떤 환각을 일으키는가? 어울리지 않는 어떤 맛이 나는가?</em></p></section>",
+                    "name": "숨 막히는 재",
+                    "description": "<p><em>카운트다운 (반복 6).</em> PC가 이 환경에 들어서면 카운트다운을 시작합니다. 발동되면 모든 캐릭터는 근력 또는 직감 대응 굴림을 해야 합니다. 실패 시 <strong>4d6+5</strong>의 직접 물리 피해를 입으며, 성공 시 절반의 피해만 입습니다. 보호용 마스크나 옷은 대응 굴림에 이점을 제공합니다.</p><section class=\"secret\" id=\"secret-qQq9TrwyjdayheMk\"><p><em>재는 어떤 환각을 불러일으키나요? 그것은 어떤 어울리지 않는 맛을 지니고 있나요?</em></p></section>",
                     "actions": {
-                        "U9O0nh0LkdKzjIXS": "<p>카운트다운 (주기 6). 캐릭터들이 불타는 숲의 심장에 들어올 때 카운트다운을 활성화합니다. 카운트다운이 발동되면 모든 캐릭터는 근력 또는 직감 대응 굴림을 해야 합니다. 굴림에 실패한 대상은 <strong>4d6+5</strong> 직접 물리 피해를 받습니다. 굴림에 성공한 대상은 절반의 피해를 받습니다. 보호 마스크나 옷은 대응 굴림에 이점를 줍니다. </p><section id='secret-qQq9TrwyjdayheMk' class='secret'><p><em>재는 어떤 환각을 일으키는가? 어울리지 않는 어떤 맛이 나는가?</em></p></section>",
-                        "4XVdHOzycOXM5bh9": "<p>카운트다운 (주기 6). 캐릭터들이 불타는 숲의 심장에 들어올 때 카운트다운을 활성화합니다. 카운트다운이 발동되면 모든 캐릭터는 근력 또는 직감 대응 굴림을 해야 합니다. 굴림에 실패한 대상은 <strong>4d6+5</strong> 직접 물리 피해를 받습니다. 굴림에 성공한 대상은 절반의 피해를 받습니다. 보호 마스크나 옷은 대응 굴림에 이점를 줍니다. </p><section id='secret-qQq9TrwyjdayheMk' class='secret'><p><em>재는 어떤 환각을 일으키는가? 어울리지 않는 어떤 맛이 나는가?</em></p></section>"
+                        "4XVdHOzycOXM5bh9": {
+                            "description": "<p>모든 캐릭터는 근력 또는 직감 대응 굴림을 해야 합니다. 실패 시 <strong>4d6+5</strong>의 직접 물리 피해를 입으며, 성공 시 절반의 피해만 입습니다. 보호용 마스크나 옷은 대응 굴림에 이점을 제공합니다.</p><section class=\"secret\" id=\"secret-pf0x4kYIYL4CathW\"><p><em>재는 어떤 환각을 불러일으키나요? 그것은 어떤 어울리지 않는 맛을 지니고 있나요?</em></p></section>"
+                        },
+                        "3L0T97ZzTqZU6BE6": {
+                            "description": "<p><em>카운트다운 (반복 6).</em> PC가 이 환경에 들어서면 카운트다운을 시작합니다.</p>"
+                        }
                     }
+                },
+                "nrwEMjdl5F86oES9": {
+                    "name": "남색 불꽃",
+                    "description": "<p>중앙의 나무에 접근하는 PC는 지식 굴림을 통해 이 환경을 집어삼킨 마법을 파악하려 시도할 수 있습니다.</p><ul><li><p><strong>성공 시:</strong> 아래 세부 정보 중 세 가지를 알 수 있습니다. 공포로 성공할 경우, 두 가지만 알 수 있습니다.</p></li><li><p><strong>실패 시:</strong> <strong>스트레스를 표시</strong>하여 한 가지를 알 수 있으며, 이 환경을 조사하기 위한 다음 행동 굴림에 이점을 얻습니다.</p></li><li><p><strong>세부 사항:</strong> 이것은 타락자의 마법의 결과입니다. 타락은 재가 된 이끼를 통해 퍼져 나갑니다. 이는 자연 마법의 의식을 통해서만 정화될 수 있으며, 진행 카운트다운 (8)이 필요합니다.</p></li></ul><section id=\"secret-SkDRzA8454MaIFU3\" class=\"secret\"><p><em>어떤 타락자 교단이 이 숲을 타락시켰나요? 그들은 이 나무에서 나온 저주받은 목재와 수액으로 이미 무엇을 했나요?</em></p></section>"
                 }
             }
         },
         "Bustling Marketplace": {
-            "name": "활기찬 시장",
-            "description": "<p>정착지의 경제적 중심으로, 지역 장인들, 떠도는 상인들, 그리고 모든 사회 계층의 후원자들이 모이는 곳.</p>",
-            "impulses": "싸게 사고 비싸게 팔기, 멀고 가까운 곳의 상품으로 유혹하고 매혹하기",
+            "name": "분주한 시장",
+            "description": "<p>정착지의 경제적 중심지로, 현지 장인, 떠돌이 상인, 다양한 사회 계급의 손님들이 모여 있습니다.</p>",
+            "impulses": "싸게 사서 비싸게 팔기, 가까이와 멀리서 온 상품으로 유혹하고 현혹하기",
             "items": {
-                "w8YmhoWPGc66Wrx3": {
-                    "name": "저울의 무게를 기울이다",
-                    "description": "<p>캐릭터들은 상호작용 도중 금화 한 줌을 제시하여 매력 굴림에 이점를 얻을 수 있습니다. </p><section id='secret-SkvXxhBWKBtYdJaq' class='secret'><p><em>아무 동전이나 받는가, 아니면 지역 화폐만 받는가? 캐릭터들은 이 뇌물을 얼마나 공개적으로 제시하는가?</em></p></section>"
+                "56qjiKMoN6S9riI6": {
+                    "name": "손버릇",
+                    "description": "<p>한 도둑이 PC의 물건을 훔치려 합니다. PC는 직감 굴림에 성공해야 도둑을 눈치챌 수 있으며, 실패하면 GM이 선택한 아이템 하나를 잃고 도둑은 가까운 거리로 도망칩니다. 도난당한 아이템을 되찾으려면 PC들은 <em>진행 카운트다운 (6)</em>을 완수하여 도둑의 <em>결과 카운트다운 (4)</em>이 완료되어 은신처로 달아나기 전에 그를 추적해야 합니다.</p><section class=\"secret\" id=\"secret-UHBqg2AqmIAxgB15\"><p><em>이 사람은 무엇 때문에 소매치기를 하게 되었을까요? 도둑의 은신처는 어디에 있으며, 어떻게 눈에 띄지 않고 있을까요?</em></p></section>",
+                    "actions": {
+                        "GMy6OcMQnNJDDmtV": {
+                            "description": "<p>한 도둑이 PC의 물건을 훔치려 합니다. PC는 직감 굴림에 성공해야 도둑을 눈치챌 수 있으며, 실패하면 GM이 선택한 아이템 하나를 잃고 도둑은 가까운 거리로 도망칩니다.</p>"
+                        }
+                    }
                 },
                 "60uDqt9omFifZ7xd": {
                     "name": "뜻밖의 발견",
-                    "description": "<p>캐릭터들에게 한 상인이 그들이 필요로 하거나 원하는 것을 가지고 있다는 사실을 드러냅니다. 예를 들어 고향의 음식, 희귀한 책, 마법 재료, 수상한 보물 지도, 마법 열쇠 등. </p><section id='secret-vuqosTt63aXllb93' class='secret'><p><em>이 희귀품의 대가로 상인은 금화 외에 어떤 값을 요구하는가?</em></p></section>"
-                },
-                "56qjiKMoN6S9riI6": {
-                    "name": "끈적이는 손가락",
-                    "description": "<p>도둑이 캐릭터에게서 무언가를 훔치려 시도합니다. 캐릭터는 직감 굴림에 성공해 도둑을 발견하거나, 그렇지 않으면 GM이 선택한 물건을 잃고 도둑은 가까운 거리로 달아납니다. 도둑맞은 물건을 되찾으려면, 캐릭터들은 도둑이 결과 카운트다운 (4)을 완료하여 은신처로 도망치기 전에 진행 카운트다운 (6)을 완료해 따라잡아야 합니다.</p><section id='secret-UHBqg2AqmIAxgB15' class='secret'><p><em>이 사람이 소매치기를 하게 된 이유는 무엇인가? 도둑의 은신처는 어디에 있으며 어떻게 사람들의 눈을 피해 왔는가?</em></p></section>",
-                    "actions": {
-                        "GMy6OcMQnNJDDmtV": "<p>도둑이 캐릭터에게서 무언가를 훔치려 시도합니다. 캐릭터는 직감 굴림에 성공해 도둑을 발견하거나, 그렇지 않으면 GM이 선택한 물건을 잃고 도둑은 가까운 거리로 달아납니다. 도둑맞은 물건을 되찾으려면, 캐릭터들은 도둑이 결과 카운트다운 (4)을 완료하여 은신처로 도망치기 전에 진행 카운트다운 (6)을 완료해 따라잡아야 합니다.</p><section id='secret-UHBqg2AqmIAxgB15' class='secret'><p><em>이 사람이 소매치기를 하게 된 이유는 무엇인가? 도둑의 은신처는 어디에 있으며 어떻게 사람들의 눈을 피해 왔는가?</em></p></section>",
-                        "0V36HDEb9gpLubGL": "<p>도둑이 캐릭터에게서 무언가를 훔치려 시도합니다. 캐릭터는 직감 굴림에 성공해 도둑을 발견하거나, 그렇지 않으면 GM이 선택한 물건을 잃고 도둑은 가까운 거리로 달아납니다. 도둑맞은 물건을 되찾으려면, 캐릭터들은 도둑이 결과 카운트다운 (4)을 완료하여 은신처로 도망치기 전에 진행 카운트다운 (6)을 완료해 따라잡아야 합니다.</p><section id='secret-UHBqg2AqmIAxgB15' class='secret'><p><em>이 사람이 소매치기를 하게 된 이유는 무엇인가? 도둑의 은신처는 어디에 있으며 어떻게 사람들의 눈을 피해 왔는가?</em></p></section>"
-                    }
+                    "description": "<p>한 상인이 PC들이 원하거나 필요로 하는 물건을 가지고 있음을 드러냅니다. 예를 들어 고향의 음식, 희귀한 책, 마법 재료, 수상쩍은 보물 지도, 혹은 마법 열쇠 같은 것입니다.</p><section id=\"secret-vuqosTt63aXllb93\" class=\"secret\"><p><em>이 희귀한 물건을 대가로 상인은 금 이외에 무엇을 요구할까요?</em></p></section>"
                 },
                 "l2FzZpR2reVmlkdp": {
-                    "name": "조여드는 군중",
-                    "description": "<p> 캐릭터 한 명이 일행에서 떨어질 때, 군중이 움직여 일행에서 그를 떼어 놓습니다. </p><section id='secret-JECVv19GdEo8ngkq' class='secret'><p><em>군중의 흐름은 그들을 어디로 데려가는가? 혼자이지만 둘러싸인 상태에서 어떤 기분이 드는가?</em></p></section>"
+                    "name": "몰려드는 군중",
+                    "description": "<p>한 PC가 무리에서 떨어지면, 군중이 움직이며 그를 파티와 갈라놓습니다.</p><section id=\"secret-JECVv19GdEo8ngkq\" class=\"secret\"><p><em>군중의 움직임은 그를 어디로 끌고 갈까요? 홀로 떨어져 있지만 둘러싸인 상황에서 어떤 기분이 들까요?</em></p></section>"
+                },
+                "w8YmhoWPGc66Wrx3": {
+                    "name": "저울을 기울이기",
+                    "description": "<p>PC는 상호작용의 일부로 한 줌의 금화를 건네면 매력 굴림에 이점을 얻을 수 있습니다.</p><section id=\"secret-SkvXxhBWKBtYdJaq\" class=\"secret\"><p><em>모든 화폐가 받아들여질까요, 아니면 현지 화폐만 인정될까요? PC들은 이 뇌물을 얼마나 대놓고 건네나요?</em></p></section>"
                 }
             }
         },
         "Castle Siege": {
-            "name": "성 공성전",
-            "description": "<p>요새화된 성으로 진입하기 위해 공격군이 싸우는, 진행 중인 공성전.</p>",
-            "impulses": "싸울 의지 꺾기, 성벽 돌파, 긴장 고조",
+            "name": "성채 공성전",
+            "description": "<p>공격군이 요새화된 성에 진입하기 위해 싸우는 진행 중인 공성전입니다.</p>",
+            "impulses": "전투 의지를 소진시키기, 성벽 돌파, 긴장 고조",
             "items": {
                 "2qUw5c3e22eywSwg": {
                     "name": "비밀 입구",
-                    "description": "<p>캐릭터는 직감 또는 지식 굴림에 성공하여 성으로 들어가는 비밀 통로를 찾거나 떠올릴 수 있습니다.</p><section id='secret-6U0wYxm3kM3G7mAX' class='secret'><p><em>그들은 공격자들에게 통로를 드러내지 않고 어떻게 안으로 들어가는가? 수비대 중 이 통로를 감시하는 자가 있는가?</em></p></section>"
-                },
-                "eSTq8Y0v4Dwd13XU": {
-                    "name": "공성 무기 (환경 변경)",
-                    "description": "<p>결과 카운트다운 (6). 공격군이 수비군의 방어 시설을 무너뜨리기 위해 공성 무기를 배치합니다. 공성전이 시작될 때 카운트다운을 활성화합니다(장기 공성전이라면 장기 카운트다운으로 설정). 카운트다운이 발동되면 수비군의 방어 시설이 뚫리고 공격자들이 안으로 쏟아져 들어옵니다. 당신은 공포 2점을 얻고, 그 후 「격전」 환경으로 전환하여 그것을 강조합니다. </p><section id='secret-P5oJplxVBVJGtggb' class='secret'><p><em>어떤 공성 무기가 사용되는가? 그것들은 마법적인가, 일반적인가, 아니면 혼합되어 있는가? 캐릭터들이 성을 습격하기 위해 극복해야 할 장애물은 무엇인가?</em></p></section>",
-                    "actions": {
-                        "F89TDp557TJ1vvgm": "<p>결과 카운트다운 (6). 공격군이 수비군의 방어 시설을 무너뜨리기 위해 공성 무기를 배치합니다. 공성전이 시작될 때 카운트다운을 활성화합니다(장기 공성전이라면 장기 카운트다운으로 설정). 카운트다운이 발동되면 수비군의 방어 시설이 뚫리고 공격자들이 안으로 쏟아져 들어옵니다. 당신은 공포 2점을 얻고, 그 후 「격전」 환경으로 전환하여 그것을 강조합니다. </p><section id='secret-P5oJplxVBVJGtggb' class='secret'><p><em>어떤 공성 무기가 사용되는가? 그것들은 마법적인가, 일반적인가, 아니면 혼합되어 있는가? 캐릭터들이 성을 습격하기 위해 극복해야 할 장애물은 무엇인가?</em></p></section>",
-                        "TGWI1Kvw4ZEP3QEo": "<p>결과 카운트다운 (6). 공격군이 수비군의 방어 시설을 무너뜨리기 위해 공성 무기를 배치합니다. 공성전이 시작될 때 카운트다운을 활성화합니다(장기 공성전이라면 장기 카운트다운으로 설정). 카운트다운이 발동되면 수비군의 방어 시설이 뚫리고 공격자들이 안으로 쏟아져 들어옵니다. 당신은 공포 2점을 얻고, 그 후 「격전」 환경으로 전환하여 그것을 강조합니다. </p><section id='secret-P5oJplxVBVJGtggb' class='secret'><p><em>어떤 공성 무기가 사용되는가? 그것들은 마법적인가, 일반적인가, 아니면 혼합되어 있는가? 캐릭터들이 성을 습격하기 위해 극복해야 할 장애물은 무엇인가?</em></p></section>"
-                    }
+                    "description": "<p>PC는 직감 또는 지식 굴림에 성공하여 이 환경으로 통하는 비밀 통로를 찾거나 기억해낼 수 있습니다.</p><section id=\"secret-6U0wYxm3kM3G7mAX\" class=\"secret\"><p><em>어떻게 공격군에게 들키지 않고 이 통로를 통해 들어갈 수 있을까요? 방어군 중 누군가가 이 길을 감시하고 있나요?</em></p></section>"
                 },
                 "U59K0WKVjwbgzMZU": {
-                    "name": "지원군!",
-                    "description": "<p>지원군으로 @UUID[Compendium.daggerheart.adversaries.Actor.7ai2opemrclQe3VF]{왕국의 기사}, PC 수만큼의 3등급 미니언, 그리고 당신이 선택한 적대자 둘을 선택한 PC로부터 먼 거리 내에 소환합니다. 왕국의 기사는 즉시 강조됩니다. </p><section id='secret-qYx1WuL81hHF5XW8' class='secret'><p><em>그들은 누구를 먼저 공격하는가? 어떤 진형을 취하는가?</em></p></section>"
+                    "name": "증원군!",
+                    "description": "<p>@UUID[Compendium.daggerheart.adversaries.Actor.7ai2opemrclQe3VF]{왕국의 기사} 1명, PC 수와 동일한 수의 티어 3 졸개, 그리고 선택한 PC로부터 먼 거리 내에 당신이 선택한 적대자 2명을 증원으로 소환합니다. 왕국의 기사는 즉시 주목을 받습니다.</p><section id=\"secret-qYx1WuL81hHF5XW8\" class=\"secret\"><p><em>그들은 누구를 먼저 노리나요? 어떤 진형을 취하나요?</em></p></section>"
                 },
                 "bemKmwjBtbEFVWXM": {
                     "name": "부수적 피해",
-                    "description": "<p>적대자가 쓰러질 때, 당신은 <strong>공포를 소비</strong>하여 무작위 공성 무기 공격이 전장의 한 지점에 떨어지게 할 수 있습니다. 그 지점에서 매우 가까운 거리 내의 모든 대상은 민첩 대응 굴림을 해야 합니다. </p><p>@Template[type:circle|range:vc]</p><ul><li><p>실패한 대상은 <strong>3d8+3</strong> 물리 또는 마법 피해를 받고 스트레스를 표시해야 합니다. </p></li><li><p>성공한 대상은 스트레스를 표시해야 합니다.</p></li></ul><section id='secret-JdhetLsgL626ouo7' class='secret'><p><em>공격으로 어떤 잔해가 흩날리는가? 일격으로 무엇이 부서져 쉽게 고칠 수 없게 되는가?</em></p></section>",
+                    "description": "<p>적대자가 패배할 때, 당신은 <strong>공포를 소모</strong>하여 공성 무기의 빗나간 공격이 전장의 한 지점을 강타하게 할 수 있습니다. 해당 지점에서 매우 가까운 거리 내의 모든 대상은 민첩 대응 굴림을 해야 합니다.</p><ul><li><p>실패한 대상은 <strong>3d8+3</strong>의 물리 또는 마법 피해를 입고 <strong>스트레스를 표시</strong>해야 합니다.</p></li><li><p>성공한 대상도 <strong>스트레스를 표시</strong>해야 합니다.</p></li></ul><section id=\"secret-JdhetLsgL626ouo7\" class=\"secret\"><p><em>그 공격으로 어떤 잔해가 흩날리나요? 쉽게 수리될 수 없는 무엇이 파괴되나요?</em></p></section>",
                     "actions": {
-                        "r5JN5oFYL5DC6Qqw": "<p>적대자가 쓰러질 때, 당신은 <strong>공포를 소비</strong>하여 무작위 공성 무기 공격이 전장의 한 지점에 떨어지게 할 수 있습니다. 그 지점에서 매우 가까운 거리 내의 모든 대상은 민첩 대응 굴림을 해야 합니다. </p><p>@Template[type:circle|range:vc]</p><ul><li><p>실패한 대상은 <strong>3d8+3</strong> 물리 또는 마법 피해를 받고 스트레스를 표시해야 합니다. </p></li><li><p>성공한 대상은 스트레스를 표시해야 합니다.</p></li></ul><section id='secret-JdhetLsgL626ouo7' class='secret'><p><em>공격으로 어떤 잔해가 흩날리는가? 일격으로 무엇이 부서져 쉽게 고칠 수 없게 되는가?</em></p></section>"
+                        "r5JN5oFYL5DC6Qqw": {
+                            "description": "<p>적대자가 패배할 때, 당신은 <strong>공포를 소모</strong>하여 공성 무기의 빗나간 공격이 전장의 한 지점을 강타하게 할 수 있습니다. 해당 지점에서 매우 가까운 거리 내의 모든 대상은 민첩 대응 굴림을 해야 합니다.</p><ul><li><p>실패한 대상은 <strong>3d8+3</strong>의 물리 또는 마법 피해를 입고 <strong>스트레스를 표시</strong>해야 합니다.</p></li><li><p>성공한 대상도 <strong>스트레스를 표시</strong>해야 합니다.</p></li></ul><section id=\"secret-qe1DM7HUSefRAplk\" class=\"secret\"><p><em>그 공격으로 어떤 잔해가 흩날리나요? 쉽게 수리될 수 없는 무엇이 파괴되나요?</em></p></section>"
+                        }
+                    }
+                },
+                "eSTq8Y0v4Dwd13XU": {
+                    "name": "공성 무기 (환경 변화)",
+                    "description": "<p><em>결과 카운트다운(6).</em> 공격군은 방어군의 요새를 무너뜨리기 위해 공성 무기를 배치합니다. 공성이 시작되면 카운트다운을 시작합니다(장기 공성일 경우 장기 카운트다운으로 전환). 발동되면 방어군의 요새가 돌파되고 공격군이 안으로 밀려듭니다. 당신은 공포 2를 얻고, 이어서 환경을 총력전으로 전환하며 그것을 주목합니다.</p><section class=\"secret\" id=\"secret-P5oJplxVBVJGtggb\"><p><em>어떤 공성 무기들이 배치되고 있나요? 그것들은 마법적인가요, 평범한가요, 아니면 둘이 섞여 있나요? 성을 돌파하려면 캐릭터들은 어떤 방어를 뚫어야 할까요?</em></p></section>",
+                    "actions": {
+                        "TGWI1Kvw4ZEP3QEo": {
+                            "description": "<p>방어군의 요새가 돌파되고 공격군이 안으로 밀려듭니다. 당신은 공포 2를 얻고, 이어서 환경을 총력전으로 전환하며 그것을 주목합니다.</p>"
+                        },
+                        "udKS3ME8VKuayEyO": {
+                            "description": "<p><em>결과 카운트다운(6).</em> 공격군은 방어군의 요새를 무너뜨리기 위해 공성 무기를 배치합니다. 공성이 시작되면 카운트다운을 시작합니다(장기 공성일 경우 장기 카운트다운으로 전환).</p>"
+                        }
                     }
                 }
             }
         },
         "Chaos Realm": {
-            "name": "혼돈의 영역",
-            "description": "<p>현실의 법칙이 불안정하고 위험한 이세계의 공간.</p>",
-            "impulses": "확실성 파괴, 힘 흡수, 논리에 도전",
+            "name": "혼돈 영역",
+            "description": "<p>현실의 법칙이 불안정하고 위험하게 뒤틀려 있는 이세계적 공간입니다.</p>",
+            "impulses": "확실성을 말소하기, 힘을 집어삼키기, 논리를 거스르기",
             "items": {
-                "yXCBy1MQuh5GwH5Q": {
-                    "name": "불가능한 건축물",
-                    "description": "<p>위가 아래이고, 아래가 오른쪽이며, 오른쪽이 별을 향합니다. 중력과 방향성 자체가 끊임없이 변화하며, 이 영역을 가로지르려는 어떤 시도도 그 자체로 오디세이가 되어 진행 카운트다운 (8)을 필요로 합니다. 실패 시 PC는 굴림의 다른 결과에 더해 스트레스를 표시해야 합니다. </p><section id='secret-j76pJfYX7Cbt61Pq' class='secret'><p><em>유한자의 영역과 너무도 이질적인 공간에서 움직인다는 것은 어떤 느낌인가? 균형을 유지하기 위해 어떤 기준점이나 지점에 고정하는가? 여정에서 어떤 기묘한 이정표를 지나치는가?</em></p></section>",
-                    "actions": {
-                        "hli84bleKqYoU7YL": "<p>위가 아래이고, 아래가 오른쪽이며, 오른쪽이 별을 향합니다. 중력과 방향성 자체가 끊임없이 변화하며, 이 영역을 가로지르려는 어떤 시도도 그 자체로 오디세이가 되어 진행 카운트다운 (8)을 필요로 합니다. 실패 시 PC는 굴림의 다른 결과에 더해 스트레스를 표시해야 합니다. </p><section id='secret-j76pJfYX7Cbt61Pq' class='secret'><p><em>유한자의 영역과 너무도 이질적인 공간에서 움직인다는 것은 어떤 느낌인가? 균형을 유지하기 위해 어떤 기준점이나 지점에 고정하는가? 여정에서 어떤 기묘한 이정표를 지나치는가?</em></p></section>"
-                    }
-                },
                 "0OYHJZqT0DlVz5be": {
-                    "name": "당신이 가진 모든 것, 이 장소가 빼앗으리라",
-                    "description": "<p>카운트다운 (주기 1d4). 카운트다운을 활성화합니다. 발동되면 모든 PC는 매력 대응 굴림에 성공해야 하며, 그렇지 않으면 가장 높은 능력치가 일시적으로 [[/r 1d4]]만큼 감소합니다. 단, 능력치 값과 같은 양의 스트레스를 표시하면 이를 피할 수 있습니다. 잃은 능력치 점수는 PC가 치명적 성공 성공을 거두거나 혼돈의 영역을 떠나면 회복됩니다. </p><section id='secret-uG9quQrfVqBYix6p' class='secret'><p><em>이 장소는 당신을 전설적으로 만드는 것을 어떻게 훔치려 하는가? 그 힘을 빼앗기는 것은 어떤 느낌인가?</em></p></section>",
+                    "name": "너의 모든 것을 이곳이 빼앗으리라",
+                    "description": "<p><em>카운트다운 (반복 1d4).</em> 카운트다운을 시작합니다. 발동되면, 모든 PC는 매력 대응 굴림에 성공해야 하며, 실패 시 가장 높은 특성이 일시적으로 [[/r 1d4]] 감소하거나, 그렇지 않으려면 해당 수치만큼 <strong>스트레스를 표시</strong>해야 합니다. 감소된 특성치는 PC가 치명적 성공을 하거나 혼돈 영역을 벗어나면 회복됩니다.</p><section class=\"secret\" id=\"secret-uG9quQrfVqBYix6p\"><p><em>이곳은 당신을 전설적으로 만드는 그 본질을 어떻게 빼앗으려 하나요? 그 힘을 잃는 것은 어떤 기분일까요?</em></p></section>",
                     "actions": {
-                        "IexEUqnefrcD0VCz": "<p>카운트다운 (주기 1d4). 카운트다운을 활성화합니다. 발동되면 모든 PC는 매력 대응 굴림에 성공해야 하며, 그렇지 않으면 가장 높은 능력치가 일시적으로 [[/r 1d4]]만큼 감소합니다. 단, 능력치 값과 같은 양의 스트레스를 표시하면 이를 피할 수 있습니다. 잃은 능력치 점수는 PC가 치명적 성공 성공을 거두거나 혼돈의 영역을 떠나면 회복됩니다. </p><section id='secret-uG9quQrfVqBYix6p' class='secret'><p><em>이 장소는 당신을 전설적으로 만드는 것을 어떻게 훔치려 하는가? 그 힘을 빼앗기는 것은 어떤 느낌인가?</em></p></section>",
-                        "zOQMo13vSiX3QReJ": "<p>카운트다운 (주기 1d4). 카운트다운을 활성화합니다. 발동되면 모든 PC는 매력 대응 굴림에 성공해야 하며, 그렇지 않으면 가장 높은 능력치가 일시적으로 [[/r 1d4]]만큼 감소합니다. 단, 능력치 값과 같은 양의 스트레스를 표시하면 이를 피할 수 있습니다. 잃은 능력치 점수는 PC가 치명적 성공 성공을 거두거나 혼돈의 영역을 떠나면 회복됩니다. </p><section id='secret-uG9quQrfVqBYix6p' class='secret'><p><em>이 장소는 당신을 전설적으로 만드는 것을 어떻게 훔치려 하는가? 그 힘을 빼앗기는 것은 어떤 느낌인가?</em></p></section>"
-                    }
-                },
-                "RNbAdBZM6gDNaRPn": {
-                    "name": "파괴",
-                    "description": "<p><strong>공포를 소비</strong>하여 PC가 근력 대응 굴림을 하게 합니다. 실패 시 그들은 <strong>4d10</strong> 직접 마법 피해를 받습니다. 성공 시 그들은 스트레스를 표시해야 합니다. </p><section id='secret-HGAS3UaO0JcUPdlT' class='secret'><p><em>이 장소가 당신을 파괴하려 할 때 다른 세계의 어떤 단편을 포착하는가? 파괴는 당신 정체성의 어떤 핵심을 지우려 하는가?</em></p></section>",
-                    "actions": {
-                        "6AT7qvUE6I6eVHU8": "<p><strong>공포를 소비</strong>하여 PC가 근력 대응 굴림을 하게 합니다. 실패 시 그들은 <strong>4d10</strong> 직접 마법 피해를 받습니다. 성공 시 그들은 스트레스를 표시해야 합니다. </p><section id='secret-HGAS3UaO0JcUPdlT' class='secret'><p><em>이 장소가 당신을 파괴하려 할 때 다른 세계의 어떤 단편을 포착하는가? 파괴는 당신 정체성의 어떤 핵심을 지우려 하는가?</em></p></section>"
-                    }
-                },
-                "SZpUJeJETVQtZwae": {
-                    "name": "바깥 영역의 사냥꾼들",
-                    "description": "<p><strong>공포를 소비</strong>하여 @UUID[Compendium.daggerheart.adversaries.Actor.A0SeeDzwjvqOsyof]{바깥 영역의 흉물}, @UUID[Compendium.daggerheart.adversaries.Actor.ms6nuOl3NFkhPj1k]{바깥 영역의 부패자}, 그리고 [[/r 2d6]] 마리의 @UUID[Compendium.daggerheart.adversaries.Actor.moJhHgKqTKPS2WYS]{바깥 영역의 노예}를 소환합니다. 이들은 논리와 인과를 거슬러 선택한 PC로부터 가까운 거리 내에 나타납니다. 이 적대자들 중 하나를 즉시 강조하고, 추가 공포를 소비하여 그 적대자의 표준 공격을 자동으로 성공시킬 수 있습니다.</p><section class='secret' id='secret-psXRRXLoibTKFpaW'><p><em>이 괴물들이 살아 있는 살을 쫓을 때 무너진 세계에서 반쯤 먹다 남긴 어떤 잔해를 흘리는가? 무자비한 악의의 순간들 사이에서 이전 자아의 어떤 들쭉날쭉한 잔재가 보이는가?</em></p></section>",
-                    "actions": {
-                        "5a8ESNroEQHAm7rO": "<p><strong>공포를 소비</strong>하여 @UUID[Compendium.daggerheart.adversaries.Actor.A0SeeDzwjvqOsyof]{바깥 영역의 흉물}, @UUID[Compendium.daggerheart.adversaries.Actor.ms6nuOl3NFkhPj1k]{바깥 영역의 부패자}, 그리고 [[/r 2d6]] 마리의 @UUID[Compendium.daggerheart.adversaries.Actor.moJhHgKqTKPS2WYS]{바깥 영역의 노예}를 소환합니다. 이들은 논리와 인과를 거슬러 선택한 PC로부터 가까운 거리 내에 나타납니다. 이 적대자들 중 하나를 즉시 강조하고, 추가 공포를 소비하여 그 적대자의 표준 공격을 자동으로 성공시킬 수 있습니다.</p><section class='secret' id='secret-psXRRXLoibTKFpaW'><p><em>이 괴물들이 살아 있는 살을 쫓을 때 무너진 세계에서 반쯤 먹다 남긴 어떤 잔해를 흘리는가? 무자비한 악의의 순간들 사이에서 이전 자아의 어떤 들쭉날쭉한 잔재가 보이는가?</em></p></section>"
+                        "zOQMo13vSiX3QReJ": {
+                            "description": "<p>모든 PC는 매력 대응 굴림에 성공해야 하며, 실패 시 가장 높은 특성이 일시적으로 [[/r 1d4]] 감소하거나, 그렇지 않으려면 해당 수치만큼 <strong>스트레스를 표시</strong>해야 합니다. 감소된 특성치는 PC가 치명적 성공을 하거나 혼돈 영역을 벗어나면 회복됩니다.</p><section class=\"secret\" id=\"secret-nXjHVXTDY3UzkRVb\"><p><em>이곳은 당신을 전설적으로 만드는 그 본질을 어떻게 빼앗으려 하나요? 그 힘을 잃는 것은 어떤 기분일까요?</em></p></section>"
+                        },
+                        "FxAFpgPbGcmi3nlh": {
+                            "description": "<p><em>카운트다운 (반복 1d4).</em> 카운트다운을 시작합니다.</p>"
+                        }
                     }
                 },
                 "MyIh4CJsDnkjmeYs": {
-                    "name": "혼란의 현실",
-                    "description": "<p>공포와 함께한 결과 시, 당신은 PC에게 혼돈의 영역이 그들에게 무너지고 재구성되는 현실의 환영 속에서 어떤 두려움을 불러일으키는지 묘사하도록 요청할 수 있습니다. PC는 희망을 잃습니다. 그것이 마지막 희망이라면, 당신은 공포를 얻습니다. </p><section id='secret-0TIAabOXzWKwGdZ4' class='secret'><p><em>그들은 어떤 순간을 보는가? 만약 기억이라면, 이 장소는 그것을 어떻게 왜곡하는가? 진짜 기억을 붙드는 것이 얼마나 어려운가?</em></p></section>",
+                    "name": "혼란스러운 현실",
+                    "description": "<p>공포 결과가 나오면, GM은 PC에게 혼돈 영역이 불러낸 두려움이 무엇인지 묻습니다. 이때 현실이 붕괴하고 다시 구성되는 환영이 PC 앞에 펼쳐집니다. PC는 희망을 1 잃습니다. 그것이 마지막 희망일 경우, 당신은 공포를 1 얻습니다.</p><section id=\"secret-0TIAabOXzWKwGdZ4\" class=\"secret\"><p><em>그들은 어떤 순간을 보나요? 그것이 기억이라면, 이곳은 그것을 어떻게 왜곡하나요? 진짜 기억을 붙잡고 있는 것은 얼마나 힘든가요?</em></p></section>",
                     "actions": {
-                        "YIOvMuMMML7WeMWs": "<p>공포와 함께한 결과 시, 당신은 PC에게 혼돈의 영역이 그들에게 무너지고 재구성되는 현실의 환영 속에서 어떤 두려움을 불러일으키는지 묘사하도록 요청할 수 있습니다. PC는 희망을 잃습니다. 그것이 마지막 희망이라면, 당신은 공포를 얻습니다. </p><section id='secret-0TIAabOXzWKwGdZ4' class='secret'><p><em>그들은 어떤 순간을 보는가? 만약 기억이라면, 이 장소는 그것을 어떻게 왜곡하는가? 진짜 기억을 붙드는 것이 얼마나 어려운가?</em></p></section>"
+                        "YIOvMuMMML7WeMWs": {
+                            "description": "<p>공포 결과가 나오면, GM은 PC에게 혼돈 영역이 불러낸 두려움이 무엇인지 묻습니다. 이때 현실이 붕괴하고 다시 구성되는 환영이 PC 앞에 펼쳐집니다. PC는 희망을 1 잃습니다. 그것이 마지막 희망일 경우, 당신은 공포를 1 얻습니다.</p><section class=\"secret\" id=\"secret-2PNCQTvkwRTu3IYz\"><p><em>그들은 어떤 순간을 보나요? 그것이 기억이라면, 이곳은 그것을 어떻게 왜곡하나요? 진짜 기억을 붙잡고 있는 것은 얼마나 힘든가요?</em></p></section>"
+                        }
+                    }
+                },
+                "RNbAdBZM6gDNaRPn": {
+                    "name": "소멸시키기",
+                    "description": "<p><strong>공포를 소모</strong>하여 한 PC에게 근력 대응 굴림을 강제합니다. 실패 시 <strong>4d10</strong>의 직접 마법 피해를 입으며, 성공 시 <strong>스트레스를 표시</strong>해야 합니다.</p><section id=\"secret-HGAS3UaO0JcUPdlT\" class=\"secret\"><p><em>이곳이 당신을 소멸시키려 할 때, 어떤 다른 세계의 단편을 엿보나요? 소멸은 당신 성격의 어떤 핵심을 지워내려 하나요?</em></p></section>",
+                    "actions": {
+                        "6AT7qvUE6I6eVHU8": {
+                            "description": "<p><strong>공포를 소모</strong>하여 한 PC에게 근력 대응 굴림을 강제합니다. 실패 시 <strong>4d10</strong>의 직접 마법 피해를 입으며, 성공 시 <strong>스트레스를 표시</strong>해야 합니다.</p><section class=\"secret\" id=\"secret-ycMBQOJJjDI4wEwK\"><p><em>이곳이 당신을 소멸시키려 할 때, 어떤 다른 세계의 단편을 엿보나요? 소멸은 당신 성격의 어떤 핵심을 지워내려 하나요?</em></p></section>"
+                        }
+                    }
+                },
+                "SZpUJeJETVQtZwae": {
+                    "name": "외차원의 포식자",
+                    "description": "<p><strong>공포를 소모</strong>하여 @UUID[Compendium.daggerheart.adversaries.Actor.A0SeeDzwjvqOsyof]{외차원의 흉물}, @UUID[Compendium.daggerheart.adversaries.Actor.ms6nuOl3NFkhPj1k]{외차원의 타락자}, 그리고 [[/r 2d6]]명의 @UUID[Compendium.daggerheart.adversaries.Actor.moJhHgKqTKPS2WYS]{외차원의 노예}를 소환합니다. 그들은 선택된 PC로부터 가까운 거리 내에 논리와 인과를 거슬러 나타납니다. 즉시 이들 중 하나의 적대자에게 주목이 넘어가며, <strong>추가로 공포를 소모</strong>하여 그 적대자의 기본 공격을 자동으로 성공시킬 수 있습니다.</p><section class=\"secret\" id=\"secret-psXRRXLoibTKFpaW\"><p><em>살아 있는 육신을 뒤쫓는 동안 이 괴물들이 내던지는 부서진 세계의 반쯤 삼켜진 잔해는 무엇인가요? 무조건적인 악의의 순간들 사이에서, 그들의 옛 인격의 찢겨진 잔영을 포착할 수 있나요?</em></p></section>"
+                },
+                "yXCBy1MQuh5GwH5Q": {
+                    "name": "불가능한 건축",
+                    "description": "<p>위는 아래이고, 아래는 오른쪽이며, 오른쪽은 별을 향합니다. 중력과 방향성 자체가 끊임없이 요동치며, 이 영역을 이동하려는 모든 시도는 그 자체로 모험이 되어 <em>진행 카운트다운 (8)</em>이 필요합니다. 실패 시, PC는 굴림의 다른 결과에 더해 <strong>스트레스를 표시</strong>해야 합니다.</p><section class=\"secret\" id=\"secret-j76pJfYX7Cbt61Pq\"><p><em>이토록 이계적인 공간에서 이동하는 것은 어떤 기분일까요? 균형을 유지하기 위해 어떤 지형지물이나 지점을 응시하나요? 여정을 따라가며 어떤 기묘한 표지들을 지나치나요?</em></p></section>",
+                    "actions": {
+                        "hli84bleKqYoU7YL": {
+                            "description": "<p>실패 시, PC는 굴림의 다른 결과에 더해 <strong>스트레스를 표시</strong>해야 합니다.</p>"
+                        },
+                        "uZgtjZJVCedm93aJ": {
+                            "description": "<p>위는 아래이고, 아래는 오른쪽이며, 오른쪽은 별을 향합니다. 중력과 방향성 자체가 끊임없이 요동치며, 이 영역을 이동하려는 모든 시도는 그 자체로 모험이 되어 <em>진행 카운트다운 (8)</em>이 필요합니다.</p><section class=\"secret\" id=\"secret-rsf1tT4N3HBDgKna\"><p><em>이토록 이계적인 공간에서 이동하는 것은 어떤 기분일까요? 균형을 유지하기 위해 어떤 지형지물이나 지점을 응시하나요? 여정을 따라가며 어떤 기묘한 표지들을 지나치나요?</em></p></section>"
+                        }
                     }
                 }
             }
         },
         "Cliffside Ascent": {
-            "name": "절벽 등반",
-            "description": "<p>가파르고 험준한 절벽으로, 이동을 위험하게 만들 만큼 충분히 높습니다.</p>",
-            "impulses": "준비되지 않은 자들을 바위 위로 떨어뜨리기, 정상에 있는 것의 약속으로 사람들을 끌어들이기",
+            "name": "절벽 오르기",
+            "description": "<p>가파르고 바위투성이인 절벽으로, 오르기가 위험할 만큼 높습니다.</p>",
+            "impulses": "준비되지 않은 자를 돌무덤으로 떨어뜨리기, 정상에 무엇인가가 있다는 약속으로 사람들을 끌어올리기",
             "items": {
+                "EP4FXeQqbqFGQoIX": {
+                    "name": "추락",
+                    "description": "<p><strong>공포를 소모</strong>하여 PC가 손을 디딘 곳이 부러지게 하고, 지면으로 추락시킵니다. 다음 행동에서 구출되지 못하면, 그는 땅에 떨어지고 카운트다운이 2칸 올라갑니다. 이때 PC는 카운트다운이 8-12일 경우 <strong>1d12</strong> 물리 피해, 4-7일 경우 <strong>2d12</strong>, 3 이하일 경우 <strong>3d12</strong> 물리 피해를 입습니다.</p><section class=\"secret\" id=\"secret-M5AEA24dk07O00FA\"><p><em>많은 이들이 이미 이곳에서 떨어졌다는 것을 어떻게 알 수 있을까요? 이 벽 안에는 어떤 존재가 살며, 모험가들을 겁주어 떨어뜨려 손쉬운 먹잇감으로 삼으려 할까요?</em></p></section>",
+                    "actions": {
+                        "M8MfD2qBfYCwNKvH": {
+                            "description": "<p><strong>공포를 소모</strong>하여 PC가 손을 디딘 곳이 부러지게 하고, 지면으로 추락시킵니다. 다음 행동에서 구출되지 못하면, 그는 땅에 떨어지고 카운트다운이 2칸 올라갑니다. 이때 PC는 카운트다운이 8-12일 경우 <strong>1d12</strong> 물리 피해, 4-7일 경우 <strong>2d12</strong>, 3 이하일 경우 <strong>3d12</strong> 물리 피해를 입습니다.</p><section class=\"secret\" id=\"secret-ufZ6ifPWxU4MkKow\"><p><em>많은 이들이 이미 이곳에서 떨어졌다는 것을 어떻게 알 수 있을까요? 이 벽 안에는 어떤 존재가 살며, 모험가들을 겁주어 떨어뜨려 손쉬운 먹잇감으로 삼으려 할까요?</em></p></section>"
+                        }
+                    }
+                },
                 "bKBwM72OwVnlsHG6": {
                     "name": "등반",
-                    "description": "<p>수직 절벽 등반은 진행 카운트다운 (12)을 사용합니다. 캐릭터들이 등반 행동 굴림을 할 때 다음 기준에 따라 감소합니다: </p><ul><li><p><strong>치명적 성공 성공</strong>: 3 감소</p></li><li><p><strong>희망과 함께 성공</strong>: 2 감소</p></li><li><p><strong>공포와 함께 성공</strong>: 1 감소</p></li><li><p><strong>희망과 함께 실패</strong>: 진행 없음</p></li><li><p><strong>공포와 함께 실패</strong>: 1 증가</p></li></ul><p>카운트다운이 완료되면 일행은 절벽 정상에 도달합니다.</p><section id='secret-TUIXsJs6D65YsP9f' class='secret'><p><em>바위는 어떤 기묘한 형태로 솟아 있는가? 이전 모험가들이 남긴 불길한 경고는 무엇인가?</em></p></section>",
+                    "description": "<p>절벽을 오르는 것은 <em>진행 카운트다운 (12)</em>을 사용합니다. PC가 오르기 위해 행동 굴림을 할 때, 다음 기준에 따라 카운트다운이 줄어듭니다:</p><ul><li><p><strong>치명적 성공</strong>: 3칸 줄이기</p></li><li><p><strong>희망으로 성공</strong>: 2칸 줄이기</p></li><li><p><strong>공포로 성공</strong>: 1칸 줄이기</p></li><li><p><strong>희망으로 실패</strong>: 진척 없음</p></li><li><p><strong>공포로 실패</strong>: 1칸 올리기</p></li></ul><p>카운트다운이 완료되면, 파티는 절벽 정상에 도달한 것입니다.</p><section class=\"secret\" id=\"secret-TUIXsJs6D65YsP9f\"><p><em>돌들은 어떤 기묘한 형태로 배열되어 있나요? 이전 모험가들은 어떤 불길한 경고를 남겼나요?</em></p></section>",
                     "actions": {
-                        "6GVdM7pIOpieLRA8": "<p>수직 절벽 등반은 진행 카운트다운 (12)을 사용합니다. 캐릭터들이 등반 행동 굴림을 할 때 다음 기준에 따라 감소합니다: </p><ul><li><p><strong>치명적 성공 성공</strong>: 3 감소</p></li><li><p><strong>희망과 함께 성공</strong>: 2 감소</p></li><li><p><strong>공포와 함께 성공</strong>: 1 감소</p></li><li><p><strong>희망과 함께 실패</strong>: 진행 없음</p></li><li><p><strong>공포와 함께 실패</strong>: 1 증가</p></li></ul><p>카운트다운이 완료되면 일행은 절벽 정상에 도달합니다.</p><section id='secret-TUIXsJs6D65YsP9f' class='secret'><p><em>바위는 어떤 기묘한 형태로 솟아 있는가? 이전 모험가들이 남긴 불길한 경고는 무엇인가?</em></p></section>"
+                        "TMEBwqlfvL3mb3hQ": {
+                            "description": "<p>절벽을 오르는 것은 <em>진행 카운트다운 (12)</em>을 사용합니다. PC가 오르기 위해 행동 굴림을 할 때, 다음 기준에 따라 카운트다운이 줄어듭니다:</p><ul><li><p><strong>치명적 성공</strong>: 3칸 줄이기</p></li><li><p><strong>희망으로 성공</strong>: 2칸 줄이기</p></li><li><p><strong>공포로 성공</strong>: 1칸 줄이기</p></li><li><p><strong>희망으로 실패</strong>: 진척 없음</p></li><li><p><strong>공포로 실패</strong>: 1칸 올리기</p></li></ul><p>카운트다운이 완료되면, 파티는 절벽 정상에 도달한 것입니다.</p><section class=\"secret\" id=\"secret-5teov2eI5kV1P3LD\"><p><em>돌들은 어떤 기묘한 형태로 배열되어 있나요? 이전 모험가들은 어떤 불길한 경고를 남겼나요?</em></p></section>"
+                        }
                     }
                 },
                 "t8ZbtlGiYC8MKqqu": {
                     "name": "남겨진 피톤",
-                    "description": "<p>이전 등반가들이 등반에 도움이 되는 큰 금속 막대들을 남겨 두었습니다. 피톤을 사용하는 캐릭터가 등반 행동 굴림에 실패하면, 카운트다운을 증가시키는 대신 <strong>스트레스를 표시</strong>할 수 있습니다.</p><section class='secret' id='secret-qk9dYgHaJUBCtFBR'><p><em>이 피톤들의 형태와 재료는 이전 등반가들에 대해 무엇을 말해주는가? 그것들은 얼마나 멀리 떨어져 박혀 있는가?</em></p></section>",
+                    "description": "<p>이전 등반자들이 남긴 큰 금속 막대(피톤)들이 있어, 등반자들이 이를 사용하여 오르기를 돕습니다. PC가 피톤을 사용해 등반 행동 굴림에 실패할 경우, 카운트다운을 올리는 대신 <strong>스트레스를 표시</strong>할 수 있습니다.</p><section class=\"secret\" id=\"secret-qk9dYgHaJUBCtFBR\"><p><em>이 피톤들의 모양과 재질은 이전 등반자들에 대해 무엇을 알려주나요? 피톤들은 서로 얼마나 떨어져 있나요?</em></p></section>",
                     "actions": {
-                        "p1UiGEiGyl6r7PrA": "<p>이전 등반가들이 등반에 도움이 되는 큰 금속 막대들을 남겨 두었습니다. 피톤을 사용하는 캐릭터가 등반 행동 굴림에 실패하면, 카운트다운을 증가시키는 대신 <strong>스트레스를 표시</strong>할 수 있습니다.</p><section class='secret' id='secret-qk9dYgHaJUBCtFBR'><p><em>이 피톤들의 형태와 재료는 이전 등반가들에 대해 무엇을 말해주는가? 그것들은 얼마나 멀리 떨어져 박혀 있는가?</em></p></section>"
-                    }
-                },
-                "EP4FXeQqbqFGQoIX": {
-                    "name": "추락",
-                    "description": "<p>공포를 소비하여 캐릭터의 지지대가 끊어져 아래로 추락하게 합니다. 다음 행동에서 구조되지 않으면, 그는 땅에 부딪혀 카운트다운을 2만큼 증가시킵니다. 카운트다운이 8~12 사이일 때는 <strong>1d12</strong>, 4~7 사이일 때는 <strong>2d12</strong>, 3 이하일 때는 <strong>3d12</strong>의 물리 피해를 받습니다.</p><section class='secret' id='secret-M5AEA24dk07O00FA'><p><em>이곳에서 이미 많은 이들이 떨어졌음을 어떻게 알 수 있는가? 이 절벽 안에는 모험가들을 겁주어 떨어뜨려 손쉬운 먹잇감으로 삼으려는 무엇이 살고 있는가?</em></p></section>",
-                    "actions": {
-                        "LVEPUPIAJJMiCtbV": "<p>공포를 소비하여 캐릭터의 지지대가 끊어져 아래로 추락하게 합니다. 다음 행동에서 구조되지 않으면, 그는 땅에 부딪혀 카운트다운을 2만큼 증가시킵니다. 카운트다운이 8~12 사이일 때는 <strong>1d12</strong>, 4~7 사이일 때는 <strong>2d12</strong>, 3 이하일 때는 <strong>3d12</strong>의 물리 피해를 받습니다.</p><section class='secret' id='secret-M5AEA24dk07O00FA'><p><em>이곳에서 이미 많은 이들이 떨어졌음을 어떻게 알 수 있는가? 이 절벽 안에는 모험가들을 겁주어 떨어뜨려 손쉬운 먹잇감으로 삼으려는 무엇이 살고 있는가?</em></p></section>",
-                        "F9B1uVeil6z1ZWoz": "<p>공포를 소비하여 캐릭터의 지지대가 끊어져 아래로 추락하게 합니다. 다음 행동에서 구조되지 않으면, 그는 땅에 부딪혀 카운트다운을 2만큼 증가시킵니다. 카운트다운이 8~12 사이일 때는 <strong>1d12</strong>, 4~7 사이일 때는 <strong>2d12</strong>, 3 이하일 때는 <strong>3d12</strong>의 물리 피해를 받습니다.</p><section class='secret' id='secret-M5AEA24dk07O00FA'><p><em>이곳에서 이미 많은 이들이 떨어졌음을 어떻게 알 수 있는가? 이 절벽 안에는 모험가들을 겁주어 떨어뜨려 손쉬운 먹잇감으로 삼으려는 무엇이 살고 있는가?</em></p></section>",
-                        "gx8HEZvgf3yO9WOp": "<p>공포를 소비하여 캐릭터의 지지대가 끊어져 아래로 추락하게 합니다. 다음 행동에서 구조되지 않으면, 그는 땅에 부딪혀 카운트다운을 2만큼 증가시킵니다. 카운트다운이 8~12 사이일 때는 <strong>1d12</strong>, 4~7 사이일 때는 <strong>2d12</strong>, 3 이하일 때는 <strong>3d12</strong>의 물리 피해를 받습니다.</p><section class='secret' id='secret-M5AEA24dk07O00FA'><p><em>이곳에서 이미 많은 이들이 떨어졌음을 어떻게 알 수 있는가? 이 절벽 안에는 모험가들을 겁주어 떨어뜨려 손쉬운 먹잇감으로 삼으려는 무엇이 살고 있는가?</em></p></section>",
-                        "M8MfD2qBfYCwNKvH": "<p>공포를 소비하여 캐릭터의 지지대가 끊어져 아래로 추락하게 합니다. 다음 행동에서 구조되지 않으면, 그는 땅에 부딪혀 카운트다운을 2만큼 증가시킵니다. 카운트다운이 8~12 사이일 때는 <strong>1d12</strong>, 4~7 사이일 때는 <strong>2d12</strong>, 3 이하일 때는 <strong>3d12</strong>의 물리 피해를 받습니다.</p><section class='secret' id='secret-M5AEA24dk07O00FA'><p><em>이곳에서 이미 많은 이들이 떨어졌음을 어떻게 알 수 있는가? 이 절벽 안에는 모험가들을 겁주어 떨어뜨려 손쉬운 먹잇감으로 삼으려는 무엇이 살고 있는가?</em></p></section>"
+                        "p1UiGEiGyl6r7PrA": {
+                            "description": "<p>이전 등반자들이 남긴 큰 금속 막대(피톤)들이 있어, 등반자들이 이를 사용하여 오르기를 돕습니다. PC가 피톤을 사용해 등반 행동 굴림에 실패할 경우, 카운트다운을 올리는 대신 <strong>스트레스를 표시</strong>할 수 있습니다.</p><section class=\"secret\" id=\"secret-fWHkzBQAxCLDmV6H\"><p><em>이 피톤들의 모양과 재질은 이전 등반자들에 대해 무엇을 알려주나요? 피톤들은 서로 얼마나 떨어져 있나요?</em></p></section>"
+                        }
                     }
                 }
             }
         },
         "Cult Ritual": {
-            "name": "사교 의식",
-            "description": "<p>타락한 사교가 패배한 신들의 상징과 병적인 녹색 빛깔로 타오르는 모닥불 주위에 모여 있습니다.</p>",
-            "impulses": "땅을 더럽히기, 유한자의 영역을 하계와 결합시키기",
+            "name": "교단 의식",
+            "description": "<p>패배한 신들의 인장을 둘러싸고, 병든 듯한 초록 불길이 타오르는 모닥불 곁에 타락자 교단이 모여듭니다.</p>",
+            "impulses": "땅을 모독하기, 필멸계와 지하의 권역들을 합치기",
             "items": {
-                "iiHjguQG2aBn9g8i": {
-                    "name": "더럽혀진 땅",
-                    "description": "<p>사교도들은 이 장소를 타락한 신들에게 바쳤고, 그 사악한 영향이 이곳에 스며들었습니다. 이 환경에 있는 동안 캐릭터의 희망 주사위를 d10으로 감소시킵니다. 진행 카운트다운 (6)을 통해 오염을 제거할 수 있습니다.</p><section class='secret' id='secret-iPgKjrXJYw4cy0EX'><p><em>캐릭터들은 이곳이 무언가 잘못되었음을 어떻게 처음으로 깨닫는가? 희망이 거리를 두는 동안 어떤 두려움이 떠오르는가?</em></p></section>"
-                },
                 "0Rgqw1kUPeJ11ldd": {
                     "name": "신성모독의 힘",
-                    "description": "<p>의식의 힘 일부가 침입자들과 맞서기 위해 사교 일원에게 전달됩니다. 장면이 끝나거나 그가 쓰러질 때까지 끔찍한 마법으로 채워진 적대자 한 명을 선택합니다. 채워진 적대자는 즉시 강조되며, 다음 이점 중 하나를 얻거나, 당신이 <strong>공포를 소비</strong>하면 세 가지 모두를 얻습니다:</p><ul><li><p>모든 공격에 이점를 얻습니다.</p></li><li><p>성공한 공격에 추가 <strong>1d10</strong> 피해를 입힙니다.</p></li><li><p>다음 기능을 얻습니다: <strong>불굴 (2) - 수동</strong>. 이 적대자는 GM 차례에 두 번까지 강조될 수 있습니다. 평소처럼 공포를 소비하여 강조하세요.</p></li></ul><section class='secret' id='secret-600LhfEy1uNSxWdJ'><p><em>적대자의 외모는 어떻게 변하는가? 그들의 공격은 어떤 두려움을 불러일으키는가?</p></section>",
+                    "description": "<p>의식의 힘 일부가 교단 구성원에게 주입되어 침입자들을 막아냅니다. 적대자 하나를 선택하여 장면이 끝나거나 쓰러질 때까지 끔찍한 마법으로 강화시킵니다. 강화된 적대자는 즉시 주목을 받으며 다음 중 한 가지 혜택을 얻습니다(<strong>공포를 소모</strong>하면 세 가지 모두 얻습니다):</p><ul><li><p>모든 명중 굴림에 이점을 얻습니다.</p></li><li><p>성공한 공격에 추가로 <strong>1d10</strong> 피해를 줍니다.</p></li><li><p>다음 기능을 얻습니다: <strong>집요함 (2) - 상시:</strong> GM의 차례마다 최대 2번까지 주목 받을 수 있습니다. 일반적인 경우처럼 <strong>공포를 소모</strong>하여 주목 할 수 있습니다.</p></li></ul><section class=\"secret\" id=\"secret-600LhfEy1uNSxWdJ\"><p><em>적대자의 모습은 어떻게 변하나요? 그들의 일격은 어떤 두려움을 되살아나게 하나요?</em></p></section>",
                     "actions": {
-                        "EATw4ZkcuGeDfgLZ": "<p>의식의 힘 일부가 침입자들과 맞서기 위해 사교 일원에게 전달됩니다. 장면이 끝나거나 그가 쓰러질 때까지 끔찍한 마법으로 채워진 적대자 한 명을 선택합니다. 채워진 적대자는 즉시 강조되며, 다음 이점 중 하나를 얻거나, 당신이 <strong>공포를 소비</strong>하면 세 가지 모두를 얻습니다:</p><ul><li><p>모든 공격에 이점를 얻습니다.</p></li><li><p>성공한 공격에 추가 <strong>1d10</strong> 피해를 입힙니다.</p></li><li><p>다음 기능을 얻습니다: <strong>불굴 (2) - 수동</strong>. 이 적대자는 GM 차례에 두 번까지 강조될 수 있습니다. 평소처럼 공포를 소비하여 강조하세요.</p></li></ul><section class='secret' id='secret-600LhfEy1uNSxWdJ'><p><em>적대자의 외모는 어떻게 변하는가? 그들의 공격은 어떤 두려움을 불러일으키는가?</p></section>"
+                        "EATw4ZkcuGeDfgLZ": {
+                            "description": "<p>의식의 힘 일부가 교단 구성원에게 주입되어 침입자들을 막아냅니다. 적대자 하나를 선택하여 장면이 끝나거나 쓰러질 때까지 끔찍한 마법으로 강화시킵니다. 강화된 적대자는 즉시 주목을 받으며 다음 중 한 가지 혜택을 얻습니다(<strong>공포를 소모</strong>하면 세 가지 모두 얻습니다):</p><ul><li><p>모든 명중 굴림에 이점을 얻습니다.</p></li><li><p>성공한 공격에 추가로 <strong>1d10</strong> 피해를 줍니다.</p></li><li><p>다음 기능을 얻습니다: <strong>집요함 (2) - 상시:</strong> GM의 차례마다 최대 2번까지 주목 받을 수 있습니다. 일반적인 경우처럼 <strong>공포를 소모</strong>하여 주목 할 수 있습니다.</p></li></ul><section class=\"secret\" id=\"secret-5wFIFufzFAPrIDaq\"><p><em>적대자의 모습은 어떻게 변하나요? 그들의 일격은 어떤 두려움을 되살아나게 하나요?</em></p></section>"
+                        }
+                    },
+                    "effects": {
+                        "Hxw5lXE77bGzuaOu": {
+                            "name": "신성모독의 힘"
+                        },
+                        "dYQBQq1xIysM0qLo": {
+                            "name": "신성모독의 힘",
+                            "description": "<p>강화된 적대자는 즉시 주목을 받으며 다음 중 한 가지 혜택을 얻습니다(<strong>공포를 소모</strong>하면 세 가지 모두 얻습니다):</p><ul><li><p>모든 명중 굴림에 이점을 얻습니다.</p></li><li><p>성공한 공격에 추가로 <strong>1d10</strong> 피해를 줍니다.</p></li><li><p>다음 기능을 얻습니다: <strong>집요함 (2) - 상시:</strong> GM의 차례마다 최대 2번까지 주목 받을 수 있습니다. 일반적인 경우처럼 <strong>공포를 소모</strong>하여 주목 할 수 있습니다.</p></li></ul><section class=\"secret\" id=\"secret-YOHA68Na64uXDAxu\"><p><em>적대자의 모습은 어떻게 변하나요? 그들의 일격은 어떤 두려움을 되살아나게 하나요?</em></p></section>"
+                        }
+                    }
+                },
+                "WltEUhtYwfnX8WCc": {
+                    "name": "의식 완수",
+                    "description": "<p>의식의 지도자가 공격이나 주문의 대상이 될 경우, 매우 가까운 거리 내 안에 있는 아군 하나가 <strong>스트레스를 표시</strong>하고 대신 그 공격이나 주문의 대상이 될 수 있습니다.</p><section id=\"secret-4QYQNJKFywfwkGGp\" class=\"secret\"><p><em>그토록 헌신적인 신앙심이 두려움과 지배의 추구로 뒤틀린 것을 보는 것은 어떤 기분일까요?</em></p></section>"
+                },
+                "iiHjguQG2aBn9g8i": {
+                    "name": "모독된 땅",
+                    "description": "<p>교단은 이 장소를 타락한 신들에게 봉헌했으며, 그 사악한 영향이 이곳에 스며들었습니다. 이 환경에서 PC의 희망 주사위는 <strong>d10</strong>으로 줄어듭니다. 모독은 <strong>진행 카운트다운 (6)</strong>을 통해 제거할 수 있습니다.</p><section class=\"secret\" id=\"secret-iPgKjrXJYw4cy0EX\"><p><em>PC들은 처음에 어떻게 이곳이 잘못되었음을 눈치채나요? 희망이 억눌리는 동안 어떤 두려움이 되살아나나요?</em></p></section>",
+                    "effects": {
+                        "8yNIw8Y7rfMdOqWC": {
+                            "name": "모독된 땅",
+                            "description": "<p>모독된 땅에 있는 동안 당신의 희망 주사위는 d10으로 줄어듭니다.</p>"
+                        }
                     }
                 },
                 "oFfu3hUhp4ta4qwT": {
                     "name": "소환",
-                    "description": "<p>카운트다운 (6). PC가 장면에 들어오거나 사교가 악마 소환 의식을 시작할 때 카운트다운을 활성화합니다. 의식을 이끌 적대자 한 명을 지정합니다. PC가 공포와 함께 주사위를 굴릴 때 카운트다운이 진행됩니다. 카운트다운이 발동되면 의식 지도자로부터 매우 가까운 거리 내에 작은 악마를 소환합니다. 지도자가 쓰러지면 의식이 실패하여 카운트다운은 효과 없이 끝납니다.</p><section class='secret' id='secret-OXdRqIZ0R8wGn3Gm'><p><em>사교가 성공한다면, 이 묶인 악마로 무엇을 할 것인가? 그들은 다음에 무엇을 소환하려 하는가?</em></p></section>"
-                },
-                "WltEUhtYwfnX8WCc": {
-                    "name": "의식을 끝까지",
-                    "description": "<p>의식 지도자가 공격이나 주문의 대상이 될 때, 그로부터 매우 가까운 거리 내의 동료는 <strong>스트레스를 표시</strong>하여 그 대신 그 공격이나 주문의 대상이 될 수 있습니다. </p><section id='secret-4QYQNJKFywfwkGGp' class='secret'><p><em>두려움과 지배의 추구로 향한 그러한 헌신을 보는 것은 어떤 느낌인가?</em></p></section>"
+                    "description": "<p><em>카운트다운 (6).</em> PC가 장면에 들어서거나 교단이 악마 소환 의식을 시작하면 카운트다운을 시작합니다. 적대자 하나를 지정하여 의식을 주도하게 합니다. PC가 공포로 굴림할 때마다 카운트다운이 줄어듭니다. 발동되면, 의식의 지도자로부터 매우 가까운 거리 내에 @UUID[Compendium.daggerheart.adversaries.Actor.3tqCjDwJAQ7JKqMb]{하급 악마}가 소환됩니다. 지도자가 쓰러지면 카운트다운은 효과 없이 종료되며 의식은 실패합니다.</p><section class=\"secret\" id=\"secret-OXdRqIZ0R8wGn3Gm\"><p><em>교단이 성공한다면 이 묶인 악마를 어떻게 사용할까요? 그들은 다음에 무엇을 소환하려 할까요?</em></p></section>",
+                    "actions": {
+                        "bUIfzuWd1VfiV8sc": {
+                            "description": "<p><em>카운트다운 (6).</em> PC가 장면에 들어서거나 교단이 악마 소환 의식을 시작하면 카운트다운을 시작합니다. 적대자 하나를 지정하여 의식을 주도하게 합니다. PC가 공포로 굴림할 때마다 카운트다운이 줄어듭니다.</p>"
+                        }
+                    }
                 }
             }
         },
         "Divine Usurpation": {
             "name": "신성 찬탈",
-            "description": "<p>높은 성소의 문을 뚫고 새로운 신들 자체를 끌어내리기 위한 대규모 의식.</p>",
-            "impulses": "힘 모으기, 진압, 반대 의견 잠재우기",
+            "description": "<p>천상의 성소의 문을 부수고 신들을 끌어내리기 위해 고안된 거대한 의식입니다.</p>",
+            "impulses": "힘을 모으기, 위압하기, 반대 세력 침묵시키기",
             "items": {
-                "IHLJjpOQyWjmCLAL": {
-                    "name": "마지막 준비",
-                    "description": "<p>이 환경이 처음 강조될 때, 신들을 끌어내리려는 찬탈자로 적대자 한 명을 지정합니다. 찬탈자가 의식 수행에 필요한 모든 것을 모으는 동안 장기 카운트다운 (8)을 활성화합니다. 카운트다운이 발동되면 이 환경을 강조하여 「종말의 시작」 기능을 사용합니다. 이 환경이 게임에 남아 있는 동안 당신은 공포를 15점까지 보관할 수 있습니다. </p><section id='secret-5ezbFLP3BnyqQPov' class='secret'><p><em>찬탈자에게 또 무엇이 필요한가: 상위 세라핌의 심장? 고대 차원문의 돌? 두 숙적의 충성? 순수한 영혼의 부서진 눈물?</em></p></section>",
+                "AJdG1krRvixBFCZG": {
+                    "name": "끝의 시작",
+                    "description": "<p>“최종 준비” 장기 카운트다운이 발동되면, 찬탈자가 성역의 문을 직접 두드리기 시작합니다. 신성한 공성 카운트다운 (10)을 활성화합니다. 찬탈자에게 주목을 옮겨 그의 공격을 묘사하고 카운트다운을 1칸 줄입니다. 찬탈자가 중대한 피해 이상의 손상을 입으면 카운트다운을 1칸 올립니다. 발동되면 찬탈자가 필멸계와 위 성역 사이의 장벽을 부수고 신들을 살해하며 그 자리를 차지합니다. 찬탈자의 남은 HP 칸마다 당신은 공포 1을 얻습니다. 추가로, 공포를 소모하지 않고 즉시 “신살자” 기능을 사용하여 추가 GM 동작을 취할 수 있습니다.</p><section class=\"secret\" id=\"secret-eVeMBBA7aAZgn9FO\"><p><em>자연 질서가 파괴될 때 필멸계는 어떻게 몸부림치나요? 어떤 필멸자들이 멀리서 이 신성 모독을 목격하나요?</em></p></section>",
                     "actions": {
-                        "pnAJNmZApL1Acsj1": "<p>이 환경이 처음 강조될 때, 신들을 끌어내리려는 찬탈자로 적대자 한 명을 지정합니다. 찬탈자가 의식 수행에 필요한 모든 것을 모으는 동안 장기 카운트다운 (8)을 활성화합니다. 카운트다운이 발동되면 이 환경을 강조하여 「종말의 시작」 기능을 사용합니다. 이 환경이 게임에 남아 있는 동안 당신은 공포를 15점까지 보관할 수 있습니다. </p><section id='secret-5ezbFLP3BnyqQPov' class='secret'><p><em>찬탈자에게 또 무엇이 필요한가: 상위 세라핌의 심장? 고대 차원문의 돌? 두 숙적의 충성? 순수한 영혼의 부서진 눈물?</em></p></section>",
-                        "UMGyEHdQhYXyGEss": "<p>이 환경이 처음 강조될 때, 신들을 끌어내리려는 찬탈자로 적대자 한 명을 지정합니다. 찬탈자가 의식 수행에 필요한 모든 것을 모으는 동안 장기 카운트다운 (8)을 활성화합니다. 카운트다운이 발동되면 이 환경을 강조하여 「종말의 시작」 기능을 사용합니다. 이 환경이 게임에 남아 있는 동안 당신은 공포를 15점까지 보관할 수 있습니다. </p><section id='secret-5ezbFLP3BnyqQPov' class='secret'><p><em>찬탈자에게 또 무엇이 필요한가: 상위 세라핌의 심장? 고대 차원문의 돌? 두 숙적의 충성? 순수한 영혼의 부서진 눈물?</em></p></section>"
-                    }
-                },
-                "fA2wVTxpDPaTlP9v": {
-                    "name": "신성한 축복",
-                    "description": "<p>PC가 치명적 성공 성공을 거둘 때, 희망 2점을 소비하여 보통 사용 횟수에 제한이 있는 능력(예: 휴식당 1회, 세션당 1회)을 갱신할 수 있습니다. </p><section id='secret-IRlwaXlRxPqtJ6eg' class='secret'><p><em>이 찬탈에 맞서 싸우는 당신에게 어느 신이 호의를 보이는가? 새로워진 힘은 그들의 영향을 어떻게 반영하는가?</em></p></section>"
-                },
-                "OWUM3eFiZrIn0Bjd": {
-                    "name": "수많은 오염자",
-                    "description": "<p><strong>공포 2점을 소비</strong>하여 [[/r 1d4+2]] 마리의 @UUID[Compendium.daggerheart.adversaries.Actor.OsLG2BjaEdTZUJU9]{타락한 충격 부대}를 소환합니다. 그들은 찬탈자의 신성한 공성을 돕기 위해 찬탈자로부터 가까운 거리 내에 나타납니다. 충격 부대를 즉시 강조하여 「집단 공격」 행동을 사용하게 합니다.</p><section class='secret' id='secret-QJHdwGNSuTgS59gn'><p><em>이 부대는 어느 상위 타락자에게 봉사하는가? 그들은 누구의 살을 탐하는가?</em></p></section>",
-                    "actions": {
-                        "qIQTEO5t72xFtKYI": "<p><strong>공포 2점을 소비</strong>하여 [[/r 1d4+2]] 마리의 @UUID[Compendium.daggerheart.adversaries.Actor.OsLG2BjaEdTZUJU9]{타락한 충격 부대}를 소환합니다. 그들은 찬탈자의 신성한 공성을 돕기 위해 찬탈자로부터 가까운 거리 내에 나타납니다. 충격 부대를 즉시 강조하여 「집단 공격」 행동을 사용하게 합니다.</p><section class='secret' id='secret-QJHdwGNSuTgS59gn'><p><em>이 부대는 어느 상위 타락자에게 봉사하는가? 그들은 누구의 살을 탐하는가?</em></p></section>"
+                        "N83u4SKOlCfLvdYI": {
+                            "description": "<p>찬탈자가 필멸계와 위 성역 사이의 장벽을 부수고 신들을 살해하며 그 자리를 차지합니다. 찬탈자의 남은 HP 칸마다 당신은 공포 1을 얻습니다. 추가로, 공포를 소모하지 않고 즉시 “신살자” 기능을 사용하여 추가 GM 동작을 취할 수 있습니다.</p>"
+                        },
+                        "KNWpWnJboRIaZ3Yu": {
+                            "description": "<p>“최종 준비” 장기 카운트다운이 발동되면, 찬탈자가 성역의 문을 직접 두드리기 시작합니다. 신성한 공성 카운트다운 (10)을 활성화합니다. 찬탈자에게 주목을 옮겨 그의 공격을 묘사하고 카운트다운을 1칸 줄입니다. 찬탈자가 중대한 피해 이상의 손상을 입으면 카운트다운을 1칸 올립니다.</p><section class=\"secret\" id=\"secret-u7mt9OivMXWU5s3S\"><p><em>자연 질서가 파괴될 때 필멸계는 어떻게 몸부림치나요? 어떤 필멸자들이 멀리서 이 신성 모독을 목격하나요?</em></p></section>"
+                        }
                     }
                 },
                 "CL3wPZNOtw6m5WVT": {
                     "name": "신살자",
-                    "description": "<p>신성한 공성 카운트다운(「종말의 시작」 참조)이 발동되었다면, 당신은 <strong>공포 3점을 소비</strong>하여 찬탈자가 높은 성소의 신들 중 하나를 죽이고 그 힘을 먹어 더 강해지는 모습을 묘사할 수 있습니다. 찬탈자는 HP 2점을 회복합니다. 그의 난이도, 피해, 공격 수정치를 증가시키거나 죽인 신에게서 새 기능을 부여하세요. </p><section id='secret-OIyf1RZFfLopuMlg' class='secret'><p><em>어느 신이 종말을 맞이하는가? 그의 마지막 말은 무엇인가? 찬탈자의 새로 훔친 힘은 어떻게 발현되는가?</em></p></section>",
+                    "description": "<p>신성한 공성 카운트다운(“끝의 시작” 참조)이 발동되었을 경우, <strong>공포 3을 소모</strong>하여 찬탈자가 위 성역의 신들 중 하나를 살해하고, 그 힘을 흡수해 강력해지는 것을 묘사할 수 있습니다. 찬탈자는 HP 2를 회복합니다. 또한 난이도, 피해량, 공격 수정치를 증가시키거나, 죽은 신으로부터 새로운 기능을 얻습니다.</p><section id=\"secret-OIyf1RZFfLopuMlg\" class=\"secret\"><p><em>어느 신이 최후를 맞이하나요? 그들의 마지막 말은 무엇인가요? 찬탈자가 훔친 새로운 힘은 어떻게 드러나나요?</em></p></section>",
                     "actions": {
-                        "hwQsng6Kt8pQBD3Z": "<p>신성한 공성 카운트다운(「종말의 시작」 참조)이 발동되었다면, 당신은 <strong>공포 3점을 소비</strong>하여 찬탈자가 높은 성소의 신들 중 하나를 죽이고 그 힘을 먹어 더 강해지는 모습을 묘사할 수 있습니다. 찬탈자는 HP 2점을 회복합니다. 그의 난이도, 피해, 공격 수정치를 증가시키거나 죽인 신에게서 새 기능을 부여하세요. </p><section id='secret-OIyf1RZFfLopuMlg' class='secret'><p><em>어느 신이 종말을 맞이하는가? 그의 마지막 말은 무엇인가? 찬탈자의 새로 훔친 힘은 어떻게 발현되는가?</em></p></section>"
-                    }
-                },
-                "AJdG1krRvixBFCZG": {
-                    "name": "종말의 시작",
-                    "description": "<p>「마지막 준비」의 장기 카운트다운이 발동되면, 찬탈자는 성소의 문을 두드리기 시작합니다. 신성한 공성 카운트다운 (10)을 활성화합니다. 찬탈자를 강조하여 그의 공격을 묘사하고 이 카운트다운을 1만큼 감소시킵니다. 찬탈자가 심각한 피해 이상을 입으면 카운트다운을 1만큼 증가시킵니다. 카운트다운이 발동되면, 찬탈자는 신들을 죽이고 그들의 자리를 차지하기 위해 유한자의 영역과 높은 성소 사이의 장벽을 부숩니다. 당신은 찬탈자의 표시되지 않은 HP 하나당 공포 1점을 얻습니다. 추가 GM 차례를 진행하기 위해 공포를 소비하지 않고 즉시 「신살자」 능력을 사용할 수 있습니다. </p><section id='secret-eVeMBBA7aAZgn9FO' class='secret'><p><em>자연의 질서가 깨질 때 유한자의 영역은 어떻게 몸부림치는가? 어떤 유한자가 멀리서 이 신성모독을 지켜보는가?</em></p></section>",
-                    "actions": {
-                        "lUTJqI8Z9AR7t4B2": "<p>「마지막 준비」의 장기 카운트다운이 발동되면, 찬탈자는 성소의 문을 두드리기 시작합니다. 신성한 공성 카운트다운 (10)을 활성화합니다. 찬탈자를 강조하여 그의 공격을 묘사하고 이 카운트다운을 1만큼 감소시킵니다. 찬탈자가 심각한 피해 이상을 입으면 카운트다운을 1만큼 증가시킵니다. 카운트다운이 발동되면, 찬탈자는 신들을 죽이고 그들의 자리를 차지하기 위해 유한자의 영역과 높은 성소 사이의 장벽을 부숩니다. 당신은 찬탈자의 표시되지 않은 HP 하나당 공포 1점을 얻습니다. 추가 GM 차례를 진행하기 위해 공포를 소비하지 않고 즉시 「신살자」 능력을 사용할 수 있습니다. </p><section id='secret-eVeMBBA7aAZgn9FO' class='secret'><p><em>자연의 질서가 깨질 때 유한자의 영역은 어떻게 몸부림치는가? 어떤 유한자가 멀리서 이 신성모독을 지켜보는가?</em></p></section>",
-                        "N83u4SKOlCfLvdYI": "<p>「마지막 준비」의 장기 카운트다운이 발동되면, 찬탈자는 성소의 문을 두드리기 시작합니다. 신성한 공성 카운트다운 (10)을 활성화합니다. 찬탈자를 강조하여 그의 공격을 묘사하고 이 카운트다운을 1만큼 감소시킵니다. 찬탈자가 심각한 피해 이상을 입으면 카운트다운을 1만큼 증가시킵니다. 카운트다운이 발동되면, 찬탈자는 신들을 죽이고 그들의 자리를 차지하기 위해 유한자의 영역과 높은 성소 사이의 장벽을 부숩니다. 당신은 찬탈자의 표시되지 않은 HP 하나당 공포 1점을 얻습니다. 추가 GM 차례를 진행하기 위해 공포를 소비하지 않고 즉시 「신살자」 능력을 사용할 수 있습니다. </p><section id='secret-eVeMBBA7aAZgn9FO' class='secret'><p><em>자연의 질서가 깨질 때 유한자의 영역은 어떻게 몸부림치는가? 어떤 유한자가 멀리서 이 신성모독을 지켜보는가?</em></p></section>"
+                        "hwQsng6Kt8pQBD3Z": {
+                            "description": "<p>신성한 공성 카운트다운(“끝의 시작” 참조)이 발동되었을 경우, <strong>공포 3을 소모</strong>하여 찬탈자가 위 성역의 신들 중 하나를 살해하고, 그 힘을 흡수해 강력해지는 것을 묘사할 수 있습니다. 찬탈자는 HP 2를 회복합니다. 또한 난이도, 피해량, 공격 수정치를 증가시키거나, 죽은 신으로부터 새로운 기능을 얻습니다.</p><section class=\"secret\" id=\"secret-SDqxukOa9Sz8zbGZ\"><p><em>어느 신이 최후를 맞이하나요? 그들의 마지막 말은 무엇인가요? 찬탈자가 훔친 새로운 힘은 어떻게 드러나나요?</em></p></section>"
+                        }
+                    },
+                    "effects": {
+                        "i3KYskkA9D4GHbXi": {
+                            "name": "신살자",
+                            "description": "<p>난이도, 피해량, 공격 수정치를 증가시키거나, 죽은 신으로부터 새로운 기능을 얻습니다.</p><section class=\"secret\" id=\"secret-BLw5aVqkkCtUQXnk\"><p><em>어느 신이 최후를 맞이하나요? 그들의 마지막 말은 무엇인가요? 찬탈자가 훔친 새로운 힘은 어떻게 드러나나요?</em></p></section>"
+                        },
+                        "znFFS76Nopwb8Yi7": {
+                            "name": "신살자"
+                        }
                     }
                 },
                 "GUAo44cJCnS1GE9p": {
-                    "name": "의식의 결절점",
-                    "description": "<p>찬탈자에 대한 굴림이 공포와 함께 실패할 때마다, PC는 마법 힘의 반동으로 <strong>1d4</strong>의 스트레스를 표시해야 합니다. </p><section id='secret-FROwYRDYLwvnn2lH' class='secret'><p><em>당신의 노력이 결실을 맺지 못할 때 어떤 과거 실패의 환영이 당신을 괴롭히는가? 그 기억들은 찬탈자에 의해 어떻게 왜곡되는가?</em></p></section>",
+                    "name": "의식의 결절",
+                    "description": "<p>찬탈자에게 공포로 실패할 경우, PC는 마법적 힘의 반동으로 <strong>1d4 스트레스를 표시</strong>해야 합니다.</p><section id=\"secret-FROwYRDYLwvnn2lH\" class=\"secret\"><p><em>당신의 노력이 부족할 때, 과거의 어떤 실패의 환영이 당신을 괴롭히나요? 찬탈자는 이 기억들을 어떻게 왜곡하나요?</em></p></section>",
                     "actions": {
-                        "9qXDsVnWI436IWEk": "<p>찬탈자에 대한 굴림이 공포와 함께 실패할 때마다, PC는 마법 힘의 반동으로 <strong>1d4</strong>의 스트레스를 표시해야 합니다. </p><section id='secret-FROwYRDYLwvnn2lH' class='secret'><p><em>당신의 노력이 결실을 맺지 못할 때 어떤 과거 실패의 환영이 당신을 괴롭히는가? 그 기억들은 찬탈자에 의해 어떻게 왜곡되는가?</em></p></section>"
+                        "9qXDsVnWI436IWEk": {
+                            "description": "<p>찬탈자에게 공포로 실패할 경우, PC는 마법적 힘의 반동으로 <strong>1d4 스트레스를 표시</strong>해야 합니다.</p><section class=\"secret\" id=\"secret-ysZhGlH7LtJS0qua\"><p><em>당신의 노력이 부족할 때, 과거의 어떤 실패의 환영이 당신을 괴롭히나요? 찬탈자는 이 기억들을 어떻게 왜곡하나요?</em></p></section>"
+                        }
                     }
+                },
+                "IHLJjpOQyWjmCLAL": {
+                    "name": "최종 준비",
+                    "description": "<p>이 환경이 처음 주목을 받을 때, 신들을 끌어내리려는 찬탈자 적대자 하나를 지정합니다. 찬탈자가 의식을 수행하기 위해 필요한 것을 모으는 동안 장기 카운트다운 (8)을 활성화합니다. 발동되면 이 환경에 주목하여 “끝의 시작” 기능을 사용합니다. 이 환경이 유지되는 동안, 당신은 최대 15의 공포를 보유할 수 있습니다.</p><section class=\"secret\" id=\"secret-5ezbFLP3BnyqQPov\"><p><em>찬탈자가 아직 필요한 것은 무엇인가요: 고위 세라프의 심장? 고대 관문석? 숙적 두 명의 충성? 순수한 영혼의 절망에 찬 눈물?</em></p></section>",
+                    "actions": {
+                        "UMGyEHdQhYXyGEss": {
+                            "description": "<p>이 환경에 주목하여 “끝의 시작” 기능을 사용합니다.</p>"
+                        },
+                        "uJSaDLFcrtvIPFaD": {
+                            "description": "<p>이 환경이 처음 주목을 받을 때, 신들을 끌어내리려는 찬탈자 적대자 하나를 지정합니다. 찬탈자가 의식을 수행하기 위해 필요한 것을 모으는 동안 장기 카운트다운 (8)을 활성화합니다.</p><section class=\"secret\" id=\"secret-FyeeA41DYc7DdjY7\"><p><em>찬탈자가 아직 필요한 것은 무엇인가요: 고위 세라프의 심장? 고대 관문석? 숙적 두 명의 충성? 순수한 영혼의 절망에 찬 눈물?</em></p></section>"
+                        }
+                    }
+                },
+                "OWUM3eFiZrIn0Bjd": {
+                    "name": "모독자 난무",
+                    "description": "<p><strong>공포를 2 소모</strong>하여 찬탈자의 신성한 공성을 돕기 위해, 찬탈자의 가까운 거리 내에 [[/r 1d4+2]]명의 @UUID[Compendium.daggerheart.adversaries.Actor.OsLG2BjaEdTZUJU9]{타락한 돌격병}을 소환합니다. 즉시 돌격병들에게 주목이 넘어가며, “집단 공격” 행동을 사용할 수 있습니다.</p><section class=\"secret\" id=\"secret-QJHdwGNSuTgS59gn\"><p><em>이 돌격병들은 어떤 고위 타락자를 섬기나요? 그들은 어느 신의 살을 뜯어먹으려 하나요?</em></p></section>"
+                },
+                "fA2wVTxpDPaTlP9v": {
+                    "name": "신성한 축복",
+                    "description": "<p>PC가 치명적 성공을 할 때, 희망 2를 소모하여 보통 사용 횟수로 제한된 능력을(휴식 당 1회, 세션 당 1회 등) 회복할 수 있습니다.</p><section id=\"secret-IRlwaXlRxPqtJ6eg\" class=\"secret\"><p><em>이 찬탈에 맞서 싸우는 당신을 어떤 신이 가호하나요? 되살아난 힘은 어떻게 그들의 영향을 반영하나요?</em></p></section>"
                 }
             }
         },
         "Hallowed Temple": {
             "name": "신성한 사원",
-            "description": "<p>활기차지만 잘 정돈된 사원으로, 사제나 세라핌의 보살핌 아래 치유를 제공하고 정기 예배를 진행합니다.</p>",
-            "impulses": "유한자의 영역과 높은 성소 잇기, 신성의 힘 보여주기, 신도들에게 도움과 지원 제공하기",
+            "description": "<p>사제나 세라프가 관리하는 활기차면서도 잘 정돈된 신전으로, 치유를 제공하고 정기적인 의식을 주관합니다.</p>",
+            "impulses": "필멸의 영역을 천상의 성소와 연결하기, 신성한 힘을 드러내기, 신자들에게 도움과 위안을 제공하기",
             "items": {
+                "8tGAuFRyM4onvQ2o": {
+                    "name": "신성한 비난",
+                    "description": "<p>PC가 침입하거나, 신성모독을 하거나, 성직자들을 모욕했을 때, <strong>공포를 소모</strong>하여 @UUID[Compendium.daggerheart.adversaries.Actor.r1mbfSSwKWdcFdAU]{하이 세라프}와 [[/r 1d4]]명의 @UUID[Compendium.daggerheart.adversaries.Actor.B4LZcGuBAHzyVdzy]{경비 검사}를 수석 사제의 가까운 거리 내에 소환해 그들의 의지를 강화할 수 있습니다.</p><section class=\"secret\" id=\"secret-bJG5Vk2KPgau6rQB\"><p><em>그들이 신의 대리자임을 알리는 상징이나 성물은 무엇인가요? 누가 이 무리를 이끌며, 무엇이 그들을 이 소명으로 이끌었나요?</em></p></section>",
+                    "actions": {
+                        "pJVipg7CbA9CB0Um": "<p>PC가 침입하거나, 신성모독을 하거나, 성직자들을 모욕했을 때, <strong>공포를 소모</strong>하여 @UUID[Compendium.daggerheart.adversaries.Actor.r1mbfSSwKWdcFdAU]{하이 세라프}와 [[/r 1d4]]명의 @UUID[Compendium.daggerheart.adversaries.Actor.B4LZcGuBAHzyVdzy]{경비 검사}를 수석 사제의 가까운 거리 내에 소환해 그들의 의지를 강화할 수 있습니다.</p><section class=\"secret\" id=\"secret-tG902NbtYpyK0NFi\"><p><em>그들이 신의 대리자임을 알리는 상징이나 성물은 무엇인가요? 누가 이 무리를 이끌며, 무엇이 그들을 이 소명으로 이끌었나요?</em></p></section>"
+                    }
+                },
                 "hgHpS2k1sVxHKiG1": {
                     "name": "치유의 장소",
-                    "description": "<p>신성한 사원에서 휴식하는 PC는 자동으로 모든 HP를 회복합니다. </p><section class='secret' id='secret-L4xPjXbsFBvAJkG3'><p><em>향은 어떤 냄새가 나는가? 수도자들은 어떤 노래를 부르는가?</em></p></section>",
+                    "description": "<p>이 환경에서 쉬는 PC는 자동으로 모든 HP를 회복합니다.</p><section class=\"secret\" id=\"secret-L4xPjXbsFBvAJkG3\"><p><em>향은 어떤 냄새가 나나요? 수습 성직자들은 어떤 노래를 부르나요?</em></p></section>",
                     "actions": {
-                        "uLCoTKa7Jn2HaRqR": "<p>신성한 사원에서 휴식하는 PC는 자동으로 모든 HP를 회복합니다. </p><section class='secret' id='secret-L4xPjXbsFBvAJkG3'><p><em>향은 어떤 냄새가 나는가? 수도자들은 어떤 노래를 부르는가?</em></p></section>"
+                        "uLCoTKa7Jn2HaRqR": "<p>이 환경에서 쉬는 PC는 자동으로 모든 HP를 회복합니다.</p><section class=\"secret\" id=\"secret-vN4UFTYIQW8nd2mC\"><p><em>향은 어떤 냄새가 나나요? 수습 성직자들은 어떤 노래를 부르나요?</em></p></section>"
                     }
                 },
                 "uqV1mTkJmXJwMYue": {
                     "name": "신성한 인도",
-                    "description": "<p>신성한 사원에 있는 동안 신에게 기도하는 PC는 직감 굴림으로 답을 구할 수 있습니다. 그들이 향하는 신이 이 사원에서 환영받지 못한다면, 굴림은 불리점로 진행됩니다.</p><ul><li><p><strong>치명적 성공 성공:</strong> PC는 명확한 정보를 얻습니다. 또한 받은 환영과 인도를 일행과 공유하면, 일행에게 분배할 수 있는 [[/r 1d4]] 희망을 얻습니다. </p></li><li><p><strong>희망과 함께 성공:</strong> PC는 명확한 정보를 얻습니다. </p></li><li><p><strong>공포와 함께 성공:</strong> PC는 짧은 통찰의 섬광과 답을 전하는 감정적 인상을 받습니다. </p></li><li><p><strong>모든 실패:</strong> PC는 흐릿한 섬광만 받습니다. 스트레스를 표시하여 맥락 없는 명확한 이미지 하나를 얻을 수 있습니다.</p></li></ul><pre><code>이 환영이 닿을 때 어떤 느낌이 드는가? 이미지가 사라진 후에는 어떤 감정이 남는가?</code></pre>"
+                    "description": "<p>이 환경에서 신에게 기도하는 PC는 직감 굴림을 하여 응답을 받을 수 있습니다. 만약 그들이 청하는 신이 이 사원에서 환영받지 못한다면, 굴림은 불리점으로 수행됩니다.</p><ul><li><p><strong>치명적 성공:</strong> PC는 명확한 정보를 얻습니다. 추가로, [[/r 1d4]]의 희망을 얻으며, 이를 파티와 공유하여 분배할 수 있습니다.</p></li><li><p><strong>희망으로 성공:</strong> PC는 명확한 정보를 얻습니다.</p></li><li><p><strong>공포로 성공:</strong> PC는 답을 전달하는 짧은 통찰의 단편과 감정적 인상을 받습니다.</p></li><li><p><strong>실패:</strong> PC는 모호한 단편만 받습니다. <strong>스트레스를 표시</strong>하면 맥락 없는 명확한 이미지 하나를 얻을 수 있습니다.</p></li></ul><section class=\"secret\" id=\"secret-EYCrn403Zbz0NQKo\"><p><em>이 비전에 접촉당하는 것은 어떤 기분인가요? 이미지가 지나간 뒤에는 어떤 감정이 남나요?</em></p></section>"
                 },
                 "vICfHK2urDQ2Jm8s": {
-                    "name": "굴하지 않는 희망",
-                    "description": "<p>장면당 1회, 각 PC는 스트레스를 표시하여 공포와 함께한 결과를 희망과 함께한 결과로 바꿀 수 있습니다. </p><section id='secret-z2wMjfAVnSoTHSlR' class='secret'><p><em>공포가 다가올 때 당신은 어떤 감정이나 기억에 의지하는가?</em></p></section>",
+                    "name": "끈질긴 희망",
+                    "description": "<p>장면마다 한 번씩, 각 PC는 <strong>스트레스를 표시</strong>하여 공포 굴림을 희망 굴림으로 바꿀 수 있습니다.</p><section id=\"secret-z2wMjfAVnSoTHSlR\" class=\"secret\"><p><em>두려움이 밀려올 때, 당신은 어떤 감정이나 기억을 붙잡나요?</em></p></section>",
                     "actions": {
-                        "VlBjJ32dXlboSANv": "<p>장면당 1회, 각 PC는 스트레스를 표시하여 공포와 함께한 결과를 희망과 함께한 결과로 바꿀 수 있습니다. </p><section id='secret-z2wMjfAVnSoTHSlR' class='secret'><p><em>공포가 다가올 때 당신은 어떤 감정이나 기억에 의지하는가?</em></p></section>"
-                    }
-                },
-                "8tGAuFRyM4onvQ2o": {
-                    "name": "신성한 단죄",
-                    "description": "<p>PC들이 비행, 신성모독을 저지르거나 성직자를 모욕했을 때, 당신은 <strong>공포를 소비</strong>하여 그들의 의지를 강화하기 위해 상위 사제로부터 가까운 거리에 @UUID[Compendium.daggerheart.adversaries.Actor.r1mbfSSwKWdcFdAU]{상위 세라핌}과 [[/r 1d4]] 명의 @UUID[Compendium.daggerheart.adversaries.Actor.B4LZcGuBAHzyVdzy]{도검 호위병}을 소환할 수 있습니다.</p><section class='secret' id='secret-bJG5Vk2KPgau6rQB'><p><em>그들이 신성의 임명받은 대리인임을 알리는 어떤 상징이나 성물을 지니고 있는가? 누가 이 무리를 이끄는가? 무엇이 그들을 이 소명으로 이끌었는가?</em></p></section>",
-                    "actions": {
-                        "pJVipg7CbA9CB0Um": "<p>PC들이 비행, 신성모독을 저지르거나 성직자를 모욕했을 때, 당신은 <strong>공포를 소비</strong>하여 그들의 의지를 강화하기 위해 상위 사제로부터 가까운 거리에 @UUID[Compendium.daggerheart.adversaries.Actor.r1mbfSSwKWdcFdAU]{상위 세라핌}과 [[/r 1d4]] 명의 @UUID[Compendium.daggerheart.adversaries.Actor.B4LZcGuBAHzyVdzy]{도검 호위병}을 소환할 수 있습니다.</p><section class='secret' id='secret-bJG5Vk2KPgau6rQB'><p><em>그들이 신성의 임명받은 대리인임을 알리는 어떤 상징이나 성물을 지니고 있는가? 누가 이 무리를 이끄는가? 무엇이 그들을 이 소명으로 이끌었는가?</em></p></section>"
+                        "VlBjJ32dXlboSANv": "<p>장면마다 한 번씩, 각 PC는 <strong>스트레스를 표시</strong>하여 공포 굴림을 희망 굴림으로 바꿀 수 있습니다.</p><section class=\"secret\" id=\"secret-1BKTtBh9igK1y871\"><p><em>두려움이 밀려올 때, 당신은 어떤 감정이나 기억을 붙잡나요?</em></p></section>"
                     }
                 }
             }
         },
         "Haunted City": {
-            "name": "유령의 도시",
-            "description": "<p>지난 시대의 안식하지 못하는 영혼들이 머무는 버려진 도시.</p>",
-            "impulses": "기만하고 혼란시키기, 공적이든 사적이든 종말을 재현하기",
+            "name": "유령 도시",
+            "description": "<p>과거 시대의 불안한 영혼들이 가득한 버려진 도시입니다.</p>",
+            "impulses": "방향을 혼란스럽게 만들기, 공적이든 개인적이든 과거의 파멸을 재현하기",
             "items": {
-                "h8Dv8pToiCVklPhv": {
-                    "name": "묻혀버린 지식",
-                    "description": "<p>도시는 셀 수 없는 비밀을 간직하고 있습니다. 몰락한 도시에 대한 지식을 구하는 PC는 직감 또는 지식 굴림을 하여 이 장소에 대해 알고 (잠재적으로 저주받은) 전리품을 발견할 수 있습니다. </p><ul><li><p><strong>치명적 성공 성공</strong>: 귀중한 정보와 그와 관련된 유용한 물건을 얻습니다. </p></li><li><p><strong>희망과 함께 성공:</strong> 귀중한 정보를 얻습니다.</p></li><li><p><strong>공포와 함께 성공:</strong> 흐릿하거나 불완전한 정보를 발견합니다.</p></li><li><p><strong>모든 실패:</strong> 스트레스를 표시하여 철저한 수색 끝에 단서를 찾습니다.</p></li></ul><section id='secret-b7Tkr2KzblSvwAPj' class='secret'><p><em>도시는 어떤 큰 비밀을 품고 있는가? 왜 그토록 많은 유령들이 이곳에 머무는가? 어떤 운명에 처한 모험가들이 이미 이곳에서 비참한 결말을 맞았는가?</em></p></section>"
-                },
-                "gRpkBU3CLJvDnB7I": {
-                    "name": "유령의 형체",
-                    "description": "<p>이곳에 나타나는 적대자들은 유령의 형체를 지닙니다. 그들은 물리 피해에 저항을 가지며 <strong>스트레스를 표시</strong>하여 단단한 물체를 통과해 가까운 거리로 이동할 수 있습니다. </p><section id='secret-P15mCN36Cns7QUHw' class='secret'><p><em>그들의 물리적 형체에 남은 어떤 상처가 죽음의 원인을 말해주는가? 어떤 미완의 목적이 그들을 유한자의 영역에 붙들어 두는가?</em> </p></section>",
-                    "actions": {
-                        "VCWX0P9kq2oGTpUo": "<p>이곳에 나타나는 적대자들은 유령의 형체를 지닙니다. 그들은 물리 피해에 저항을 가지며 <strong>스트레스를 표시</strong>하여 단단한 물체를 통과해 가까운 거리로 이동할 수 있습니다. </p><section id='secret-P15mCN36Cns7QUHw' class='secret'><p><em>그들의 물리적 형체에 남은 어떤 상처가 죽음의 원인을 말해주는가? 어떤 미완의 목적이 그들을 유한자의 영역에 붙들어 두는가?</em> </p></section>"
-                    }
-                },
                 "ZA2RzxH5FlnrcYLN": {
                     "name": "막다른 길",
-                    "description": "<p>옛 시대의 유령들이 거리 축제, 혁명, 강도질과 같은 과거의 장면을 재현합니다. 이 유령들은 PC 주변의 도시 구획을 바꾸어, 뒤로 가는 길을 막고 돌아가게 만들거나, 강도질 중 그들을 라이벌 도둑으로 오인하는 등의 도전을 제시합니다.</p><section id='secret-ttpwol0cvVxPyK7e' class='secret'><p><em>유령들은 당신에게서 무엇을 원하는가? 당신은 그들에게서 무엇이 필요한가?</em></p></section>"
+                    "description": "<p>이전 시대의 유령들이 사라진 시대의 장면을 구현합니다. 예를 들어 거리 축제, 혁명, 혹은 강도 사건 같은 것입니다. 이러한 망령 현현은 PC 주변의 도시 배치를 바꾸어 뒤를 차단하거나, 우회를 강제하거나, 혹은 강도 사건 중에 PC를 경쟁 도둑으로 착각하는 등의 도전을 제시합니다.</p><section id=\"secret-ttpwol0cvVxPyK7e\" class=\"secret\"><p><em>유령들이 당신에게 원하는 것은 무엇인가요? 당신은 그들에게 무엇을 필요로 하나요?</em></p></section>"
+                },
+                "gRpkBU3CLJvDnB7I": {
+                    "name": "망령의 형상",
+                    "description": "<p>이곳에 등장하는 적대자들은 유령의 형태를 띱니다. 그들은 물리 피해에 저항을 가지며, <strong>스트레스를 표시</strong>하면 단단한 물체를 통과하여 가까운 거리 이내로 이동할 수 있습니다.</p><section id=\"secret-P15mCN36Cns7QUHw\" class=\"secret\"><p><em>그들의 육체에 남은 상처는 죽음의 원인을 어떻게 드러내나요? 그들을 필멸계에 붙잡아두는 미완의 목적은 무엇인가요?</em></p></section>",
+                    "actions": {
+                        "VCWX0P9kq2oGTpUo": "<p>이곳에 등장하는 적대자들은 유령의 형태를 띱니다. 그들은 물리 피해에 저항을 가지며, <strong>스트레스를 표시</strong>하면 단단한 물체를 통과하여 가까운 거리 이내로 이동할 수 있습니다.</p><section class=\"secret\" id=\"secret-Ol8146pzjrPjVjqt\"><p><em>그들의 육체에 남은 상처는 죽음의 원인을 어떻게 드러내나요? 그들을 필멸계에 붙잡아두는 미완의 목적은 무엇인가요?</em></p></section>"
+                    },
+                    "effects": {
+                        "S9gl4jqdrziC1F0h": {
+                            "name": "망령의 형상",
+                            "description": "<p>이곳에 등장하는 적대자들은 유령의 형태를 띱니다. 그들은 물리 피해에 저항을 가지며, <strong>스트레스를 표시</strong>하면 단단한 물체를 통과하여 가까운 거리 이내로 이동할 수 있습니다.</p><section class=\"secret\" id=\"secret-o5a4SMwemuVEfDMq\"><p><em>그들의 육체에 남은 상처는 죽음의 원인을 어떻게 드러내나요? 그들을 필멸계에 붙잡아두는 미완의 목적은 무엇인가요?</em></p></section>"
+                        }
+                    }
+                },
+                "h8Dv8pToiCVklPhv": {
+                    "name": "묻힌 지식",
+                    "description": "<p>이 도시는 수많은 미스터리를 간직하고 있습니다. 몰락한 도시에 대해 지식을 찾는 PC는 직감 또는 지식 굴림을 통해 이곳에 대한 정보를 배우고(유령 들린 것일 수도 있는) 전리품을 발견할 수 있습니다.</p><ul><li><p><strong>치명적 성공</strong>: 귀중한 정보와 관련된 유용한 아이템을 얻습니다.</p></li><li><p><strong>희망으로 성공:</strong> 귀중한 정보를 얻습니다.</p></li><li><p><strong>공포로 성공:</strong> 모호하거나 불완전한 정보를 드러냅니다.</p></li><li><p><strong>실패:</strong> 기진맥진한 탐색 끝에 단서를 찾기 위해 <strong>스트레스를 표시</strong>합니다.</p></li></ul><section id=\"secret-b7Tkr2KzblSvwAPj\" class=\"secret\"><p><em>이 도시는 어떤 더 큰 비밀을 간직하고 있을까요? 왜 이토록 많은 유령들이 이곳에 남아 있을까요? 이미 어떤 불운한 모험가들이 비참한 최후를 맞았을까요?</em></p></section>"
                 },
                 "i0FV2Djaq0vB57cq": {
                     "name": "그때의 종말",
-                    "description": "<p><strong>공포를 소비</strong>하여 도시를 폐허로 만든 과거 재앙의 메아리를 발현시킵니다. PC 주변에서 재앙이 반복되는 동안 진행 카운트다운 (5)을 활성화합니다. 카운트다운을 완료해 재앙을 피하려면, PC들은 역사를 떠올리고 단서를 찾아 불가피한 결말을 피해야 하며, 거세게 타오르는 불, 공황에 빠진 시민, 무너지는 건물, 갈라진 거리 같은 위협을 극복해야 합니다. </p><section id='secret-3MamLVZP4l2SxHzO' class='secret'><p><em>이것이 도시를 버려지게 만든 재앙인가? 그 재앙에 대해 무엇이 알려져 있으며, 그것이 PC들의 탈출에 어떻게 도움이 될 수 있는가?</em></p></section>",
+                    "description": "<p><strong>공포를 소모</strong>하여 도시를 파괴한 과거 재앙의 메아리를 구현합니다. 재앙이 PC 주변에서 다시 재현되며, <em>진행 카운트다운 (5)</em>을 활성화합니다. 카운트다운을 완수하고 재앙에서 벗어나려면, PC들은 맹렬히 번지는 불길, 아수라장이 된 민간인들, 무너지는 건물, 붕괴하는 거리 등의 위협을 극복해야 하며, 역사를 회상하고 단서를 찾아 불가피한 운명에서 벗어나야 합니다.</p><section class=\"secret\" id=\"secret-3MamLVZP4l2SxHzO\"><p><em>이것이 도시가 버려지게 된 바로 그 재앙인가요? 이 재앙에 대해 알려진 것은 무엇이며, 그것이 어떻게 PC들이 탈출하는 데 도움이 될까요?</em></p></section>",
                     "actions": {
-                        "7H16PYHHgK0Z34NU": "<p><strong>공포를 소비</strong>하여 도시를 폐허로 만든 과거 재앙의 메아리를 발현시킵니다. PC 주변에서 재앙이 반복되는 동안 진행 카운트다운 (5)을 활성화합니다. 카운트다운을 완료해 재앙을 피하려면, PC들은 역사를 떠올리고 단서를 찾아 불가피한 결말을 피해야 하며, 거세게 타오르는 불, 공황에 빠진 시민, 무너지는 건물, 갈라진 거리 같은 위협을 극복해야 합니다. </p><section id='secret-3MamLVZP4l2SxHzO' class='secret'><p><em>이것이 도시를 버려지게 만든 재앙인가? 그 재앙에 대해 무엇이 알려져 있으며, 그것이 PC들의 탈출에 어떻게 도움이 될 수 있는가?</em></p></section>"
+                        "VhqZKDA4032i8zY3": "<p><strong>공포를 소모</strong>하여 도시를 파괴한 과거 재앙의 메아리를 구현합니다. 재앙이 PC 주변에서 다시 재현되며, <em>진행 카운트다운 (5)</em>을 활성화합니다. 카운트다운을 완수하고 재앙에서 벗어나려면, PC들은 맹렬히 번지는 불길, 아수라장이 된 민간인들, 무너지는 건물, 붕괴하는 거리 등의 위협을 극복해야 하며, 역사를 회상하고 단서를 찾아 불가피한 운명에서 벗어나야 합니다.</p><section class=\"secret\" id=\"secret-2Ou4kbqfCwCgsG5X\"><p><em>이것이 도시가 버려지게 된 바로 그 재앙인가요? 이 재앙에 대해 알려진 것은 무엇이며, 그것이 어떻게 PC들이 탈출하는 데 도움이 될까요?</em></p></section>"
                     }
                 }
             }
         },
         "Imperial Court": {
             "name": "제국 궁정",
-            "description": "<p>훔친 보물들로 호화롭게 장식된 강력한 제국의 장엄한 영지.</p>",
-            "impulses": "제국 통치를 정당화하고 영속화하기, 권력과 안락의 약속으로 경쟁자를 유혹하기",
+            "description": "<p>강대한 제국의 장엄한 영역으로, 약탈한 보물들로 화려하게 꾸며져 있습니다.</p>",
+            "impulses": "제국의 지배를 정당화하고 영속시키기, 권력과 안락의 약속으로 경쟁자를 유혹하기",
             "items": {
-                "OXUbWRt1Dj0vk7mW": {
-                    "name": "모든 길은 이곳으로 통한다",
-                    "description": "<p>제국 궁정에 있는 동안, 제국의 생활 방식에 부합하지 않거나 제국의 지배를 지지하지 않는 행동에 대한 PC의 매력 굴림은 불리점를 받습니다. </p><section id='secret-P8G0DAghe8QgaSZV' class='secret'><p><em>언어 사용이 다른 삶의 방식을 논의하는 것조차 어떻게 어렵게 만드는가? 충성의 명백한 이점들이 대안을 논의하려 할 때 어떤 마찰을 만들어내는가?</em></p></section>"
+                "HwSKX5r40ux0OfJN": {
+                    "name": "제국의 칙령",
+                    "description": "<p><strong>공포를 소모</strong>하여 제국의 의제와 관련된 장기 카운트다운을 [[/r 1d4]]만큼 줄입니다. 이로 인해 카운트다운이 발동되면, 궁정에서 그 의제와 관련된 선포가 이루어지고 계획이 실행됩니다.</p><section class=\"secret\" id=\"secret-kuZLu5mJvqvQ1NvT\"><p><em>이 계획을 가속화하기 위해 어떤 힘의 과시나 부의 이전이 필요했나요? 이를 위해 누구의 삶이 무너지고 뒤집혔나요?</em></p></section>",
+                    "actions": {
+                        "9ipckCFMz9DVw8ab": "<p><strong>공포를 소모</strong>하여 제국의 의제와 관련된 장기 카운트다운을 [[/r 1d4]]만큼 줄입니다. 이로 인해 카운트다운이 발동되면, 궁정에서 그 의제와 관련된 선포가 이루어지고 계획이 실행됩니다.</p><section class=\"secret\" id=\"secret-ThoGDjazxfPoUvJS\"><p><em>이 계획을 가속화하기 위해 어떤 힘의 과시나 부의 이전이 필요했나요? 이를 위해 누구의 삶이 무너지고 뒤집혔나요?</em></p></section>"
+                    }
                 },
                 "LURReixasmMbiP2C": {
                     "name": "경쟁하는 봉신들",
-                    "description": "<p>플레이어들은 궁정에서 제국 신민, 봉신, 청원자들을 만날 수 있으며, 각자 호의를 얻기 위해 다투고, 권력과의 친밀함을 추구하며, 호의를 충성으로 교환하고, 다른 이들 위에 자신의 지위를 높이려 합니다. 어떤 이들은 필사적으로 경쟁자를 무너뜨리려 할 수도 있고, 다른 이들은 반역에 가까운 대화에도 열려 있을 수 있습니다. </p><section id='secret-pDDW0dor0MhTdx4c' class='secret'><p><em>그들은 봉신 신분에서 어떤 이득을 얻으며, 그것은 그들에게 어떤 대가를 치르게 했는가? 어떤 착취가 그들로 하여금 막을 수 없는 자에 맞설 가능성을 고려하게 만드는가?</em></p></section>"
+                    "description": "<p>PC들은 궁정 안에서 제국의 신민, 봉신, 청원인들을 만날 수 있습니다. 이들은 각자 총애를 얻으려 하고, 권력에 가까이 다가서려 하며, 충성심과 은혜를 맞바꾸고, 남들보다 높은 지위를 얻으려 합니다. 어떤 이들은 경쟁자를 약화시키려 필사적일 수도 있고, 어떤 이들은 심지어 반역에 가까운 대화에까지 열려 있을 수 있습니다.</p><section id=\"secret-pDDW0dor0MhTdx4c\" class=\"secret\"><p><em>그들은 봉신 지위로부터 어떤 이익을 얻고, 무엇을 대가로 치렀나요? 어떤 착취가 그들로 하여금 멈출 수 없는 제국에 대항하는 것을 고려하게 만들까요?</em></p></section>"
                 },
-                "tm9FL5gJF7Oheu21": {
-                    "name": "제국의 끌어당김",
-                    "description": "<p><strong>공포를 소비</strong>하여 플레이어에게 황금 같은 기회를 주거나, 제국에 복종하거나 지원하는 대가로 주요 목표를 충족시킬 것을 제안합니다. 대상은 매력 대응 굴림을 해야 합니다. 실패 시, 그들은 모든 스트레스를 표시하거나 제안을 받아들여야 합니다. 이미 모든 스트레스를 표시한 상태라면, 제안을 받아들이거나 스스로 제국에서 추방되어야 합니다. 성공 시, 유혹에 흔들리며 <strong>1d4</strong> 스트레스를 표시해야 합니다.</p><section class='secret' id='secret-4carYxEQygk6m4cQ'><p><em>플레이어들은 이 무자비한 세력에 합류할 가능성을 고려할 정도로 무엇을 그토록 절실히 원하는가? 제국의 첩보원들은 플레이어의 가장 큰 욕망을 어떻게 알게 되었는가?</em></p></section>",
-                    "actions": {
-                        "Pr8CpaOehr1cE1b8": "<p><strong>공포를 소비</strong>하여 플레이어에게 황금 같은 기회를 주거나, 제국에 복종하거나 지원하는 대가로 주요 목표를 충족시킬 것을 제안합니다. 대상은 매력 대응 굴림을 해야 합니다. 실패 시, 그들은 모든 스트레스를 표시하거나 제안을 받아들여야 합니다. 이미 모든 스트레스를 표시한 상태라면, 제안을 받아들이거나 스스로 제국에서 추방되어야 합니다. 성공 시, 유혹에 흔들리며 <strong>1d4</strong> 스트레스를 표시해야 합니다.</p><section class='secret' id='secret-4carYxEQygk6m4cQ'><p><em>플레이어들은 이 무자비한 세력에 합류할 가능성을 고려할 정도로 무엇을 그토록 절실히 원하는가? 제국의 첩보원들은 플레이어의 가장 큰 욕망을 어떻게 알게 되었는가?</em></p></section>"
-                    }
-                },
-                "HwSKX5r40ux0OfJN": {
-                    "name": "제국의 칙령",
-                    "description": "<p><strong>공포를 소비</strong>하여 제국의 계획과 관련된 장기 카운트다운을 [[/r 1d4]]만큼 감소시킵니다. 이것이 카운트다운을 발동시키면, 궁정에서 계획이 실행됨에 따라 관련 포고문이 선포됩니다.</p><section class='secret' id='secret-kuZLu5mJvqvQ1NvT'><p><em>이 계획을 가속화하기 위해 어떤 권력의 과시나 부의 이전이 필요했는가? 이를 위해 어떤 이들의 삶이 무너지거나 뒤집혔는가?</em></p></section>",
-                    "actions": {
-                        "9ipckCFMz9DVw8ab": "<p><strong>공포를 소비</strong>하여 제국의 계획과 관련된 장기 카운트다운을 [[/r 1d4]]만큼 감소시킵니다. 이것이 카운트다운을 발동시키면, 궁정에서 계획이 실행됨에 따라 관련 포고문이 선포됩니다.</p><section class='secret' id='secret-kuZLu5mJvqvQ1NvT'><p><em>이 계획을 가속화하기 위해 어떤 권력의 과시나 부의 이전이 필요했는가? 이를 위해 어떤 이들의 삶이 무너지거나 뒤집혔는가?</em></p></section>"
-                    }
+                "OXUbWRt1Dj0vk7mW": {
+                    "name": "모든 길은 이곳으로",
+                    "description": "<p>이 환경에 있는 동안, PC가 제국의 생활 방식에 맞지 않거나 제국의 지배를 지지하지 않는 행동을 위해 매력 굴림을 할 경우, 불리점을 받습니다.</p><section id=\"secret-P8G0DAghe8QgaSZV\" class=\"secret\"><p><em>언어가 사용되는 방식이 어떻게 다른 삶의 방식을 논의하는 것조차 어렵게 만들까요? 충성으로 얻는 명백한 혜택은 대안을 논하려 할 때 어떤 갈등을 빚어내나요?</em></p></section>"
                 },
                 "YPMgWUagVq1Hicqo": {
-                    "name": "사방의 눈",
-                    "description": "<p>공포와 함께한 결과 시, 당신은 <strong>공포를 소비</strong>하여 제국에 충성하는 누군가가 궁정에서 반역적인 대화를 엿듣게 할 수 있습니다. 플레이어는 직감 대응 굴림에 성공해야 일행이 도청되었음을 깨닫고, 노출되기 전에 목격자를 가로채려 시도할 수 있습니다.</p><section class='secret' id='secret-kN4J3annyev9WWUs'><p><em>제국은 이 목격자를 어떻게 매수했는가? 제국이 그들을 형편없이 대해도 그들의 첫 충동이 제국을 보호하는 것인 이유는 무엇인가?</em></p></section>",
+                    "name": "곳곳의 눈",
+                    "description": "<p>공포 굴림의 결과가 나오면, <strong>공포를 소모</strong>하여 제국에 충성하는 누군가가 궁정 내에서의 반역적인 대화를 엿듣게 할 수 있습니다. PC는 직감 대응 굴림에 성공해야만 대화가 엿들려졌음을 눈치채고, 노출되기 전에 그 증인을 가로막으려 시도할 수 있습니다.</p><section class=\"secret\" id=\"secret-kN4J3annyev9WWUs\"><p><em>제국은 어떻게 이 증인을 회유했나요? 제국이 그들을 잘 대우하지 않더라도, 왜 그들의 첫 충동은 제국을 보호하는 것이 될까요?</em></p></section>",
                     "actions": {
-                        "czEbFu3uIlW5Spju": "<p>공포와 함께한 결과 시, 당신은 <strong>공포를 소비</strong>하여 제국에 충성하는 누군가가 궁정에서 반역적인 대화를 엿듣게 할 수 있습니다. 플레이어는 직감 대응 굴림에 성공해야 일행이 도청되었음을 깨닫고, 노출되기 전에 목격자를 가로채려 시도할 수 있습니다.</p><section class='secret' id='secret-kN4J3annyev9WWUs'><p><em>제국은 이 목격자를 어떻게 매수했는가? 제국이 그들을 형편없이 대해도 그들의 첫 충동이 제국을 보호하는 것인 이유는 무엇인가?</em></p></section>"
+                        "czEbFu3uIlW5Spju": "<p>공포 굴림의 결과가 나오면, <strong>공포를 소모</strong>하여 제국에 충성하는 누군가가 궁정 내에서의 반역적인 대화를 엿듣게 할 수 있습니다. PC는 직감 대응 굴림에 성공해야만 대화가 엿들려졌음을 눈치채고, 노출되기 전에 그 증인을 가로막으려 시도할 수 있습니다.</p><section class=\"secret\" id=\"secret-lCrNuPGNEGSBiTSY\"><p><em>제국은 어떻게 이 증인을 회유했나요? 제국이 그들을 잘 대우하지 않더라도, 왜 그들의 첫 충동은 제국을 보호하는 것이 될까요?</em></p></section>"
+                    }
+                },
+                "tm9FL5gJF7Oheu21": {
+                    "name": "제국의 중력",
+                    "description": "<p><strong>공포를 소모</strong>하여 한 PC에게 제국에 복종하거나 지지하는 대가로 중요한 목표를 달성할 수 있는 황금 같은 기회나 제안을 제시합니다. 대상은 매력 대응 굴림을 해야 합니다. 실패 시, <strong>모든 스트레스를 표시</strong>하거나 제안을 받아들여야 합니다. 이미 모든 스트레스를 표시한 상태라면, 제안을 받아들이거나 제국에서 스스로 추방되어야 합니다. 성공 시, 유혹의 압박으로 인해 <strong>1d4</strong> 스트레스를 표시해야 합니다.</p><section class=\"secret\" id=\"secret-4carYxEQygk6m4cQ\"><p><em>PC들은 무엇을 그토록 간절히 원하여 이 무자비한 권력에 가담할 생각까지 하게 되나요? 제국의 요원들은 어떻게 PC의 가장 큰 욕망을 알게 되었나요?</em></p></section>",
+                    "actions": {
+                        "Pr8CpaOehr1cE1b8": "<p><strong>공포를 소모</strong>하여 한 PC에게 제국에 복종하거나 지지하는 대가로 중요한 목표를 달성할 수 있는 황금 같은 기회나 제안을 제시합니다. 대상은 매력 대응 굴림을 해야 합니다. 실패 시, <strong>모든 스트레스를 표시</strong>하거나 제안을 받아들여야 합니다. 이미 모든 스트레스를 표시한 상태라면, 제안을 받아들이거나 제국에서 스스로 추방되어야 합니다. 성공 시, 유혹의 압박으로 인해 <strong>1d4</strong> 스트레스를 표시해야 합니다.</p><section class=\"secret\" id=\"secret-jB2klJ9141Yiot3c\"><p><em>PC들은 무엇을 그토록 간절히 원하여 이 무자비한 권력에 가담할 생각까지 하게 되나요? 제국의 요원들은 어떻게 PC의 가장 큰 욕망을 알게 되었나요?</em></p></section>"
                     }
                 }
             }
         },
         "Local Tavern": {
-            "name": "동네 술집",
-            "description": "<p>도시의 사교 중심지 역할을 하는 활기찬 술집.</p>",
-            "impulses": "모험가들에게 기회 제공하기, 공동체 발전시키기",
+            "name": "지역 여관",
+            "description": "<p>마을의 사회적 중심지 역할을 하는 활기찬 선술집입니다.</p>",
+            "impulses": "모험가들에게 기회를 제공하기, 공동체를 기르기",
             "items": {
                 "7to5Zu0lNycExCQi": {
-                    "name": "도시에서는 어떤 이야기가 도는가?",
-                    "description": "<p>플레이어는 매력 굴림으로 바텐더, 직원, 손님들에게 지역 사건, 소문, 잠재적 일거리에 대해 물을 수 있습니다. 성공 시, 그들은 아래 세부 사항 중 두 가지를 골라 알아낼 수 있고, 치명적 성공 성공 시 세 가지를 알아냅니다. 실패 시, 하나를 고르고 스트레스를 표시할 수 있습니다. 지역 주민이 무관한 이야기를 계속 늘어놓기 때문입니다. </p><ul><li><p>플레이어의 배경과 관련된 흥미진진한 소문</p></li><li><p>근처 위협이나 상황과 관련된 일행을 위한 유망한 일거리 </p></li><li><p>그들이 본 무언가와 관련된 지역 민담</p></li><li><p>공동체의 문제를 암시하는 도시의 소문</p></li></ul><section id='secret-x6IPMS6Z4MFBE65u' class='secret'><p><em>누가 어떤 정보를 가지고 있는가? 주민들은 플레이어들에 대해 어떤 소문을 퍼뜨리기 시작하는가?</em></p></section>"
-                },
-                "oLn3co1mN83OiFWo": {
-                    "name": "저녁값을 노래하라",
-                    "description": "<p>PC는 손님들을 위해 매력 굴림으로 한 번 공연할 수 있습니다. 성공 시 <strong>[[/r 1d4]]</strong> 줌의 금화를 얻습니다(치명적 성공 성공 시 <strong>[[/r 2d4]]</strong>). 실패 시 스트레스를 표시합니다.</p><section id='secret-vrH9YdQGP2sTa3cV' class='secret'><p><em>당신은 어떤 작품을 공연하는가? 이 작품은 당신에게 어떤 의미인가? 마지막으로 대중 앞에서 이를 공연한 것은 언제인가?</em></p></section>"
-                },
-                "cAbSo5VQHxJqJPKm": {
-                    "name": "수수께끼의 이방인",
-                    "description": "<p>그늘진 좌석에 몸을 숨긴 채 정체를 감춘 이방인이 나타납니다.</p><section id='secret-tgxS9TgbDCpI1kZC' class='secret'><p><em>그들은 무엇을 원하는가? PC에 대한 그들의 인상은 어떠한가? 그들의 몸짓이나 장신구는 어떤가?</em></p></section>"
-                },
-                "QPezCAC18vIc5xRC": {
-                    "name": "누군가 도시에 도착하다",
-                    "description": "<p>일행을 무언가에 고용하고 싶어 하거나 PC의 과거와 연결된 중요한 NPC를 등장시킵니다. </p><section id='secret-DB6Th0yGCjAsAZp6' class='secret'><p><em>그들은 PC가 이곳에 있다는 것을 알고 있었는가? 그들은 이 도시에서 무엇을 원하는가?</em></p></section>"
+                    "name": "마을의 화제는?",
+                    "description": "<p>PC는 바텐더, 직원, 혹은 손님에게 매력 굴림을 통해 지역 사건, 소문, 잠재적 일거리에 대해 물어볼 수 있습니다. 성공 시, 아래의 세부사항 중 두 가지를 알 수 있으며, 치명적 성공 시 세 가지를 알 수 있습니다. 실패 시, 한 가지를 선택할 수 있지만, 마을 사람이 엉뚱한 이야기를 늘어놓는 동안 <strong>스트레스를 표시</strong>해야 합니다.</p><ul><li><p>PC의 배경과 관련된 흥미로운 소문</p></li><li><p>근처의 위협과 관련된, 파티에 유망한 일거리</p></li><li><p>PC들이 본 것과 관련된 지역 전설</p></li><li><p>지역 사회 문제를 암시하는 마을의 가십</p></li></ul><section id=\"secret-x6IPMS6Z4MFBE65u\" class=\"secret\"><p><em>누가 어떤 정보를 가지고 있나요? 마을 사람들은 PC들에 대해 어떤 가십을 퍼뜨리기 시작하나요?</em></p></section>"
                 },
                 "H3LNvVrUbsAkgjni": {
-                    "name": "술집 난투",
-                    "description": "<p><strong>공포를 소비</strong>하여 술집에 난투가 벌어지게 합니다. 난투가 진행되는 동안 PC가 술집을 가로지르려 할 때, 민첩 또는 매력 굴림에 성공해야 하며, 그렇지 않으면 우발적인 타격이나 던져진 물건으로 <strong>1d6+2</strong> 물리 피해를 받습니다. PC는 술집 손님들을 도발하는 행동 굴림에 성공해 이 기능을 발동시킬 수 있습니다.</p><section class='secret' id='secret-xLK8VSKLM6JQRySG'><p><em>누가 싸움을 시작했는가? 멈추려면 무엇이 필요한가?</em></p></section>",
-                    "actions": {
-                        "4UjyjYaMdcnFmVrL": "<p><strong>공포를 소비</strong>하여 술집에 난투가 벌어지게 합니다. 난투가 진행되는 동안 PC가 술집을 가로지르려 할 때, 민첩 또는 매력 굴림에 성공해야 하며, 그렇지 않으면 우발적인 타격이나 던져진 물건으로 <strong>1d6+2</strong> 물리 피해를 받습니다. PC는 술집 손님들을 도발하는 행동 굴림에 성공해 이 기능을 발동시킬 수 있습니다.</p><section class='secret' id='secret-xLK8VSKLM6JQRySG'><p><em>누가 싸움을 시작했는가? 멈추려면 무엇이 필요한가?</em></p></section>"
-                    }
+                    "name": "선술집 싸움!",
+                    "description": "<p><strong>공포를 소모</strong>하여 선술집에서 싸움이 벌어지게 합니다. 싸움이 계속되는 동안, PC가 선술집을 가로질러 이동하려 하면 민첩 또는 매력 굴림에 성공해야 하며, 실패 시 휘두른 주먹이나 던져진 물건에 맞아 <strong>1d6+2</strong>의 물리 피해를 입습니다. PC는 주점 손님들을 도발할 수 있는 행동 굴림에 성공하면 이 기능을 활성화할 수 있습니다.</p><section class=\"secret\" id=\"secret-xLK8VSKLM6JQRySG\"><p><em>누가 싸움을 시작했나요? 그것을 멈추려면 무엇이 필요할까요?</em></p></section>"
+                },
+                "QPezCAC18vIc5xRC": {
+                    "name": "누군가 마을에 온다",
+                    "description": "<p>파티를 고용하고 싶어 하거나, PC의 배경과 관련된 중요한 NPC가 등장합니다.</p><section class=\"secret\" id=\"secret-DB6Th0yGCjAsAZp6\"><p><em>그들은 PC가 이곳에 있다는 것을 알고 있었나요? 그들이 이 마을에서 원하는 것은 무엇인가요?</em></p></section>"
+                },
+                "cAbSo5VQHxJqJPKm": {
+                    "name": "수수께끼의 낯선 자",
+                    "description": "<p>정체를 숨기고 그늘진 부스에 숨어 있는 낯선 자가 모습을 드러냅니다.</p><section id=\"secret-tgxS9TgbDCpI1kZC\" class=\"secret\"><p><em>그들은 무엇을 원하나요? PC들에 대해 어떤 인상을 가지고 있나요? 그들의 태도나 장신구는 어떤가요?</em></p></section>"
+                },
+                "oLn3co1mN83OiFWo": {
+                    "name": "노래로 저녁 값을",
+                    "description": "<p>PC는 매력 굴림을 하여 손님들을 위해 한 번 공연할 수 있습니다. 성공 시, 금화 <strong>[[/r 1d4]]</strong>줌을 얻고(치명적 성공 시 <strong>[[/r 2d4]]</strong>), 실패 시 <strong>스트레스를 표시</strong>합니다.</p><section id=\"secret-vrH9YdQGP2sTa3cV\" class=\"secret\"><p><em>당신은 어떤 곡을 공연하나요? 그 곡은 당신에게 어떤 의미인가요? 마지막으로 사람들 앞에서 그것을 연주한 것은 언제였나요?</em></p></section>"
                 }
             }
         },
         "Mountain Pass": {
-            "name": "산악 고개",
-            "description": "<p>구름을 꿰뚫는 바위 봉우리들이 있고, 여러 굽이진 길을 따라 오르내리는 굽이진 산길이 있는 곳.</p>",
-            "impulses": "보급품과 체력에 얼어붙는 대가를 요구하기, 마법의 개입을 드러내기, 여정 지연시키기",
+            "name": "산길",
+            "description": "<p>구름을 찌르는 바위 봉우리들 사이로, 수많은 굽이와 갈지자 길을 따라 이어지는 꼬불꼬불한 오솔길입니다.</p>",
+            "impulses": "보급품과 체력을 가혹하게 소모시키기, 마법적 개입을 드러내기, 여행을 늦추기",
             "items": {
+                "K8ld4m5yTA6WZwUs": {
+                    "name": "얼어붙은 바람",
+                    "description": "<p><em>카운트다운 (반복 4).</em> PC가 산길에 들어서면 카운트다운을 시작합니다. 발동되면, 산길을 지나는 모든 캐릭터는 근력 대응 굴림에 성공해야 하며, 실패하면 <strong>스트레스를 표시</strong>합니다. 혹한에 맞는 복장을 입은 PC는 이 굴림에 이점을 얻습니다.</p><section class=\"secret\" id=\"secret-FsJMzj3ZZuf134s2\"><p><em>PC들의 몸에서 어느 부분이 먼저 얼어붙나요? 앞으로 나아가면서 그들은 어떻게 체온을 유지하려 하나요?</em></p></section>",
+                    "actions": {
+                        "kDV2h9DhO6fEDcjl": "<p>산길을 지나는 모든 캐릭터는 근력 대응 굴림에 성공해야 하며, 실패하면 <strong>스트레스를 표시</strong>합니다. 혹한에 맞는 복장을 입은 PC는 이 굴림에 이점을 얻습니다.</p><section class=\"secret\" id=\"secret-nEZRdWaqMAIUoQG0\"><p><em>PC들의 몸에서 어느 부분이 먼저 얼어붙나요? 앞으로 나아가면서 그들은 어떻게 체온을 유지하려 하나요?</em></p></section>",
+                        "yJj6IsNNTEyKndvO": "<p><em>카운트다운 (반복 4).</em> PC가 산길에 들어서면 카운트다운을 시작합니다.</p>"
+                    }
+                },
                 "cIAMenvMXHPTpOFn": {
-                    "name": "새겨진 인장",
-                    "description": "<p>산의 비탈에 큰 표식과 조각이 새겨져 있습니다. 관련된 배경이나 경험을 가진 PC는 이를 얼음 바람의 위력을 증폭시키는 날씨 마법으로 식별합니다. 지식 굴림에 성공한 PC는 인장에 관한 정보, 제작자에 대한 잠재적 정보, 그리고 인장을 해제하는 방법에 대한 지식을 떠올릴 수 있습니다. PC가 치명적 성공 성공을 거두면, 인장이 산악 마법사들이 만든 양식임을 알게 되며 인장 해제 굴림에 이점를 얻습니다. </p><section id='secret-5FNK8Z7pIo0nEyCA' class='secret'><p><em>누가 이 주문을 걸었는가? 그들은 근처에 있는가? 그들은 왜 날씨를 더 무섭게 만들고 싶었는가?</em></p></section>"
+                    "name": "각인된 문양",
+                    "description": "<p>산비탈에는 거대한 문양이 새겨져 있습니다. 관련된 배경이나 경험을 가진 PC는 이것이 매서운 바람을 강화하는 기상 마법임을 알아차립니다. 지식 굴림에 성공한 PC는 이 문양들에 대한 정보, 그것을 만든 이들에 대한 단서, 그리고 문양을 해제하는 방법에 대해 떠올릴 수 있습니다. 치명적 성공 시, PC는 이 문양이 산악 민족 마법사들이 만든 양식임을 알아내며, 문양을 해제하는 굴림에 이점을 얻습니다.</p><section id=\"secret-5FNK8Z7pIo0nEyCA\" class=\"secret\"><p><em>누가 이 마법을 걸었나요? 그들은 근처에 있나요? 왜 날씨를 더욱 험악하게 만들고 싶었던 걸까요?</em></p></section>"
+                },
+                "hkZVEduCWJFR0h2S": {
+                    "name": "맹금의 둥지",
+                    "description": "<p>PC가 맹금류의 사냥터에 들어서면, 두 마리의 @UUID[Compendium.daggerheart.adversaries.Actor.OMQ0v6PE8s1mSU0K]{거대 독수리}가 선택된 PC로부터 매우 먼 거리 내에 나타나, PC들을 사냥감으로 인식합니다.</p><section id=\"secret-aU19zKlmhVBdS2oF\" class=\"secret\"><p><em>독수리들이 마지막으로 먹이를 찾은 지 얼마나 되었나요? 그들의 둥지에는 알이나 아직 날지 못하는 새끼들이 있나요?</em></p></section>"
                 },
                 "jkm03DXYYajsRk2j": {
                     "name": "눈사태",
-                    "description": "<p>공포를 소비하여 얼음 바람으로 산을 가르며 눈사태를 일으킵니다. 경로상의 모든 PC는 민첩 또는 근력 대응 굴림에 성공해야 하며, 그렇지 않으면 산 아래로 쓸려 내려갑니다. 밧줄, 갈고리, 또는 다른 등반 장비를 사용 중인 PC는 이 굴림에 이점를 얻습니다. 실패한 대상은 산에서 먼 거리만큼 떠밀려 내려가고 <strong>2d20</strong> 물리 피해를 받으며 스트레스를 표시해야 합니다. 성공한 대상은 스트레스를 표시해야 합니다. </p><section id='secret-3gM8fEJ1vD9W88k' class='secret'><p><em>PC들은 눈사태에서 어떻게 살아남으려 하는가? 동료들이 산비탈을 따라 휩쓸려 갈 때 캐릭터들은 서로를 찾기 위해 어떤 접근을 택하는가?</em></p></section>",
+                    "description": "<p><strong>공포를 소모</strong>하여 얼음의 격류로 산을 갈라 눈사태를 일으킵니다. 경로에 있는 모든 PC는 민첩 또는 근력 대응 굴림에 성공해야 하며, 실패 시 휩쓸려 산 아래로 떠밀려 갑니다. 로프, 피톤, 기타 등반 장비를 사용하는 PC는 이 굴림에 이점을 얻습니다. 실패한 대상은 산 아래 먼 거리까지 굴러 떨어지고, <strong>2d20</strong>의 물리 피해를 입으며 <strong>스트레스를 표시</strong>해야 합니다. 성공한 대상도 스트레스를 기록해야 합니다.</p><section id=\"secret-3gM8fEJj1vD9W88k\" class=\"secret\"><p><em>PC들은 어떻게 눈사태를 견뎌내려 하나요? 동료가 산비탈 아래로 굴러떨어질 때, 캐릭터들은 서로를 찾기 위해 어떤 방법을 쓰나요?</em></p></section>",
                     "actions": {
-                        "P2fHddwfyEGUwpCH": "<p>공포를 소비하여 얼음 바람으로 산을 가르며 눈사태를 일으킵니다. 경로상의 모든 PC는 민첩 또는 근력 대응 굴림에 성공해야 하며, 그렇지 않으면 산 아래로 쓸려 내려갑니다. 밧줄, 갈고리, 또는 다른 등반 장비를 사용 중인 PC는 이 굴림에 이점를 얻습니다. 실패한 대상은 산에서 먼 거리만큼 떠밀려 내려가고 <strong>2d20</strong> 물리 피해를 받으며 스트레스를 표시해야 합니다. 성공한 대상은 스트레스를 표시해야 합니다. </p><section id='secret-3gM8fEJ1vD9W88k' class='secret'><p><em>PC들은 눈사태에서 어떻게 살아남으려 하는가? 동료들이 산비탈을 따라 휩쓸려 갈 때 캐릭터들은 서로를 찾기 위해 어떤 접근을 택하는가?</em></p></section>"
-                    }
-                },
-                "hkZVEduCWJFR0h2S": {
-                    "name": "포식자의 둥지",
-                    "description": "<p>PC들이 포식자의 사냥터에 들어가면, @UUID[Compendium.daggerheart.adversaries.Actor.OMQ0v6PE8s1mSU0K]{거대 독수리} 두 마리가 선택한 PC로부터 매우 먼 거리에 나타나 PC들을 손쉬운 먹잇감으로 식별합니다.</p><section id='secret-aU19zKlmhVBdS2oF' class='secret'><p><em>독수리들은 마지막으로 사냥감을 찾은 지 얼마나 되었는가? 둥지에는 알이나 깃털이 다 나지 않은 새끼들이 있는가?</em></p></section>"
-                },
-                "K8ld4m5yTA6WZwUs": {
-                    "name": "얼음 바람",
-                    "description": "<p>카운트다운 (주기 4). PC들이 산악 고개에 들어올 때 카운트다운을 활성화합니다. 카운트다운이 발동되면, 고개를 지나는 모든 캐릭터는 근력 대응 굴림에 성공하거나 스트레스를 표시해야 합니다. 극한의 추위에 적합한 옷을 입은 PC는 이 굴림에 이점를 얻습니다.</p><section id='secret-FsJMzj3ZZuf134s2' class='secret'><p><em>PC의 어느 부위가 가장 먼저 마비되는가? 그들은 앞으로 나아가면서 어떻게 몸을 데우려 하는가?</em></p></section>",
-                    "actions": {
-                        "P6U45vsXJmEW6BBj": "<p>카운트다운 (주기 4). PC들이 산악 고개에 들어올 때 카운트다운을 활성화합니다. 카운트다운이 발동되면, 고개를 지나는 모든 캐릭터는 근력 대응 굴림에 성공하거나 스트레스를 표시해야 합니다. 극한의 추위에 적합한 옷을 입은 PC는 이 굴림에 이점를 얻습니다.</p><section id='secret-FsJMzj3ZZuf134s2' class='secret'><p><em>PC의 어느 부위가 가장 먼저 마비되는가? 그들은 앞으로 나아가면서 어떻게 몸을 데우려 하는가?</em></p></section>",
-                        "kDV2h9DhO6fEDcjl": "<p>카운트다운 (주기 4). PC들이 산악 고개에 들어올 때 카운트다운을 활성화합니다. 카운트다운이 발동되면, 고개를 지나는 모든 캐릭터는 근력 대응 굴림에 성공하거나 스트레스를 표시해야 합니다. 극한의 추위에 적합한 옷을 입은 PC는 이 굴림에 이점를 얻습니다.</p><section id='secret-FsJMzj3ZZuf134s2' class='secret'><p><em>PC의 어느 부위가 가장 먼저 마비되는가? 그들은 앞으로 나아가면서 어떻게 몸을 데우려 하는가?</em></p></section>"
+                        "P2fHddwfyEGUwpCH": "<p><strong>공포를 소모</strong>하여 얼음의 격류로 산을 갈라 눈사태를 일으킵니다. 경로에 있는 모든 PC는 민첩 또는 근력 대응 굴림에 성공해야 하며, 실패 시 휩쓸려 산 아래로 떠밀려 갑니다. 로프, 피톤, 기타 등반 장비를 사용하는 PC는 이 굴림에 이점을 얻습니다. 실패한 대상은 산 아래 먼 거리까지 굴러 떨어지고, <strong>2d20</strong>의 물리 피해를 입으며 <strong>스트레스를 표시</strong>해야 합니다. 성공한 대상도 스트레스를 기록해야 합니다.</p><section class=\"secret\" id=\"secret-scxxru7P29oZ1dt8\"><p><em>PC들은 어떻게 눈사태를 견뎌내려 하나요? 동료가 산비탈 아래로 굴러떨어질 때, 캐릭터들은 서로를 찾기 위해 어떤 방법을 쓰나요?</em></p></section>"
                     }
                 }
             }
         },
         "Necromancer’s Ossuary": {
-            "name": "강령술사의 납골당",
-            "description": "<p>도서관, 구불구불한 통로, 그리고 불행한 침입자들의 피로 얼룩진 수많은 석관이 있는 먼지투성이의 무덤.</p>",
-            "impulses": "초대받지 않은 손님 혼란시키기, 묻혀 있어야 할 비밀에 더 깊이 파고들기, 비생명 발현시키기, 언데드의 물결 풀어놓기",
+            "name": "네크로맨서의 납골당",
+            "description": "<p>먼지가 쌓인 지하 납골당에는 도서관과 뒤얽힌 회랑, 수많은 석관이 있으며, 불운한 침입자들의 피가 여기저기 흩뿌려져 있습니다.</p>",
+            "impulses": "침입자를 혼란시키기, 묻힌 채 두어야 할 비밀을 파헤치기, 시체 일으키기, 언데드의 물결을 풀어놓기",
             "items": {
-                "SJo1Pw0fE4vKnisr": {
-                    "name": "산 자에게 자리는 없다",
-                    "description": "<p>HP를 회복하는 기능이나 행동은 사용하기 위해 희망 소비를 필요로 합니다. 이미 희망이 필요한 능력이라면, PC는 추가 희망을 소비해야 합니다.</p><section class='secret' id='secret-kxbv8Ju7dkBJnduH'><p><em>생명과 너무도 대척점에 있는 장소에서 치유를 시도하는 것은 어떤 느낌인가?</em></p></section>",
-                    "actions": {
-                        "jVY198vniaTSlgsX": "<p>HP를 회복하는 기능이나 행동은 사용하기 위해 희망 소비를 필요로 합니다. 이미 희망이 필요한 능력이라면, PC는 추가 희망을 소비해야 합니다.</p><section class='secret' id='secret-kxbv8Ju7dkBJnduH'><p><em>생명과 너무도 대척점에 있는 장소에서 치유를 시도하는 것은 어떤 느낌인가?</em></p></section>"
-                    }
-                },
                 "Egi337jsYlldHzEH": {
-                    "name": "수 세기의 지식",
-                    "description": "<p>PC는 도서관과 실험실을 조사하고 지식 굴림을 하여 비전, 지역 역사, 강령술사의 계획과 관련된 정보를 얻을 수 있습니다.</p><section id='secret-HAWRKErLm6NSqzHc' class='secret'><p><em>책들의 제목은 무엇인가? 강령술사는 어떤 프로젝트를 진행 중이며, 그것이 그의 계획에 대해 무엇을 말해주는가?</em></p></section>"
+                    "name": "수세기의 지식",
+                    "description": "<p>PC는 도서관과 실험실을 조사하며 지식 굴림을 시도해 비전학, 지역 역사, 그리고 네크로맨서의 계획과 관련된 정보를 얻을 수 있습니다.</p><section id=\"secret-HAWRKErLm6NSqzHc\" class=\"secret\"><p><em>고서들의 제목은 무엇인가요? 네크로맨서가 진행 중인 계획은 무엇이며, 그것이 그의 의도를 어떻게 드러내나요?</em></p></section>"
+                },
+                "SJo1Pw0fE4vKnisr": {
+                    "name": "산 자의 설 자리는 없다",
+                    "description": "<p>HP를 회복하는 기능이나 행동은 희망을 소모해야 사용할 수 있습니다. 이미 희망을 요구하는 경우, PC는 추가로 희망을 더 소모해야 합니다.</p><section class=\"secret\" id=\"secret-kxbv8Ju7dkBJnduH\"><p><em>삶에 이토록 적대적인 장소에서 치유를 시도하는 것은 어떤 기분일까요?</em></p></section>",
+                    "actions": {
+                        "jVY198vniaTSlgsX": "<p>HP를 회복하는 기능이나 행동은 희망을 소모해야 사용할 수 있습니다. 이미 희망을 요구하는 경우, PC는 추가로 희망을 더 소모해야 합니다.</p><section class=\"secret\" id=\"secret-Ls4rMO6N9zzuR2Ib\"><p><em>삶에 이토록 적대적인 장소에서 치유를 시도하는 것은 어떤 기분일까요?</em></p></section>"
+                    }
                 },
                 "asSGMUdf4gG4PO8F": {
-                    "name": "해골의 폭발",
-                    "description": "<p>이 환경에서 당신이 선택한 지점에서 가까운 거리 내의 모든 대상은 민첩 대응 굴림에 성공해야 하며, 그렇지 않으면 납골당의 일부가 그들 주위에서 폭발하면서 해골 파편으로 <strong>4d8+8</strong> 물리 피해를 받습니다.</p><p>@Template[type:circle|range:c]</p><section id='secret-b6zF5gClmMcrmeVT' class='secret'><p><em>어떤 고대의 해골 구조물이 무너지는가? 어떤 뼈가 당신의 갑옷에 박히는가?</em></p></section>",
+                    "name": "골격 폭발",
+                    "description": "<p>이 환경에서 선택한 지점의 가까운 거리 내의 모든 대상은 민첩 대응 굴림에 성공해야 하며, 실패할 경우 납골당 일부가 폭발하며 튀어나오는 뼛조각에 맞아 <strong>4d8+8</strong>의 물리 피해를 입습니다.</p><section id=\"secret-b6zF5gClmMcrmeVT\" class=\"secret\"><p><em>어떤 고대의 뼈 구조물이 파괴되나요? 어떤 뼛조각이 당신의 갑옷에 박히나요?</em></p></section>",
                     "actions": {
-                        "M1mOwi4Limw2hRwL": "<p>이 환경에서 당신이 선택한 지점에서 가까운 거리 내의 모든 대상은 민첩 대응 굴림에 성공해야 하며, 그렇지 않으면 납골당의 일부가 그들 주위에서 폭발하면서 해골 파편으로 <strong>4d8+8</strong> 물리 피해를 받습니다.</p><p>@Template[type:circle|range:c]</p><section id='secret-b6zF5gClmMcrmeVT' class='secret'><p><em>어떤 고대의 해골 구조물이 무너지는가? 어떤 뼈가 당신의 갑옷에 박히는가?</em></p></section>"
-                    }
-                },
-                "mnpqMpYCjdlwtvBp": {
-                    "name": "죽음의 오라",
-                    "description": "<p>장면당 1회, <strong>d4</strong>를 굴립니다. 강령술사로부터 먼 거리 내의 각 언데드는 굴림 결과만큼의 HP와 스트레스를 회복할 수 있습니다. 언데드는 그 숫자를 HP와 스트레스 사이에 어떻게 분배할지 선택할 수 있습니다.</p><section id='secret-LzevSyHyOxNxLwwh' class='secret'><p><em>그들의 새로워진 에너지는 어떻게 발현되는가? 그들은 더 살아 있는 것처럼 보이는가, 아니면 역설적으로 더 부패했지만 활기차 보이는가?</em></p></section>",
-                    "actions": {
-                        "UWCibXbQZG22PJ3l": "<p>장면당 1회, <strong>d4</strong>를 굴립니다. 강령술사로부터 먼 거리 내의 각 언데드는 굴림 결과만큼의 HP와 스트레스를 회복할 수 있습니다. 언데드는 그 숫자를 HP와 스트레스 사이에 어떻게 분배할지 선택할 수 있습니다.</p><section id='secret-LzevSyHyOxNxLwwh' class='secret'><p><em>그들의 새로워진 에너지는 어떻게 발현되는가? 그들은 더 살아 있는 것처럼 보이는가, 아니면 역설적으로 더 부패했지만 활기차 보이는가?</em></p></section>"
+                        "M1mOwi4Limw2hRwL": "<p>이 환경에서 선택한 지점의 가까운 거리 내의 모든 대상은 민첩 대응 굴림에 성공해야 하며, 실패할 경우 납골당 일부가 폭발하며 튀어나오는 뼛조각에 맞아 <strong>4d8+8</strong>의 물리 피해를 입습니다.</p><section id=\"secret-xjKFOtdFFWAgx2Cv\" class=\"secret\"><p><em>어떤 고대의 뼈 구조물이 파괴되나요? 어떤 뼛조각이 당신의 갑옷에 박히나요?</em></p></section>"
                     }
                 },
                 "chJRXNg5zyTGbcG5": {
-                    "name": "그들은 그저 계속 다가온다!",
-                    "description": "<p><strong>공포를 소비</strong>하여 [[/r 1d6]] 명의 @UUID[Compendium.daggerheart.adversaries.Actor.gP3fWTLzSFnpA8EJ]{부패한 좀비}, 두 명의 @UUID[Compendium.daggerheart.adversaries.Actor.CP6iRfHdyFWniTHY]{완성된 좀비}, 또는 @UUID[Compendium.daggerheart.adversaries.Actor.YhJrP7rTBiRdX5Fp]{좀비 군단}을 소환합니다. 그들은 선택한 PC로부터 가까운 거리에 나타납니다. <p><em>이들은 강령술사의 졸이 되기 전에 누구였는가? 영웅들이 볼 수 있도록 그 삶의 어떤 잔재가 남아 있는가?</em></p>",
+                    "name": "끊임없이 몰려온다!",
+                    "description": "<p><strong>공포를 소모</strong>하여 [[/r 1d6]]의 @UUID[Compendium.daggerheart.adversaries.Actor.gP3fWTLzSFnpA8EJ]{썩어가는 좀비}, @UUID[Compendium.daggerheart.adversaries.Actor.CP6iRfHdyFWniTHY]{완성체 좀비} 두 마리, 혹은 @UUID[Compendium.daggerheart.adversaries.Actor.YhJrP7rTBiRdX5Fp]{좀비 군단}을 소환합니다. 이들은 선택된 PC의 가까운 거리 내에 나타납니다.</p><section class=\"secret\" id=\"secret-O5DKa2eIgNp51OVK\"><p><em>이들이 네크로맨서의 졸개가 되기 전에는 누구였나요? 그 삶의 어떤 흔적이 여전히 남아 있어 영웅들이 목격할 수 있나요?</em></p></section>",
                     "actions": {
-                        "hFeTdiHWeCYkb8Hg": "<p><strong>공포를 소비</strong>하여 [[/r 1d6]] 명의 @UUID[Compendium.daggerheart.adversaries.Actor.gP3fWTLzSFnpA8EJ]{부패한 좀비}, 두 명의 @UUID[Compendium.daggerheart.adversaries.Actor.CP6iRfHdyFWniTHY]{완성된 좀비}, 또는 @UUID[Compendium.daggerheart.adversaries.Actor.YhJrP7rTBiRdX5Fp]{좀비 군단}을 소환합니다. 그들은 선택한 PC로부터 가까운 거리에 나타납니다. <p><em>이들은 강령술사의 졸이 되기 전에 누구였는가? 영웅들이 볼 수 있도록 그 삶의 어떤 잔재가 남아 있는가?</em></p>"
+                        "hFeTdiHWeCYkb8Hg": "<p><strong>공포를 소모</strong>하여 [[/r 1d6]]의 @UUID[Compendium.daggerheart.adversaries.Actor.gP3fWTLzSFnpA8EJ]{썩어가는 좀비}, @UUID[Compendium.daggerheart.adversaries.Actor.CP6iRfHdyFWniTHY]{완성체 좀비} 두 마리, 혹은 @UUID[Compendium.daggerheart.adversaries.Actor.YhJrP7rTBiRdX5Fp]{좀비 군단}을 소환합니다. 이들은 선택된 PC의 가까운 거리 내에 나타납니다.</p><section class=\"secret\" id=\"secret-Du2785Ih29RVrHpG\"><p><em>이들이 네크로맨서의 졸개가 되기 전에는 누구였나요? 그 삶의 어떤 흔적이 여전히 남아 있어 영웅들이 목격할 수 있나요?</em></p></section>"
+                    }
+                },
+                "mnpqMpYCjdlwtvBp": {
+                    "name": "죽음의 기운",
+                    "description": "<p>장면마다 한 번, <strong>d4</strong>를 굴립니다. 네크로맨서로부터 먼 거리 이내의 모든 언데드는 굴린 결과치만큼의 HP와 스트레스를 회복할 수 있습니다. 이 수치는 HP와 스트레스 사이에서 자유롭게 분배할 수 있습니다.</p><section id=\"secret-LzevSyHyOxNxLwwh\" class=\"secret\"><p><em>그들의 되살아난 활력은 어떻게 드러나나요? 그들은 더 생기 있어 보이나요, 아니면 역설적으로 더욱 부패했지만 활력이 넘치나요?</em></p></section>",
+                    "actions": {
+                        "UWCibXbQZG22PJ3l": "<p>장면마다 한 번, <strong>d4</strong>를 굴립니다. 네크로맨서로부터 먼 거리 이내의 모든 언데드는 굴린 결과치만큼의 HP와 스트레스를 회복할 수 있습니다. 이 수치는 HP와 스트레스 사이에서 자유롭게 분배할 수 있습니다.</p><section class=\"secret\" id=\"secret-frj3OBrXCjpKtWSg\"><p><em>그들의 되살아난 활력은 어떻게 드러나나요? 그들은 더 생기 있어 보이나요, 아니면 역설적으로 더욱 부패했지만 활력이 넘치나요?</em></p></section>"
                     }
                 }
             }
         },
         "Outpost Town": {
-            "name": "변경 도시",
-            "description": "<p>나라나 지역 변두리에 위치한 작은 도시로, 던전, 무덤, 또는 다른 모험 장소에서 멀지 않은 곳에 있습니다.</p>",
-            "impulses": "절박한 자들을 확실한 죽음으로 내몰기, 헛된 희망으로 이득 보기",
+            "name": "변방 마을",
+            "description": "<p>국가나 지역의 변두리에 있는 작은 마을로, 던전, 무덤, 혹은 다른 모험지와 가까운 곳에 위치해 있습니다.</p>",
+            "impulses": "절망한 자들을 확실한 파멸로 몰아넣기, 너덜너덜한 희망에서 이익 취하기",
             "items": {
-                "whN2Ztn2wMqD7uW3": {
-                    "name": "도처의 소문",
-                    "description": "<p>소문은 왕국에서 가장 빠르게 퍼지는 화폐입니다. PC는 매력 굴림으로 큰 사건들에 대해 알 수 있습니다. 굴림 결과에 따라 다음 기준대로 알아내는 내용이 결정됩니다: </p><ul><li><p><strong>치명적 성공 성공:</strong> 두 건의 큰 사건에 대해 알아냅니다. PC는 그중 하나의 소문에 대해 명확화 질문 하나를 하고, 진실한(항상 완전하지는 않더라도) 답을 받을 수 있습니다. </p></li><li><p><strong>희망과 함께 성공:</strong> 두 사건에 대해 알아내며, 그중 적어도 하나는 캐릭터의 배경과 관련이 있습니다. </p></li><li><p><strong>공포와 함께 성공:</strong> 캐릭터의 배경과 관련된 불안한 소문을 알아냅니다. </p></li><li><p><strong>모든 실패:</strong> 주민들이 그들의 질문에 반응이 좋지 않습니다. PC는 적합한 소문 하나를 알아내기 위해 스트레스를 표시해야 합니다.</p></li></ul><section id='secret-IRa0gzmTR2psynpd' class='secret'><p><em>PC들이 호기심 많은 여행자들에게 전할 만한 어떤 소식이 있는가? 주민들은 이 사건들을 어떻게 생각하는가?</em></p></section>"
-                },
-                "nhf2TK7HSkuAgIi8": {
-                    "name": "부서진 나침반 협회",
-                    "description": "<p>모험가 협회가 이곳에 본부를 두고 있으며, 영웅들이 자랑과 소문을 나누고, 가짜 성공을 위해 건배하고, 경쟁자를 무너뜨리기 위해 음모를 꾸밉니다. </p><section id='secret-dqbYBpMMEMIe3Woh' class='secret'><p><em>모험가들은 이곳에서 어떤 자랑을 늘어놓는가? 당신 생각에 그중 어떤 것이 진실인가?</em></p></section>"
+                "21tdueq5Wgvj3vG4": {
+                    "name": "때와 장소가 잘못되었다",
+                    "description": "<p>밤이나, 파티가 뒷골목에 홀로 있을 때, <strong>공포를 소모</strong>하여 그들을 털려는 도둑 무리를 등장시킬 수 있습니다. 도둑들은 선택된 PC의 가까운 거리 내에 나타나며, 톱니칼 도적단의 @UUID[Compendium.daggerheart.adversaries.Actor.CBKixLH3yhivZZuL]{무릎파괴자} 1명, PC 수와 동일한 수의 @UUID[Compendium.daggerheart.adversaries.Actor.C0OMQqV7pN6t7ouR]{졸개}, 그리고 1명의 @UUID[Compendium.daggerheart.adversaries.Actor.aTljstqteGoLpCBq]{부관}을 포함합니다. 파티가 더 크다면, @UUID[Compendium.daggerheart.adversaries.Actor.MbBPIOxaxXYNApXz]{주술사}나 @UUID[Compendium.daggerheart.adversaries.Actor.1zuyof1XuIfi3aMG]{저격수}를 추가합니다.</p><section class=\"secret\" id=\"secret-5MEuvRtxMnpLEwAA\"><p><em>이 사람들이 절망한 전직 모험가들이라는 것을 보여주는 단서는 무엇인가요?</em></p></section>",
+                    "actions": {
+                        "UBHQzK5D6Dn5QuPc": "<p>밤이나, 파티가 뒷골목에 홀로 있을 때, <strong>공포를 소모</strong>하여 그들을 털려는 도둑 무리를 등장시킬 수 있습니다. 도둑들은 선택된 PC의 가까운 거리 내에 나타나며, 톱니칼 도적단의 @UUID[Compendium.daggerheart.adversaries.Actor.CBKixLH3yhivZZuL]{무릎파괴자} 1명, PC 수와 동일한 수의 @UUID[Compendium.daggerheart.adversaries.Actor.C0OMQqV7pN6t7ouR]{졸개}, 그리고 1명의 @UUID[Compendium.daggerheart.adversaries.Actor.aTljstqteGoLpCBq]{부관}을 포함합니다.</p><section id=\"secret-8U6iwKGNeWQ27x1A\" class=\"secret\"><p>파티가 더 크다면, @UUID[Compendium.daggerheart.adversaries.Actor.MbBPIOxaxXYNApXz]{주술사}나 @UUID[Compendium.daggerheart.adversaries.Actor.1zuyof1XuIfi3aMG]{저격수}를 추가합니다.</p><p><em>이 사람들이 절망한 전직 모험가들이라는 것을 보여주는 단서는 무엇인가요?</em></p></section>"
+                    }
                 },
                 "cPozA1iT4NLwsWqB": {
-                    "name": "적대적 일행",
-                    "description": "<p>PC와 같은 보물이나 단서를 찾는 다른 모험가 일행이 이곳에 있습니다. </p><section id='secret-1CvOSOAzIzFqPzXt' class='secret'><p><em>적대 일행의 일원 중 한 명과 어떤 PC가 인연이 있는가? 그들은 PC에게 먼저 접근하는가, 아니면 PC가 움직이기를 기다리는가?</em></p></section>"
+                    "name": "라이벌 파티",
+                    "description": "<p>다른 모험가 파티가 이곳에 있으며, PC들과 같은 보물이나 단서를 찾고 있습니다.</p><section id=\"secret-1CvOSOAzIzFqPzXt\" class=\"secret\"><p><em>PC 중 누가 라이벌 파티의 일원과 인연이 있나요? 그들이 먼저 다가오나요, 아니면 PC가 움직이기를 기다리나요?</em></p></section>"
+                },
+                "nhf2TK7HSkuAgIi8": {
+                    "name": "부서진 나침반의 모험가회",
+                    "description": "<p>한 모험가회가 이곳에 지부를 두고 있으며, 영웅들이 서로 자랑과 소문을 교환하고, 상상의 성공을 위해 술잔을 기울이며, 경쟁자를 꺾을 계략을 꾸밉니다.</p><section id=\"secret-dqbYBpMMEMIe3Woh\" class=\"secret\"><p><em>이곳의 모험가들은 어떤 자랑을 하고 있나요? 그중 진실은 무엇이라고 생각하시나요?</em></p></section>"
                 },
                 "uxu8YrvYVxP3Qc2y": {
-                    "name": "당신 가게에 무슨 일이라도 생기면 안타까울 텐데요",
-                    "description": "<p>PC들은 지역 범죄 두목의 부하들이 잡화점에서 돈을 갈취하는 것을 목격합니다. </p><section id='secret-QbURC6tIeF3hLLT6' class='secret'><p><em>PC들이 개입하면 어떤 문제가 생기는가?</em></p></section>"
+                    "name": "가게에 무슨 일이라도 생기면 안 될 텐데",
+                    "description": "<p>PC들은 현지 범죄 보스의 심복들이 잡화점을 갈취하는 장면을 목격합니다.</p><section id=\"secret-QbURC6tIeF3hLLT6\" class=\"secret\"><p><em>PC들이 개입하면 어떤 곤란이 생기나요?</em></p></section>"
                 },
-                "21tdueq5Wgvj3vG4": {
-                    "name": "잘못된 장소, 잘못된 시간",
-                    "description": "<p>밤이거나 일행이 골목에 혼자 있을 때, 당신은 <strong>공포를 소비</strong>하여 일행을 털려고 하는 도둑 무리를 등장시킬 수 있습니다. 도둑들은 선택한 PC로부터 가까운 거리에 나타나며, @UUID[Compendium.daggerheart.adversaries.Actor.CBKixLH3yhivZZuL]{삐죽한 칼날의 다리 꺾기}, PC 수만큼의 @UUID[Compendium.daggerheart.adversaries.Actor.C0OMQqV7pN6t7ouR]{꼭두각시}들, 그리고 @UUID[Compendium.daggerheart.adversaries.Actor.aTljstqteGoLpCBq]{부두목}이 포함됩니다. 더 큰 일행에 대해서는 @UUID[Compendium.daggerheart.adversaries.Actor.MbBPIOxaxXYNApXz]{저주술사}나 @UUID[Compendium.daggerheart.adversaries.Actor.1zuyof1XuIfi3aMG]{삐죽한 칼날의 저격수}를 추가하세요.</p><section class='secret' id='secret-5MEuvRtxMnpLEwAA'><p><em>이들이 절망에 빠진 전직 모험가들이라는 것을 일행에게 보여주는 어떤 세부사항이 있는가?</em></p></section>",
-                    "actions": {
-                        "UBHQzK5D6Dn5QuPc": "<p>밤이거나 일행이 골목에 혼자 있을 때, 당신은 <strong>공포를 소비</strong>하여 일행을 털려고 하는 도둑 무리를 등장시킬 수 있습니다. 도둑들은 선택한 PC로부터 가까운 거리에 나타나며, @UUID[Compendium.daggerheart.adversaries.Actor.CBKixLH3yhivZZuL]{삐죽한 칼날의 다리 꺾기}, PC 수만큼의 @UUID[Compendium.daggerheart.adversaries.Actor.C0OMQqV7pN6t7ouR]{꼭두각시}들, 그리고 @UUID[Compendium.daggerheart.adversaries.Actor.aTljstqteGoLpCBq]{부두목}이 포함됩니다. 더 큰 일행에 대해서는 @UUID[Compendium.daggerheart.adversaries.Actor.MbBPIOxaxXYNApXz]{저주술사}나 @UUID[Compendium.daggerheart.adversaries.Actor.1zuyof1XuIfi3aMG]{삐죽한 칼날의 저격수}를 추가하세요.</p><section class='secret' id='secret-5MEuvRtxMnpLEwAA'><p><em>이들이 절망에 빠진 전직 모험가들이라는 것을 일행에게 보여주는 어떤 세부사항이 있는가?</em></p></section>"
-                    }
+                "whN2Ztn2wMqD7uW3": {
+                    "name": "소문 만연",
+                    "description": "<p>소문은 이 지역에서 가장 빠르게 퍼지는 화폐입니다. PC는 매력 굴림을 통해 주요 사건에 대해 물어볼 수 있으며, 결과에 따라 배울 수 있는 내용은 다음과 같습니다:</p><ul><li><p><strong>치명적 성공:</strong> 두 가지 주요 사건에 대해 알게 됩니다. 또한 소문 하나에 대해 후속 질문을 할 수 있으며, 진실된(항상 완전하진 않은) 답변을 얻습니다.</p></li><li><p><strong>희망으로 성공:</strong> 두 가지 사건에 대해 알게 되며, 그중 적어도 하나는 캐릭터의 배경과 관련이 있습니다.</p></li><li><p><strong>공포로 성공:</strong> 캐릭터의 배경과 관련된 불길한 소문을 듣습니다.</p></li><li><p><strong>실패:</strong> 마을 사람들은 불친절하게 반응합니다. PC는 <strong>스트레스를 표시</strong>해야 관련 소문 하나를 배울 수 있습니다.</p></li></ul><section id=\"secret-IRa0gzmTR2psynpd\" class=\"secret\"><p><em>PC들은 호기심 많은 여행자들에게 어떤 소식을 전할 수 있을까요? 마을 사람들은 이 사건들에 대해 어떻게 생각하나요?</em></p></section>"
                 }
             }
         },
         "Pitched Battle": {
-            "name": "격전",
-            "description": "<p>두 큰 무리의 무장 전사들 사이에서 벌어지는 대규모 전투.</p>",
-            "impulses": "사람, 땅, 부를 빼앗기, 탐욕과 영광을 위해 피 흘리기",
+            "name": "총력전",
+            "description": "<p>무장한 두 대규모 집단 사이에서 벌어지는 대규모 전투입니다.</p>",
+            "impulses": "사람, 땅, 재산을 차지하기, 탐욕과 영광을 위해 피 흘리기",
             "items": {
                 "HG9GwIZoCDcqOEOc": {
-                    "name": "결정적 전투",
-                    "description": "<p>전투가 진행되는 동안 전장에서 움직이는 것은 극히 위험합니다. PC는 움직이기 위해 민첩 굴림에 성공해야 하며, 성공해도 가까운 거리까지만 이동할 수 있습니다. 적대자가 근접 거리 내에 있다면, 그들은 움직임을 위한 민첩 굴림을 하기 위해 스트레스를 표시해야 합니다.</p><section id='secret-c0pwA8OrITyfhrCX' class='secret'><p><em>전투원들은 당신을 적대자로 여기는가, 아니면 침입자로 간주하는가? 난전 속에서 아군과 적군을 구분할 수 있는가?</em></p></section>"
-                },
-                "fnvOiHKsd34EaLqG": {
-                    "name": "약탈과 강탈",
-                    "description": "<p>공격군이 방화하거나 귀중한 자산을 훔치거나 중요 인물을 납치하거나 주민을 학살하여 판돈을 높입니다. </p><section id='secret-5JBRdq8QJcmurvLp' class='secret'><p><em>이곳에서 무엇이 귀중한가? 누가 가장 취약한가?</em></p></section>"
-                },
-                "r9kkodHghWm01mje": {
-                    "name": "전투 마법",
-                    "description": "<p>어느 쪽 마법사가 대규모 파괴 마법을 사용할 때 <strong>공포를 소비</strong>합니다. 마법사로부터 매우 먼 거리 내의 전장 한 지점을 선택합니다. 그 지점에서 가까운 거리 내의 모든 대상은 민첩 대응 굴림을 해야 합니다. 굴림에 실패한 대상은 <strong>3d12+8</strong> 마법 피해를 받고 스트레스를 표시해야 합니다. </p><p>@Template[type:circle|range:c]</p><section id='secret-PpyF0dXMEudYnFqh' class='secret'><p><em>공격은 어떤 형태를 띠는가 — 화염구, 산성비, 칼날의 폭풍? 이 공격이 달성해야 할 전술적 목표는 무엇이며, 다음에는 어떤 일이 일어나는가?</em></p></section>",
-                    "actions": {
-                        "1giAFbu3tGqXwi8g": "<p>어느 쪽 마법사가 대규모 파괴 마법을 사용할 때 <strong>공포를 소비</strong>합니다. 마법사로부터 매우 먼 거리 내의 전장 한 지점을 선택합니다. 그 지점에서 가까운 거리 내의 모든 대상은 민첩 대응 굴림을 해야 합니다. 굴림에 실패한 대상은 <strong>3d12+8</strong> 마법 피해를 받고 스트레스를 표시해야 합니다. </p><p>@Template[type:circle|range:c]</p><section id='secret-PpyF0dXMEudYnFqh' class='secret'><p><em>공격은 어떤 형태를 띠는가 — 화염구, 산성비, 칼날의 폭풍? 이 공격이 달성해야 할 전술적 목표는 무엇이며, 다음에는 어떤 일이 일어나는가?</em></p></section>"
-                    }
+                    "name": "강철의 바다 위에서",
+                    "description": "<p>진행 중인 전투 중 전장을 가로지르는 것은 극도로 위험합니다. PC는 이동하기 위해 반드시 민첩 굴림에 성공해야 하며, 성공하더라도 최대 가까운 거리까지만 이동할 수 있습니다. 만약 적대자가 근접 거리 내에 있다면, 이동을 위해 민첩 굴림을 시도할 때 <strong>스트레스를 표시</strong>해야 합니다.</p><section id=\"secret-c0pwA8OrITyfhrCX\" class=\"secret\"><p><em>전투원들이 당신을 적으로 착각하거나 침입자로 간주하나요? 혼전 속에서 아군과 적군을 구분할 수 있나요?</em></p></section>"
                 },
                 "ZAIvH5CfhehW48EY": {
-                    "name": "지원군",
-                    "description": "<p>지원군으로 @UUID[Compendium.daggerheart.adversaries.Actor.7ai2opemrclQe3VF]{왕국의 기사}, PC 수만큼의 3등급 미니언, 그리고 당신이 선택한 적대자 둘을 선택한 PC로부터 먼 거리 내에 소환합니다. 왕국의 기사는 즉시 중앙에 자리합니다. </p><section id='secret-ZNhg3daBKekzABSQ' class='secret'><p><em>그들은 누구를 먼저 공격하는가? 어떤 진형을 취하는가?</em></p></section>"
+                    "name": "증원군!",
+                    "description": "<p>@UUID[Compendium.daggerheart.adversaries.Actor.7ai2opemrclQe3VF]{왕국의 기사} 1명, PC 수와 동일한 수의 티어 3 졸개, 그리고 선택한 PC로부터 먼 거리 내에 당신이 선택한 적대자 2명을 증원으로 소환합니다. 왕국의 기사는 즉시 주목을 받습니다.</p><section id=\"secret-ZNhg3daBKekzABSQ\" class=\"secret\"><p><em>그들은 누구를 먼저 노리나요? 어떤 진형을 취하나요?</em></p></section>"
+                },
+                "fnvOiHKsd34EaLqG": {
+                    "name": "불태우고 약탈하기",
+                    "description": "<p>공격군은 불을 지르거나, 귀중한 자산을 빼앗거나, 중요한 인물을 납치하거나, 민간인을 살해함으로써 상황을 더욱 악화시킵니다.</p><section id=\"secret-5JBRdq8QJcmurvLp\" class=\"secret\"><p><em>여기서 무엇이 가장 귀중한가요? 누가 가장 취약한가요?</em></p></section>"
+                },
+                "r9kkodHghWm01mje": {
+                    "name": "전쟁 마법",
+                    "description": "<p>한쪽 진영의 마법사가 대규모 파괴 마법을 사용하며 <strong>공포를 소모</strong>합니다. 마법사로부터 매우 먼 거리 내의 전장에서 한 지점을 선택합니다. 그 지점으로부터 가까운 거리 내의 모든 대상은 민첩 대응 굴림을 해야 합니다. 실패한 대상은 <strong>3d12+8</strong>의 마법 피해를 입고 <strong>스트레스를 표시</strong>해야 합니다.</p><section id=\"secret-PpyF0dXMEudYnFqh\" class=\"secret\"><p><em>그 공격은 어떤 형태인가요—화염구, 산성비, 칼날 폭풍? 이 공격이 달성하려는 전술적 목표는 무엇이며, 그 다음은 무엇일까요?</em></p></section>",
+                    "actions": {
+                        "1giAFbu3tGqXwi8g": "<p>한쪽 진영의 마법사가 대규모 파괴 마법을 사용하며 <strong>공포를 소모</strong>합니다. 마법사로부터 매우 먼 거리 내의 전장에서 한 지점을 선택합니다. 그 지점으로부터 가까운 거리 내의 모든 대상은 민첩 대응 굴림을 해야 합니다. 실패한 대상은 <strong>3d12+8</strong>의 마법 피해를 입고 <strong>스트레스를 표시</strong>해야 합니다.</p><section id=\"secret-jbI9lwrzP59CTRUt\" class=\"secret\"><p><em>그 공격은 어떤 형태인가요—화염구, 산성비, 칼날 폭풍? 이 공격이 달성하려는 전술적 목표는 무엇이며, 그 다음은 무엇일까요?</em></p></section>"
+                    }
                 }
             }
         },
         "Raging River": {
-            "name": "거센 강",
-            "description": "<p>다리가 없는 빠른 강으로, 대부분의 사람을 휩쓸어 갈 만큼 충분히 깊습니다.</p>",
-            "impulses": "장애물 가로지르기, 준비되지 않은 자들 휩쓸기, 땅을 가르기",
+            "name": "거센 강물",
+            "description": "<p>다리를 건널 수 없는 빠른 유속의 강으로, 대부분의 사람들을 휩쓸어갈 만큼 깊습니다.</p>",
+            "impulses": "도하를 막기, 준비되지 않은 자를 휩쓸기, 땅을 가로막아 나누기",
             "items": {
                 "4ILX7BCinmsGqrJM": {
-                    "name": "위험한 도하",
-                    "description": "<p>강을 건너기 위해서는 일행이 진행 카운트다운 (4)을 완료해야 합니다.</p><section class='secret' id='secret-l7tHfgFFOGdvlnll'><p>공포와 함께 실패한 PC는 이 기능에 공포를 소비할 필요 없이 즉시 「물밑의 물살」 행동의 대상이 됩니다.</p></section><p></p><section id='secret-VF0r7nXxQlmuwMpj' class='secret'><p><em>PC 중 누군가는 이전에 비슷한 강을 건너본 적이 있는가? 그들 중 누가 익사를 두려워하는가?</em></p></section>",
+                    "name": "위험한 횡단",
+                    "description": "<p>강을 건너려면 파티가 <em>진행 카운트다운 (4)</em>을 완료해야 합니다.</p><section class=\"secret\" id=\"secret-l7tHfgFFOGdvlnll\"><p>공포로 실패한 굴림을 한 PC는, 공포를 소모하지 않고도 즉시 “소용돌이” 동작의 대상이 됩니다.</p></section><p></p><section class=\"secret\" id=\"secret-VF0r7nXxQlmuwMpj\"><p><em>PC 중 누군가 이런 강을 건넌 경험이 있습니까? 누군가 물에 빠져 죽는 것을 두려워합니까?</em></p></section>",
                     "actions": {
-                        "miodf3TMFrGRCvj6": "<p>강을 건너기 위해서는 일행이 진행 카운트다운 (4)을 완료해야 합니다.</p><section class='secret' id='secret-l7tHfgFFOGdvlnll'><p>공포와 함께 실패한 PC는 이 기능에 공포를 소비할 필요 없이 즉시 「물밑의 물살」 행동의 대상이 됩니다.</p></section><p></p><section id='secret-VF0r7nXxQlmuwMpj' class='secret'><p><em>PC 중 누군가는 이전에 비슷한 강을 건너본 적이 있는가? 그들 중 누가 익사를 두려워하는가?</em></p></section>"
-                    }
-                },
-                "WsNoSwwtv0r80BMj": {
-                    "name": "물밑의 물살",
-                    "description": "<p><strong>공포를 소비</strong>하여 PC를 물밑의 물살에 휩쓸리게 합니다. 그들은 민첩 대응 굴림을 해야 합니다. 실패 시 <strong>1d6+1</strong> 물리 피해를 받고 강 하류로 가까운 거리만큼 이동하며, 강에서 빠져나오기 전까지 취약 상태가 됩니다. 성공 시 스트레스를 표시해야 합니다. </p><section id='secret-H6i1kuyHdtq9Eqgw' class='secret'><p><em>강바닥에는 어떤 장신구와 장식품이 놓여 있는가? 이 강에는 포식자가 헤엄치는가?</em></p></section>",
-                    "actions": {
-                        "f2e3gbhzD7z8BdCc": "<p><strong>공포를 소비</strong>하여 PC를 물밑의 물살에 휩쓸리게 합니다. 그들은 민첩 대응 굴림을 해야 합니다. 실패 시 <strong>1d6+1</strong> 물리 피해를 받고 강 하류로 가까운 거리만큼 이동하며, 강에서 빠져나오기 전까지 취약 상태가 됩니다. 성공 시 스트레스를 표시해야 합니다. </p><section id='secret-H6i1kuyHdtq9Eqgw' class='secret'><p><em>강바닥에는 어떤 장신구와 장식품이 놓여 있는가? 이 강에는 포식자가 헤엄치는가?</em></p></section>"
+                        "91HPIEEcVKPQ5qqn": "<p>강을 건너려면 파티가 <em>진행 카운트다운 (4)</em>을 완료해야 합니다.</p><section class=\"secret\" id=\"secret-aKJuTbAZaPUFxoiE\"><p>공포로 실패한 굴림을 한 PC는, 공포를 소모하지 않고도 즉시 “소용돌이” 동작의 대상이 됩니다.</p></section><p></p><section class=\"secret\" id=\"secret-GSYTFIq8J3k2a4Ww\"><p><em>PC 중 누군가 이런 강을 건넌 경험이 있습니까? 누군가 물에 빠져 죽는 것을 두려워합니까?</em></p></section>"
                     }
                 },
                 "SDTS3LOPMVJOt1S1": {
-                    "name": "끈질긴 사냥꾼",
-                    "description": "<p><strong>공포를 소비</strong>하여 선택한 PC로부터 가까운 거리에 @UUID[Compendium.daggerheart.adversaries.Actor.8KWVLWXFhlY2kYx0]{이점 뱀}을 소환합니다. 뱀은 강 속이나 강가에 나타나 즉시 강조되어 「휘감는 뱀」 행동을 사용합니다.</p><section class='secret' id='secret-F8zsJQg3xWOPpH5v'><p><em>이 짐승은 자기 굴에 어떤 보물을 보관하고 있는가? 어떤 여행자들이 이미 이 포식자의 희생자가 되었는가?</em></p></section>",
+                    "name": "기다리는 사냥꾼",
+                    "description": "<p><strong>공포를 소모</strong>하여 선택한 PC의 가까운 거리 내에 @UUID[Compendium.daggerheart.adversaries.Actor.8KWVLWXFhlY2kYx0]{유리 뱀}을 소환합니다. 뱀은 강 속 혹은 근처에서 나타나며 즉시 주목을 받아 “회전하는 뱀” 행동을 사용합니다.</p><section class=\"secret\" id=\"secret-F8zsJQg3xWOPpH5v\"><p><em>이 짐승의 굴에는 어떤 보물이 있습니까? 이미 어떤 여행자들이 이 포식자의 희생양이 되었습니까?</em></p></section>"
+                },
+                "WsNoSwwtv0r80BMj": {
+                    "name": "소용돌이",
+                    "description": "<p><strong>공포를 소모</strong>하여 PC를 소용돌이에 빠뜨립니다. 대상은 민첩 대응 굴림을 해야 합니다. 실패 시, 대상은 <strong>1d6+1</strong> 물리 피해를 받고, 강을 따라 가까운 거리만큼 떠밀려 가며 강에서 벗어나기 전까지 <em>취약</em> 상태가 됩니다. 성공 시, 대상은 <strong>스트레스를 표시</strong>해야 합니다.</p><section id=\"secret-H6i1kuyHdtq9Eqgw\" class=\"secret\"><p><em>강바닥에는 어떤 장신구와 보물이 흩어져 있습니까? 이 강에서 사냥하는 포식자가 있습니까?</em></p></section>",
                     "actions": {
-                        "Mnp0Yzc7EPVXm8So": "<p><strong>공포를 소비</strong>하여 선택한 PC로부터 가까운 거리에 @UUID[Compendium.daggerheart.adversaries.Actor.8KWVLWXFhlY2kYx0]{이점 뱀}을 소환합니다. 뱀은 강 속이나 강가에 나타나 즉시 강조되어 「휘감는 뱀」 행동을 사용합니다.</p><section class='secret' id='secret-F8zsJQg3xWOPpH5v'><p><em>이 짐승은 자기 굴에 어떤 보물을 보관하고 있는가? 어떤 여행자들이 이미 이 포식자의 희생자가 되었는가?</em></p></section>"
+                        "f2e3gbhzD7z8BdCc": "<p><strong>공포를 소모</strong>하여 PC를 소용돌이에 빠뜨립니다. 대상은 민첩 대응 굴림을 해야 합니다. 실패 시, 대상은 <strong>1d6+1</strong> 물리 피해를 받고, 강을 따라 가까운 거리만큼 떠밀려 가며 강에서 벗어나기 전까지 <em>취약</em> 상태가 됩니다. 성공 시, 대상은 <strong>스트레스를 표시</strong>해야 합니다.</p><section class=\"secret\" id=\"secret-FmZbu6m2gtachqyE\"><p><em>강바닥에는 어떤 장신구와 보물이 흩어져 있습니까? 이 강에서 사냥하는 포식자가 있습니까?</em></p></section>"
+                    },
+                    "effects": {
+                        "T0ouSQyR8cVpAn79": {
+                            "name": "소용돌이",
+                            "description": "<p>강에서 벗어나기 전까지 <em>취약</em>.</p>"
+                        }
                     }
                 }
             }

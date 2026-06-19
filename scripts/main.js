@@ -14,7 +14,7 @@ Hooks.once('babele.init', (babele) => {
     // (고유 연출명 Wild Flame 등은 domains/classes의 항목별 번역에서 처리)
     const ACTION_NAME_MAP = {
         "Attack": "공격",
-        "Roll Save": "내성 굴림",
+        "Roll Save": "대응 굴림",
         "Spellcast Roll": "주문시전 굴림",
         "Agility Roll": "민첩 굴림",
         "Cast": "시전",
@@ -82,8 +82,8 @@ Hooks.once('babele.init', (babele) => {
         "Protect": "보호",
         "Halve Evasion": "회피 절반",
         "Become Dazed": "혼란 상태",
-        "Spotlight Allies": "아군 강조",
-        "Spotlight: Relentless": "강조: 끈질김",
+        "Spotlight Allies": "아군 주목",
+        "Spotlight: Relentless": "주목: 집요함",
         "Fire": "불",
         "Earth": "대지",
         "Water": "물",
@@ -107,7 +107,7 @@ Hooks.once('babele.init', (babele) => {
         "Imbue": "주입",
         "Influence": "영향",
         "Summon Demon": "악마 소환",
-        "Spotlight Demons": "악마 강조",
+        "Spotlight Demons": "악마 주목",
         "Splash": "끼얹기",
         "Acid Ground": "산성 지면",
         "Spit Attack": "뱉기 공격",
@@ -162,6 +162,18 @@ Hooks.once('babele.init', (babele) => {
                     } else {
                         if (ta.name != null) item.system.actions[actionId].name = ta.name;
                         if (ta.description != null) item.system.actions[actionId].description = ta.description;
+                    }
+                }
+
+                // 3) 아이템에 박힌 활성 효과(item.effects) 번역. 런타임엔 풀 객체 배열.
+                //    효과 _id 기준 name/description만 덮어쓰고 changes(기계 수정치)·duration 등은 보존.
+                if (t.effects && Array.isArray(item.effects)) {
+                    for (const eff of item.effects) {
+                        const te = t.effects[eff._id];
+                        if (te == null) continue;
+                        if (typeof te === "string") { eff.name = te; continue; }
+                        if (te.name != null) eff.name = te.name;
+                        if (te.description != null) eff.description = te.description;
                     }
                 }
             }
