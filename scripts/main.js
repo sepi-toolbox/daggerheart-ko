@@ -281,3 +281,32 @@ Hooks.once('babele.init', (babele) => {
     });
 
 });
+
+/* ────────────────────────────────────────────────────────────────────────────
+   저널 가독성 스타일 스코프
+   ----------------------------------------------------------------------------
+   styles/journal.css 는 .dh-ko-journal 로 스코프되어 있다. 여기서 대거하트
+   컴펜디움(또는 거기서 임포트된) 저널 시트에만 그 클래스를 부여해, 사용자가 직접
+   만든 저널에는 스타일이 번지지 않도록 한다.
+   - 컴펜디움 열람: document.pack 이 "daggerheart.*"
+   - 월드로 임포트: _stats.compendiumSource 가 "Compendium.daggerheart.*"
+   v14 코어 JournalEntrySheet(ApplicationV2) → 훅 renderJournalEntrySheet,
+   element 는 시트 root HTMLElement.
+   ──────────────────────────────────────────────────────────────────────────── */
+Hooks.on("renderJournalEntrySheet", (app, element) => {
+    try {
+        const entry = app?.document;
+        if (!entry) return;
+        const pack = entry.pack;                              // 컴펜디움에서 열람 시
+        const src = entry._stats?.compendiumSource;           // 월드로 임포트된 경우 출처
+        const fromDH =
+            (typeof pack === "string" && pack.startsWith("daggerheart.")) ||
+            (typeof src === "string" && src.startsWith("Compendium.daggerheart."));
+        if (!fromDH) return;
+        const root = element instanceof HTMLElement ? element : (element?.[0] ?? app.element);
+        root?.classList?.add("dh-ko-journal");
+    } catch (_e) {
+        // 스타일 스코프는 비핵심 — 실패해도 번역 동작에는 영향 없음
+    }
+});
+

@@ -2,11 +2,14 @@
     "id": "daggerheart-ko",
     "title": "Daggerheart Korean translation",
     "description": "Daggerheart 한국어 번역 모듈. 컴펜디움(혈통/공동체/클래스/서브클래스/권역 카드/적대자/환경/무기/방어구/소모품/전리품/저널/롤테이블 등)과 시스템 UI 라벨을 모두 한국어화합니다. 컴펜디움 번역에는 Babele 모듈이 필요합니다.",
-    "version": "2026-06-20.9",
+    "version": "2026-06-20.10",
     "compatibility": {
         "minimum": "13",
         "verified": "14"
     },
+    "styles": [
+        "styles/journal.css"
+    ],
     "relationships": {
         "requires": [
             {

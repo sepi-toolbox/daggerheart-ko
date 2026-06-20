@@ -1,0 +1,221 @@
+/* ============================================================================
+   daggerheart-ko · 저널 가독성 테마 (Daggerheart 골드)
+   ----------------------------------------------------------------------------
+   - 대거하트 컴펜디움 저널 시트에만 적용된다. scripts/main.js 의
+     renderJournalEntrySheet 훅이 시트 root 에 .dh-ko-journal 클래스를 부여하며,
+     사용자가 직접 만든(홈브루) 저널에는 영향을 주지 않는다.
+   - 저널 본문(번역 데이터)은 전혀 손대지 않고 CSS 로만 스타일링한다.
+   - Foundry v14 라이트/다크 색 구성표를 모두 대응(light-dark()).
+   - 색은 시스템(daggerheart) 팔레트 변수를 alias 로 재사용하되,
+     시스템 미설치 상황을 대비해 폴백 값을 함께 둔다.
+   - v14 DOM: 좌측 목차 = nav.toc, 본문 = section.journal-page-content
+   ============================================================================ */
+
+.dh-ko-journal {
+  /* 시스템 daggerheart 팔레트 alias (폴백 포함) */
+  --dhko-gold:       var(--golden, #f3c267);
+  --dhko-gold-deep:  var(--golden-secondary, #eaaf42);
+  --dhko-gold-tint:  var(--golden-bg, rgba(243, 194, 103, 0.10));
+
+  /* 제목/구분선 색: 라이트 배경에선 진한 브론즈(대비 확보), 다크 배경에선 밝은 골드 */
+  --dhko-head:   light-dark(#8a5a14, var(--golden, #f3c267));
+  --dhko-head-2: light-dark(#6a4a1c, var(--golden, #f3c267));
+  --dhko-rule:   light-dark(rgba(138, 90, 20, 0.45), rgba(243, 194, 103, 0.55));
+  --dhko-rule-soft: light-dark(rgba(138, 90, 20, 0.18), rgba(243, 194, 103, 0.18));
+
+  /* 콜아웃/표 배경 틴트 */
+  --dhko-callout-bg: light-dark(rgba(243, 194, 103, 0.13), rgba(243, 194, 103, 0.07));
+  --dhko-header-bg:  light-dark(rgba(243, 194, 103, 0.32), rgba(243, 194, 103, 0.16));
+  --dhko-zebra-bg:   light-dark(rgba(243, 194, 103, 0.10), rgba(243, 194, 103, 0.05));
+  --dhko-hover-bg:   light-dark(rgba(243, 194, 103, 0.22), rgba(243, 194, 103, 0.13));
+}
+
+/* ────────────────────────────────────────────────────────────────────────────
+   본문 가독성 베이스
+   ──────────────────────────────────────────────────────────────────────────── */
+.dh-ko-journal .journal-page-content {
+  line-height: 1.65;
+}
+.dh-ko-journal .journal-page-content p {
+  margin: 0.6em 0;
+}
+
+/* ────────────────────────────────────────────────────────────────────────────
+   제목 위계 — 레벨마다 시각적으로 분명히 구분
+   ──────────────────────────────────────────────────────────────────────────── */
+/* h1: 페이지 대제목 — 더블 라인 언더라인 */
+.dh-ko-journal .journal-page-content h1 {
+  color: var(--dhko-head);
+  font-weight: 700;
+  border-bottom: 3px double var(--dhko-rule);
+  padding-bottom: 0.22em;
+  margin: 1.2em 0 0.6em;
+}
+
+/* h2: 섹션 — 풀폭 골드 언더라인으로 섹션 경계를 명확히 */
+.dh-ko-journal .journal-page-content h2 {
+  color: var(--dhko-head);
+  font-weight: 700;
+  border-bottom: 2px solid var(--dhko-rule);
+  padding-bottom: 0.18em;
+  margin: 1.6em 0 0.55em;
+  letter-spacing: 0.01em;
+}
+
+/* h3: 하위 섹션 — 좌측 골드 악센트 바 */
+.dh-ko-journal .journal-page-content h3 {
+  color: var(--dhko-head-2);
+  font-weight: 700;
+  border-left: 4px solid var(--dhko-gold);
+  padding: 0.04em 0 0.04em 0.55em;
+  margin: 1.3em 0 0.4em;
+}
+
+/* h4: 최하위 — 골드 다이아몬드 리딩 마커 */
+.dh-ko-journal .journal-page-content h4 {
+  color: var(--dhko-head);
+  font-weight: 700;
+  margin: 1.1em 0 0.3em;
+}
+.dh-ko-journal .journal-page-content h4::before {
+  content: "\25C6";   /* ◆ */
+  color: var(--dhko-gold);
+  font-size: 0.72em;
+  vertical-align: 0.12em;
+  margin-right: 0.4em;
+}
+
+/* ────────────────────────────────────────────────────────────────────────────
+   콜아웃 (blockquote) — 위아래 라인이 아니라 텍스트를 정확히 감싸는 박스
+   ──────────────────────────────────────────────────────────────────────────── */
+.dh-ko-journal .journal-page-content blockquote {
+  margin: 1em 0;
+  padding: 0.7em 1em;
+  border: 1px solid var(--dhko-rule);
+  border-left: 5px solid var(--dhko-gold);
+  border-radius: 6px;
+  background: var(--dhko-callout-bg);
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.08);
+  font-style: normal;   /* 코어의 italic 콜아웃 해제 — 가독성 */
+}
+/* 코어가 blockquote 에 붙이는 따옴표 장식 제거 */
+.dh-ko-journal .journal-page-content blockquote::before,
+.dh-ko-journal .journal-page-content blockquote::after {
+  content: none;
+}
+/* 박스 안쪽 첫/마지막 단락 여백 제거 → 텍스트가 박스를 정확히 채움 */
+.dh-ko-journal .journal-page-content blockquote > :first-child { margin-top: 0; }
+.dh-ko-journal .journal-page-content blockquote > :last-child  { margin-bottom: 0; }
+/* 콜아웃 안 strong(선택 규칙: 제목 등)은 골드로 살짝 강조 */
+.dh-ko-journal .journal-page-content blockquote > p:first-child strong:first-child {
+  color: var(--dhko-head);
+}
+
+/* ────────────────────────────────────────────────────────────────────────────
+   표 (table) — 헤더 행 + 지브라 + 테두리 (본문 표엔 <th> 가 없어 첫 행을 헤더로)
+   ──────────────────────────────────────────────────────────────────────────── */
+.dh-ko-journal .journal-page-content table {
+  border-collapse: separate;
+  border-spacing: 0;
+  width: 100%;
+  margin: 1.1em 0;
+  border: 1px solid var(--dhko-rule);
+  border-radius: 6px;
+  overflow: hidden;       /* 둥근 모서리로 셀 클리핑 */
+}
+.dh-ko-journal .journal-page-content table td {
+  border: none;
+  border-bottom: 1px solid var(--dhko-rule-soft);
+  border-right: 1px solid var(--dhko-rule-soft);
+  padding: 0.42em 0.65em;
+  vertical-align: top;
+}
+.dh-ko-journal .journal-page-content table tr td:last-child { border-right: none; }
+.dh-ko-journal .journal-page-content table tr:last-child td { border-bottom: none; }
+
+/* 첫 행 = 헤더 */
+.dh-ko-journal .journal-page-content table tbody tr:first-child td {
+  background: var(--dhko-header-bg);
+  color: var(--dhko-head);
+  font-weight: 700;
+  border-bottom: 2px solid var(--dhko-rule);
+}
+/* 지브라(짝수 데이터 행) */
+.dh-ko-journal .journal-page-content table tbody tr:nth-child(even) td {
+  background: var(--dhko-zebra-bg);
+}
+/* 행 호버 강조 */
+.dh-ko-journal .journal-page-content table tbody tr:not(:first-child):hover td {
+  background: var(--dhko-hover-bg);
+}
+/* 표 안 단락 여백 축소 */
+.dh-ko-journal .journal-page-content table td > p { margin: 0.15em 0; }
+
+/* ────────────────────────────────────────────────────────────────────────────
+   구분선 (hr) — 골드 그라데이션 디바이더
+   ──────────────────────────────────────────────────────────────────────────── */
+.dh-ko-journal .journal-page-content hr {
+  border: none;
+  height: 2px;
+  margin: 1.35em auto;
+  background: linear-gradient(
+    90deg,
+    transparent,
+    var(--dhko-gold) 18%,
+    var(--dhko-gold) 82%,
+    transparent
+  );
+  opacity: 0.72;
+}
+
+/* ────────────────────────────────────────────────────────────────────────────
+   목록 (ul/ol) — 골드 마커 + 항목 간격
+   ──────────────────────────────────────────────────────────────────────────── */
+.dh-ko-journal .journal-page-content ul > li::marker { color: var(--dhko-gold-deep); }
+.dh-ko-journal .journal-page-content ol > li::marker { color: var(--dhko-gold-deep); font-weight: 700; }
+.dh-ko-journal .journal-page-content li { margin: 0.22em 0; }
+/* 항목 텍스트가 <li><p> 로 감싸진 경우 여백 축소 */
+.dh-ko-journal .journal-page-content li > p { margin: 0.15em 0; }
+
+/* ────────────────────────────────────────────────────────────────────────────
+   인라인 링크/굴림 (@UUID·[[/r]] enricher) — 골드 톤으로 테마 통일
+   ──────────────────────────────────────────────────────────────────────────── */
+.dh-ko-journal .journal-page-content a.content-link,
+.dh-ko-journal .journal-page-content a.inline-roll {
+  border: 1px solid var(--dhko-rule-soft);
+  background: var(--dhko-gold-tint);
+}
+
+/* ────────────────────────────────────────────────────────────────────────────
+   좌측 "제목 열" (목차 / nav.toc) — 페이지 구분과 위계를 명확히
+   ──────────────────────────────────────────────────────────────────────────── */
+/* 카테고리(그룹) 제목 */
+.dh-ko-journal .toc li.category {
+  margin-top: 0.45em;
+  padding-bottom: 0.15em;
+  border-bottom: 1px solid var(--dhko-rule);
+}
+.dh-ko-journal .toc li.category > strong {
+  color: var(--dhko-head);
+  letter-spacing: 0.02em;
+}
+/* 페이지 항목 */
+.dh-ko-journal .toc .page-heading {
+  border-radius: 5px;
+  padding: 0.2em 0.4em;
+  transition: background-color 0.12s ease;
+}
+.dh-ko-journal .toc .page-heading:hover {
+  background: var(--dhko-gold-tint);
+}
+/* 페이지 번호 배지 */
+.dh-ko-journal .toc .page-index {
+  color: var(--dhko-head);
+  font-weight: 700;
+}
+/* 현재 보고 있는 페이지 강조 (active 클래스 부여 시) */
+.dh-ko-journal .toc li.active > .page-heading,
+.dh-ko-journal .toc .page-heading.active {
+  background: var(--dhko-hover-bg);
+  box-shadow: inset 3px 0 0 var(--dhko-gold);
+}
