@@ -19,7 +19,7 @@
     },
     "Bare Bones": {
       "name": "맨몸",
-      "description": "<p></p><p class=\"Body-Foundation\">방어구를 착용하지 않기로 선택했을 때, 당신의 기본 방어도는 3 + 힘이며, 다음을 기본 피해 임계치로 사용합니다:</p><ul><li class=\"vertical-card-list-found\"><em><strong>등급 1:</strong></em> 9/19</li><li class=\"vertical-card-list-found\"><em><strong>등급 2:</strong></em> 11/24</li><li class=\"vertical-card-list-found\"><em><strong>등급 3:</strong></em> 13/31</li><li class=\"vertical-card-list-found\"><em><strong>등급 4:</strong></em> 15/38</li></ul>"
+      "description": "<p></p><p class=\"Body-Foundation\">방어구를 착용하지 않기로 선택했을 때, 당신의 기본 방어도는 3 + 힘이며, 다음을 기본 피해 임계치로 사용합니다:</p><ul><li class=\"vertical-card-list-found\"><em><strong>티어 1:</strong></em> 9/19</li><li class=\"vertical-card-list-found\"><em><strong>티어 2:</strong></em> 11/24</li><li class=\"vertical-card-list-found\"><em><strong>티어 3:</strong></em> 13/31</li><li class=\"vertical-card-list-found\"><em><strong>티어 4:</strong></em> 15/38</li></ul>"
     },
     "Bellamoi Fine Armor": {
       "name": "벨라모이 정장 갑옷"
