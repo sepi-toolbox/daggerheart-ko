@@ -22,7 +22,7 @@
             "character": "캐릭터",
             "companion": "동반자",
             "adversary": "적대자",
-            "environment": "장소",
+            "environment": "환경",
             "npc": "NPC",
             "party": "파티"
         }
@@ -543,7 +543,7 @@
             "DamageReduction": {
                 "armorMarks": "방어 슬롯 표시",
                 "armorWithStress": "추가 슬롯을 사용하려면 스트레스 1을 소모하세요",
-                "thresholdImmunities": "한계치 면역",
+                "thresholdImmunities": "임계치 면역",
                 "stress": "스트레스",
                 "stressReduction": "스트레스로 피해 감소",
                 "title": "피해 감소",
@@ -688,7 +688,7 @@
                     "hpIncrease": "HP 증가: {hitPoints}",
                     "stressIncrease": "스트레스 증가: {stress}",
                     "evasionIncrease": "회피 증가: {evasion}",
-                    "damageThresholdMajorIncrease": "큰: {threshold}",
+                    "damageThresholdMajorIncrease": "중대: {threshold}",
                     "damageThresholdSevereIncrease": "심각: {threshold}",
                     "newExperiences": "새 경험",
                     "experiencePlaceholder": "새 경험...",
@@ -1483,7 +1483,7 @@
                 },
                 "burning": {
                     "name": "화염",
-                    "description": "피해 주사위에서 최댓값이 나오면 피해 주사위 하나를 추가로 굴립니다.",
+                    "description": "피해 주사위에서 6이 나오면 대상이 스트레스 1을 표시해야 합니다.",
                     "actions": {
                         "burn": {
                             "name": "방화",
@@ -2345,11 +2345,11 @@
                             "hint": "심각한 피해를 중대한 피해로 줄이기 위해 지불할 수 있는 스트레스 비용."
                         },
                         "major": {
-                            "label": "스트레스로 피해 감소: 큰",
+                            "label": "스트레스로 피해 감소: 중대",
                             "hint": "중대한 피해를 경미한 피해로 줄이기 위해 지불할 수 있는 스트레스 비용."
                         },
                         "minor": {
-                            "label": "스트레스로 피해 감소: 작은",
+                            "label": "스트레스로 피해 감소: 경미",
                             "hint": "경미한 피해를 0으로 줄이기 위해 지불할 수 있는 스트레스 비용."
                         }
                     },
@@ -2698,9 +2698,9 @@
             "Armor": {
                 "baseScore": "기본 점수",
                 "baseThresholds": {
-                    "base": "기본 한계치",
-                    "major": "큰 한계치",
-                    "severe": "심각 한계치"
+                    "base": "기본 임계치",
+                    "major": "중대 임계치",
+                    "severe": "심각 임계치"
                 }
             },
             "Beastform": {
@@ -2852,7 +2852,7 @@
                         "label": "적대자"
                     },
                     "extendEnvironmentDescriptions": {
-                        "label": "장소"
+                        "label": "환경"
                     },
                     "extendItemDescriptions": {
                         "label": "아이템"
@@ -3072,7 +3072,9 @@
                     "chestName": "상자 이름",
                     "changeIcon": "화폐 아이콘 변경",
                     "iconName": "아이콘 이름",
-                    "iconNameHint": "아이콘은 Font Awesome에서 가져옵니다"
+                    "iconNameHint": "아이콘은 Font Awesome에서 가져옵니다",
+                    "denomination": "단위",
+                    "initialAmount": "시작 금액"
                 },
                 "domains": {
                     "domainsTitle": "기본 영역",
@@ -3546,5 +3548,9 @@
                 "dh": "Daggerheart"
             }
         }
-    }
+    },
+    "Coins": "동전",
+    "Handfuls": "한 줌",
+    "Bags": "주머니",
+    "Chests": "상자"
 }
