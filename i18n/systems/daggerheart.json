@@ -1249,11 +1249,11 @@
             },
             "EnvironmentType": {
                 "exploration": {
-                    "label": "탐사",
+                    "label": "탐험",
                     "description": ""
                 },
                 "social": {
-                    "label": "사교",
+                    "label": "사회",
                     "description": ""
                 },
                 "traversal": {
