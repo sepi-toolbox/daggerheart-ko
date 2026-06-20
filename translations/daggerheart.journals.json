@@ -67,7 +67,7 @@
             }
         },
         "Welcome - Information": {
-            "name": "환영 — 정보",
+            "name": "대거하트에 오신 것을 환영합니다!",
             "pages": {
                 "Dice Rolling": {
                     "name": "주사위 굴림",
