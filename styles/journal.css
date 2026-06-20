@@ -20,6 +20,7 @@
   /* 제목/구분선 색: 라이트 배경에선 진한 브론즈(대비 확보), 다크 배경에선 밝은 골드 */
   --dhko-head:   light-dark(#8a5a14, var(--golden, #f3c267));
   --dhko-head-2: light-dark(#6a4a1c, var(--golden, #f3c267));
+  --dhko-strong: light-dark(#8a5a14, var(--golden, #f3c267)); /* 볼드 강조 색 */
   --dhko-rule:   light-dark(rgba(138, 90, 20, 0.45), rgba(243, 194, 103, 0.55));
   --dhko-rule-soft: light-dark(rgba(138, 90, 20, 0.18), rgba(243, 194, 103, 0.18));
 
@@ -38,6 +39,11 @@
 }
 .dh-ko-journal .journal-page-content p {
   margin: 0.6em 0;
+}
+/* 볼드(강조 용어) — 일반 텍스트와 확실히 구분되도록 골드 톤
+   (라이트 배경=진브론즈로 대비 확보, 다크=밝은 골드) */
+.dh-ko-journal .journal-page-content strong {
+  color: var(--dhko-strong);
 }
 
 /* ────────────────────────────────────────────────────────────────────────────
@@ -106,10 +112,6 @@
 /* 박스 안쪽 첫/마지막 단락 여백 제거 → 텍스트가 박스를 정확히 채움 */
 .dh-ko-journal .journal-page-content blockquote > :first-child { margin-top: 0; }
 .dh-ko-journal .journal-page-content blockquote > :last-child  { margin-bottom: 0; }
-/* 콜아웃 안 strong(선택 규칙: 제목 등)은 골드로 살짝 강조 */
-.dh-ko-journal .journal-page-content blockquote > p:first-child strong:first-child {
-  color: var(--dhko-head);
-}
 
 /* ────────────────────────────────────────────────────────────────────────────
    표 (table) — 헤더 행 + 지브라 + 테두리 (본문 표엔 <th> 가 없어 첫 행을 헤더로)
@@ -166,6 +168,13 @@
     transparent
   );
   opacity: 0.72;
+}
+/* 콜아웃 박스에 바로 인접한 구분선은 박스가 이미 구분하므로 숨김(중복 제거).
+   hr:has(+ blockquote) = 박스 위 줄,  blockquote + hr = 박스 아래 줄.
+   섹션 사이의 일반 hr 구분선은 그대로 유지된다. */
+.dh-ko-journal .journal-page-content hr:has(+ blockquote),
+.dh-ko-journal .journal-page-content blockquote + hr {
+  display: none;
 }
 
 /* ────────────────────────────────────────────────────────────────────────────
