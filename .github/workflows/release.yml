@@ -1,0 +1,44 @@
+name: Release Module
+
+# GitHub 릴리스를 publish 하면(태그 vX.Y.Z) 모듈 zip과 module.json을
+# 릴리스 에셋으로 자동 업로드한다. Foundry 제출용 매니페스트 URL:
+#   https://github.com/sepi-toolbox/daggerheart-ko/releases/latest/download/module.json
+
+on:
+  release:
+    types: [published]
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Patch module.json (version + release URLs)
+        env:
+          TAG: ${{ github.event.release.tag_name }}
+          REPO: ${{ github.repository }}
+        run: |
+          VERSION="${TAG#v}"
+          VERSION="$VERSION" REPO="$REPO" node -e '
+            const fs = require("fs");
+            const m = JSON.parse(fs.readFileSync("module.json", "utf8"));
+            m.version = process.env.VERSION;
+            m.manifest = `https://github.com/${process.env.REPO}/releases/latest/download/module.json`;
+            m.download = `https://github.com/${process.env.REPO}/releases/latest/download/module.zip`;
+            fs.writeFileSync("module.json", JSON.stringify(m, null, 4) + "\n");
+          '
+
+      - name: Create module.zip
+        run: zip -r module.zip . -x ".git/*" ".github/*" "HANDOFF.md"
+
+      - name: Upload release assets
+        uses: softprops/action-gh-release@v2
+        with:
+          files: |
+            module.json
+            module.zip
