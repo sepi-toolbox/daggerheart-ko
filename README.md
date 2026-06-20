@@ -8,4 +8,6 @@ Daggerheart is a trademark of Darrington Press LLC. All original content, mechan
 
 This project is intended for personal or non-commercial use. All rights to Daggerheart's original materials remain with their respective owners.
 
-원본: [psk05020/daggerheart-ru-ru](https://github.com/psk05020/daggerheart-ru-ru) (러시아어 번역본 기반 한국어 번역)
+## 제작
+
+제작자: 세피 (네이버 TRPG 카페 Sepi)
