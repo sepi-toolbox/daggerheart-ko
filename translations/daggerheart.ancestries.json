@@ -1,5 +1,8 @@
 {
     "label": "혈통",
+    "folders": {
+        "Ancestry Features": "혈통 기능"
+    },
     "mapping": {
         "description": "system.description",
         "actions": {

@@ -1,5 +1,26 @@
 {
     "label": "권역",
+    "folders": {
+        "Arcana": "비전",
+        "Blade": "칼날",
+        "Bone": "뼈",
+        "Codex": "고서",
+        "Grace": "은총",
+        "Midnight": "밤",
+        "Sage": "현자",
+        "Splendor": "광휘",
+        "Valor": "용맹",
+        "Level 1": "레벨 1",
+        "Level 2": "레벨 2",
+        "Level 3": "레벨 3",
+        "Level 4": "레벨 4",
+        "Level 5": "레벨 5",
+        "Level 6": "레벨 6",
+        "Level 7": "레벨 7",
+        "Level 8": "레벨 8",
+        "Level 9": "레벨 9",
+        "Level 10": "레벨 10"
+    },
     "mapping": {
         "description": "system.description",
         "actions": {

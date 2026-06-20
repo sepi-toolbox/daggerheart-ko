@@ -207,7 +207,7 @@
                     },
                     "damageThresholds": {
                         "major": {
-                            "label": "큰"
+                            "label": "중대"
                         },
                         "severe": {
                             "label": "심각"
@@ -2181,8 +2181,8 @@
             },
             "Damage": {
                 "severe": "심각",
-                "major": "큰",
-                "minor": "작은",
+                "major": "중대",
+                "minor": "경미",
                 "none": "없음",
                 "allDamage": "모든 피해",
                 "physicalDamage": "물리 피해",
@@ -2220,8 +2220,8 @@
             },
             "DamageThresholds": {
                 "title": "피해 임계치",
-                "minor": "작은",
-                "major": "큰",
+                "minor": "경미",
+                "major": "중대",
                 "severe": "심각",
                 "majorThreshold": "중대한 피해 임계치",
                 "severeThreshold": "심각한 피해 임계치",

@@ -1,5 +1,8 @@
 {
  "label": "공동체",
+ "folders": {
+  "Community Features": "공동체 기능"
+ },
  "mapping": {
   "description": "system.description",
   "actions": {

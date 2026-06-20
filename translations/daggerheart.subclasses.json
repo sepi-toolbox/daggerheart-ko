@@ -1,5 +1,20 @@
 {
     "label": "서브클래스",
+    "folders": {
+        "Rogue": "로그",
+        "Druid": "드루이드",
+        "Bard": "바드",
+        "Warrior": "워리어",
+        "Guardian": "가디언",
+        "Wizard": "위저드",
+        "Sorcerer": "소서러",
+        "Seraph": "세라프",
+        "Ranger": "레인저",
+        "Foundation Features": "기초 기능",
+        "Specialization Features": "특화 기능",
+        "Mastery Features": "숙련 기능",
+        "Subclass Features": "서브클래스 기능"
+    },
     "mapping": {
         "description": "system.description",
         "actions": {

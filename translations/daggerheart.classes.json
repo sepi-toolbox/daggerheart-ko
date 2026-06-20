@@ -1,5 +1,19 @@
 {
     "label": "클래스",
+    "folders": {
+        "Rogue": "로그",
+        "Druid": "드루이드",
+        "Bard": "바드",
+        "Warrior": "워리어",
+        "Guardian": "가디언",
+        "Wizard": "위저드",
+        "Sorcerer": "소서러",
+        "Seraph": "세라프",
+        "Ranger": "레인저",
+        "Class Items": "클래스 아이템",
+        "Class Features": "클래스 기능",
+        "Standard Take": "표준 구성"
+    },
     "mapping": {
         "description": "system.description",
         "actions": {

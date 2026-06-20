@@ -1,5 +1,11 @@
 {
     "label": "적대자",
+    "folders": {
+        "Tier 1": "티어 1",
+        "Tier 2": "티어 2",
+        "Tier 3": "티어 3",
+        "Tier 4": "티어 4"
+    },
     "mapping": {
         "description": "system.description",
         "experiences": {
