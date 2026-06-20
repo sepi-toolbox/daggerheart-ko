@@ -14,3 +14,14 @@
     white-space: nowrap;
     flex: 0 0 auto;
 }
+
+/* 캐릭터 시트 사이드바의 "무기"(equipment) / "장비"(loadout) / "경험" 구분 제목.
+   적대자 시트와 동일 구조(.title display:flex + side-line-div width:100%)라
+   짧은 한국어 라벨이 압축되어 글자 단위로 세로 줄넘김된다. h3 는 자기 폭을
+   유지하고(white-space:nowrap, flex:0 0 auto) 양옆 장식선이 대신 줄어들게 한다. */
+.daggerheart.actor.dh-style .character-sidebar-sheet .equipment-section .title h3,
+.daggerheart.actor.dh-style .character-sidebar-sheet .loadout-section .title h3,
+.daggerheart.actor.dh-style .character-sidebar-sheet .experience-section .title h3 {
+    white-space: nowrap;
+    flex: 0 0 auto;
+}

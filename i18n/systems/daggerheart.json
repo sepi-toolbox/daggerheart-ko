@@ -1268,8 +1268,8 @@
             "Gold": {
                 "title": "금화",
                 "coins": "동전",
-                "handfuls": "한 줌",
-                "bags": "주머니",
+                "handfuls": "줌",
+                "bags": "자루",
                 "chests": "상자"
             },
             "HealingType": {
@@ -2420,8 +2420,8 @@
                 "main": "데이터",
                 "information": "정보",
                 "notes": "메모",
-                "inventory": "인벤토리",
-                "loadout": "장비",
+                "inventory": "소지품",
+                "loadout": "권역",
                 "vault": "보관소",
                 "heritage": "혈통 유산",
                 "story": "이야기",
@@ -2496,7 +2496,7 @@
             "dualityRoll": "이중성 굴림",
             "enabled": "활성화",
             "evasion": "회피",
-            "equipment": "장비",
+            "equipment": "무기",
             "experience": {
                 "single": "경험",
                 "plural": "경험"
@@ -3067,8 +3067,8 @@
                     "title": "통화 재정의",
                     "currencyName": "통화 이름",
                     "coinName": "동전 이름",
-                    "handfulName": "한 줌 이름",
-                    "bagName": "주머니 이름",
+                    "handfulName": "줌 이름",
+                    "bagName": "자루 이름",
                     "chestName": "상자 이름",
                     "changeIcon": "화폐 아이콘 변경",
                     "iconName": "아이콘 이름",
@@ -3550,7 +3550,7 @@
         }
     },
     "Coins": "동전",
-    "Handfuls": "한 줌",
-    "Bags": "주머니",
+    "Handfuls": "줌",
+    "Bags": "자루",
     "Chests": "상자"
 }
