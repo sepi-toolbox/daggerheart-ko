@@ -644,7 +644,7 @@
                     "hitPointSlots": "영구적으로 HP 슬롯 하나를 얻습니다.",
                     "stressSlots": "영구적으로 스트레스 슬롯 하나를 얻습니다.",
                     "experiences": "영구적으로 경험 두 개에 +1 보너스를 받습니다.",
-                    "domainCard": "당신이 사용 가능한 영역에서 자신의 레벨 이하의 권역 카드를 하나 추가로 선택하세요 (최대 레벨 {maxLevel})",
+                    "domainCard": "당신이 사용 가능한 권역에서 자신의 레벨 이하의 권역 카드를 하나 추가로 선택하세요 (최대 레벨 {maxLevel})",
                     "evasion": "영구적으로 회피에 +1 보너스를 얻습니다.",
                     "proficiency": "숙련도를 +1 증가시킵니다.",
                     "subclass": "강화된 서브클래스 카드를 가져오세요. 그런 다음 이 레벨의 다중클래스 옵션을 줄로 지우세요.",
@@ -662,7 +662,7 @@
                     "hitPoint": "영구적으로 HP 슬롯 하나를 얻습니다.",
                     "stress": "영구적으로 스트레스 슬롯 하나를 얻습니다.",
                     "experience": "영구적으로 경험 두 개에 +1 보너스를 받습니다.",
-                    "domainCard": "당신이 사용 가능한 영역에서 자신의 레벨 이하의 권역 카드를 하나 추가로 선택하세요 (최대 레벨 {maxLevel})",
+                    "domainCard": "당신이 사용 가능한 권역에서 자신의 레벨 이하의 권역 카드를 하나 추가로 선택하세요 (최대 레벨 {maxLevel})",
                     "evasion": "영구적으로 회피에 +1 보너스를 얻습니다.",
                     "subclass": "강화된 서브클래스 카드를 가져오세요. 그런 다음 이 레벨의 다중클래스 옵션을 줄로 지우세요.",
                     "proficiency": "숙련도를 +1 증가시킵니다.",
@@ -708,21 +708,21 @@
                     "label": "레벨 2-4",
                     "infoLabel": "레벨 2에서 +2 값의 추가 경험과 숙련도에 +1 보너스를 얻습니다.",
                     "pretext": "아래 목록에서 두 가지 옵션을 선택하세요",
-                    "posttext": "당신이 사용 가능한 영역에서 자신의 레벨 이하의 권역 카드를 하나 추가로 가져오세요.",
+                    "posttext": "당신이 사용 가능한 권역에서 자신의 레벨 이하의 권역 카드를 하나 추가로 가져오세요.",
                     "name": "2티어"
                 },
                 "tier3": {
                     "label": "레벨 5-7",
                     "infoLabel": "레벨 5에서 추가 경험을 얻고 능력치의 모든 표시를 제거합니다.",
                     "pretext": "레벨업할 때 캐릭터 시트에 기록한 뒤, 아래 목록에서 두 가지 옵션을 선택하거나 이전 티어에서 표시되지 않은 옵션을 고르세요.",
-                    "posttext": "당신이 사용 가능한 영역에서 자신의 레벨 이하의 권역 카드를 하나 추가로 가져오세요.",
+                    "posttext": "당신이 사용 가능한 권역에서 자신의 레벨 이하의 권역 카드를 하나 추가로 가져오세요.",
                     "name": "3티어"
                 },
                 "tier4": {
                     "label": "레벨 8-10",
                     "infoLabel": "레벨 8에서 추가 경험을 얻고 능력치의 모든 표시를 제거합니다.",
                     "pretext": "레벨업할 때 캐릭터 시트에 기록한 뒤, 아래 목록에서 두 가지 옵션을 선택하거나 이전 티어에서 표시되지 않은 옵션을 고르세요.",
-                    "posttext": "당신이 사용 가능한 영역에서 자신의 레벨 이하의 권역 카드를 하나 추가로 가져오세요.",
+                    "posttext": "당신이 사용 가능한 권역에서 자신의 레벨 이하의 권역 카드를 하나 추가로 가져오세요.",
                     "name": "4티어"
                 },
                 "title": "{actor} 레벨업",
@@ -732,7 +732,7 @@
             "MulticlassChoice": {
                 "title": "다중클래스 - {actor}",
                 "explanation": "{class}을(를) 다중클래스으로 추가합니다",
-                "selectDomainPrompt": "새 영역을 선택하세요"
+                "selectDomainPrompt": "새 권역을 선택하세요"
             },
             "OwnershipSelection": {
                 "title": "소유자 선택 - {name}",
@@ -2440,7 +2440,7 @@
                 "tier2": "티어 2",
                 "tier3": "티어 3",
                 "tier4": "티어 4",
-                "domains": "영역",
+                "domains": "권역",
                 "downtime": "휴식 시간",
                 "rules": "규칙",
                 "itemFeatures": "아이템 기능",
@@ -2492,8 +2492,8 @@
             "downtime": "휴식 시간",
             "dropActorsHere": "여기에 캐릭터를 드래그하세요",
             "dropFeaturesHere": "여기에 기능을 드래그하세요",
-            "duality": "양면",
-            "dualityRoll": "양면 굴림",
+            "duality": "이중성",
+            "dualityRoll": "이중성 굴림",
             "enabled": "활성화",
             "evasion": "회피",
             "equipment": "장비",
@@ -2899,7 +2899,7 @@
             "Automation": {
                 "fear": {
                     "name": "공포",
-                    "hint": "공포 양면 결과가 나올 때 GM의 공포 풀을 자동으로 증가시킵니다."
+                    "hint": "공포 이중성 결과가 나올 때 GM의 공포 풀을 자동으로 증가시킵니다."
                 },
                 "FIELDS": {
                     "damageReductionRulesDefault": {
@@ -3042,8 +3042,8 @@
                         "hint": "비워두거나 0으로 설정하면 무제한입니다"
                     },
                     "maxDomains": {
-                        "label": "클래스 최대 영역 수",
-                        "hint": "클래스에 설정할 수 있는 최대 영역 수"
+                        "label": "클래스 최대 권역 수",
+                        "hint": "클래스에 설정할 수 있는 최대 권역 수"
                     },
                     "maxHope": {
                         "label": "최대 희망"
@@ -3077,16 +3077,16 @@
                     "initialAmount": "시작 금액"
                 },
                 "domains": {
-                    "domainsTitle": "기본 영역",
-                    "homebrewDomains": "사용자 영역",
-                    "newDomain": "새 영역",
-                    "newDomainInputTitle": "사용자 영역 만들기",
-                    "newDomainInputLabel": "새 영역 이름",
+                    "domainsTitle": "기본 권역",
+                    "homebrewDomains": "사용자 권역",
+                    "newDomain": "새 권역",
+                    "newDomainInputTitle": "사용자 권역 만들기",
+                    "newDomainInputLabel": "새 권역 이름",
                     "newDomainInputHint": "나중에 변경할 수 없습니다",
-                    "editDomain": "활성 영역",
-                    "deleteDomain": "영역 삭제",
-                    "deleteDomainText": "영역 {name}을(를) 정말 삭제하시겠습니까? 이 월드에서 해당 영역을 사용하는 모든 캐릭터에게서 즉시 제거됩니다. 컴펜디움에는 영향을 주지 않습니다.",
-                    "duplicateDomain": "동일한 식별자의 영역이 이미 존재합니다."
+                    "editDomain": "활성 권역",
+                    "deleteDomain": "권역 삭제",
+                    "deleteDomainText": "권역 {name}을(를) 정말 삭제하시겠습니까? 이 월드에서 해당 권역을 사용하는 모든 캐릭터에게서 즉시 제거됩니다. 컴펜디움에는 영향을 주지 않습니다.",
+                    "duplicateDomain": "동일한 식별자의 권역이 이미 존재합니다."
                 },
                 "downtimeMove": "휴식 시간 동작",
                 "armorFeature": "방어구 기능",
@@ -3132,7 +3132,7 @@
                     "label": "외관 설정",
                     "hint": "시스템 각 부분의 외관 변경",
                     "name": "외관 설정",
-                    "duality": "양면 굴림",
+                    "duality": "이중성 굴림",
                     "diceSoNice": {
                         "title": "Dice So Nice",
                         "hint": "Dice So Nice 모듈 사용 시 이중성 주사위의 색상.",
@@ -3330,9 +3330,9 @@
                 "noAssignedPlayerCharacter": "할당된 캐릭터가 없습니다.",
                 "noSelectedToken": "선택된 토큰이 없습니다.",
                 "onlyUseableByPC": "이 기능은 PC 토큰에서만 사용할 수 있습니다.",
-                "dualityParsing": "양면 굴림의 형식이 올바르지 않습니다.",
+                "dualityParsing": "이중성 굴림의 형식이 올바르지 않습니다.",
                 "attributeFaulty": "지정된 속성이 존재하지 않습니다.",
-                "domainCardWrongDomain": "이 영역에 접근할 수 없습니다.",
+                "domainCardWrongDomain": "이 권역에 접근할 수 없습니다.",
                 "domainCardToHighLevel": "선택하기에 권역 카드의 레벨이 너무 높습니다.",
                 "domainCardDuplicate": "이미 이 권역 카드를 가지고 있습니다!",
                 "noSelectionsLeft": "더 이상 선택할 항목이 없습니다!",
@@ -3340,7 +3340,7 @@
                 "classAlreadySelected": "캐릭터는 이미 클래스을 가지고 있습니다.",
                 "subclassAlreadySelected": "캐릭터는 이미 이 클래스의 서브클래스을 가지고 있습니다.",
                 "noClassSelected": "캐릭터에 클래스이 선택되지 않았습니다!",
-                "lacksDomain": "캐릭터가 이 카드의 영역을 가지고 있지 않습니다!",
+                "lacksDomain": "캐릭터가 이 카드의 권역을 가지고 있지 않습니다!",
                 "duplicateDomainCard": "이미 같은 이름의 권역 카드를 가지고 있습니다!",
                 "missingClassOrSubclass": "캐릭터에게 클래스과 서브클래스이 없습니다.",
                 "tooHighLevel": "캐릭터의 레벨을 최대치 이상으로 올릴 수 없습니다.",
@@ -3349,7 +3349,7 @@
                 "subclassNotInMulticlass": "이 서브클래스은 선택한 다중클래스에 속하지 않습니다.",
                 "missingClass": "아직 클래스을 선택하지 않았습니다.",
                 "missingMulticlass": "다중클래스이 없습니다.",
-                "wrongDomain": "이 카드는 클래스의 영역 중 하나에 속하지 않습니다.",
+                "wrongDomain": "이 카드는 클래스의 권역 중 하나에 속하지 않습니다.",
                 "cardTooHighLevel": "카드 레벨이 너무 높습니다!",
                 "duplicateCard": "같은 카드를 두 번 이상 선택할 수 없습니다.",
                 "notPrimary": "이 무기는 주 무기가 아닙니다!",
@@ -3378,7 +3378,7 @@
                 "beastformToManyFeatures": "더 이상 기능을 선택할 수 없습니다.",
                 "beastformEquipWeapon": "야수 형태에서는 무기를 장착할 수 없습니다.",
                 "loadoutMaxReached": "최대 장비치에 도달했습니다. 권역 카드 한 장 이상을 보관소로 옮기거나, 원한다면 홈브루 설정에서 한도를 늘리세요.",
-                "domainMaxReached": "이 클래스의 최대 영역 수에 도달했습니다. 원한다면 홈브루 설정에서 한도를 늘리세요.",
+                "domainMaxReached": "이 클래스의 최대 권역 수에 도달했습니다. 원한다면 홈브루 설정에서 한도를 늘리세요.",
                 "insufficientResources": "자원이 부족합니다",
                 "multiclassAlreadyPresent": "이미 클래스과 다중클래스을 가지고 있습니다",
                 "subclassesAlreadyPresent": "이미 클래스과 다중클래스의 서브클래스을 가지고 있습니다",
@@ -3423,7 +3423,7 @@
                 "diceIsRerolled": "주사위를 다시 굴렸습니다 (x{times})",
                 "pendingSaves": "대기 중인 대응 굴림",
                 "openSheetSettings": "설정 열기",
-                "compendiumBrowser": "컴펜디움 브라우저",
+                "compendiumBrowser": "주제집 탐색기",
                 "rulesOn": "규칙 켬",
                 "rulesOff": "규칙 끔",
                 "remainingUses": "{type} 시 사용 횟수가 회복됩니다",
