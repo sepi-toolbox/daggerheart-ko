@@ -274,8 +274,8 @@
                     "consume": "아이템 소비",
                     "equip": "장비 장착",
                     "sendToChat": "채팅으로 전송",
-                    "toLoadout": "장비로 보내기",
-                    "toVault": "보관소로 보내기",
+                    "toLoadout": "로드아웃으로 보내기",
+                    "toVault": "볼트로 보내기",
                     "unequip": "장비 해제",
                     "useItem": "아이템 사용"
                 },
@@ -473,8 +473,8 @@
                 "enableEffect": "효과 활성화",
                 "equip": "장비 장착",
                 "sendToChat": "채팅으로 전송",
-                "toLoadout": "장비로 보내기",
-                "toVault": "보관소로 보내기",
+                "toLoadout": "로드아웃으로 보내기",
+                "toVault": "볼트로 보내기",
                 "unequip": "장비 해제",
                 "useItem": "아이템 사용",
                 "recall": "회수"
@@ -2168,7 +2168,7 @@
                     "targetSelf": "자신"
                 },
                 "maxLoadout": {
-                    "label": "최대 장비 카드 수 보너스"
+                    "label": "최대 로드아웃 카드 수 보너스"
                 }
             },
             "Character": {
@@ -2421,8 +2421,8 @@
                 "information": "정보",
                 "notes": "메모",
                 "inventory": "소지품",
-                "loadout": "권역",
-                "vault": "보관소",
+                "loadout": "로드아웃",
+                "vault": "볼트",
                 "heritage": "혈통 유산",
                 "story": "이야기",
                 "biography": "전기",
@@ -2528,7 +2528,7 @@
             "level": "레벨",
             "levelShort": "Lv",
             "levelUp": "레벨업",
-            "loadout": "장비",
+            "loadout": "로드아웃",
             "max": "최대",
             "miss": {
                 "single": "빗나감",
@@ -2806,8 +2806,8 @@
                 "foundationTitle": "기초",
                 "specializationTitle": "특화",
                 "masteryTitle": "숙련",
-                "vaultActive": "보관소에서 활성",
-                "loadoutIgnore": "장비 제한 무시",
+                "vaultActive": "볼트에서 활성",
+                "loadoutIgnore": "로드아웃 제한 무시",
                 "domainTouched": "권역의 가호"
             },
             "Subclass": {
@@ -3038,7 +3038,7 @@
                         "label": "초기 능력치 수정치"
                     },
                     "maxLoadout": {
-                        "label": "최대 장비 카드 수",
+                        "label": "최대 로드아웃 카드 수",
                         "hint": "비워두거나 0으로 설정하면 무제한입니다"
                     },
                     "maxDomains": {
@@ -3377,7 +3377,7 @@
                 "beastformToManyAdvantages": "더 이상 이점를 선택할 수 없습니다.",
                 "beastformToManyFeatures": "더 이상 기능을 선택할 수 없습니다.",
                 "beastformEquipWeapon": "야수 형태에서는 무기를 장착할 수 없습니다.",
-                "loadoutMaxReached": "최대 장비치에 도달했습니다. 권역 카드 한 장 이상을 보관소로 옮기거나, 원한다면 홈브루 설정에서 한도를 늘리세요.",
+                "loadoutMaxReached": "최대 로드아웃 한도에 도달했습니다. 권역 카드 한 장 이상을 볼트로 옮기거나, 원한다면 홈브루 설정에서 한도를 늘리세요.",
                 "domainMaxReached": "이 클래스의 최대 권역 수에 도달했습니다. 원한다면 홈브루 설정에서 한도를 늘리세요.",
                 "insufficientResources": "자원이 부족합니다",
                 "multiclassAlreadyPresent": "이미 클래스과 다중클래스을 가지고 있습니다",
@@ -3397,7 +3397,7 @@
                 "documentIsMissing": "{documentType}이(가) 월드에 없습니다.",
                 "tokenActorMissing": "{name}에 액터가 없습니다",
                 "tokenActorsMissing": "[{names}]에 액터가 없습니다",
-                "domainTouchRequirement": "이 권역 카드를 사용하려면 장비에 {domain} 카드가 {nr}장 필요합니다",
+                "domainTouchRequirement": "이 권역 카드를 사용하려면 로드아웃에 {domain} 카드가 {nr}장 필요합니다",
                 "knowTheTide": "흐름을 읽다가 토큰을 얻었습니다",
                 "lackingItemTransferPermission": "사용자 {user}에게 {target}(으)로 아이템을 이전하는 데 필요한 소유자 권한이 없습니다",
                 "noTokenTargeted": "지정된 토큰이 없습니다",
@@ -3414,8 +3414,8 @@
                 "moreOptions": "더 많은 옵션",
                 "equip": "장착",
                 "unequip": "해제",
-                "sendToVault": "보관소로 보내기",
-                "sendToLoadout": "장비로 보내기",
+                "sendToVault": "볼트로 보내기",
+                "sendToLoadout": "로드아웃으로 보내기",
                 "makeDeathMove": "죽음 동작 실행",
                 "rangeAndTarget": "거리와 대상",
                 "dragApplyEffect": "효과를 드래그하여 캐릭터에 적용하세요",

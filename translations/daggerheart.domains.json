@@ -41,7 +41,7 @@
         },
         "Arcana-Touched": {
             "name": "비전 각인",
-            "description": "<p class=\"Body-Foundation\">장비한 권역 카드 중 4장 이상이 비전 권역에 속하면, 다음 혜택을 얻습니다:</p><ul><li class=\"vertical-card-list-found\"><p><strong>주문시전 굴림</strong>에 +1 보너스를 받습니다.</p></li><li class=\"vertical-card-list-found\"><p>휴식마다 한 번, 희망 주사위와 공포 주사위의 결과를 서로 바꿀 수 있습니다.</p></li></ul>",
+            "description": "<p class=\"Body-Foundation\">로드아웃에 있는 권역 카드 중 4장 이상이 비전 권역에 속하면, 다음 혜택을 얻습니다:</p><ul><li class=\"vertical-card-list-found\"><p><strong>주문시전 굴림</strong>에 +1 보너스를 받습니다.</p></li><li class=\"vertical-card-list-found\"><p>휴식마다 한 번, 희망 주사위와 공포 주사위의 결과를 서로 바꿀 수 있습니다.</p></li></ul>",
             "actions": {
                 "hBh4Lt0Bdd9CtJY7": {
                     "name": "듀얼리티 결과 전환",
@@ -135,7 +135,7 @@
         },
         "Blade-Touched": {
             "name": "칼날 각인",
-            "description": "<p class=\"Body-Foundation-No-BOLDITALIC\">장비한 권역 카드 중 4장 이상이 칼날 권역에 속하면, 다음 혜택을 얻습니다:</p><ul><li class=\"vertical-card-list-found\"><p>명중 굴림에 +2 보너스를 받습니다.</p></li><li class=\"vertical-card-list-found\"><p>심각한 피해 임계치에 +4 보너스를 받습니다.</p></li></ul>"
+            "description": "<p class=\"Body-Foundation-No-BOLDITALIC\">로드아웃에 있는 권역 카드 중 4장 이상이 칼날 권역에 속하면, 다음 혜택을 얻습니다:</p><ul><li class=\"vertical-card-list-found\"><p>명중 굴림에 +2 보너스를 받습니다.</p></li><li class=\"vertical-card-list-found\"><p>심각한 피해 임계치에 +4 보너스를 받습니다.</p></li></ul>"
         },
         "Blink Out": {
             "name": "점멸",
@@ -177,7 +177,7 @@
         },
         "Bone-Touched": {
             "name": "뼈 각인",
-            "description": "<p class=\"Body-Foundation-No-BOLDITALIC\">장비한 권역 카드 중 4장 이상이 뼈 권역에 속하면, 다음 혜택을 얻습니다:</p><ul><li class=\"vertical-card-list-found\"><p>민첩에 +1 보너스를 받습니다.</p></li><li class=\"vertical-card-list-found\"><p>휴식 당 1회, <strong>희망 3을 소모</strong>하여 당신에게 명중한 공격을 실패하게 만들 수 있습니다.</p></li></ul>",
+            "description": "<p class=\"Body-Foundation-No-BOLDITALIC\">로드아웃에 있는 권역 카드 중 4장 이상이 뼈 권역에 속하면, 다음 혜택을 얻습니다:</p><ul><li class=\"vertical-card-list-found\"><p>민첩에 +1 보너스를 받습니다.</p></li><li class=\"vertical-card-list-found\"><p>휴식 당 1회, <strong>희망 3을 소모</strong>하여 당신에게 명중한 공격을 실패하게 만들 수 있습니다.</p></li></ul>",
             "actions": {
                 "pRSiIoh4Bzk5I9ej": {
                     "name": "희망 소모",
@@ -499,7 +499,7 @@
         },
         "Codex-Touched": {
             "name": "고서 각인",
-            "description": "<p><p class=\"Body-Foundation\">장비한 권역 카드 중 4장 이상이 고서 권역에 속하면, 다음 혜택을 얻습니다.</p><ul class=\"\"><li class=\"vertical-card-list\"><strong>스트레스를 표시</strong>하여 주문시전 굴림에 숙련을 더할 수 있습니다.</li><li class=\"vertical-card-list\">휴식 당 1회, 이 카드를 보관소에 있는 아무 카드와 교체할 때 회수 비용을 지불하지 않아도 됩니다.</li></ul></p>",
+            "description": "<p><p class=\"Body-Foundation\">로드아웃에 있는 권역 카드 중 4장 이상이 고서 권역에 속하면, 다음 혜택을 얻습니다.</p><ul class=\"\"><li class=\"vertical-card-list\"><strong>스트레스를 표시</strong>하여 주문시전 굴림에 숙련을 더할 수 있습니다.</li><li class=\"vertical-card-list\">휴식 당 1회, 이 카드를 볼트에 있는 아무 카드와 교체할 때 회수 비용을 지불하지 않아도 됩니다.</li></ul></p>",
             "actions": {
                 "OV23p0uWuzmrQsZi": {
                     "name": "스트레스 표시",
@@ -507,7 +507,7 @@
                 },
                 "TGOGkEzH3HluH6YK": {
                     "name": "카드 교체",
-                    "description": "<p>휴식 당 1회, 이 카드를 보관소에 있는 아무 카드와 교체할 때 회수 비용을 지불하지 않아도 됩니다.</p>"
+                    "description": "<p>휴식 당 1회, 이 카드를 볼트에 있는 아무 카드와 교체할 때 회수 비용을 지불하지 않아도 됩니다.</p>"
                 }
             }
         },
@@ -555,11 +555,11 @@
         },
         "Copycat": {
             "name": "흉내내기",
-            "description": "<p class=\"Body-Foundation\">긴 휴식 당 1회, 이 카드는 다른 플레이어가 장비한 레벨 8 이하의 다른 권역 카드의 기능을 흉내낼 수 있습니다. <strong>그 카드 레벨의 절반에 해당하는 희망을 소모</strong>해야 해당 기능을 사용할 수 있습니다. 이 효과는 당신이 다음 휴식을 취하거나, 그 카드가 보관소에 들어갈 때까지 지속됩니다.</p>",
+            "description": "<p class=\"Body-Foundation\">긴 휴식 당 1회, 이 카드는 다른 플레이어가 로드아웃에 둔 레벨 8 이하의 다른 권역 카드의 기능을 흉내낼 수 있습니다. <strong>그 카드 레벨의 절반에 해당하는 희망을 소모</strong>해야 해당 기능을 사용할 수 있습니다. 이 효과는 당신이 다음 휴식을 취하거나, 그 카드가 볼트에 들어갈 때까지 지속됩니다.</p>",
             "actions": {
                 "RKEceNKiQirYwN45": {
                     "name": "흉내내기",
-                    "description": "<p class=\"Body-Foundation\">긴 휴식 당 1회, 이 카드는 다른 플레이어가 장비한 레벨 8 이하의 다른 권역 카드의 기능을 흉내낼 수 있습니다. <strong>그 카드 레벨의 절반에 해당하는 희망을 소모</strong>해야 해당 기능을 사용할 수 있습니다. 이 효과는 당신이 다음 휴식을 취하거나, 그 카드가 보관소에 들어갈 때까지 지속됩니다.</p>"
+                    "description": "<p class=\"Body-Foundation\">긴 휴식 당 1회, 이 카드는 다른 플레이어가 로드아웃에 둔 레벨 8 이하의 다른 권역 카드의 기능을 흉내낼 수 있습니다. <strong>그 카드 레벨의 절반에 해당하는 희망을 소모</strong>해야 해당 기능을 사용할 수 있습니다. 이 효과는 당신이 다음 휴식을 취하거나, 그 카드가 볼트에 들어갈 때까지 지속됩니다.</p>"
                 }
             }
         },
@@ -579,11 +579,11 @@
         },
         "Counterspell": {
             "name": "주문차단",
-            "description": "<p></p><p class=\"Body-Foundation\">주문시전 특성을 사용하여 대응 굴림을 함으로써, 발생 중인 마법 효과를 방해할 수 있습니다. 성공 시, 그 효과는 중단되고 모든 결과를 피할 수 있으며, 이 카드는 당신의 보관소에 놓입니다.</p>",
+            "description": "<p></p><p class=\"Body-Foundation\">주문시전 특성을 사용하여 대응 굴림을 함으로써, 발생 중인 마법 효과를 방해할 수 있습니다. 성공 시, 그 효과는 중단되고 모든 결과를 피할 수 있으며, 이 카드는 당신의 볼트에 놓입니다.</p>",
             "actions": {
                 "SeOcGdKAc7egwg9H": {
                     "name": "방해",
-                    "description": "<p>주문시전 특성을 사용하여 대응 굴림을 함으로써, 발생 중인 마법 효과를 방해할 수 있습니다. 성공 시, 그 효과는 중단되고 모든 결과를 피할 수 있으며, 이 카드는 당신의 보관소에 놓입니다.</p>"
+                    "description": "<p>주문시전 특성을 사용하여 대응 굴림을 함으로써, 발생 중인 마법 효과를 방해할 수 있습니다. 성공 시, 그 효과는 중단되고 모든 결과를 피할 수 있으며, 이 카드는 당신의 볼트에 놓입니다.</p>"
                 }
             }
         },
@@ -715,7 +715,7 @@
         },
         "Encore": {
             "name": "앙코르",
-            "description": "<p><p class=\"Body-Foundation\">가까운 거리 내의 <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"close\" nexus=\"daggerheart\">아군</tooltip>이 적대자에게 피해를 줄 때, 같은 대상에게 맞서 <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"spellcast-roll\" nexus=\"daggerheart\"><strong>주문시전 굴림</strong></tooltip>을 할 수 있습니다. 성공하면, 아군이 준 피해와 같은 피해를 그 대상에게 줍니다. 만약 <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"fear\" nexus=\"daggerheart\">공포</tooltip>로 주문시전 굴림에 성공하면, 이 카드를 <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"loadout-and-vault\" nexus=\"daggerheart\">보관소</tooltip>에 넣습니다.</p></p>",
+            "description": "<p><p class=\"Body-Foundation\">가까운 거리 내의 <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"close\" nexus=\"daggerheart\">아군</tooltip>이 적대자에게 피해를 줄 때, 같은 대상에게 맞서 <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"spellcast-roll\" nexus=\"daggerheart\"><strong>주문시전 굴림</strong></tooltip>을 할 수 있습니다. 성공하면, 아군이 준 피해와 같은 피해를 그 대상에게 줍니다. 만약 <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"fear\" nexus=\"daggerheart\">공포</tooltip>로 주문시전 굴림에 성공하면, 이 카드를 <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"loadout-and-vault\" nexus=\"daggerheart\">볼트</tooltip>에 넣습니다.</p></p>",
             "actions": {
                 "raz0BnldcCkMrKfn": {
                     "name": "공격 반복",
@@ -759,7 +759,7 @@
         },
         "Fane of the Wilds": {
             "name": "자연의 성소",
-            "description": "<p class=\"Body-Foundation\">긴 휴식 후, 장비와 보관소에 있는 현자 권역 카드 수와 같은 수의 토큰을 이 카드에 올려둡니다.</p><p class=\"Body-Foundation\">주문시전 굴림을 할 때, 굴림 후에 원하는 수의 토큰을 소모하여 소모한 토큰 1개당 +1 보너스를 받을 수 있습니다.</p><p class=\"Body-Foundation\">현자 권역 주문의 주문시전 굴림에서 치명적 성공을 하면, 토큰 1개를 획득합니다.</p><p class=\"Body-Foundation\">긴 휴식을 취하면, 사용하지 않은 토큰을 모두 제거합니다.</p>"
+            "description": "<p class=\"Body-Foundation\">긴 휴식 후, 로드아웃과 볼트에 있는 현자 권역 카드 수와 같은 수의 토큰을 이 카드에 올려둡니다.</p><p class=\"Body-Foundation\">주문시전 굴림을 할 때, 굴림 후에 원하는 수의 토큰을 소모하여 소모한 토큰 1개당 +1 보너스를 받을 수 있습니다.</p><p class=\"Body-Foundation\">현자 권역 주문의 주문시전 굴림에서 치명적 성공을 하면, 토큰 1개를 획득합니다.</p><p class=\"Body-Foundation\">긴 휴식을 취하면, 사용하지 않은 토큰을 모두 제거합니다.</p>"
         },
         "Ferocity": {
             "name": "흉폭",
@@ -945,7 +945,7 @@
         },
         "Grace-Touched": {
             "name": "은총 각인",
-            "description": "<p class=\"Body-Foundation\">장비한 권역 카드 중 4장 이상이 은총 권역에 속하면, 다음 혜택을 얻습니다:</p><ul><li class=\"vertical-card-list-found\"><p>스트레스를 표시하는 대신 <strong>방어 슬롯을 표시</strong>할 수 있습니다.</p></li><li class=\"vertical-card-list-found\"><p>대상에게 HP를 일정 수치 표시하게 할 때, 대신 같은 수치만큼 스트레스를 표시하게 할 수 있습니다.</p></li></ul>",
+            "description": "<p class=\"Body-Foundation\">로드아웃에 있는 권역 카드 중 4장 이상이 은총 권역에 속하면, 다음 혜택을 얻습니다:</p><ul><li class=\"vertical-card-list-found\"><p>스트레스를 표시하는 대신 <strong>방어 슬롯을 표시</strong>할 수 있습니다.</p></li><li class=\"vertical-card-list-found\"><p>대상에게 HP를 일정 수치 표시하게 할 때, 대신 같은 수치만큼 스트레스를 표시하게 할 수 있습니다.</p></li></ul>",
             "actions": {
                 "VkPMSuoowd7hnsR5": {
                     "name": "갑옷 슬롯 표시",
@@ -1193,7 +1193,7 @@
         },
         "Master of the Craft": {
             "name": "기예의 대가",
-            "description": "<p><p class=\"Body-Foundation\">당신의 <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"experience\" nexus=\"daggerheart\">경험</tooltip> 두 개에 +2 보너스를 영구적으로 부여하거나, 경험 하나에 +3 보너스를 영구적으로 부여합니다. 그 후 이 카드를 영구적으로 보관소에 넣습니다.</p></p>"
+            "description": "<p><p class=\"Body-Foundation\">당신의 <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"experience\" nexus=\"daggerheart\">경험</tooltip> 두 개에 +2 보너스를 영구적으로 부여하거나, 경험 하나에 +3 보너스를 영구적으로 부여합니다. 그 후 이 카드를 영구적으로 볼트에 넣습니다.</p></p>"
         },
         "Mending Touch": {
             "name": "복원의 손길",
@@ -1233,7 +1233,7 @@
         },
         "Midnight-Touched": {
             "name": "밤의 각인",
-            "description": "<p class=\"Body-Foundation\">장비한 권역 카드 중 4장 이상이 밤 권역에 속하면, 다음 혜택을 얻습니다:</p><ul><li class=\"vertical-card-list-found\"><p>휴식 당 1회, 희망이 0이고 GM이 공포를 얻으려는 상황에서, 대신 당신이 희망을 1 얻을 수 있습니다.</p></li><li class=\"vertical-card-list-found\"><p>공격이 성공했을 때, <strong>스트레스를 표시</strong>하여 공포 주사위 결과를 피해 굴림에 추가할 수 있습니다.</p></li></ul>",
+            "description": "<p class=\"Body-Foundation\">로드아웃에 있는 권역 카드 중 4장 이상이 밤 권역에 속하면, 다음 혜택을 얻습니다:</p><ul><li class=\"vertical-card-list-found\"><p>휴식 당 1회, 희망이 0이고 GM이 공포를 얻으려는 상황에서, 대신 당신이 희망을 1 얻을 수 있습니다.</p></li><li class=\"vertical-card-list-found\"><p>공격이 성공했을 때, <strong>스트레스를 표시</strong>하여 공포 주사위 결과를 피해 굴림에 추가할 수 있습니다.</p></li></ul>",
             "actions": {
                 "ksl1CcxcuwYxObiS": {
                     "name": "희망 획득",
@@ -1315,11 +1315,11 @@
         },
         "Notorious": {
             "name": "자자한 악명",
-            "description": "<p class=\"Body-Foundation\">사람들은 당신이 누구이며 무엇을 했는지 알고 있으며, 그로 인해 당신을 다르게 대합니다. 악명을 이용해 원하는 것을 얻으려 할 때, 굴림 전에 <strong>스트레스를 표시</strong>하여 결과에 +10 보너스를 얻을 수 있습니다. 어디를 가든 음식과 음료는 항상 무료이며, 그 외의 구매는 가격이 금화 한 자루만큼 할인됩니다(최소 금화 한 줌).</p><p class=\"Body-Foundation\">이 카드는 장비한 권역 카드 최대치 5장에 포함되지 않으며, 보관소에 넣을 수 없습니다.</p>",
+            "description": "<p class=\"Body-Foundation\">사람들은 당신이 누구이며 무엇을 했는지 알고 있으며, 그로 인해 당신을 다르게 대합니다. 악명을 이용해 원하는 것을 얻으려 할 때, 굴림 전에 <strong>스트레스를 표시</strong>하여 결과에 +10 보너스를 얻을 수 있습니다. 어디를 가든 음식과 음료는 항상 무료이며, 그 외의 구매는 가격이 금화 한 자루만큼 할인됩니다(최소 금화 한 줌).</p><p class=\"Body-Foundation\">이 카드는 로드아웃의 권역 카드 최대치 5장에 포함되지 않으며, 볼트에 넣을 수 없습니다.</p>",
             "actions": {
                 "Cb39VXOUPVWl3ea4": {
                     "name": "보너스 획득",
-                    "description": "<p class=\"Body-Foundation\">악명을 이용해 원하는 것을 얻으려 할 때, 굴림 전에 <strong>스트레스를 표시</strong>하여 결과에 +10 보너스를 얻을 수 있습니다. </p><p class=\"Body-Foundation\">이 카드는 장비한 권역 카드 최대치 5장에 포함되지 않으며, 보관소에 넣을 수 없습니다.</p>"
+                    "description": "<p class=\"Body-Foundation\">악명을 이용해 원하는 것을 얻으려 할 때, 굴림 전에 <strong>스트레스를 표시</strong>하여 결과에 +10 보너스를 얻을 수 있습니다. </p><p class=\"Body-Foundation\">이 카드는 로드아웃의 권역 카드 최대치 5장에 포함되지 않으며, 볼트에 넣을 수 없습니다.</p>"
                 }
             }
         },
@@ -1515,7 +1515,7 @@
         },
         "Resurrection": {
             "name": "부활",
-            "description": "<p><p class=\"Body-Foundation\"><tooltip category=\"rule\" class=\"tooltip-convert\" element=\"spellcast-roll\" nexus=\"daggerheart\"><strong>주문시전 굴림</strong></tooltip><strong> (20)</strong>을 합니다. 성공하면, 사망한 지 100년을 넘지 않은 생물 하나를 완전한 상태로 되살립니다. 그 후 <strong>d6</strong>을 굴립니다. 결과가 5 이하라면, 이 카드를 영구적으로 <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"loadout-and-vault\" nexus=\"daggerheart\">보관소</tooltip>에 넣습니다.</p><p class=\"Body-Foundation\">실패하면, 1주일 동안 부활을 다시 시전할 수 없습니다.</p></p>",
+            "description": "<p><p class=\"Body-Foundation\"><tooltip category=\"rule\" class=\"tooltip-convert\" element=\"spellcast-roll\" nexus=\"daggerheart\"><strong>주문시전 굴림</strong></tooltip><strong> (20)</strong>을 합니다. 성공하면, 사망한 지 100년을 넘지 않은 생물 하나를 완전한 상태로 되살립니다. 그 후 <strong>d6</strong>을 굴립니다. 결과가 5 이하라면, 이 카드를 영구적으로 <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"loadout-and-vault\" nexus=\"daggerheart\">볼트</tooltip>에 넣습니다.</p><p class=\"Body-Foundation\">실패하면, 1주일 동안 부활을 다시 시전할 수 없습니다.</p></p>",
             "actions": {
                 "znSDInMjOlFZn7Vp": {
                     "name": "시전",
@@ -1523,7 +1523,7 @@
                 },
                 "NurXUfoPDSVptejR": {
                     "name": "카드 유지",
-                    "description": "<p><span class=\"Body-Foundation\" style=\"box-sizing: border-box; margin: 0px; scrollbar-width: thin; scrollbar-color: rgb(93, 20, 43) rgba(0, 0, 0, 0); font-family: Montserrat, sans-serif; color: rgb(239, 230, 216); font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgba(24, 22, 46, 0.376); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial\">그 후 <strong style=\"box-sizing: border-box; scrollbar-width: thin; scrollbar-color: rgb(93, 20, 43) rgba(0, 0, 0, 0);\">d6</strong>을 굴립니다. 결과가 5 이하라면, 이 카드를 영구적으로 보관소에 넣습니다. 실패하면, 1주일 동안 부활을 다시 시전할 수 없습니다.</p>"
+                    "description": "<p><span class=\"Body-Foundation\" style=\"box-sizing: border-box; margin: 0px; scrollbar-width: thin; scrollbar-color: rgb(93, 20, 43) rgba(0, 0, 0, 0); font-family: Montserrat, sans-serif; color: rgb(239, 230, 216); font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgba(24, 22, 46, 0.376); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial\">그 후 <strong style=\"box-sizing: border-box; scrollbar-width: thin; scrollbar-color: rgb(93, 20, 43) rgba(0, 0, 0, 0);\">d6</strong>을 굴립니다. 결과가 5 이하라면, 이 카드를 영구적으로 볼트에 넣습니다. 실패하면, 1주일 동안 부활을 다시 시전할 수 없습니다.</p>"
                 }
             }
         },
@@ -1579,7 +1579,7 @@
         },
         "Sage-Touched": {
             "name": "현자 각인",
-            "description": "<p class=\"Body-Foundation\">장비한 권역 카드 중 4장 이상이 현자 권역에 속하면, 다음 혜택을 얻습니다.</p><ul><li class=\"vertical-card-list\"><p>자연 환경에 있는 동안, 주문시전 굴림에 +2 보너스를 받습니다.</p></li><li class=\"vertical-card-list\"><p>휴식마다 한 번, 굴림을 할 때 민첩이나 직감을 두배로 적용할 수 있습니다. 이 선택은 굴리기 전에 해야합니다.</p><p></p></li></ul>",
+            "description": "<p class=\"Body-Foundation\">로드아웃에 있는 권역 카드 중 4장 이상이 현자 권역에 속하면, 다음 혜택을 얻습니다.</p><ul><li class=\"vertical-card-list\"><p>자연 환경에 있는 동안, 주문시전 굴림에 +2 보너스를 받습니다.</p></li><li class=\"vertical-card-list\"><p>휴식마다 한 번, 굴림을 할 때 민첩이나 직감을 두배로 적용할 수 있습니다. 이 선택은 굴리기 전에 해야합니다.</p><p></p></li></ul>",
             "actions": {
                 "JVrYhunJ2qr5uOcx": {
                     "name": "민첩 2배",
@@ -1681,11 +1681,11 @@
         },
         "Shrug It Off": {
             "name": "긁힌 상처",
-            "description": "<p class=\"Body-Foundation\">피해를 입으려 할 때, <strong>스트레스를 표시</strong>하여 피해의 심각도를 한 단계 낮출 수 있습니다. 그렇게 했다면, <strong>d6</strong>을 굴립니다. 결과가 3 이하라면, 이 카드를 보관소에 넣습니다.</p>",
+            "description": "<p class=\"Body-Foundation\">피해를 입으려 할 때, <strong>스트레스를 표시</strong>하여 피해의 심각도를 한 단계 낮출 수 있습니다. 그렇게 했다면, <strong>d6</strong>을 굴립니다. 결과가 3 이하라면, 이 카드를 볼트에 넣습니다.</p>",
             "actions": {
                 "h9odg7Tk94O0M5l1": {
                     "name": "d6 굴림",
-                    "description": "<p class=\"Body-Foundation\">피해를 입으려 할 때, <strong>스트레스를 표시</strong>하여 피해의 심각도를 한 단계 낮출 수 있습니다. 그렇게 했다면, <strong>d6</strong>을 굴립니다. 결과가 3 이하라면, 이 카드를 보관소에 넣습니다.</p>"
+                    "description": "<p class=\"Body-Foundation\">피해를 입으려 할 때, <strong>스트레스를 표시</strong>하여 피해의 심각도를 한 단계 낮출 수 있습니다. 그렇게 했다면, <strong>d6</strong>을 굴립니다. 결과가 3 이하라면, 이 카드를 볼트에 넣습니다.</p>"
                 }
             }
         },
@@ -1749,7 +1749,7 @@
         },
         "Splendor-Touched": {
             "name": "광휘 각인",
-            "description": "<p><p class=\"Body-Foundation-No-BOLDITALIC\">장비한 <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"loadout-and-vault\" nexus=\"daggerheart\">권역 카드</tooltip> 중 4장 이상이 광휘 권역에 속하면, 다음 혜택을 얻습니다.</p><ul class=\"\"><li class=\"vertical-card-list\"><tooltip category=\"rule\" class=\"tooltip-convert\" element=\"severe-damage\" nexus=\"daggerheart\">심각한</tooltip> 피해 임계치에 +3 보너스를 받습니다.</li><li class=\"vertical-card-list\"><tooltip category=\"rule\" class=\"tooltip-convert\" element=\"long-rest\" nexus=\"daggerheart\">긴 휴식</tooltip> 당 한 번, 피해로 인해 <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"hit-points\" nexus=\"daggerheart\">HP</tooltip>를 표시해야 할 때, 대신 같은 수치만큼 <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"stress\" nexus=\"daggerheart\">스트레스</tooltip>를 표시하거나 <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"hope\" nexus=\"daggerheart\">희망</tooltip>을 소모할 수 있습니다.</li></ul></p>"
+            "description": "<p><p class=\"Body-Foundation-No-BOLDITALIC\">로드아웃에 있는 <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"loadout-and-vault\" nexus=\"daggerheart\">권역 카드</tooltip> 중 4장 이상이 광휘 권역에 속하면, 다음 혜택을 얻습니다.</p><ul class=\"\"><li class=\"vertical-card-list\"><tooltip category=\"rule\" class=\"tooltip-convert\" element=\"severe-damage\" nexus=\"daggerheart\">심각한</tooltip> 피해 임계치에 +3 보너스를 받습니다.</li><li class=\"vertical-card-list\"><tooltip category=\"rule\" class=\"tooltip-convert\" element=\"long-rest\" nexus=\"daggerheart\">긴 휴식</tooltip> 당 한 번, 피해로 인해 <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"hit-points\" nexus=\"daggerheart\">HP</tooltip>를 표시해야 할 때, 대신 같은 수치만큼 <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"stress\" nexus=\"daggerheart\">스트레스</tooltip>를 표시하거나 <tooltip category=\"rule\" class=\"tooltip-convert\" element=\"hope\" nexus=\"daggerheart\">희망</tooltip>을 소모할 수 있습니다.</li></ul></p>"
         },
         "Splintering Strike": {
             "name": "산산조각",
@@ -1959,11 +1959,11 @@
         },
         "Unbreakable": {
             "name": "꺾이지 않는 마음",
-            "description": "<p class=\"Body-Foundation\">마지막 HP를 표시할 때, 죽음 동작을 하는 대신 <strong>d6</strong>을 굴려 그 결과만큼 HP를 회복할 수 있습니다. 그 후 이 카드를 보관소에 넣습니다.</p>",
+            "description": "<p class=\"Body-Foundation\">마지막 HP를 표시할 때, 죽음 동작을 하는 대신 <strong>d6</strong>을 굴려 그 결과만큼 HP를 회복할 수 있습니다. 그 후 이 카드를 볼트에 넣습니다.</p>",
             "actions": {
                 "NXWbijHKKgqgcAMB": {
                     "name": "d6 굴림",
-                    "description": "<p class=\"Body-Foundation\">마지막 HP를 표시할 때, 죽음 동작을 하는 대신 <strong>d6</strong>을 굴려 그 결과만큼 HP를 회복할 수 있습니다. 그 후 이 카드를 보관소에 넣습니다.</p>"
+                    "description": "<p class=\"Body-Foundation\">마지막 HP를 표시할 때, 죽음 동작을 하는 대신 <strong>d6</strong>을 굴려 그 결과만큼 HP를 회복할 수 있습니다. 그 후 이 카드를 볼트에 넣습니다.</p>"
                 }
             }
         },
@@ -2005,7 +2005,7 @@
         },
         "Valor-Touched": {
             "name": "용맹 각인",
-            "description": "<p class=\"Body-Foundation\">장비한 권역 카드 중 4장 이상이 용맹 권역에 속하면, 다음 혜택을 얻습니다.</p><ul><li class=\"vertical-card-list-found\"><p>방어도에 +1 보너스를 얻습니다.</p></li><li class=\"vertical-card-list-found\"><p>방어 슬롯을 표시하지 않고 HP를 1 이상 표시하면, 방어 슬롯을 1 회복합니다.</p></li></ul>",
+            "description": "<p class=\"Body-Foundation\">로드아웃에 있는 권역 카드 중 4장 이상이 용맹 권역에 속하면, 다음 혜택을 얻습니다.</p><ul><li class=\"vertical-card-list-found\"><p>방어도에 +1 보너스를 얻습니다.</p></li><li class=\"vertical-card-list-found\"><p>방어 슬롯을 표시하지 않고 HP를 1 이상 표시하면, 방어 슬롯을 1 회복합니다.</p></li></ul>",
             "actions": {
                 "F04596OgMgpnhpQp": {
                     "name": "방어 슬롯 회복",
@@ -2059,7 +2059,7 @@
         },
         "Vitality": {
             "name": "활력",
-            "description": "<p class=\"Body-Foundation\">이 카드를 선택하면, 다음 혜택 중 두 가지를 영구적으로 얻습니다:</p><ul><li class=\"vertical-card-list-found\"><p>스트레스 슬롯 1개</p></li><li class=\"vertical-card-list-found\"><p>HP 슬롯 1개</p></li><li class=\"vertical-card-list-found\">피해 임계치에 +2 보너스</li></ul><p class=\"Body-Foundation\">그 후 이 카드를 영구적으로 보관소에 둡니다.</p>",
+            "description": "<p class=\"Body-Foundation\">이 카드를 선택하면, 다음 혜택 중 두 가지를 영구적으로 얻습니다:</p><ul><li class=\"vertical-card-list-found\"><p>스트레스 슬롯 1개</p></li><li class=\"vertical-card-list-found\"><p>HP 슬롯 1개</p></li><li class=\"vertical-card-list-found\">피해 임계치에 +2 보너스</li></ul><p class=\"Body-Foundation\">그 후 이 카드를 영구적으로 볼트에 둡니다.</p>",
             "actions": {
                 "W8nmboZ41sij2ybT": {
                     "name": "효과 적용",
